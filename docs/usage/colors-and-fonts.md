@@ -73,7 +73,7 @@ Only one font control lives under the **Fonts** heading in the **eShopping Theme
 | Electronics | Inter | Space Grotesk |
 | Packaging | DM Sans | DM Sans |
 
-To use a font not listed in the dropdown, type the Google Fonts string directly into the font field, e.g. `Google_Inter_400,600,700`.
+The font field is a **dropdown** — you pick from the fonts it lists; you can't type a custom one in. The per-variation fonts above (Inter, Space Grotesk, DM Sans) are preset by each variation and are **not** in the standard dropdown, so if you open it and choose a different font, that preset is replaced. Adding a Google Font that isn't already in the list is not possible from the visual editor.
 
 ---
 

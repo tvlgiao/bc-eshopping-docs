@@ -151,15 +151,7 @@ The variation sets the heading **Stay Ahead in *Tech*** with the description "Pr
 
 A Page Builder **HTML Widget** placed in the region **below the Newsletter**, with the heading **Your Complete Consumer Electronics Source.** Like the callout above, it comes from the demo widget import — not a theme setting.
 
-### 17. SEO text — pre-filled but hidden
-
-The variation **pre-fills** this SEO block, but the **Show SEO text** toggle is **off**, so it is **not displayed** on the demo home page. Turn the toggle on if you want it to appear.
-
-- **Title:** Electronics & Tech Accessories
-- **Paragraph 1:** Discover the latest in technology — laptops, monitors, headphones, keyboards, cables, hubs, chargers, and storage devices from top brands.
-- **Paragraph 2:** Authorized dealer with manufacturer warranties, competitive pricing, and expert tech support to help you make the right choice.
-
-### 18. Marketing features to turn on
+### 17. Marketing features to turn on
 
 | Setting | Value |
 | ------- | ----- |
@@ -175,7 +167,7 @@ The variation **pre-fills** this SEO block, but the **Show SEO text** toggle is 
 
 See [Urgency + recent sales](urgency-and-recent-sales.md), [Popups](popups.md), [FBT](product-fbt.md).
 
-### 19. Sidebar promo / cart goal / PDP shipping & warranty (variation defaults)
+### 18. Sidebar promo / cart goal / PDP shipping & warranty (variation defaults)
 
 | Setting | Value |
 | ------- | ----- |

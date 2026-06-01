@@ -10,7 +10,7 @@ Live demo: <https://eshopping-packaging-demo.mybigcommerce.com>
 !!! note "Before you start"
     Theme installed, **Packaging** variation picked, **Packaging** product + widget data imported.
 
-The Packaging variation **already populates** most settings (colors, fonts, trust strip, newsletter, promo, SEO text, cart goal, PDP info, popups). The recipe below shows what's set automatically and how the live demo home page is composed.
+The Packaging variation **already populates** most settings (colors, fonts, trust strip, newsletter, promo, cart goal, PDP info, popups). The recipe below shows what's set automatically and how the live demo home page is composed.
 
 !!! info "How the live demo home page is composed, top to bottom"
     1. Hero (BigCommerce Home Page Carousel)
@@ -182,15 +182,7 @@ This block is the first of two HTML Widgets directly **below Newsletter** (this 
 
 The second HTML Widget below the newsletter renders a dark CTA bar with the heading *"Need help choosing packaging? Talk to a Packaging Specialist"*. It includes a **Request a Quote** button linking to `/contact-us/` and a phone number, **(800) 555-0123**. Like the About block, it's imported with the demo widget data — **not** a theme setting — and appears directly after it.
 
-### 17. SEO text — pre-filled but hidden
-
-The variation **pre-fills** the SEO text below, but the **Show SEO text** toggle is **off**, so it does **not** display on the live demo. Turn the toggle on if you want it shown.
-
-```
-Packaging & Shipping Supplies|Your one-stop shop for professional packaging materials. From corrugated boxes and bubble wrap to tape, mailer bags, and shipping labels.|Competitive bulk pricing, same-day shipping, and expert guidance to help you find the right packaging solutions for your business.
-```
-
-### 18. Sidebar / cart / PDP — variation defaults
+### 17. Sidebar / cart / PDP — variation defaults
 
 | Setting | Value |
 | ------- | ----- |
@@ -201,7 +193,7 @@ Packaging & Shipping Supplies|Your one-stop shop for professional packaging mate
 | Frequently Bought Together | 2 products, 0% bundle discount |
 | Cross-sell counts | 6 / 4 |
 
-### 19. Popups — variation defaults
+### 18. Popups — variation defaults
 
 | Popup | Content |
 | ----- | ------- |
@@ -209,7 +201,7 @@ Packaging & Shipping Supplies|Your one-stop shop for professional packaging mate
 | Promo popup | "Spring Sale" — "Get 15% off your entire order with the code below." Code `SPRING15`, button "Shop Now" → / (shows after 5s, every 3 days) |
 | Exit-intent popup | "Wait! Don't Go Empty-Handed" — "Here's a special 10% discount just for you." Code `STAY10`, button "Claim Discount" → / (discount style, every 45 days, once per session) |
 
-### 20. Urgency & social proof — variation defaults
+### 19. Urgency & social proof — variation defaults
 
 | Setting | Value |
 | ------- | ----- |

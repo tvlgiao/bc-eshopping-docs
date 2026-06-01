@@ -17,7 +17,7 @@ A modern 2026 e-commerce theme by **[PapaThemes](https://papathemes.com)**.
 This guide is written for **store owners** — not developers. Follow it from top to bottom and you will end up with a storefront that **closely matches one of the eShopping demos**, with no coding required.
 
 !!! note "A couple of demo sections need real data first"
-    The **Best Sellers** slider is turned on in every demo but only appears once your store has top-seller sales data, so it stays hidden on a freshly imported store. The optional **SEO text block** is off by default. See the [Home Page overview](usage/home-industrial.md) for details.
+    The **Best Sellers** slider is turned on in every demo but only appears once your store has top-seller sales data, so it stays hidden on a freshly imported store. See the [Home Page overview](usage/home-industrial.md) for details.
 
 You will learn how to:
 

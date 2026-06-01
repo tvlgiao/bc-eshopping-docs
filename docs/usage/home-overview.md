@@ -10,7 +10,7 @@ In the Theme Editor, open the **eShopping Theme → Homepage Sections** group to
 | :---: | ------- | ------------------- | -------------- |
 | 1 | **BigCommerce top banner** | Marketing → Banners | Native |
 | 2 | **Header** (top bar + main nav) | Always on | Built-in |
-| 3 | **Hero** | Show Hero Carousel toggle **plus** BigCommerce's **Show carousel** setting being on, with at least one carousel slide | Uses BigCommerce's home-page carousel (Storefront → Home Page Carousel) for slide content |
+| 3 | **Hero** | BigCommerce's **Show carousel** setting on, with at least one carousel slide | Uses BigCommerce's home-page carousel (Storefront → Home Page Carousel) for slide content |
 | 4 | **Trust strip** (4 icon+text columns) | Show trust strip toggle + trust text setting | Built-in |
 | 5 | **Featured Products slider** | Show Featured Products toggle | Pulls from products flagged as **Featured** |
 | 6 | **Bestselling Products slider** | Show Best Sellers toggle | Pulls from BigCommerce's bestseller list |
@@ -19,8 +19,7 @@ In the Theme Editor, open the **eShopping Theme → Homepage Sections** group to
 | 9 | **Brands carousel** | Set the homepage brands limit above 0 | All brands with logos |
 | 10 | **Blog posts grid** | Set the homepage blog posts count above 0 | BigCommerce blog posts |
 | 11 | **Newsletter signup** | Show newsletter toggle + newsletter text setting **plus** the store's built-in newsletter subscription setting being enabled in BigCommerce admin | Built-in |
-| 12 | **SEO text block** | **No merchant-facing toggle** — this block is not exposed in the Theme Editor (it's off in every demo and can't be switched on from the UI) | Not used in the demos. The bottom-of-page copy you see is an **HTML Widget** (*About* / *Talk to an Expert*), placed below the newsletter — see the marketing-widgets section below |
-| 13 | **Footer** | Always on | Built-in layout; the **brand description / tagline** column is an HTML Widget in the footer-description region (added by the demo widget import) |
+| 12 | **Footer** | Always on | Built-in layout; the **brand description / tagline** column is an HTML Widget in the footer-description region (added by the demo widget import) |
 
 After most sections there is a **widget region** you can insert into — but not every gap has one. The full list with placement is in the [Widget regions reference](widget-regions.md).
 
@@ -56,7 +55,7 @@ All four demo stores ship with the **same home-page structure** — they differ 
 9. Newsletter
 10. *HTML Widgets* — two blocks: an **About** ("Your complete … source") block and a **Talk to an Expert** block (store-specific copy)
 
-**Not visible in any demo:** the **Bestselling** slider and the built-in **SEO text block** don't appear on any of the four demo home pages. The Bestselling toggle is on but the demos have no bestseller sales data, so it doesn't render; the SEO block is off and has no Theme-Editor toggle to switch it on.
+**Not visible in any demo:** the **Bestselling** slider doesn't appear on any of the four demo home pages. Its toggle is on, but the demos have no bestseller sales data yet, so it doesn't render — it appears automatically once your store accumulates sales.
 
 Each store localizes the same set of widgets — the *Why Choose Us* heading and the *About* heading differ as follows:
 
@@ -78,9 +77,9 @@ Each variant guide has the exact step-by-step:
 
 ## Hero — built-in vs widget
 
-eShopping's hero is the **built-in Show Hero Carousel toggle** combined with images uploaded via BigCommerce's **Home Page Carousel** (Storefront → Home Page Carousel). That's the primary, supported path.
+eShopping's hero uses the slides uploaded via BigCommerce's **Home Page Carousel** (Storefront → Home Page Carousel), shown whenever the **Show carousel** setting is on. That's the primary, supported path.
 
-If you need richer behaviour (per-channel hero on multi-storefront, custom slide-content fields not in BigCommerce's carousel, embedded form), drop a custom Page Builder widget (such as a banner or hero widget from the PapaThemes Beautify app) into the area just below the main menu and turn off the Show Hero Carousel toggle. This is an alternative path, not the default.
+If you need richer behaviour (per-channel hero on multi-storefront, custom slide-content fields not in BigCommerce's carousel, embedded form), drop a custom Page Builder widget (such as a banner or hero widget from the PapaThemes Beautify app) into the area just below the main menu and leave the Home Page Carousel empty (or turn off **Show carousel**). This is an alternative path, not the default.
 
 ---
 

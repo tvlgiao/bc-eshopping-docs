@@ -7,7 +7,7 @@ Live demo: <https://eshopping-autoparts-demo.mybigcommerce.com>
 !!! note "Before you start"
     Theme installed, **AutoParts** variation picked, **AutoParts** product + widget data imported.
 
-The AutoParts variation **already populates** many settings when you pick it (colors, fonts, trust strip, newsletter, promo text, SEO text, cart goals, and PDP shipping/warranty text). Other features below — popups, Frequently Bought Together, cross-sell, urgency signals, and recent-sales notifications — are theme defaults that are the same in every variation and active out of the box. The recipe below shows what's set automatically and what you may want to override.
+The AutoParts variation **already populates** many settings when you pick it (colors, fonts, trust strip, newsletter, promo text, cart goals, and PDP shipping/warranty text). Other features below — popups, Frequently Bought Together, cross-sell, urgency signals, and recent-sales notifications — are theme defaults that are the same in every variation and active out of the box. The recipe below shows what's set automatically and what you may want to override.
 
 The home page renders these sections in this order on the live demo:
 
@@ -152,17 +152,7 @@ The **Show newsletter** option is turned on. The variation sets the heading and 
 - Heading: Get *Parts Updates* & Deals
 - Description: New arrivals, fitment guides, and exclusive discounts delivered weekly.
 
-### 15. SEO text — pre-filled but hidden
-
-The variation **pre-fills** SEO text, but the **Show SEO text** toggle is **off**, so it does **not** display on the home page by default. Turn the toggle on if you want it shown.
-
-The pre-filled text is:
-
-```
-Quality Auto Parts & Accessories|Your trusted source for OEM and aftermarket automotive parts. We carry a comprehensive selection of brakes, filters, suspension components, batteries, and lighting.|Browse thousands of parts with verified vehicle fitment. Shop with confidence knowing every part meets or exceeds OE specifications.
-```
-
-### 16. Promo, cart goals & PDP info
+### 15. Promo, cart goals & PDP info
 
 The cart goals and the PDP shipping/warranty text below are **set by the AutoParts variation**. Frequently Bought Together and Cross-sell use the **theme defaults** (the same values in every variation) and are active out of the box.
 
@@ -175,7 +165,7 @@ The cart goals and the PDP shipping/warranty text below are **set by the AutoPar
 | Frequently Bought Together *(theme default)* | 2 items, 0% bundle discount |
 | Cross-sell count *(theme default)* | 6 (product page), 4 (cart drawer) |
 
-### 17. Urgency & social proof
+### 16. Urgency & social proof
 
 These are **theme defaults** (the same in every variation) and are active out of the box.
 
@@ -190,7 +180,7 @@ These are **theme defaults** (the same in every variation) and are active out of
 
 Recent-sales notifications cycle through sample orders (e.g. California · 2 hours ago, Texas · 35 min ago, Florida · 4 hours ago, New York · 1 hour ago, Oregon · 6 hours ago).
 
-### 18. Popups
+### 17. Popups
 
 These popups use the **theme defaults** (the same in every variation) and are active out of the box.
 
@@ -200,7 +190,7 @@ These popups use the **theme defaults** (the same in every variation) and are ac
 | Promo popup | "Spring Sale" — "Get 15% off your entire order with the code below." Code **SPRING15**, button "Shop Now" → / (shows after 5 seconds; reappears after 3 days) |
 | Exit-intent popup | "Wait! Don't Go Empty-Handed" — "Here's a special 10% discount just for you." Code **STAY10**, button "Claim Discount" → / (discount style; on desktop triggers when the cursor leaves the top of the window, on mobile after 45 seconds of inactivity; reappears after 1 day) |
 
-### 19. Home page marketing blocks (Page Builder HTML widgets)
+### 18. Home page marketing blocks (Page Builder HTML widgets)
 
 Two content blocks on the home page are **HTML widgets** placed via Page Builder. They arrive with the demo **widget import**, not the theme settings, so they appear automatically after you import the AutoParts widget data:
 

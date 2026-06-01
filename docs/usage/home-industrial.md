@@ -165,17 +165,7 @@ eShopping Theme → Homepage Sections → **Show Newsletter** is on. The heading
 
 The signup writes to **Customers → Subscribers**.
 
-### 14. SEO text block
-
-The SEO text is **pre-filled** by the Industrial variation, but **Show SEO text** is **off**, so it does **not** display on the demo home page. Turn the toggle on if you want it visible.
-
-The pre-filled content (a title plus two paragraphs):
-
-- **Title:** Sampling & Testing Tools
-- **Paragraph 1:** Ever since 1942, we have been a leader in manufacturing soil sampling equipment for agricultural, geotechnical, environmental, and groundwater applications.
-- **Paragraph 2:** Our soil sampling equipment includes soil probes, soil augers, soil core samplers, and more. Browse our official online store today.
-
-### 15. Marketing blocks (HTML Widgets via Page Builder)
+### 14. Marketing blocks (HTML Widgets via Page Builder)
 
 Two content blocks on the home page are **HTML Widgets** placed through Page Builder, not theme settings. They come in with the demo widget import. To edit them: **Storefront → My Themes → Customize → Page Builder**, click the widget on the home page, and edit its content.
 

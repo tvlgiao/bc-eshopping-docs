@@ -24,7 +24,7 @@ Many product page regions support **both** `--global` and local; some don't.
 | `home_below_products_by_category` | Between Products-by-Category and Brands |
 | `home_below_brands` | Between Brands and Blog |
 | `home_below_blog_posts` | Between Blog and Newsletter |
-| `home_below_newsletter` | Below the Newsletter section. (When the SEO text block is enabled in Theme Editor, it renders after this region, just above the footer.) |
+| `home_below_newsletter` | Below the Newsletter section. |
 
 ---
 

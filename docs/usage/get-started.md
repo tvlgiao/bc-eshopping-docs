@@ -21,13 +21,13 @@ If you'd rather jump straight to a specific page, use the menu on the left.
 After step 3 your storefront already has the demo **products, product sliders, and marketing blocks** in place. The **hero carousel** is the one piece that isn't auto-imported — you add its slides manually in the BigCommerce admin under **Marketing → Carousel** (see step 4 below). Once that's done, your storefront matches one of the four demo stores. Step 5 is where you make it **your own**.
 
 !!! info "How the demo content is built"
-    You don't need any extra app to reproduce the demos. The demo home pages and footer marketing blocks are **built-in BigCommerce HTML widgets** — the importer in step 3 creates them for you. The home-page hero is the **built-in BigCommerce Carousel**, shown when the theme's **Show Hero Carousel** setting is on (it is on in every demo variant). The HTML marketing blocks are managed in Page Builder. The hero carousel slides are **not** created by the importer — you add them yourself in the BigCommerce admin under **Marketing → Carousel** (step 4 below). No add-ons are required for either.
+    You don't need any extra app to reproduce the demos. The demo home pages and footer marketing blocks are **built-in BigCommerce HTML widgets** — the importer in step 3 creates them for you. The home-page hero is the **built-in BigCommerce Carousel**, shown when the **Show carousel** setting is on (it is on in every demo variant). The HTML marketing blocks are managed in Page Builder. The hero carousel slides are **not** created by the importer — you add them yourself in the BigCommerce admin under **Marketing → Carousel** (step 4 below). No add-ons are required for either.
 
 ---
 
 ## Step 4: Add the hero carousel slides
 
-The importer in step 3 brings in your demo products and marketing blocks, but it does **not** create the hero carousel slides — BigCommerce manages those separately. Until you add at least one slide, the hero area at the top of the home page stays hidden, even though **Show Hero Carousel** is already on.
+The importer in step 3 brings in your demo products and marketing blocks, but it does **not** create the hero carousel slides — BigCommerce manages those separately. Until you add at least one slide, the hero area at the top of the home page stays hidden, even though **Show carousel** is already on.
 
 To match the demo:
 
@@ -39,8 +39,8 @@ To match the demo:
     - [Packaging](home-packaging.md)
 3. Save. Reload your home page — the hero now appears.
 
-!!! note "Two display toggles must both be on"
-    The hero is gated by **two** settings in the Theme Editor, in addition to having at least one slide: the theme's **Show Hero Carousel** setting, and BigCommerce's standard **Show carousel** setting (found under the Theme Editor's Home page section). Both are **on by default** in every demo variant, so copying a demo just works. If you've added slides and turned **Show Hero Carousel** on but still see no hero, check that **Show carousel** is also enabled.
+!!! note "The Show carousel toggle must be on"
+    The hero is gated by BigCommerce's standard **Show carousel** setting (Theme Editor → Home page section), in addition to having at least one slide. It's **on by default** in every demo variant, so copying a demo just works. If you've added slides but still see no hero, check that **Show carousel** is enabled.
 
 !!! tip "Don't want a hero?"
     Leaving the Carousel empty simply hides the hero. The rest of the home page (product sliders, marketing blocks, brands, blog, newsletter) renders normally without it.
@@ -65,7 +65,7 @@ You'll need:
 
 It helps to know what you're actually setting up before you dive in. Every eShopping demo home page is built from standard BigCommerce pieces — no special app is required:
 
-- **Hero** — the built-in BigCommerce **Carousel**. It appears when **three** things are all true: the theme's **Show Hero Carousel** setting is on, BigCommerce's standard **Show carousel** setting is on, and at least one slide exists. All three are already in place in every demo variant — the two display settings are on by default, so you only need to add slides. The importer does not create slides, so you add them yourself under **Marketing → Carousel** — see [Step 4](#step-4-add-the-hero-carousel-slides).
+- **Hero** — the built-in BigCommerce **Carousel**. It appears when **two** things are both true: BigCommerce's standard **Show carousel** setting is on, and at least one slide exists. Both are already in place in every demo variant — the display setting is on by default, so you only need to add slides. The importer does not create slides, so you add them yourself under **Marketing → Carousel** — see [Step 4](#step-4-add-the-hero-carousel-slides).
 - **Marketing blocks** (the value-prop callout below the product sections, the "about" block under the newsletter, and the footer tagline) — built-in **HTML widgets**. The importer in step 3 creates these for you with demo-ready copy; you can then edit them directly in Page Builder.
 - **Product sliders, brands carousel, blog, newsletter** — rendered by the theme and controlled by the theme's own settings, which the demo variant pre-configures for you.
 

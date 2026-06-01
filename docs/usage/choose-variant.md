@@ -39,13 +39,9 @@ When you pick a variation, its preset settings are applied on top of the theme d
 | **Trust-strip text** | (default) | "OEM Quality Parts \| …" | "Authorized Dealer \| …" | "Bulk Pricing \| …" |
 | **Newsletter text** | (default) | Parts Updates & Deals | Stay Ahead in Tech | Subscribe for Packaging Deals |
 | **Promo text** | (default) | Free Shipping $250+ | Free Shipping $99+ | Free Shipping $300+ |
-| **SEO text** *(preset but hidden — see note)* | (default) | Quality Auto Parts… | Electronics & Tech… | Packaging & Shipping… |
 | **Cart goal (first tier)** | (default) | $50 | $30 | $75 |
 
 The **Cart goal (first tier)** value is the cart-subtotal dollar amount a shopper must reach to unlock the first reward on the cart progress bar (free shipping). Each variation also defines higher tiers (e.g. a discount, then a free gift) at larger dollar amounts.
-
-!!! note "About the SEO text"
-    Each variation comes with an SEO intro paragraph filled in, but it is **hidden** by default — so this copy does **not** appear on your storefront. There is currently **no toggle for it in the Theme Editor**, so it cannot be turned on from the visual editor. (Showing it requires a code-level change to the theme.)
 
 You can override any of these in Theme Editor → eShopping after picking the variation — the variation is the starting point, not a lock.
 
