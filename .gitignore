@@ -6,6 +6,10 @@ __pycache__/
 *.pyc
 *.pyo
 
+# Tooling / local agent artifacts
+.playwright-mcp/
+.claude/
+
 # OS / editor junk
 .DS_Store
 Thumbs.db
