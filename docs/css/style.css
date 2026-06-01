@@ -1,0 +1,185 @@
+/* ---------------------------------------------------------------------- *
+ * eShopping docs — Material theme overrides
+ * Goal: roomy reading width + readable tables (no horizontal scrollbars,
+ * no awkward word-by-word wrapping in narrow columns).
+ * ---------------------------------------------------------------------- */
+
+:root {
+  --md-text-font: "Source Sans 3", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --md-code-font: "IBM Plex Mono", "JetBrains Mono", Consolas, monospace;
+}
+
+/* Wider content area — most settings tables have 3–5 columns. */
+.md-grid {
+  max-width: 1700px;
+}
+
+/* On wide screens give the article a bit more room vs. the sidebars. */
+@media (min-width: 1220px) {
+  .md-main__inner {
+    margin-top: 1rem;
+  }
+  .md-content {
+    max-width: 100%;
+  }
+  /* Trim the left nav so the article has more room. */
+  .md-sidebar--primary {
+    width: 13rem;
+  }
+}
+
+/* Make the article fully use available space. */
+.md-content__inner {
+  margin: 0 1rem 1rem;
+  padding-top: 1rem;
+}
+
+@media (min-width: 1700px) {
+  .md-content__inner {
+    margin: 0 2rem 2rem;
+  }
+}
+
+/* ----------------------------------------------------------------------
+ * Tables — readable, no horizontal scroll, balanced columns
+ * ---------------------------------------------------------------------- */
+
+.md-typeset__table {
+  width: 100%;
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.md-typeset table:not([class]) {
+  display: table;          /* override Material's default "block" so it actually shrinks-to-fit */
+  width: 100%;
+  table-layout: auto;
+  font-size: 0.78rem;
+  line-height: 1.5;
+  margin: 1rem 0 1.5rem;
+  border-collapse: collapse;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.md-typeset table:not([class]) thead {
+  background: var(--md-default-fg-color--lightest);
+}
+
+.md-typeset table:not([class]) th,
+.md-typeset table:not([class]) td {
+  padding: 0.55rem 0.75rem;
+  vertical-align: top;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+  word-break: normal;       /* don't chop words */
+  overflow-wrap: anywhere;  /* but allow long URLs/IDs to break */
+  hyphens: none;
+}
+
+/* Zebra rows for readability when tables get long. */
+.md-typeset table:not([class]) tbody tr:nth-child(even) {
+  background: var(--md-default-fg-color--lightest);
+  background: color-mix(in srgb, var(--md-default-fg-color) 3%, transparent);
+}
+
+/* First column — usually a "Setting" label / ID. Tight but readable. */
+.md-typeset table:not([class]) td:first-child {
+  font-weight: 500;
+  white-space: normal;
+  min-width: 11rem;
+  max-width: 22rem;
+}
+
+/* If the first cell is JUST a <code>…</code>, force single line so short IDs
+   like `industrial` don't get chopped into `industri\nal`. */
+.md-typeset table:not([class]) td:first-child:has(> code:only-child) {
+  white-space: nowrap;
+}
+
+/* `code` inside table cells: smaller + tighter so long setting IDs fit. */
+.md-typeset table:not([class]) code {
+  font-size: 0.85em;
+  padding: 1px 4px;
+  word-break: keep-all;
+  overflow-wrap: anywhere;  /* only break when there's literally no room */
+}
+
+/* Center single-character cells (✓ ✅ ❌ checkmark columns). */
+.md-typeset table:not([class]) td:has(> :only-child),
+.md-typeset table:not([class]) td:where(:only-child) {
+  text-align: inherit;
+}
+
+/* Compact mode for "comparison" tables — 4-variation columns are common. */
+.md-typeset table.compact {
+  font-size: 0.74rem;
+}
+
+.md-typeset table.compact th,
+.md-typeset table.compact td {
+  padding: 0.4rem 0.55rem;
+}
+
+/* ----------------------------------------------------------------------
+ * Hero panel on the home page
+ * ---------------------------------------------------------------------- */
+
+.eshopping-hero {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.eshopping-hero a.card {
+  display: block;
+  padding: 1rem 1.25rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 8px;
+  text-decoration: none;
+  transition: border-color 0.2s, transform 0.2s;
+}
+
+.eshopping-hero a.card:hover {
+  border-color: var(--md-accent-fg-color);
+  transform: translateY(-2px);
+}
+
+.eshopping-hero a.card h3 {
+  margin: 0 0 0.25rem;
+  font-size: 1rem;
+}
+
+.eshopping-hero a.card p {
+  margin: 0;
+  font-size: 0.82rem;
+  color: var(--md-default-fg-color--light);
+}
+
+/* ----------------------------------------------------------------------
+ * Admonitions — slightly tighter
+ * ---------------------------------------------------------------------- */
+
+.md-typeset .admonition,
+.md-typeset details {
+  font-size: 0.82rem;
+}
+
+/* ----------------------------------------------------------------------
+ * Color swatches — chip rendered before any inline `#rrggbb` code
+ * (see docs/js/color-swatch.js)
+ * ---------------------------------------------------------------------- */
+
+.color-swatch {
+  display: inline-block;
+  width: 0.92em;
+  height: 0.92em;
+  margin-right: 0.35em;
+  border-radius: 3px;
+  vertical-align: -0.12em;
+  background: var(--swatch);
+  border: 1px solid var(--md-default-fg-color--lighter);
+  box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.4) inset;
+}

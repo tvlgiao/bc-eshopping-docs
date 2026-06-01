@@ -1,0 +1,465 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e5]: Welcome to eShopping Packaging Demo
+      - link "2200 Logistics Blvd, Suite 400, Memphis, TN 38118, United States" [ref=e7] [cursor=pointer]:
+        - /url: "#"
+        - img [ref=e8]
+        - text: 2200 Logistics Blvd, Suite 400, Memphis, TN 38118, United States
+    - generic [ref=e10]:
+      - link "+1 (800) 555-0100" [ref=e11] [cursor=pointer]:
+        - /url: tel:+1 (800) 555-0100
+        - img [ref=e12]
+        - text: +1 (800) 555-0100
+      - generic [ref=e15]:
+        - button "Sign in" [ref=e16] [cursor=pointer]
+        - link "Register" [ref=e17] [cursor=pointer]:
+          - /url: https://eshopping-packaging-demo.mybigcommerce.com/login.php?action=create_account
+        - button "USD" [ref=e20] [cursor=pointer]:
+          - generic [ref=e22]: USD
+          - img [ref=e23]
+      - generic [ref=e26]:
+        - link "Facebook" [ref=e27] [cursor=pointer]:
+          - /url: https://facebook.com/papathemes
+          - img [ref=e28]
+        - link "Pinterest" [ref=e30] [cursor=pointer]:
+          - /url: https://pinterest.com/papathemes
+          - img [ref=e31]
+        - link "YouTube" [ref=e33] [cursor=pointer]:
+          - /url: https://youtube.com/papathemes
+          - img [ref=e34]
+        - link "Instagram" [ref=e36] [cursor=pointer]:
+          - /url: https://instagram.com/papathemes
+          - img [ref=e37]
+        - link "LinkedIn" [ref=e39] [cursor=pointer]:
+          - /url: https://linkedin.com/papathemes
+          - img [ref=e40]
+  - banner [ref=e42]:
+    - generic [ref=e43]:
+      - link "eShopping Packaging Demo" [ref=e45] [cursor=pointer]:
+        - /url: https://eshopping-packaging-demo.mybigcommerce.com/
+        - img "eShopping Packaging Demo" [ref=e47]
+      - generic [ref=e49]:
+        - link "About" [ref=e51] [cursor=pointer]:
+          - /url: https://eshopping-packaging-demo.mybigcommerce.com/about/
+          - text: About
+          - img [ref=e52]
+        - link "Help" [ref=e55] [cursor=pointer]:
+          - /url: https://eshopping-packaging-demo.mybigcommerce.com/help/
+          - text: Help
+          - img [ref=e56]
+        - link "Contact Us" [ref=e58] [cursor=pointer]:
+          - /url: https://eshopping-packaging-demo.mybigcommerce.com/contact-us/
+        - link "Promotions" [ref=e59] [cursor=pointer]:
+          - /url: https://eshopping-packaging-demo.mybigcommerce.com/promotions/
+        - link "Blog" [ref=e60] [cursor=pointer]:
+          - /url: https://eshopping-packaging-demo.mybigcommerce.com/blog/
+      - generic [ref=e61]:
+        - button "Select a category" [ref=e62] [cursor=pointer]:
+          - img [ref=e63]
+          - img [ref=e65]
+        - textbox "Search" [ref=e68]:
+          - /placeholder: Search for shipping boxes...
+        - button "Search by voice" [ref=e69] [cursor=pointer]:
+          - img [ref=e70]
+        - button "Search" [ref=e72] [cursor=pointer]:
+          - img [ref=e73]
+      - generic [ref=e75]:
+        - link "Wishlist" [ref=e76] [cursor=pointer]:
+          - /url: https://eshopping-packaging-demo.mybigcommerce.com/wishlist.php
+          - img [ref=e77]
+        - 'link "Cart: undefined items" [ref=e79] [cursor=pointer]':
+          - /url: /cart.php
+          - img [ref=e80]
+  - generic [ref=e82]:
+    - complementary [ref=e83]:
+      - generic [ref=e84]:
+        - button "Categories" [expanded] [ref=e85] [cursor=pointer]:
+          - img [ref=e86]
+          - heading "Categories" [level=3] [ref=e88]
+        - generic [ref=e90]:
+          - link "Shop All" [ref=e93] [cursor=pointer]:
+            - /url: https://eshopping-packaging-demo.mybigcommerce.com/shop-all/
+            - img [ref=e95]
+            - text: Shop All
+          - generic [ref=e97]:
+            - generic [ref=e98]:
+              - link "Shipping Boxes" [ref=e99] [cursor=pointer]:
+                - /url: https://eshopping-packaging-demo.mybigcommerce.com/shipping-boxes/
+                - img [ref=e101]
+                - text: Shipping Boxes
+              - button "Toggle Shipping Boxes" [expanded] [ref=e103] [cursor=pointer]:
+                - img [ref=e104]
+            - generic [ref=e106]:
+              - link "Corrugated Boxes" [ref=e109] [cursor=pointer]:
+                - /url: https://eshopping-packaging-demo.mybigcommerce.com/corrugated-boxes/
+              - link "Mailer Boxes" [ref=e112] [cursor=pointer]:
+                - /url: https://eshopping-packaging-demo.mybigcommerce.com/mailer-boxes/
+              - link "Heavy Duty Boxes" [ref=e115] [cursor=pointer]:
+                - /url: https://eshopping-packaging-demo.mybigcommerce.com/heavy-duty-boxes/
+          - generic [ref=e117]:
+            - link "Protective Packaging" [ref=e118] [cursor=pointer]:
+              - /url: https://eshopping-packaging-demo.mybigcommerce.com/protective-packaging/
+              - img [ref=e120]
+              - text: Protective Packaging
+            - button "Toggle Protective Packaging" [ref=e122] [cursor=pointer]:
+              - img [ref=e123]
+          - generic [ref=e126]:
+            - link "Tape & Adhesives" [ref=e127] [cursor=pointer]:
+              - /url: https://eshopping-packaging-demo.mybigcommerce.com/tape-adhesives/
+              - img [ref=e129]
+              - text: Tape & Adhesives
+            - button "Toggle Tape & Adhesives" [ref=e131] [cursor=pointer]:
+              - img [ref=e132]
+          - generic [ref=e135]:
+            - link "Labels & Tags" [ref=e136] [cursor=pointer]:
+              - /url: https://eshopping-packaging-demo.mybigcommerce.com/labels/
+              - img [ref=e138]
+              - text: Labels & Tags
+            - button "Toggle Labels & Tags" [ref=e140] [cursor=pointer]:
+              - img [ref=e141]
+          - generic [ref=e144]:
+            - link "Stretch Wrap" [ref=e145] [cursor=pointer]:
+              - /url: https://eshopping-packaging-demo.mybigcommerce.com/stretch-film/
+              - img [ref=e147]
+              - text: Stretch Wrap
+            - button "Toggle Stretch Wrap" [ref=e149] [cursor=pointer]:
+              - img [ref=e150]
+      - navigation [ref=e153]:
+        - region "The following text field filters the results that follow as you type" [ref=e154]:
+          - generic [ref=e156]:
+            - generic [ref=e157]:
+              - heading "Brand" [level=2] [ref=e523]:
+                - button "Brand" [expanded] [ref=e524] [cursor=pointer]:
+                  - generic [ref=e160]: Brand
+              - list [ref=e163]:
+                - listitem [ref=e164]:
+                  - link "BoxKraft 2" [ref=e165] [cursor=pointer]:
+                    - /url: /corrugated-boxes/?_bc_fsnf=1&brand=38
+                    - text: BoxKraft
+                    - generic [ref=e166]: "2"
+                - listitem [ref=e167]:
+                  - link "EcoBox 1" [ref=e168] [cursor=pointer]:
+                    - /url: /corrugated-boxes/?_bc_fsnf=1&brand=46
+                    - text: EcoBox
+                    - generic [ref=e169]: "1"
+                - listitem [ref=e170]:
+                  - link "StrongBox 2" [ref=e171] [cursor=pointer]:
+                    - /url: /corrugated-boxes/?_bc_fsnf=1&brand=47
+                    - text: StrongBox
+                    - generic [ref=e172]: "2"
+            - generic [ref=e173]:
+              - heading "Price" [level=2] [ref=e525]:
+                - button "Price" [expanded] [ref=e526] [cursor=pointer]:
+                  - generic [ref=e176]: Price
+              - group [ref=e180]:
+                - generic [ref=e181]:
+                  - generic [ref=e182]:
+                    - spinbutton "Min." [ref=e183]
+                    - generic [ref=e184]: Enter the minimum price to filter products by
+                  - generic [ref=e185]:
+                    - spinbutton "Max." [ref=e186]
+                    - generic [ref=e187]: Enter the maximum price to filter products by
+                  - button "Update" [ref=e189] [cursor=pointer]
+                - alert
+            - heading "Rating" [level=2] [ref=e527]:
+              - button "Rating" [ref=e528] [cursor=pointer]:
+                - generic [ref=e193]: Rating
+            - heading "Other" [level=2] [ref=e529]:
+              - button "Other" [ref=e530] [cursor=pointer]:
+                - generic [ref=e198]: Other
+      - generic [ref=e200]:
+        - heading "Free Shipping $300+" [level=4] [ref=e201]
+        - paragraph [ref=e202]: Free ground shipping on qualifying packaging orders.
+        - link "Shop Supplies" [ref=e203] [cursor=pointer]:
+          - /url: /shipping/
+          - generic [ref=e204]: Shop Supplies
+          - img [ref=e205]
+    - generic [ref=e207]:
+      - navigation "Breadcrumb" [ref=e208]:
+        - list [ref=e209]:
+          - listitem [ref=e210]:
+            - link "Home" [ref=e211] [cursor=pointer]:
+              - /url: https://eshopping-packaging-demo.mybigcommerce.com/
+          - listitem [ref=e212]:
+            - link "Shipping Boxes" [ref=e213] [cursor=pointer]:
+              - /url: https://eshopping-packaging-demo.mybigcommerce.com/shipping-boxes/
+          - listitem [ref=e214]:
+            - link "Corrugated Boxes" [ref=e215] [cursor=pointer]:
+              - /url: https://eshopping-packaging-demo.mybigcommerce.com/corrugated-boxes/
+      - heading "Corrugated Boxes" [level=1] [ref=e216]
+      - paragraph [ref=e218]: Single, double, and triple-wall corrugated boxes rated for specific weights. Available in over 50 standard sizes. Crush-resistant ECT-32 to ECT-44 grades.
+      - main [ref=e220]:
+        - generic [ref=e221]:
+          - group [ref=e222]:
+            - generic [ref=e223]:
+              - generic [ref=e224] [cursor=pointer]: "Sort By:"
+              - listbox "Sort By:" [ref=e225] [cursor=pointer]:
+                - option "Featured Items" [selected]
+                - option "Newest Items"
+                - option "Best Selling"
+                - option "A to Z"
+                - option "Z to A"
+                - option "By Review"
+                - 'option "Price: Ascending"'
+                - 'option "Price: Descending"'
+          - generic [ref=e226]:
+            - button "Grid" [pressed] [ref=e227] [cursor=pointer]:
+              - img [ref=e228]
+            - button "Bulk Order" [ref=e230] [cursor=pointer]:
+              - img [ref=e231]
+        - region "Filtered products" [ref=e233]:
+          - list [ref=e234]:
+            - listitem [ref=e235] [cursor=pointer]:
+              - article [ref=e236]:
+                - figure [ref=e237]:
+                  - link "12x12x12 Single-Wall Corrugated Box, $29.00" [ref=e238]:
+                    - /url: https://eshopping-packaging-demo.mybigcommerce.com/PK-CRG-001/
+                    - img "12x12x12 Single-Wall Corrugated Box" [ref=e240]
+                - generic [ref=e241]:
+                  - paragraph [ref=e242]:
+                    - img "12x12x12 Single-Wall Corrugated Box rating is 5 of 5" [ref=e244]:
+                      - img [ref=e246]
+                      - img [ref=e249]
+                      - img [ref=e252]
+                      - img [ref=e255]
+                      - img [ref=e258]
+                  - paragraph [ref=e260]: BoxKraft
+                  - heading "12x12x12 Single-Wall Corrugated Box, $29.00" [level=3] [ref=e261]:
+                    - link "12x12x12 Single-Wall Corrugated Box, $29.00" [ref=e262]:
+                      - /url: https://eshopping-packaging-demo.mybigcommerce.com/PK-CRG-001/
+                      - text: 12x12x12 Single-Wall Corrugated Box
+                  - generic [ref=e265]: $29.00
+                  - generic [ref=e266]:
+                    - button "Compare" [ref=e267]:
+                      - img [ref=e268]
+                    - button "Quick view" [ref=e270]:
+                      - img [ref=e271]
+                    - link "Choose Options" [ref=e273]:
+                      - /url: https://eshopping-packaging-demo.mybigcommerce.com/PK-CRG-001/
+                      - img [ref=e274]
+            - listitem [ref=e276] [cursor=pointer]:
+              - article [ref=e277]:
+                - figure [ref=e278]:
+                  - link "18x18x12 Double-Wall Box, $48.00" [ref=e279]:
+                    - /url: https://eshopping-packaging-demo.mybigcommerce.com/PK-CRG-002/
+                    - img "18x18x12 Double-Wall Box" [ref=e281]
+                - generic [ref=e282]:
+                  - paragraph [ref=e283]:
+                    - img "18x18x12 Double-Wall Box rating is 5 of 5" [ref=e285]:
+                      - img [ref=e287]
+                      - img [ref=e290]
+                      - img [ref=e293]
+                      - img [ref=e296]
+                      - img [ref=e299]
+                  - paragraph [ref=e301]: StrongBox
+                  - heading "18x18x12 Double-Wall Box, $48.00" [level=3] [ref=e302]:
+                    - link "18x18x12 Double-Wall Box, $48.00" [ref=e303]:
+                      - /url: https://eshopping-packaging-demo.mybigcommerce.com/PK-CRG-002/
+                      - text: 18x18x12 Double-Wall Box
+                  - generic [ref=e306]: $48.00
+                  - generic [ref=e307]:
+                    - button "Compare" [ref=e308]:
+                      - img [ref=e309]
+                    - button "Quick view" [ref=e311]:
+                      - img [ref=e312]
+                    - link "Choose Options" [ref=e314]:
+                      - /url: https://eshopping-packaging-demo.mybigcommerce.com/PK-CRG-002/
+                      - img [ref=e315]
+            - listitem [ref=e317] [cursor=pointer]:
+              - article [ref=e318]:
+                - figure [ref=e319]:
+                  - link "8x6x4 Corrugated Mailer Box, $18.00" [ref=e320]:
+                    - /url: https://eshopping-packaging-demo.mybigcommerce.com/PK-CRG-003/
+                    - img "8x6x4 Corrugated Mailer Box" [ref=e322]
+                - generic [ref=e323]:
+                  - paragraph [ref=e324]:
+                    - img "8x6x4 Corrugated Mailer Box rating is 5 of 5" [ref=e326]:
+                      - img [ref=e328]
+                      - img [ref=e331]
+                      - img [ref=e334]
+                      - img [ref=e337]
+                      - img [ref=e340]
+                  - paragraph [ref=e342]: BoxKraft
+                  - heading "8x6x4 Corrugated Mailer Box, $18.00" [level=3] [ref=e343]:
+                    - link "8x6x4 Corrugated Mailer Box, $18.00" [ref=e344]:
+                      - /url: https://eshopping-packaging-demo.mybigcommerce.com/PK-CRG-003/
+                      - text: 8x6x4 Corrugated Mailer Box
+                  - generic [ref=e347]: $18.00
+                  - generic [ref=e348]:
+                    - button "Compare" [ref=e349]:
+                      - img [ref=e350]
+                    - button "Quick view" [ref=e352]:
+                      - img [ref=e353]
+                    - link "Choose Options" [ref=e355]:
+                      - /url: https://eshopping-packaging-demo.mybigcommerce.com/PK-CRG-003/
+                      - img [ref=e356]
+            - listitem [ref=e358] [cursor=pointer]:
+              - article [ref=e359]:
+                - figure [ref=e360]:
+                  - link "24x18x18 Heavy Duty Carton, $55.00" [ref=e361]:
+                    - /url: https://eshopping-packaging-demo.mybigcommerce.com/PK-CRG-004/
+                    - img "24x18x18 Heavy Duty Carton" [ref=e363]
+                - generic [ref=e364]:
+                  - paragraph [ref=e365]:
+                    - img "24x18x18 Heavy Duty Carton rating is 5 of 5" [ref=e367]:
+                      - img [ref=e369]
+                      - img [ref=e372]
+                      - img [ref=e375]
+                      - img [ref=e378]
+                      - img [ref=e381]
+                  - paragraph [ref=e383]: StrongBox
+                  - heading "24x18x18 Heavy Duty Carton, $55.00" [level=3] [ref=e384]:
+                    - link "24x18x18 Heavy Duty Carton, $55.00" [ref=e385]:
+                      - /url: https://eshopping-packaging-demo.mybigcommerce.com/PK-CRG-004/
+                      - text: 24x18x18 Heavy Duty Carton
+                  - generic [ref=e388]: $55.00
+                  - generic [ref=e389]:
+                    - button "Compare" [ref=e390]:
+                      - img [ref=e391]
+                    - button "Quick view" [ref=e393]:
+                      - img [ref=e394]
+                    - link "Choose Options" [ref=e396]:
+                      - /url: https://eshopping-packaging-demo.mybigcommerce.com/PK-CRG-004/
+                      - img [ref=e397]
+            - listitem [ref=e399] [cursor=pointer]:
+              - article [ref=e400]:
+                - figure [ref=e401]:
+                  - link "6x4x4 Cube Box Bundle 25-pk, $14.00" [ref=e402]:
+                    - /url: https://eshopping-packaging-demo.mybigcommerce.com/PK-CRG-005/
+                    - img "6x4x4 Cube Box Bundle 25-pk" [ref=e404]
+                - generic [ref=e405]:
+                  - paragraph [ref=e406]:
+                    - img "6x4x4 Cube Box Bundle 25-pk rating is 4 of 5" [ref=e408]:
+                      - img [ref=e410]
+                      - img [ref=e413]
+                      - img [ref=e416]
+                      - img [ref=e419]
+                      - img [ref=e422]
+                  - paragraph [ref=e424]: EcoBox
+                  - heading "6x4x4 Cube Box Bundle 25-pk, $14.00" [level=3] [ref=e425]:
+                    - link "6x4x4 Cube Box Bundle 25-pk, $14.00" [ref=e426]:
+                      - /url: https://eshopping-packaging-demo.mybigcommerce.com/PK-CRG-005/
+                      - text: 6x4x4 Cube Box Bundle 25-pk
+                  - generic [ref=e429]: $14.00
+                  - generic [ref=e430]:
+                    - button "Compare" [ref=e431]:
+                      - img [ref=e432]
+                    - button "Quick view" [ref=e434]:
+                      - img [ref=e435]
+                    - link "Choose Options" [ref=e437]:
+                      - /url: https://eshopping-packaging-demo.mybigcommerce.com/PK-CRG-005/
+                      - img [ref=e438]
+        - navigation "pagination":
+          - list
+  - contentinfo [ref=e440]:
+    - generic [ref=e441]:
+      - generic [ref=e442]:
+        - link "eShopping Packaging Demo" [ref=e444] [cursor=pointer]:
+          - /url: https://eshopping-packaging-demo.mybigcommerce.com/
+          - img "eShopping Packaging Demo" [ref=e446]
+        - generic [ref=e447]:
+          - link "Facebook" [ref=e448] [cursor=pointer]:
+            - /url: https://facebook.com/papathemes
+            - img [ref=e449]
+          - link "Pinterest" [ref=e451] [cursor=pointer]:
+            - /url: https://pinterest.com/papathemes
+            - img [ref=e452]
+          - link "YouTube" [ref=e454] [cursor=pointer]:
+            - /url: https://youtube.com/papathemes
+            - img [ref=e455]
+          - link "Instagram" [ref=e457] [cursor=pointer]:
+            - /url: https://instagram.com/papathemes
+            - img [ref=e458]
+          - link "LinkedIn" [ref=e460] [cursor=pointer]:
+            - /url: https://linkedin.com/papathemes
+            - img [ref=e461]
+      - generic [ref=e463]:
+        - heading "Navigate" [level=4] [ref=e464]
+        - list [ref=e465]:
+          - listitem [ref=e466]:
+            - link "About" [ref=e467] [cursor=pointer]:
+              - /url: https://eshopping-packaging-demo.mybigcommerce.com/about/
+          - listitem [ref=e468]:
+            - link "Help" [ref=e469] [cursor=pointer]:
+              - /url: https://eshopping-packaging-demo.mybigcommerce.com/help/
+          - listitem [ref=e470]:
+            - link "Contact Us" [ref=e471] [cursor=pointer]:
+              - /url: https://eshopping-packaging-demo.mybigcommerce.com/contact-us/
+          - listitem [ref=e472]:
+            - link "Promotions" [ref=e473] [cursor=pointer]:
+              - /url: https://eshopping-packaging-demo.mybigcommerce.com/promotions/
+          - listitem [ref=e474]:
+            - link "Blog" [ref=e475] [cursor=pointer]:
+              - /url: https://eshopping-packaging-demo.mybigcommerce.com/blog/
+          - listitem [ref=e476]:
+            - link "Sitemap" [ref=e477] [cursor=pointer]:
+              - /url: https://eshopping-packaging-demo.mybigcommerce.com/sitemap.php
+      - generic [ref=e478]:
+        - heading "Categories" [level=4] [ref=e479]
+        - list [ref=e480]:
+          - listitem [ref=e481]:
+            - link "Shop All" [ref=e482] [cursor=pointer]:
+              - /url: https://eshopping-packaging-demo.mybigcommerce.com/shop-all/
+          - listitem [ref=e483]:
+            - link "Shipping Boxes" [ref=e484] [cursor=pointer]:
+              - /url: https://eshopping-packaging-demo.mybigcommerce.com/shipping-boxes/
+          - listitem [ref=e485]:
+            - link "Protective Packaging" [ref=e486] [cursor=pointer]:
+              - /url: https://eshopping-packaging-demo.mybigcommerce.com/protective-packaging/
+          - listitem [ref=e487]:
+            - link "Tape & Adhesives" [ref=e488] [cursor=pointer]:
+              - /url: https://eshopping-packaging-demo.mybigcommerce.com/tape-adhesives/
+          - listitem [ref=e489]:
+            - link "Labels & Tags" [ref=e490] [cursor=pointer]:
+              - /url: https://eshopping-packaging-demo.mybigcommerce.com/labels/
+          - listitem [ref=e491]:
+            - link "Stretch Wrap" [ref=e492] [cursor=pointer]:
+              - /url: https://eshopping-packaging-demo.mybigcommerce.com/stretch-film/
+      - generic [ref=e493]:
+        - heading "Brands" [level=4] [ref=e494]
+        - list [ref=e495]:
+          - listitem [ref=e496]:
+            - link "StrongBox" [ref=e497] [cursor=pointer]:
+              - /url: https://eshopping-packaging-demo.mybigcommerce.com/strongbox/
+          - listitem [ref=e498]:
+            - link "BubbleMaster" [ref=e499] [cursor=pointer]:
+              - /url: https://eshopping-packaging-demo.mybigcommerce.com/bubblemaster/
+          - listitem [ref=e500]:
+            - link "FoamPack" [ref=e501] [cursor=pointer]:
+              - /url: https://eshopping-packaging-demo.mybigcommerce.com/foampack/
+          - listitem [ref=e502]:
+            - link "LabelPro" [ref=e503] [cursor=pointer]:
+              - /url: https://eshopping-packaging-demo.mybigcommerce.com/labelpro/
+          - listitem [ref=e504]:
+            - link "CushionWrap" [ref=e505] [cursor=pointer]:
+              - /url: https://eshopping-packaging-demo.mybigcommerce.com/cushionwrap/
+          - listitem [ref=e506]:
+            - link "MailerCraft" [ref=e507] [cursor=pointer]:
+              - /url: https://eshopping-packaging-demo.mybigcommerce.com/mailercraft/
+          - listitem [ref=e508]:
+            - link "StretchKing" [ref=e509] [cursor=pointer]:
+              - /url: https://eshopping-packaging-demo.mybigcommerce.com/stretchking/
+          - listitem [ref=e510]:
+            - link "TapeKing" [ref=e511] [cursor=pointer]:
+              - /url: https://eshopping-packaging-demo.mybigcommerce.com/tapeking/
+          - listitem [ref=e512]:
+            - link "BoxKraft" [ref=e513] [cursor=pointer]:
+              - /url: https://eshopping-packaging-demo.mybigcommerce.com/boxkraft/
+          - listitem [ref=e514]:
+            - link "EcoBox" [ref=e515] [cursor=pointer]:
+              - /url: https://eshopping-packaging-demo.mybigcommerce.com/ecobox/
+          - listitem [ref=e516]:
+            - link "View All" [ref=e517] [cursor=pointer]:
+              - /url: https://eshopping-packaging-demo.mybigcommerce.com/brands/
+    - generic [ref=e518]:
+      - generic [ref=e519]: © 2026 eShopping Packaging Demo. All rights reserved.
+      - generic [ref=e520]:
+        - text: Powered by
+        - link "BigCommerce" [ref=e521] [cursor=pointer]:
+          - /url: https://www.bigcommerce.com
+        - text: · Designed by
+        - link "PapaThemes.com" [ref=e522] [cursor=pointer]:
+          - /url: https://papathemes.com

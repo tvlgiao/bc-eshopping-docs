@@ -1,0 +1,1626 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+  - generic [ref=e6]:
+    - text: ⚡
+    - strong [ref=e7]: AUTO PARTS SALE
+    - text: — Up to 35% off Brake Kits & Filters | Free Shipping on orders over
+    - strong [ref=e8]: $99
+    - text: "|"
+    - link "Shop Now" [ref=e9] [cursor=pointer]:
+      - /url: /brakes/
+  - generic [ref=e10]:
+    - generic [ref=e11]:
+      - generic [ref=e12]: Welcome to EShopping Autoparts Demo
+      - link "4250 Industrial Pkwy, Suite 100, Phoenix, AZ 85009, United States" [ref=e14] [cursor=pointer]:
+        - /url: "#"
+        - img [ref=e15]
+        - text: 4250 Industrial Pkwy, Suite 100, Phoenix, AZ 85009, United States
+    - generic [ref=e16]:
+      - link "+1 (800) 555-0100" [ref=e17] [cursor=pointer]:
+        - /url: tel:+1 (800) 555-0100
+        - img [ref=e18]
+        - text: +1 (800) 555-0100
+      - generic [ref=e20]:
+        - button "Sign in" [ref=e21] [cursor=pointer]
+        - link "Register" [ref=e22] [cursor=pointer]:
+          - /url: https://eshopping-autoparts-demo.mybigcommerce.com/login.php?action=create_account
+        - button "VND" [ref=e25] [cursor=pointer]:
+          - generic [ref=e27]: VND
+          - img [ref=e28]
+      - generic [ref=e30]:
+        - link "Facebook" [ref=e31] [cursor=pointer]:
+          - /url: https://facebook.com/papathemes
+          - img [ref=e32]
+        - link "Pinterest" [ref=e34] [cursor=pointer]:
+          - /url: https://pinterest.com/papathemes
+          - img [ref=e35]
+        - link "YouTube" [ref=e37] [cursor=pointer]:
+          - /url: https://youtube.com/papathemes
+          - img [ref=e38]
+        - link "Instagram" [ref=e40] [cursor=pointer]:
+          - /url: https://instagram.com/papathemes
+          - img [ref=e41]
+        - link "LinkedIn" [ref=e43] [cursor=pointer]:
+          - /url: https://linkedin.com/papathemes
+          - img [ref=e44]
+  - banner [ref=e46]:
+    - generic [ref=e47]:
+      - link "eShopping Autoparts" [ref=e49] [cursor=pointer]:
+        - /url: https://eshopping-autoparts-demo.mybigcommerce.com/
+        - img "eShopping Autoparts" [ref=e51]
+      - generic [ref=e53]:
+        - link "About" [ref=e55] [cursor=pointer]:
+          - /url: https://eshopping-autoparts-demo.mybigcommerce.com/about/
+          - text: About
+          - img [ref=e56]
+        - link "Help" [ref=e58] [cursor=pointer]:
+          - /url: https://eshopping-autoparts-demo.mybigcommerce.com/help/
+          - text: Help
+          - img [ref=e59]
+        - link "Shipping & Returns" [ref=e60] [cursor=pointer]:
+          - /url: https://eshopping-autoparts-demo.mybigcommerce.com/shipping-returns/
+        - link "Contact Us" [ref=e61] [cursor=pointer]:
+          - /url: https://eshopping-autoparts-demo.mybigcommerce.com/contact-us/
+        - link "Promotions" [ref=e62] [cursor=pointer]:
+          - /url: https://eshopping-autoparts-demo.mybigcommerce.com/promotions/
+        - link "Blog" [ref=e63] [cursor=pointer]:
+          - /url: https://eshopping-autoparts-demo.mybigcommerce.com/blog/
+      - generic [ref=e64]:
+        - button "Select a category" [ref=e65] [cursor=pointer]:
+          - img [ref=e66]
+          - img [ref=e67]
+        - textbox "Search" [ref=e69]:
+          - /placeholder: Search for brake pads...
+        - button "Search by voice" [ref=e70] [cursor=pointer]:
+          - img [ref=e71]
+        - button "Search" [ref=e72] [cursor=pointer]:
+          - img [ref=e73]
+      - generic [ref=e74]:
+        - link "Wishlist" [ref=e75] [cursor=pointer]:
+          - /url: https://eshopping-autoparts-demo.mybigcommerce.com/wishlist.php
+          - img [ref=e76]
+        - 'link "Cart: undefined items" [ref=e77] [cursor=pointer]':
+          - /url: /cart.php
+          - img [ref=e78]
+  - generic [ref=e79]:
+    - complementary [ref=e80]:
+      - generic [ref=e81]:
+        - button "Categories" [expanded] [ref=e82] [cursor=pointer]:
+          - img [ref=e83]
+          - heading "Categories" [level=3] [ref=e84]
+        - generic [ref=e86]:
+          - link "Shop All" [ref=e89] [cursor=pointer]:
+            - /url: https://eshopping-autoparts-demo.mybigcommerce.com/shop-all/
+            - img [ref=e91]
+            - text: Shop All
+          - generic [ref=e93]:
+            - link "Engine Parts" [ref=e94] [cursor=pointer]:
+              - /url: https://eshopping-autoparts-demo.mybigcommerce.com/engine-parts/
+              - img [ref=e96]
+              - text: Engine Parts
+            - button "Toggle Engine Parts" [ref=e97] [cursor=pointer]:
+              - img [ref=e98]
+          - generic [ref=e100]:
+            - link "Brakes" [ref=e101] [cursor=pointer]:
+              - /url: https://eshopping-autoparts-demo.mybigcommerce.com/brakes/
+              - img [ref=e103]
+              - text: Brakes
+            - button "Toggle Brakes" [ref=e104] [cursor=pointer]:
+              - img [ref=e105]
+          - generic [ref=e107]:
+            - link "Suspension" [ref=e108] [cursor=pointer]:
+              - /url: https://eshopping-autoparts-demo.mybigcommerce.com/suspension/
+              - img [ref=e110]
+              - text: Suspension
+            - button "Toggle Suspension" [ref=e111] [cursor=pointer]:
+              - img [ref=e112]
+          - generic [ref=e114]:
+            - link "Electrical & Sensors" [ref=e115] [cursor=pointer]:
+              - /url: https://eshopping-autoparts-demo.mybigcommerce.com/electrical/
+              - img [ref=e117]
+              - text: Electrical & Sensors
+            - button "Toggle Electrical & Sensors" [ref=e118] [cursor=pointer]:
+              - img [ref=e119]
+          - generic [ref=e121]:
+            - link "Fluids & Chemicals" [ref=e122] [cursor=pointer]:
+              - /url: https://eshopping-autoparts-demo.mybigcommerce.com/fluids-chemicals/
+              - img [ref=e124]
+              - text: Fluids & Chemicals
+            - button "Toggle Fluids & Chemicals" [ref=e125] [cursor=pointer]:
+              - img [ref=e126]
+      - generic [ref=e127]:
+        - heading "Free Shipping $250+" [level=4] [ref=e128]
+        - paragraph [ref=e129]: Free ground shipping on qualifying parts orders.
+        - link "Shop Parts" [ref=e130] [cursor=pointer]:
+          - /url: /shipping/
+          - generic [ref=e131]: Shop Parts
+          - img [ref=e132]
+    - generic [ref=e133]:
+      - generic [ref=e134]:
+        - generic [ref=e135]:
+          - img "Our signature fixture that bends to your will" [ref=e137]
+          - generic [ref=e138]:
+            - heading "Brakes and Suspension Sale" [level=1] [ref=e139]
+            - paragraph [ref=e140]: Up to 35% off brake pads, rotors, shocks, and struts - professional grade
+            - link "Shop Brakes" [ref=e142] [cursor=pointer]:
+              - /url: https://eshopping-autoparts-demo.mybigcommerce.com/brakes/
+              - text: Shop Brakes
+              - img [ref=e143]
+        - generic [ref=e144]:
+          - img "Dig in to a fresh new recipe" [ref=e146]
+          - generic [ref=e147]:
+            - heading "Full Synthetic Motor Oil" [level=1] [ref=e148]
+            - paragraph [ref=e149]: 5W-30, 0W-20, and 10W-40 - premium brands, everyday low prices
+            - link "Browse Motor Oil" [ref=e151] [cursor=pointer]:
+              - /url: https://eshopping-autoparts-demo.mybigcommerce.com/fluids-chemicals/motor-oil/
+              - text: Browse Motor Oil
+              - img [ref=e152]
+        - generic [ref=e155]:
+          - heading "Car Batteries - All Makes" [level=1] [ref=e156]
+          - paragraph [ref=e157]: AGM, flooded, and lithium batteries with free professional installation
+          - link "Find Your Battery" [ref=e159] [cursor=pointer]:
+            - /url: https://eshopping-autoparts-demo.mybigcommerce.com/electrical/batteries/
+            - text: Find Your Battery
+            - img [ref=e160]
+        - generic [ref=e163]:
+          - heading "Engine Parts and Filters" [level=1] [ref=e164]
+          - paragraph [ref=e165]: OEM-quality spark plugs, oil filters, and air filters for all vehicles
+          - link "Shop Engine Parts" [ref=e167] [cursor=pointer]:
+            - /url: https://eshopping-autoparts-demo.mybigcommerce.com/engine-parts/
+            - text: Shop Engine Parts
+            - img [ref=e168]
+        - button "Previous slide" [ref=e169] [cursor=pointer]:
+          - img [ref=e170]
+        - button "Next slide" [ref=e171] [cursor=pointer]:
+          - img [ref=e172]
+        - generic [ref=e173]:
+          - button "Go to slide 1" [ref=e174] [cursor=pointer]
+          - button "Go to slide 2" [ref=e175] [cursor=pointer]
+          - button "Go to slide 3" [ref=e176] [cursor=pointer]
+          - button "Go to slide 4" [ref=e177] [cursor=pointer]
+        - button "Pause carousel" [ref=e178] [cursor=pointer]:
+          - img [ref=e179]
+      - generic [ref=e180]:
+        - generic [ref=e181]:
+          - generic [ref=e182]:
+            - img [ref=e184]
+            - generic [ref=e185]:
+              - heading "OEM Quality Parts" [level=4] [ref=e186]
+              - paragraph [ref=e187]: Genuine & aftermarket parts you can trust
+          - generic [ref=e188]:
+            - img [ref=e190]
+            - generic [ref=e191]:
+              - heading "Fast Shipping" [level=4] [ref=e192]
+              - paragraph [ref=e193]: Same-day dispatch on in-stock items
+          - generic [ref=e194]:
+            - img [ref=e196]
+            - generic [ref=e197]:
+              - heading "Free Returns" [level=4] [ref=e198]
+              - paragraph [ref=e199]: Easy 30-day return policy
+          - generic [ref=e200]:
+            - img [ref=e202]
+            - generic [ref=e203]:
+              - heading "Expert Support" [level=4] [ref=e204]
+              - paragraph [ref=e205]: ASE-certified advisors available
+        - generic [ref=e206]:
+          - generic [ref=e207]:
+            - generic [ref=e208]:
+              - img [ref=e210]
+              - heading "Featured Products" [level=2] [ref=e211]
+            - generic [ref=e212]:
+              - button "Previous" [ref=e213] [cursor=pointer]:
+                - img [ref=e214]
+              - button "Next" [ref=e215] [cursor=pointer]:
+                - img [ref=e216]
+          - generic [ref=e218]:
+            - article [ref=e219] [cursor=pointer]:
+              - link "High-Flow Engine Air Filter Staff Pick" [ref=e220]:
+                - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-AIR-001/
+                - img "High-Flow Engine Air Filter" [ref=e222]
+                - generic [ref=e223]: Staff Pick
+              - generic [ref=e224]:
+                - heading "High-Flow Engine Air Filter" [level=3] [ref=e225]:
+                  - link "High-Flow Engine Air Filter" [ref=e226]:
+                    - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-AIR-001/
+                - generic [ref=e227]: AP-AIR-001
+                - img "High-Flow Engine Air Filter rating is 5 of 5" [ref=e230]:
+                  - img [ref=e232]
+                  - img [ref=e234]
+                  - img [ref=e236]
+                  - img [ref=e238]
+                  - img [ref=e240]
+                - generic [ref=e243]: ₫1,186,239.64
+                - generic [ref=e244]:
+                  - button "Compare" [ref=e245]:
+                    - img [ref=e246]
+                  - button "Quick view" [ref=e247]:
+                    - img [ref=e248]
+                  - link "Choose Options" [ref=e249]:
+                    - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-AIR-001/
+                    - img [ref=e250]
+            - article [ref=e251] [cursor=pointer]:
+              - link "AGM Battery Group 24F 750 CCA Staff Pick" [ref=e252]:
+                - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-BAT-001/
+                - img "AGM Battery Group 24F 750 CCA" [ref=e254]
+                - generic [ref=e255]: Staff Pick
+              - generic [ref=e256]:
+                - heading "AGM Battery Group 24F 750 CCA" [level=3] [ref=e257]:
+                  - link "AGM Battery Group 24F 750 CCA" [ref=e258]:
+                    - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-BAT-001/
+                - generic [ref=e259]: AP-BAT-001
+                - img "AGM Battery Group 24F 750 CCA rating is 5 of 5" [ref=e262]:
+                  - img [ref=e264]
+                  - img [ref=e266]
+                  - img [ref=e268]
+                  - img [ref=e270]
+                  - img [ref=e272]
+                - generic [ref=e275]: ₫4,876,762.97
+                - generic [ref=e276]:
+                  - button "Compare" [ref=e277]:
+                    - img [ref=e278]
+                  - button "Quick view" [ref=e279]:
+                    - img [ref=e280]
+                  - link "Choose Options" [ref=e281]:
+                    - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-BAT-001/
+                    - img [ref=e282]
+            - article [ref=e283] [cursor=pointer]:
+              - link "CeramicPro Brake Pads Front Set Staff Pick" [ref=e284]:
+                - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-BRK-001/
+                - img "CeramicPro Brake Pads Front Set" [ref=e286]
+                - generic [ref=e287]: Staff Pick
+              - generic [ref=e288]:
+                - heading "CeramicPro Brake Pads Front Set" [level=3] [ref=e289]:
+                  - link "CeramicPro Brake Pads Front Set" [ref=e290]:
+                    - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-BRK-001/
+                - generic [ref=e291]: AP-BRK-001
+                - img "CeramicPro Brake Pads Front Set rating is 5 of 5" [ref=e294]:
+                  - img [ref=e296]
+                  - img [ref=e298]
+                  - img [ref=e300]
+                  - img [ref=e302]
+                  - img [ref=e304]
+                - generic [ref=e307]: ₫2,346,118.40
+                - generic [ref=e308]:
+                  - button "Compare" [ref=e309]:
+                    - img [ref=e310]
+                  - button "Quick view" [ref=e311]:
+                    - img [ref=e312]
+                  - link "Choose Options" [ref=e313]:
+                    - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-BRK-001/
+                    - img [ref=e314]
+            - article [ref=e315] [cursor=pointer]:
+              - link "Vented Disc Rotor 12.6 Front Staff Pick" [ref=e316]:
+                - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-ROT-001/
+                - img "Vented Disc Rotor 12.6 Front" [ref=e318]
+                - generic [ref=e319]: Staff Pick
+              - generic [ref=e320]:
+                - heading "Vented Disc Rotor 12.6 Front" [level=3] [ref=e321]:
+                  - link "Vented Disc Rotor 12.6 Front" [ref=e322]:
+                    - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-ROT-001/
+                - generic [ref=e323]: AP-ROT-001
+                - img "Vented Disc Rotor 12.6 Front rating is 5 of 5" [ref=e326]:
+                  - img [ref=e328]
+                  - img [ref=e330]
+                  - img [ref=e332]
+                  - img [ref=e334]
+                  - img [ref=e336]
+                - generic [ref=e339]: ₫2,240,674.88
+                - generic [ref=e340]:
+                  - button "Compare" [ref=e341]:
+                    - img [ref=e342]
+                  - button "Quick view" [ref=e343]:
+                    - img [ref=e344]
+                  - link "Choose Options" [ref=e345]:
+                    - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-ROT-001/
+                    - img [ref=e346]
+            - article [ref=e347] [cursor=pointer]:
+              - link "50/50 Pre-Mixed Coolant 1 Gallon Staff Pick" [ref=e348]:
+                - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-COL-001/
+                - img "50/50 Pre-Mixed Coolant 1 Gallon" [ref=e350]
+                - generic [ref=e351]: Staff Pick
+              - generic [ref=e352]:
+                - heading "50/50 Pre-Mixed Coolant 1 Gallon" [level=3] [ref=e353]:
+                  - link "50/50 Pre-Mixed Coolant 1 Gallon" [ref=e354]:
+                    - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-COL-001/
+                - generic [ref=e355]: AP-COL-001
+                - img "50/50 Pre-Mixed Coolant 1 Gallon rating is 5 of 5" [ref=e358]:
+                  - img [ref=e360]
+                  - img [ref=e362]
+                  - img [ref=e364]
+                  - img [ref=e366]
+                  - img [ref=e368]
+                - generic [ref=e371]: ₫369,052.33
+                - generic [ref=e372]:
+                  - button "Compare" [ref=e373]:
+                    - img [ref=e374]
+                  - button "Quick view" [ref=e375]:
+                    - img [ref=e376]
+                  - link "Choose Options" [ref=e377]:
+                    - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-COL-001/
+                    - img [ref=e378]
+            - article [ref=e379] [cursor=pointer]:
+              - link "Full Synthetic 5W-30 Motor Oil 5-Qt Staff Pick" [ref=e380]:
+                - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-OILM-001/
+                - img "Full Synthetic 5W-30 Motor Oil 5-Qt" [ref=e382]
+                - generic [ref=e383]: Staff Pick
+              - generic [ref=e384]:
+                - heading "Full Synthetic 5W-30 Motor Oil 5-Qt" [level=3] [ref=e385]:
+                  - link "Full Synthetic 5W-30 Motor Oil 5-Qt" [ref=e386]:
+                    - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-OILM-001/
+                - generic [ref=e387]: AP-OILM-001
+                - img "Full Synthetic 5W-30 Motor Oil 5-Qt rating is 5 of 5" [ref=e390]:
+                  - img [ref=e392]
+                  - img [ref=e394]
+                  - img [ref=e396]
+                  - img [ref=e398]
+                  - img [ref=e400]
+                - generic [ref=e403]: ₫843,548.19
+                - generic [ref=e404]:
+                  - button "Compare" [ref=e405]:
+                    - img [ref=e406]
+                  - button "Quick view" [ref=e407]:
+                    - img [ref=e408]
+                  - link "Choose Options" [ref=e409]:
+                    - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-OILM-001/
+                    - img [ref=e410]
+            - article [ref=e411] [cursor=pointer]:
+              - link "Image coming soon Staff Pick" [ref=e412]:
+                - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-OIL-001/
+                - img "Image coming soon" [ref=e414]
+                - generic [ref=e415]: Staff Pick
+              - generic [ref=e416]:
+                - heading "High-Capacity Oil Filter" [level=3] [ref=e417]:
+                  - link "High-Capacity Oil Filter" [ref=e418]:
+                    - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-OIL-001/
+                - generic [ref=e419]: AP-OIL-001
+                - img "High-Capacity Oil Filter rating is 5 of 5" [ref=e422]:
+                  - img [ref=e424]
+                  - img [ref=e426]
+                  - img [ref=e428]
+                  - img [ref=e430]
+                  - img [ref=e432]
+                - generic [ref=e435]: ₫316,330.57
+                - generic [ref=e436]:
+                  - button "Compare" [ref=e437]:
+                    - img [ref=e438]
+                  - button "Quick view" [ref=e439]:
+                    - img [ref=e440]
+                  - link "Choose Options" [ref=e441]:
+                    - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-OIL-001/
+                    - img [ref=e442]
+            - article [ref=e443] [cursor=pointer]:
+              - link "Universal O2 Sensor 4-Wire Staff Pick" [ref=e444]:
+                - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-SNS-001/
+                - img "Universal O2 Sensor 4-Wire" [ref=e446]
+                - generic [ref=e447]: Staff Pick
+              - generic [ref=e448]:
+                - heading "Universal O2 Sensor 4-Wire" [level=3] [ref=e449]:
+                  - link "Universal O2 Sensor 4-Wire" [ref=e450]:
+                    - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-SNS-001/
+                - generic [ref=e451]: AP-SNS-001
+                - img "Universal O2 Sensor 4-Wire rating is 5 of 5" [ref=e454]:
+                  - img [ref=e456]
+                  - img [ref=e458]
+                  - img [ref=e460]
+                  - img [ref=e462]
+                  - img [ref=e464]
+                - generic [ref=e467]: ₫1,186,239.64
+                - generic [ref=e468]:
+                  - button "Compare" [ref=e469]:
+                    - img [ref=e470]
+                  - button "Quick view" [ref=e471]:
+                    - img [ref=e472]
+                  - link "Choose Options" [ref=e473]:
+                    - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-SNS-001/
+                    - img [ref=e474]
+        - generic [ref=e475]:
+          - generic [ref=e476]:
+            - generic [ref=e477]:
+              - img [ref=e479]
+              - heading "New Arrivals" [level=2] [ref=e480]
+              - generic [ref=e481]: Just In
+            - generic [ref=e482]:
+              - button "Previous" [ref=e483] [cursor=pointer]:
+                - img [ref=e484]
+              - button "Next" [ref=e485] [cursor=pointer]:
+                - img [ref=e486]
+          - generic [ref=e488]:
+            - article [ref=e489] [cursor=pointer]:
+              - link "Ruthenium HX Spark Plug New" [ref=e490]:
+                - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-SPK-004/
+                - img "Ruthenium HX Spark Plug" [ref=e492]
+                - generic [ref=e493]: New
+              - generic [ref=e494]:
+                - heading "Ruthenium HX Spark Plug" [level=3] [ref=e495]:
+                  - link "Ruthenium HX Spark Plug" [ref=e496]:
+                    - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-SPK-004/
+                - generic [ref=e497]: AP-SPK-004
+                - img "Ruthenium HX Spark Plug rating is 5 of 5" [ref=e500]:
+                  - img [ref=e502]
+                  - img [ref=e504]
+                  - img [ref=e506]
+                  - img [ref=e508]
+                  - img [ref=e510]
+                - generic [ref=e513]: ₫316,330.57
+                - generic [ref=e514]:
+                  - button "Compare" [ref=e515]:
+                    - img [ref=e516]
+                  - button "Quick view" [ref=e517]:
+                    - img [ref=e518]
+                  - link "Choose Options" [ref=e519]:
+                    - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-SPK-004/
+                    - img [ref=e520]
+            - article [ref=e521] [cursor=pointer]:
+              - link "Performance Strut Kit Front New" [ref=e522]:
+                - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-SHK-004/
+                - img "Performance Strut Kit Front" [ref=e524]
+                - generic [ref=e525]: New
+              - generic [ref=e526]:
+                - heading "Performance Strut Kit Front" [level=3] [ref=e527]:
+                  - link "Performance Strut Kit Front" [ref=e528]:
+                    - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-SHK-004/
+                - generic [ref=e529]: AP-SHK-004
+                - img "Performance Strut Kit Front rating is 5 of 5" [ref=e532]:
+                  - img [ref=e534]
+                  - img [ref=e536]
+                  - img [ref=e538]
+                  - img [ref=e540]
+                  - img [ref=e542]
+                - generic [ref=e545]: ₫8,435,481.89
+                - generic [ref=e546]:
+                  - button "Compare" [ref=e547]:
+                    - img [ref=e548]
+                  - button "Quick view" [ref=e549]:
+                    - img [ref=e550]
+                  - link "Choose Options" [ref=e551]:
+                    - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-SHK-004/
+                    - img [ref=e552]
+            - article [ref=e553] [cursor=pointer]:
+              - link "Coolant Temperature Sensor New" [ref=e554]:
+                - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-SNS-004/
+                - img "Coolant Temperature Sensor" [ref=e556]
+                - generic [ref=e557]: New
+              - generic [ref=e558]:
+                - heading "Coolant Temperature Sensor" [level=3] [ref=e559]:
+                  - link "Coolant Temperature Sensor" [ref=e560]:
+                    - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-SNS-004/
+                - generic [ref=e561]: AP-SNS-004
+                - img "Coolant Temperature Sensor rating is 5 of 5" [ref=e564]:
+                  - img [ref=e566]
+                  - img [ref=e568]
+                  - img [ref=e570]
+                  - img [ref=e572]
+                  - img [ref=e574]
+                - generic [ref=e577]: ₫474,495.86
+                - generic [ref=e578]:
+                  - button "Compare" [ref=e579]:
+                    - img [ref=e580]
+                  - button "Quick view" [ref=e581]:
+                    - img [ref=e582]
+                  - link "Choose Options" [ref=e583]:
+                    - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-SNS-004/
+                    - img [ref=e584]
+            - article [ref=e585] [cursor=pointer]:
+              - link "Extended-Life Oil Filter 8000 Miles New" [ref=e586]:
+                - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-OIL-004/
+                - img "Extended-Life Oil Filter 8000 Miles" [ref=e588]
+                - generic [ref=e589]: New
+              - generic [ref=e590]:
+                - heading "Extended-Life Oil Filter 8000 Miles" [level=3] [ref=e591]:
+                  - link "Extended-Life Oil Filter 8000 Miles" [ref=e592]:
+                    - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-OIL-004/
+                - generic [ref=e593]: AP-OIL-004
+                - img "Extended-Life Oil Filter 8000 Miles rating is 5 of 5" [ref=e596]:
+                  - img [ref=e598]
+                  - img [ref=e600]
+                  - img [ref=e602]
+                  - img [ref=e604]
+                  - img [ref=e606]
+                - generic [ref=e609]: ₫395,413.21
+                - generic [ref=e610]:
+                  - button "Compare" [ref=e611]:
+                    - img [ref=e612]
+                  - button "Quick view" [ref=e613]:
+                    - img [ref=e614]
+                  - link "Choose Options" [ref=e615]:
+                    - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-OIL-004/
+                    - img [ref=e616]
+            - article [ref=e617] [cursor=pointer]:
+              - link "0W-20 Full Synthetic Motor Oil 5-Qt New" [ref=e618]:
+                - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-OILM-004/
+                - img "0W-20 Full Synthetic Motor Oil 5-Qt" [ref=e620]
+                - generic [ref=e621]: New
+              - generic [ref=e622]:
+                - heading "0W-20 Full Synthetic Motor Oil 5-Qt" [level=3] [ref=e623]:
+                  - link "0W-20 Full Synthetic Motor Oil 5-Qt" [ref=e624]:
+                    - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-OILM-004/
+                - generic [ref=e625]: AP-OILM-004
+                - img "0W-20 Full Synthetic Motor Oil 5-Qt rating is 5 of 5" [ref=e628]:
+                  - img [ref=e630]
+                  - img [ref=e632]
+                  - img [ref=e634]
+                  - img [ref=e636]
+                  - img [ref=e638]
+                - generic [ref=e641]: ₫948,991.71
+                - generic [ref=e642]:
+                  - button "Compare" [ref=e643]:
+                    - img [ref=e644]
+                  - button "Quick view" [ref=e645]:
+                    - img [ref=e646]
+                  - link "Choose Options" [ref=e647]:
+                    - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-OILM-004/
+                    - img [ref=e648]
+            - article [ref=e649] [cursor=pointer]:
+              - link "European Vehicle Coolant 1.5 Liter New" [ref=e650]:
+                - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-COL-004/
+                - img "European Vehicle Coolant 1.5 Liter" [ref=e652]
+                - generic [ref=e653]: New
+              - generic [ref=e654]:
+                - heading "European Vehicle Coolant 1.5 Liter" [level=3] [ref=e655]:
+                  - link "European Vehicle Coolant 1.5 Liter" [ref=e656]:
+                    - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-COL-004/
+                - generic [ref=e657]: AP-COL-004
+                - img "European Vehicle Coolant 1.5 Liter rating is 5 of 5" [ref=e660]:
+                  - img [ref=e662]
+                  - img [ref=e664]
+                  - img [ref=e666]
+                  - img [ref=e668]
+                  - img [ref=e670]
+                - generic [ref=e673]: ₫579,939.38
+                - generic [ref=e674]:
+                  - button "Compare" [ref=e675]:
+                    - img [ref=e676]
+                  - button "Quick view" [ref=e677]:
+                    - img [ref=e678]
+                  - link "Choose Options" [ref=e679]:
+                    - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-COL-004/
+                    - img [ref=e680]
+            - article [ref=e681] [cursor=pointer]:
+              - link "Slotted Performance Brake Rotor New" [ref=e682]:
+                - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-ROT-004/
+                - img "Slotted Performance Brake Rotor" [ref=e684]
+                - generic [ref=e685]: New
+              - generic [ref=e686]:
+                - heading "Slotted Performance Brake Rotor" [level=3] [ref=e687]:
+                  - link "Slotted Performance Brake Rotor" [ref=e688]:
+                    - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-ROT-004/
+                - generic [ref=e689]: AP-ROT-004
+                - img "Slotted Performance Brake Rotor rating is 5 of 5" [ref=e692]:
+                  - img [ref=e694]
+                  - img [ref=e696]
+                  - img [ref=e698]
+                  - img [ref=e700]
+                  - img [ref=e702]
+                - generic [ref=e705]: ₫4,613,154.16
+                - generic [ref=e706]:
+                  - button "Compare" [ref=e707]:
+                    - img [ref=e708]
+                  - button "Quick view" [ref=e709]:
+                    - img [ref=e710]
+                  - link "Choose Options" [ref=e711]:
+                    - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-ROT-004/
+                    - img [ref=e712]
+            - article [ref=e713] [cursor=pointer]:
+              - link "Premium OE-Replacement Brake Pads New" [ref=e714]:
+                - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-BRK-004/
+                - img "Premium OE-Replacement Brake Pads" [ref=e716]
+                - generic [ref=e717]: New
+              - generic [ref=e718]:
+                - heading "Premium OE-Replacement Brake Pads" [level=3] [ref=e719]:
+                  - link "Premium OE-Replacement Brake Pads" [ref=e720]:
+                    - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-BRK-004/
+                - generic [ref=e721]: AP-BRK-004
+                - img "Premium OE-Replacement Brake Pads rating is 4 of 5" [ref=e724]:
+                  - img [ref=e726]
+                  - img [ref=e728]
+                  - img [ref=e730]
+                  - img [ref=e732]
+                  - img [ref=e734]
+                - generic [ref=e737]: ₫1,449,848.45
+                - generic [ref=e738]:
+                  - button "Compare" [ref=e739]:
+                    - img [ref=e740]
+                  - button "Quick view" [ref=e741]:
+                    - img [ref=e742]
+                  - link "Choose Options" [ref=e743]:
+                    - /url: https://eshopping-autoparts-demo.mybigcommerce.com/AP-BRK-004/
+                    - img [ref=e744]
+        - generic [ref=e1534]:
+          - generic [ref=e1535]:
+            - generic [ref=e1536]:
+              - generic [ref=e1537]:
+                - generic [ref=e1539]: Shop All
+                - heading "Shop All" [level=2] [ref=e1540]:
+                  - link "Shop All" [ref=e1541] [cursor=pointer]:
+                    - /url: /shop-all/
+              - generic [ref=e1542]:
+                - tablist [ref=e1543]:
+                  - tab "Bestselling" [ref=e1544] [cursor=pointer]
+                  - tab "Featured" [selected] [ref=e1545] [cursor=pointer]
+                  - tab "New" [ref=e1546] [cursor=pointer]
+                - link "View All" [ref=e1547] [cursor=pointer]:
+                  - /url: /shop-all/
+                  - text: View All
+                  - img [ref=e1548]
+            - tabpanel "Featured" [ref=e1552]:
+              - generic [ref=e1554]:
+                - article [ref=e1556] [cursor=pointer]:
+                  - link "High-Flow Engine Air Filter" [ref=e1557]:
+                    - /url: /AP-AIR-001/
+                    - img "High-Flow Engine Air Filter" [ref=e1559]
+                  - generic [ref=e1560]:
+                    - heading "High-Flow Engine Air Filter" [level=3] [ref=e1561]:
+                      - link "High-Flow Engine Air Filter" [ref=e1562]:
+                        - /url: /AP-AIR-001/
+                    - generic [ref=e1563]: AP-AIR-001
+                    - 'img "High-Flow Engine Air Filter rating: 5 out of 5" [ref=e1566]':
+                      - img [ref=e1568]
+                      - img [ref=e1571]
+                      - img [ref=e1574]
+                      - img [ref=e1577]
+                      - img [ref=e1580]
+                    - generic [ref=e1584]: ₫1,186,239.64
+                    - generic [ref=e1585]:
+                      - button "Compare" [ref=e1586]:
+                        - img [ref=e1587]
+                      - button "Quick view" [ref=e1589]:
+                        - img [ref=e1590]
+                      - link "Choose Options" [ref=e1592]:
+                        - /url: /AP-AIR-001/
+                        - img [ref=e1593]
+                - article [ref=e1596] [cursor=pointer]:
+                  - link "AGM Battery Group 24F 750 CCA" [ref=e1597]:
+                    - /url: /AP-BAT-001/
+                    - img "AGM Battery Group 24F 750 CCA" [ref=e1599]
+                  - generic [ref=e1600]:
+                    - heading "AGM Battery Group 24F 750 CCA" [level=3] [ref=e1601]:
+                      - link "AGM Battery Group 24F 750 CCA" [ref=e1602]:
+                        - /url: /AP-BAT-001/
+                    - generic [ref=e1603]: AP-BAT-001
+                    - 'img "AGM Battery Group 24F 750 CCA rating: 5 out of 5" [ref=e1606]':
+                      - img [ref=e1608]
+                      - img [ref=e1611]
+                      - img [ref=e1614]
+                      - img [ref=e1617]
+                      - img [ref=e1620]
+                    - generic [ref=e1624]: ₫4,876,762.97
+                    - generic [ref=e1625]:
+                      - button "Compare" [ref=e1626]:
+                        - img [ref=e1627]
+                      - button "Quick view" [ref=e1629]:
+                        - img [ref=e1630]
+                      - link "Choose Options" [ref=e1632]:
+                        - /url: /AP-BAT-001/
+                        - img [ref=e1633]
+                - article [ref=e1636] [cursor=pointer]:
+                  - link "CeramicPro Brake Pads Front Set" [ref=e1637]:
+                    - /url: /AP-BRK-001/
+                    - img "CeramicPro Brake Pads Front Set" [ref=e1639]
+                  - generic [ref=e1640]:
+                    - heading "CeramicPro Brake Pads Front Set" [level=3] [ref=e1641]:
+                      - link "CeramicPro Brake Pads Front Set" [ref=e1642]:
+                        - /url: /AP-BRK-001/
+                    - generic [ref=e1643]: AP-BRK-001
+                    - 'img "CeramicPro Brake Pads Front Set rating: 5 out of 5" [ref=e1646]':
+                      - img [ref=e1648]
+                      - img [ref=e1651]
+                      - img [ref=e1654]
+                      - img [ref=e1657]
+                      - img [ref=e1660]
+                    - generic [ref=e1664]: ₫2,346,118.40
+                    - generic [ref=e1665]:
+                      - button "Compare" [ref=e1666]:
+                        - img [ref=e1667]
+                      - button "Quick view" [ref=e1669]:
+                        - img [ref=e1670]
+                      - link "Choose Options" [ref=e1672]:
+                        - /url: /AP-BRK-001/
+                        - img [ref=e1673]
+                - article [ref=e1676] [cursor=pointer]:
+                  - link "Vented Disc Rotor 12.6 Front" [ref=e1677]:
+                    - /url: /AP-ROT-001/
+                    - img "Vented Disc Rotor 12.6 Front" [ref=e1679]
+                  - generic [ref=e1680]:
+                    - heading "Vented Disc Rotor 12.6 Front" [level=3] [ref=e1681]:
+                      - link "Vented Disc Rotor 12.6 Front" [ref=e1682]:
+                        - /url: /AP-ROT-001/
+                    - generic [ref=e1683]: AP-ROT-001
+                    - 'img "Vented Disc Rotor 12.6 Front rating: 5 out of 5" [ref=e1686]':
+                      - img [ref=e1688]
+                      - img [ref=e1691]
+                      - img [ref=e1694]
+                      - img [ref=e1697]
+                      - img [ref=e1700]
+                    - generic [ref=e1704]: ₫2,240,674.88
+                    - generic [ref=e1705]:
+                      - button "Compare" [ref=e1706]:
+                        - img [ref=e1707]
+                      - button "Quick view" [ref=e1709]:
+                        - img [ref=e1710]
+                      - link "Choose Options" [ref=e1712]:
+                        - /url: /AP-ROT-001/
+                        - img [ref=e1713]
+          - generic [ref=e1715]:
+            - generic [ref=e1716]:
+              - generic [ref=e1717]:
+                - generic [ref=e1719]: Engine Parts
+                - heading "Engine Parts" [level=2] [ref=e1720]:
+                  - link "Engine Parts" [ref=e1721] [cursor=pointer]:
+                    - /url: /engine-parts/
+              - generic [ref=e1722]:
+                - tablist [ref=e1723]:
+                  - tab "Bestselling" [ref=e1724] [cursor=pointer]
+                  - tab "Featured" [selected] [ref=e1725] [cursor=pointer]
+                  - tab "New" [ref=e1726] [cursor=pointer]
+                - link "View All" [ref=e1727] [cursor=pointer]:
+                  - /url: /engine-parts/
+                  - text: View All
+                  - img [ref=e1728]
+            - generic [ref=e1730]:
+              - tabpanel "Featured" [ref=e1732]:
+                - generic [ref=e1734]:
+                  - article [ref=e1736] [cursor=pointer]:
+                    - link "High-Flow Engine Air Filter" [ref=e1737]:
+                      - /url: /AP-AIR-001/
+                      - img "High-Flow Engine Air Filter" [ref=e1739]
+                    - generic [ref=e1740]:
+                      - heading "High-Flow Engine Air Filter" [level=3] [ref=e1741]:
+                        - link "High-Flow Engine Air Filter" [ref=e1742]:
+                          - /url: /AP-AIR-001/
+                      - generic [ref=e1743]: AP-AIR-001
+                      - 'img "High-Flow Engine Air Filter rating: 5 out of 5" [ref=e1746]':
+                        - img [ref=e1748]
+                        - img [ref=e1751]
+                        - img [ref=e1754]
+                        - img [ref=e1757]
+                        - img [ref=e1760]
+                      - generic [ref=e1764]: ₫1,186,239.64
+                      - generic [ref=e1765]:
+                        - button "Compare" [ref=e1766]:
+                          - img [ref=e1767]
+                        - button "Quick view" [ref=e1769]:
+                          - img [ref=e1770]
+                        - link "Choose Options" [ref=e1772]:
+                          - /url: /AP-AIR-001/
+                          - img [ref=e1773]
+                  - article [ref=e1776] [cursor=pointer]:
+                    - link "High-Capacity Oil Filter" [ref=e1777]:
+                      - /url: /AP-OIL-001/
+                      - img "High-Capacity Oil Filter" [ref=e1779]
+                    - generic [ref=e1780]:
+                      - heading "High-Capacity Oil Filter" [level=3] [ref=e1781]:
+                        - link "High-Capacity Oil Filter" [ref=e1782]:
+                          - /url: /AP-OIL-001/
+                      - generic [ref=e1783]: AP-OIL-001
+                      - 'img "High-Capacity Oil Filter rating: 5 out of 5" [ref=e1786]':
+                        - img [ref=e1788]
+                        - img [ref=e1791]
+                        - img [ref=e1794]
+                        - img [ref=e1797]
+                        - img [ref=e1800]
+                      - generic [ref=e1804]: ₫316,330.57
+                      - generic [ref=e1805]:
+                        - button "Compare" [ref=e1806]:
+                          - img [ref=e1807]
+                        - button "Quick view" [ref=e1809]:
+                          - img [ref=e1810]
+                        - link "Choose Options" [ref=e1812]:
+                          - /url: /AP-OIL-001/
+                          - img [ref=e1813]
+                  - article [ref=e1816] [cursor=pointer]:
+                    - link "Iridium Spark Plug Set of 4" [ref=e1817]:
+                      - /url: /AP-SPK-001/
+                      - img "Iridium Spark Plug Set of 4" [ref=e1819]
+                    - generic [ref=e1820]:
+                      - heading "Iridium Spark Plug Set of 4" [level=3] [ref=e1821]:
+                        - link "Iridium Spark Plug Set of 4" [ref=e1822]:
+                          - /url: /AP-SPK-001/
+                      - generic [ref=e1823]: AP-SPK-001
+                      - 'img "Iridium Spark Plug Set of 4 rating: 5 out of 5" [ref=e1826]':
+                        - img [ref=e1828]
+                        - img [ref=e1831]
+                        - img [ref=e1834]
+                        - img [ref=e1837]
+                        - img [ref=e1840]
+                      - generic [ref=e1844]: ₫1,186,239.64
+                      - generic [ref=e1845]:
+                        - button "Compare" [ref=e1846]:
+                          - img [ref=e1847]
+                        - button "Quick view" [ref=e1849]:
+                          - img [ref=e1850]
+                        - link "Choose Options" [ref=e1852]:
+                          - /url: /AP-SPK-001/
+                          - img [ref=e1853]
+                  - article [ref=e1856] [cursor=pointer]:
+                    - link "Premium Synthetic Oil Filter" [ref=e1857]:
+                      - /url: /AP-OIL-002/
+                      - img "Premium Synthetic Oil Filter" [ref=e1859]
+                    - generic [ref=e1860]:
+                      - heading "Premium Synthetic Oil Filter" [level=3] [ref=e1861]:
+                        - link "Premium Synthetic Oil Filter" [ref=e1862]:
+                          - /url: /AP-OIL-002/
+                      - generic [ref=e1863]: AP-OIL-002
+                      - 'img "Premium Synthetic Oil Filter rating: 5 out of 5" [ref=e1866]':
+                        - img [ref=e1868]
+                        - img [ref=e1871]
+                        - img [ref=e1874]
+                        - img [ref=e1877]
+                        - img [ref=e1880]
+                      - generic [ref=e1884]: ₫421,774.09
+                      - generic [ref=e1885]:
+                        - button "Compare" [ref=e1886]:
+                          - img [ref=e1887]
+                        - button "Quick view" [ref=e1889]:
+                          - img [ref=e1890]
+                        - link "Choose Options" [ref=e1892]:
+                          - /url: /AP-OIL-002/
+                          - img [ref=e1893]
+              - generic [ref=e1895]:
+                - generic [ref=e1896]: Categories
+                - link "› Oil Filters" [ref=e1897] [cursor=pointer]:
+                  - /url: /oil-filters/
+                - link "› Air Filters" [ref=e1898] [cursor=pointer]:
+                  - /url: /air-filters/
+                - link "› Spark Plugs" [ref=e1899] [cursor=pointer]:
+                  - /url: /spark-plugs/
+                - link "› Fuel Filters" [ref=e1900] [cursor=pointer]:
+                  - /url: /fuel-filters/
+          - generic [ref=e1901]:
+            - generic [ref=e1902]:
+              - generic [ref=e1903]:
+                - generic [ref=e1905]: Brakes
+                - heading "Brakes" [level=2] [ref=e1906]:
+                  - link "Brakes" [ref=e1907] [cursor=pointer]:
+                    - /url: /brakes/
+              - generic [ref=e1908]:
+                - tablist [ref=e1909]:
+                  - tab "Bestselling" [ref=e1910] [cursor=pointer]
+                  - tab "Featured" [selected] [ref=e1911] [cursor=pointer]
+                  - tab "New" [ref=e1912] [cursor=pointer]
+                - link "View All" [ref=e1913] [cursor=pointer]:
+                  - /url: /brakes/
+                  - text: View All
+                  - img [ref=e1914]
+            - generic [ref=e1916]:
+              - tabpanel "Featured" [ref=e1918]:
+                - generic [ref=e1920]:
+                  - article [ref=e1922] [cursor=pointer]:
+                    - link "CeramicPro Brake Pads Front Set" [ref=e1923]:
+                      - /url: /AP-BRK-001/
+                      - img "CeramicPro Brake Pads Front Set" [ref=e1925]
+                    - generic [ref=e1926]:
+                      - heading "CeramicPro Brake Pads Front Set" [level=3] [ref=e1927]:
+                        - link "CeramicPro Brake Pads Front Set" [ref=e1928]:
+                          - /url: /AP-BRK-001/
+                      - generic [ref=e1929]: AP-BRK-001
+                      - 'img "CeramicPro Brake Pads Front Set rating: 5 out of 5" [ref=e1932]':
+                        - img [ref=e1934]
+                        - img [ref=e1937]
+                        - img [ref=e1940]
+                        - img [ref=e1943]
+                        - img [ref=e1946]
+                      - generic [ref=e1950]: ₫2,346,118.40
+                      - generic [ref=e1951]:
+                        - button "Compare" [ref=e1952]:
+                          - img [ref=e1953]
+                        - button "Quick view" [ref=e1955]:
+                          - img [ref=e1956]
+                        - link "Choose Options" [ref=e1958]:
+                          - /url: /AP-BRK-001/
+                          - img [ref=e1959]
+                  - article [ref=e1962] [cursor=pointer]:
+                    - link "Vented Disc Rotor 12.6 Front" [ref=e1963]:
+                      - /url: /AP-ROT-001/
+                      - img "Vented Disc Rotor 12.6 Front" [ref=e1965]
+                    - generic [ref=e1966]:
+                      - heading "Vented Disc Rotor 12.6 Front" [level=3] [ref=e1967]:
+                        - link "Vented Disc Rotor 12.6 Front" [ref=e1968]:
+                          - /url: /AP-ROT-001/
+                      - generic [ref=e1969]: AP-ROT-001
+                      - 'img "Vented Disc Rotor 12.6 Front rating: 5 out of 5" [ref=e1972]':
+                        - img [ref=e1974]
+                        - img [ref=e1977]
+                        - img [ref=e1980]
+                        - img [ref=e1983]
+                        - img [ref=e1986]
+                      - generic [ref=e1990]: ₫2,240,674.88
+                      - generic [ref=e1991]:
+                        - button "Compare" [ref=e1992]:
+                          - img [ref=e1993]
+                        - button "Quick view" [ref=e1995]:
+                          - img [ref=e1996]
+                        - link "Choose Options" [ref=e1998]:
+                          - /url: /AP-ROT-001/
+                          - img [ref=e1999]
+                  - article [ref=e2002] [cursor=pointer]:
+                    - link "Heavy-Duty Semi-Metallic Rear Pads" [ref=e2003]:
+                      - /url: /AP-BRK-002/
+                      - img "Heavy-Duty Semi-Metallic Rear Pads" [ref=e2005]
+                    - generic [ref=e2006]:
+                      - heading "Heavy-Duty Semi-Metallic Rear Pads" [level=3] [ref=e2007]:
+                        - link "Heavy-Duty Semi-Metallic Rear Pads" [ref=e2008]:
+                          - /url: /AP-BRK-002/
+                      - generic [ref=e2009]: AP-BRK-002
+                      - 'img "Heavy-Duty Semi-Metallic Rear Pads rating: 4 out of 5" [ref=e2012]':
+                        - img [ref=e2014]
+                        - img [ref=e2017]
+                        - img [ref=e2020]
+                        - img [ref=e2023]
+                        - img [ref=e2026]
+                      - generic [ref=e2030]: ₫2,504,283.69
+                      - generic [ref=e2031]:
+                        - button "Compare" [ref=e2032]:
+                          - img [ref=e2033]
+                        - button "Quick view" [ref=e2035]:
+                          - img [ref=e2036]
+                        - link "Choose Options" [ref=e2038]:
+                          - /url: /AP-BRK-002/
+                          - img [ref=e2039]
+                  - article [ref=e2042] [cursor=pointer]:
+                    - link "Cross-Drilled Performance Rotor Front" [ref=e2043]:
+                      - /url: /AP-ROT-002/
+                      - img "Cross-Drilled Performance Rotor Front" [ref=e2045]
+                    - generic [ref=e2046]:
+                      - heading "Cross-Drilled Performance Rotor Front" [level=3] [ref=e2047]:
+                        - link "Cross-Drilled Performance Rotor Front" [ref=e2048]:
+                          - /url: /AP-ROT-002/
+                      - generic [ref=e2049]: AP-ROT-002
+                      - 'img "Cross-Drilled Performance Rotor Front rating: 5 out of 5" [ref=e2052]':
+                        - img [ref=e2054]
+                        - img [ref=e2057]
+                        - img [ref=e2060]
+                        - img [ref=e2063]
+                        - img [ref=e2066]
+                      - generic [ref=e2070]: ₫3,822,327.73
+                      - generic [ref=e2071]:
+                        - button "Compare" [ref=e2072]:
+                          - img [ref=e2073]
+                        - button "Quick view" [ref=e2075]:
+                          - img [ref=e2076]
+                        - link "Choose Options" [ref=e2078]:
+                          - /url: /AP-ROT-002/
+                          - img [ref=e2079]
+              - generic [ref=e2081]:
+                - generic [ref=e2082]: Categories
+                - link "› Brake Pads" [ref=e2083] [cursor=pointer]:
+                  - /url: /brake-pads/
+                - link "› Brake Rotors" [ref=e2084] [cursor=pointer]:
+                  - /url: /brake-rotors/
+                - link "› Brake Calipers" [ref=e2085] [cursor=pointer]:
+                  - /url: /brake-calipers/
+        - generic [ref=e746]:
+          - generic [ref=e751]:
+            - generic [ref=e753]:
+              - generic [ref=e754]:
+                - generic [ref=e755]: 15+
+                - generic [ref=e756]: YEARS IN AUTO PARTS
+              - generic [ref=e757]:
+                - generic [ref=e758]: 3,500+
+                - generic [ref=e759]: AUTO SKUS
+              - generic [ref=e760]:
+                - generic [ref=e761]: 8M+
+                - generic [ref=e762]: Orders Shipped
+              - generic [ref=e763]:
+                - generic [ref=e764]: 99%
+                - generic [ref=e765]: Customer Satisfaction
+            - generic [ref=e766]:
+              - generic [ref=e767]: Why Choose Us
+              - heading "Auto Parts That Fit. Pricing That Drives." [level=2] [ref=e768]:
+                - text: Auto Parts That Fit.
+                - emphasis [ref=e769]: Pricing That Drives.
+              - paragraph [ref=e770]: From OEM replacements to performance upgrades — every part is verified for fitment and stocked for fast dispatch to keep vehicles on the road.
+              - generic [ref=e771]:
+                - generic [ref=e772]:
+                  - img [ref=e774]
+                  - generic [ref=e776]:
+                    - generic [ref=e777]: Verified Fitment
+                    - generic [ref=e778]: Every part cross-checked against year/make/model so you order right the first time.
+                - generic [ref=e779]:
+                  - img [ref=e781]
+                  - generic [ref=e783]:
+                    - generic [ref=e784]: Fast Bulk Fulfillment
+                    - generic [ref=e785]: Same-day dispatch on stock items and shop pricing trusted by 9,000+ repair shops and enthusiasts.
+                - generic [ref=e786]:
+                  - img [ref=e788]
+                  - generic [ref=e790]:
+                    - generic [ref=e791]: OEM & Performance
+                    - generic [ref=e792]: Genuine OEM replacements alongside trusted aftermarket performance brands.
+          - generic [ref=e795]:
+            - banner [ref=e796]:
+              - generic [ref=e797]:
+                - generic [ref=e798]: Reviews
+                - heading "Customer Reviews" [level=2] [ref=e799]
+              - link "View all reviews" [ref=e800] [cursor=pointer]:
+                - /url: "#reviews"
+                - text: View all 2,400
+                - img [ref=e801]
+            - region "Rating summary" [ref=e803]:
+              - generic [ref=e804]:
+                - generic [ref=e805]:
+                  - generic [ref=e806]: "4.8"
+                  - generic [ref=e807]: out of 5
+                - generic [ref=e808]:
+                  - img [ref=e809]
+                  - img [ref=e811]
+                  - img [ref=e813]
+                  - img [ref=e815]
+                  - img [ref=e817]
+                - generic [ref=e819]: Based on 2,400+ verified reviews
+              - list [ref=e820]:
+                - listitem [ref=e821]:
+                  - generic [ref=e822]:
+                    - text: "5"
+                    - img [ref=e823]
+                  - generic [ref=e827]: 78%
+                  - generic [ref=e828]: 1,872
+                - listitem [ref=e829]:
+                  - generic [ref=e830]:
+                    - text: "4"
+                    - img [ref=e831]
+                  - generic [ref=e835]: 18%
+                  - generic [ref=e836]: "432"
+                - listitem [ref=e837]:
+                  - generic [ref=e838]:
+                    - text: "3"
+                    - img [ref=e839]
+                  - generic [ref=e843]: 3%
+                  - generic [ref=e844]: "72"
+                - listitem [ref=e845]:
+                  - generic [ref=e846]:
+                    - text: "2"
+                    - img [ref=e847]
+                  - generic [ref=e851]: 1%
+                  - generic [ref=e852]: "24"
+                - listitem [ref=e853]:
+                  - generic [ref=e854]:
+                    - text: "1"
+                    - img [ref=e855]
+                  - generic [ref=e859]: <1%
+                  - generic [ref=e860]: "0"
+              - generic [ref=e861]:
+                - generic [ref=e862]:
+                  - img [ref=e864]
+                  - generic [ref=e866]:
+                    - strong [ref=e867]: 98%
+                    - text: recommend
+                - generic [ref=e868]:
+                  - img [ref=e870]
+                  - generic [ref=e872]:
+                    - strong [ref=e873]: 100%
+                    - text: verified
+                - generic [ref=e874]:
+                  - img [ref=e876]
+                  - generic [ref=e878]:
+                    - strong [ref=e879]: 87%
+                    - text: reorder
+            - generic [ref=e880]:
+              - button "Previous reviews" [ref=e881] [cursor=pointer]:
+                - img [ref=e882]
+              - button "Next reviews" [ref=e884] [cursor=pointer]:
+                - img [ref=e885]
+              - generic [ref=e887]:
+                - article [ref=e888]:
+                  - generic: “
+                  - generic [ref=e889]:
+                    - generic [ref=e890]:
+                      - img [ref=e891]
+                      - img [ref=e893]
+                      - img [ref=e895]
+                      - img [ref=e897]
+                      - img [ref=e899]
+                    - generic [ref=e901]: 2 days ago
+                  - paragraph [ref=e902]: Switched our entire parts ordering here. Faster fitment lookups and far fewer wrong-part returns.
+                  - generic [ref=e903]:
+                    - generic [ref=e904]: DM
+                    - generic [ref=e905]:
+                      - strong [ref=e906]:
+                        - text: Dana M.
+                        - generic "Verified buyer" [ref=e907]:
+                          - img [ref=e908]
+                      - generic [ref=e910]: Shop Owner
+                - article [ref=e911]:
+                  - generic: “
+                  - generic [ref=e912]:
+                    - generic [ref=e913]:
+                      - img [ref=e914]
+                      - img [ref=e916]
+                      - img [ref=e918]
+                      - img [ref=e920]
+                      - img [ref=e922]
+                    - generic [ref=e924]: 1 week ago
+                  - paragraph [ref=e925]: The performance suspension kit arrived complete with hardware. Install was clean and the ride is night-and-day.
+                  - generic [ref=e926]:
+                    - generic [ref=e927]: EK
+                    - generic [ref=e928]:
+                      - strong [ref=e929]:
+                        - text: Erin K.
+                        - generic "Verified buyer" [ref=e930]:
+                          - img [ref=e931]
+                      - generic [ref=e933]: DIY Builder
+                - article [ref=e934]:
+                  - generic: “
+                  - generic [ref=e935]:
+                    - generic [ref=e936]:
+                      - img [ref=e937]
+                      - img [ref=e939]
+                      - img [ref=e941]
+                      - img [ref=e943]
+                      - img [ref=e945]
+                    - generic [ref=e947]: 2 weeks ago
+                  - paragraph [ref=e948]: OEM brake parts arrive on time, every time. Shop pricing keeps our margin healthy.
+                  - generic [ref=e949]:
+                    - generic [ref=e950]: RT
+                    - generic [ref=e951]:
+                      - strong [ref=e952]:
+                        - text: Ray T.
+                        - generic "Verified buyer" [ref=e953]:
+                          - img [ref=e954]
+                      - generic [ref=e956]: Service Manager
+                - article [ref=e957]:
+                  - generic: “
+                  - generic [ref=e958]:
+                    - generic [ref=e959]:
+                      - img [ref=e960]
+                      - img [ref=e962]
+                      - img [ref=e964]
+                      - img [ref=e966]
+                      - img [ref=e968]
+                    - generic [ref=e970]: 3 weeks ago
+                  - paragraph [ref=e971]: Right-spec sensors and gaskets cut my diagnostic time noticeably. Reordering by VIN is effortless.
+                  - generic [ref=e972]:
+                    - generic [ref=e973]: SP
+                    - generic [ref=e974]:
+                      - strong [ref=e975]:
+                        - text: Sofia P.
+                        - generic "Verified buyer" [ref=e976]:
+                          - img [ref=e977]
+                      - generic [ref=e979]: Mechanic
+                - article [ref=e980]:
+                  - generic: “
+                  - generic [ref=e981]:
+                    - generic [ref=e982]:
+                      - img [ref=e983]
+                      - img [ref=e985]
+                      - img [ref=e987]
+                      - img [ref=e989]
+                      - img [ref=e991]
+                    - generic [ref=e993]: 1 month ago
+                  - paragraph [ref=e994]: Performance intake shipped same day before a track event. Saved my weekend.
+                  - generic [ref=e995]:
+                    - generic [ref=e996]: JL
+                    - generic [ref=e997]:
+                      - strong [ref=e998]:
+                        - text: Jordan L.
+                        - generic "Verified buyer" [ref=e999]:
+                          - img [ref=e1000]
+                      - generic [ref=e1002]: Car Enthusiast
+                - article [ref=e1003]:
+                  - generic: “
+                  - generic [ref=e1004]:
+                    - generic [ref=e1005]:
+                      - img [ref=e1006]
+                      - img [ref=e1008]
+                      - img [ref=e1010]
+                      - img [ref=e1012]
+                      - img [ref=e1014]
+                    - generic [ref=e1016]: 1 month ago
+                  - paragraph [ref=e1017]: Maintenance parts arrive ready to install. No more lost time chasing fitment.
+                  - generic [ref=e1018]:
+                    - generic [ref=e1019]: MA
+                    - generic [ref=e1020]:
+                      - strong [ref=e1021]:
+                        - text: Marcus A.
+                        - generic "Verified buyer" [ref=e1022]:
+                          - img [ref=e1023]
+                      - generic [ref=e1025]: Fleet Manager
+                - article [ref=e1026]:
+                  - generic: “
+                  - generic [ref=e1027]:
+                    - generic [ref=e1028]:
+                      - img [ref=e1029]
+                      - img [ref=e1031]
+                      - img [ref=e1033]
+                      - img [ref=e1035]
+                      - img [ref=e1037]
+                    - generic [ref=e1039]: 2 months ago
+                  - paragraph [ref=e1040]: The eco mailers and paper void fill let us drop plastic entirely. Our customers love the sustainable switch.
+                  - generic [ref=e1041]:
+                    - generic [ref=e1042]: NB
+                    - generic [ref=e1043]:
+                      - strong [ref=e1044]:
+                        - text: Nina B.
+                        - generic "Verified buyer" [ref=e1045]:
+                          - img [ref=e1046]
+                      - generic [ref=e1048]: Subscription Box Founder
+                - article [ref=e1049]:
+                  - generic: “
+                  - generic [ref=e1050]:
+                    - generic [ref=e1051]:
+                      - img [ref=e1052]
+                      - img [ref=e1054]
+                      - img [ref=e1056]
+                      - img [ref=e1058]
+                      - img [ref=e1060]
+                    - generic [ref=e1062]: 2 months ago
+                  - paragraph [ref=e1063]: Double-wall cartons hold up across multiple carrier hand-offs. Breakage on heavy SKUs is basically gone.
+                  - generic [ref=e1064]:
+                    - generic [ref=e1065]: CT
+                    - generic [ref=e1066]:
+                      - strong [ref=e1067]:
+                        - text: Carlos T.
+                        - generic "Verified buyer" [ref=e1068]:
+                          - img [ref=e1069]
+                      - generic [ref=e1071]: 3PL Operations
+                - article [ref=e1072]:
+                  - generic: “
+                  - generic [ref=e1073]:
+                    - generic [ref=e1074]:
+                      - img [ref=e1075]
+                      - img [ref=e1077]
+                      - img [ref=e1079]
+                      - img [ref=e1081]
+                      - img [ref=e1083]
+                    - generic [ref=e1085]: 3 months ago
+                  - paragraph [ref=e1086]: Consistent board strength and accurate dimensions. We can plan pallet loads without surprises.
+                  - generic [ref=e1087]:
+                    - generic [ref=e1088]: HW
+                    - generic [ref=e1089]:
+                      - strong [ref=e1090]:
+                        - text: Hannah W.
+                        - generic "Verified buyer" [ref=e1091]:
+                          - img [ref=e1092]
+                      - generic [ref=e1094]: Retail Buyer
+                - article [ref=e1095]:
+                  - generic: “
+                  - generic [ref=e1096]:
+                    - generic [ref=e1097]:
+                      - img [ref=e1098]
+                      - img [ref=e1100]
+                      - img [ref=e1102]
+                      - img [ref=e1104]
+                      - img [ref=e1106]
+                    - generic [ref=e1108]: 3 months ago
+                  - paragraph [ref=e1109]: Poly mailers are light, tough, and cheap to ship. Exactly what I needed to scale my store.
+                  - generic [ref=e1110]:
+                    - generic [ref=e1111]: TV
+                    - generic [ref=e1112]:
+                      - strong [ref=e1113]:
+                        - text: Tom V.
+                        - generic "Verified buyer" [ref=e1114]:
+                          - img [ref=e1115]
+                      - generic [ref=e1117]: Dropship Seller
+                - article [ref=e1118]:
+                  - generic: “
+                  - generic [ref=e1119]:
+                    - generic [ref=e1120]:
+                      - img [ref=e1121]
+                      - img [ref=e1123]
+                      - img [ref=e1125]
+                      - img [ref=e1127]
+                      - img [ref=e1129]
+                    - generic [ref=e1131]: 4 months ago
+                  - paragraph [ref=e1132]: Their team helped me spec the right cushioning for fragile glassware. Damage claims dropped to near zero.
+                  - generic [ref=e1133]:
+                    - generic [ref=e1134]: GR
+                    - generic [ref=e1135]:
+                      - strong [ref=e1136]:
+                        - text: Grace R.
+                        - generic "Verified buyer" [ref=e1137]:
+                          - img [ref=e1138]
+                      - generic [ref=e1140]: Logistics Coordinator
+                - article [ref=e1141]:
+                  - generic: “
+                  - generic [ref=e1142]:
+                    - generic [ref=e1143]:
+                      - img [ref=e1144]
+                      - img [ref=e1146]
+                      - img [ref=e1148]
+                      - img [ref=e1150]
+                      - img [ref=e1152]
+                    - generic [ref=e1154]: 5 months ago
+                  - paragraph [ref=e1155]: Bulk tape and box bundles ship fast and the quality is consistent. Our go-to supplier now.
+                  - generic [ref=e1156]:
+                    - generic [ref=e1157]: PD
+                    - generic [ref=e1158]:
+                      - strong [ref=e1159]:
+                        - text: Priya D.
+                        - generic "Verified buyer" [ref=e1160]:
+                          - img [ref=e1161]
+                      - generic [ref=e1163]: Shop Owner
+          - generic [ref=e1166]:
+            - generic [ref=e1168]:
+              - img [ref=e1170]
+              - heading "Auto Parts Resources & Guides" [level=2] [ref=e1172]
+            - generic [ref=e1173]:
+              - link "Auto parts catalog Guide How to Find the Right Fitment Year/make/model and VIN verification to order the right part the first time." [ref=e1174] [cursor=pointer]:
+                - /url: https://eshopping-autoparts-demo.mybigcommerce.com/blog/
+                - generic [ref=e1175]:
+                  - generic [ref=e1176]:
+                    - img "Auto parts catalog" [ref=e1177]
+                    - generic [ref=e1178]:
+                      - img [ref=e1179]
+                      - text: Guide
+                  - generic [ref=e1181]:
+                    - heading "How to Find the Right Fitment" [level=3] [ref=e1182]
+                    - paragraph [ref=e1183]: Year/make/model and VIN verification to order the right part the first time.
+              - 'link "OEM and aftermarket parts Guide OEM vs Aftermarket: When to Choose Trade-offs between genuine OEM and trusted aftermarket performance brands." [ref=e1184] [cursor=pointer]':
+                - /url: https://eshopping-autoparts-demo.mybigcommerce.com/blog/
+                - generic [ref=e1185]:
+                  - generic [ref=e1186]:
+                    - img "OEM and aftermarket parts" [ref=e1187]
+                    - generic [ref=e1188]:
+                      - img [ref=e1189]
+                      - text: Guide
+                  - generic [ref=e1191]:
+                    - 'heading "OEM vs Aftermarket: When to Choose" [level=3] [ref=e1192]'
+                    - paragraph [ref=e1193]: Trade-offs between genuine OEM and trusted aftermarket performance brands.
+              - link "DIY auto repair tools Guide DIY Repair Safety & Tools Essential tools and safety gear for confident at-home auto repair work." [ref=e1194] [cursor=pointer]:
+                - /url: https://eshopping-autoparts-demo.mybigcommerce.com/blog/
+                - generic [ref=e1195]:
+                  - generic [ref=e1196]:
+                    - img "DIY auto repair tools" [ref=e1197]
+                    - generic [ref=e1198]:
+                      - img [ref=e1199]
+                      - text: Guide
+                  - generic [ref=e1201]:
+                    - heading "DIY Repair Safety & Tools" [level=3] [ref=e1202]
+                    - paragraph [ref=e1203]: Essential tools and safety gear for confident at-home auto repair work.
+        - generic "Popular Brands" [ref=e1204]:
+          - generic [ref=e2086]:
+            - generic [ref=e2087]:
+              - img [ref=e2089]
+              - heading "Popular Brands" [level=2] [ref=e2091]
+            - generic [ref=e2092]:
+              - link "View All Brands" [ref=e2093] [cursor=pointer]:
+                - /url: https://eshopping-autoparts-demo.mybigcommerce.com/brands/
+                - text: View All Brands
+                - img [ref=e2094]
+              - button "Previous" [ref=e2096] [cursor=pointer]:
+                - img [ref=e2097]
+              - button "Next" [ref=e2099] [cursor=pointer]:
+                - img [ref=e2100]
+          - generic [ref=e2102]:
+            - link "Sagaform" [ref=e2103] [cursor=pointer]:
+              - /url: /brands/sagaform/
+              - generic [ref=e2105]: S
+              - generic [ref=e2106]: Sagaform
+            - link "OFS" [ref=e2107] [cursor=pointer]:
+              - /url: /brands/ofs/
+              - generic [ref=e2109]: O
+              - generic [ref=e2110]: OFS
+            - link "Common Good" [ref=e2111] [cursor=pointer]:
+              - /url: /brands/common-good/
+              - generic [ref=e2113]: C
+              - generic [ref=e2114]: Common Good
+            - link "AlternaPro AlternaPro" [ref=e2115] [cursor=pointer]:
+              - /url: /alternapro/
+              - img "AlternaPro" [ref=e2117]
+              - generic [ref=e2118]: AlternaPro
+            - link "BatteryMax BatteryMax" [ref=e2119] [cursor=pointer]:
+              - /url: /batterymax/
+              - img "BatteryMax" [ref=e2121]
+              - generic [ref=e2122]: BatteryMax
+            - link "BrakeForce BrakeForce" [ref=e2123] [cursor=pointer]:
+              - /url: /brakeforce/
+              - img "BrakeForce" [ref=e2125]
+              - generic [ref=e2126]: BrakeForce
+            - link "CoolMax CoolMax" [ref=e2127] [cursor=pointer]:
+              - /url: /coolmax/
+              - img "CoolMax" [ref=e2129]
+              - generic [ref=e2130]: CoolMax
+            - link "FilterForce FilterForce" [ref=e2131] [cursor=pointer]:
+              - /url: /filterforce/
+              - img "FilterForce" [ref=e2133]
+              - generic [ref=e2134]: FilterForce
+            - link "OilMax OilMax" [ref=e2135] [cursor=pointer]:
+              - /url: /oilmax/
+              - img "OilMax" [ref=e2137]
+              - generic [ref=e2138]: OilMax
+            - link "PlugMax PlugMax" [ref=e2139] [cursor=pointer]:
+              - /url: /plugmax/
+              - img "PlugMax" [ref=e2141]
+              - generic [ref=e2142]: PlugMax
+            - link "RotorPro RotorPro" [ref=e2143] [cursor=pointer]:
+              - /url: /rotorpro/
+              - img "RotorPro" [ref=e2145]
+              - generic [ref=e2146]: RotorPro
+            - link "SensorPro SensorPro" [ref=e2147] [cursor=pointer]:
+              - /url: /sensorpro/
+              - img "SensorPro" [ref=e2149]
+              - generic [ref=e2150]: SensorPro
+        - generic [ref=e1205]:
+          - generic [ref=e1206]:
+            - generic [ref=e1207]:
+              - img [ref=e1209]
+              - heading "Latest from the Blog" [level=2] [ref=e1210]
+            - link "View All Posts" [ref=e1211] [cursor=pointer]:
+              - /url: /blog/
+              - text: View All Posts
+              - img [ref=e1212]
+          - generic [ref=e1213]:
+            - article [ref=e1214]:
+              - link "How to Read Tire Sidewalls — A Complete Guide" [ref=e1215] [cursor=pointer]:
+                - /url: https://eshopping-autoparts-demo.mybigcommerce.com/blog/how-to-read-tire-sidewalls/
+                - img "How to Read Tire Sidewalls — A Complete Guide" [ref=e1216]
+              - generic [ref=e1217]:
+                - time [ref=e1218]: 18th May 2026
+                - heading "How to Read Tire Sidewalls — A Complete Guide" [level=3] [ref=e1219]:
+                  - link "How to Read Tire Sidewalls — A Complete Guide" [ref=e1220] [cursor=pointer]:
+                    - /url: https://eshopping-autoparts-demo.mybigcommerce.com/blog/how-to-read-tire-sidewalls/
+                - paragraph [ref=e1221]: That string of numbers and letters on your tire sidewall isn't decorative — it's a complete specific
+                - link "Read More" [ref=e1222] [cursor=pointer]:
+                  - /url: https://eshopping-autoparts-demo.mybigcommerce.com/blog/how-to-read-tire-sidewalls/
+                  - text: Read More
+                  - img [ref=e1223]
+            - article [ref=e1224]:
+              - 'link "Air Filter Upgrades: When K&N Actually Makes Sense" [ref=e1225] [cursor=pointer]':
+                - /url: https://eshopping-autoparts-demo.mybigcommerce.com/blog/kn-air-filter-guide/
+                - 'img "Air Filter Upgrades: When K&N Actually Makes Sense" [ref=e1226]'
+              - generic [ref=e1227]:
+                - time [ref=e1228]: 18th May 2026
+                - 'heading "Air Filter Upgrades: When K&N Actually Makes Sense" [level=3] [ref=e1229]':
+                  - 'link "Air Filter Upgrades: When K&N Actually Makes Sense" [ref=e1230] [cursor=pointer]':
+                    - /url: https://eshopping-autoparts-demo.mybigcommerce.com/blog/kn-air-filter-guide/
+                - paragraph [ref=e1231]: K&N's red-oiled cotton gauze air filters have been an automotive aftermarket staple since 1969. The
+                - link "Read More" [ref=e1232] [cursor=pointer]:
+                  - /url: https://eshopping-autoparts-demo.mybigcommerce.com/blog/kn-air-filter-guide/
+                  - text: Read More
+                  - img [ref=e1233]
+            - article [ref=e1234]:
+              - 'link "Brake Rotor Warping: Fact or Fiction?" [ref=e1235] [cursor=pointer]':
+                - /url: https://eshopping-autoparts-demo.mybigcommerce.com/blog/brake-rotor-warping-myth/
+                - 'img "Brake Rotor Warping: Fact or Fiction?" [ref=e1236]'
+              - generic [ref=e1237]:
+                - time [ref=e1238]: 18th May 2026
+                - 'heading "Brake Rotor Warping: Fact or Fiction?" [level=3] [ref=e1239]':
+                  - 'link "Brake Rotor Warping: Fact or Fiction?" [ref=e1240] [cursor=pointer]':
+                    - /url: https://eshopping-autoparts-demo.mybigcommerce.com/blog/brake-rotor-warping-myth/
+                - paragraph [ref=e1241]: "\"My rotors are warped.\" It's the most common diagnosis for brake shudder, and 95% of the time, it's"
+                - link "Read More" [ref=e1242] [cursor=pointer]:
+                  - /url: https://eshopping-autoparts-demo.mybigcommerce.com/blog/brake-rotor-warping-myth/
+                  - text: Read More
+                  - img [ref=e1243]
+        - generic [ref=e1245]:
+          - generic [ref=e1246]:
+            - heading "Get Parts Updates & Deals" [level=3] [ref=e1247]:
+              - text: Get
+              - emphasis [ref=e1248]: Parts Updates
+              - text: "& Deals"
+            - paragraph [ref=e1249]: New arrivals, fitment guides, and exclusive discounts delivered weekly.
+          - generic [ref=e1250]:
+            - textbox "Your email address" [ref=e1251]
+            - button "Subscribe to our newsletter" [ref=e1252] [cursor=pointer]
+        - generic [ref=e1254]:
+          - generic [ref=e1258]:
+            - heading "Your Complete Auto Parts Source" [level=2] [ref=e1259]
+            - paragraph [ref=e1260]: We supply the OEM and performance parts that keep mechanics, fleets, and enthusiasts moving. Our catalog spans engine, brake, suspension, electrical, body, and accessory parts — verified for fitment and stocked for fast, predictable reordering.
+            - paragraph [ref=e1261]: From routine maintenance to performance upgrades, every part is chosen for fitment accuracy and quality. Browse trusted OEM and aftermarket brands used by thousands of shops and DIY builders every day.
+          - generic [ref=e1264]:
+            - generic [ref=e1265]:
+              - heading "Need help finding the right part? Talk to an Auto Parts Specialist" [level=3] [ref=e1266]:
+                - text: Need help finding the right part?
+                - emphasis [ref=e1267]: Talk to an Auto Parts Specialist
+              - paragraph [ref=e1268]: Our specialists verify fitment by year, make, model, and VIN so you order right the first time. Call or chat anytime.
+            - generic [ref=e1269]:
+              - link "Request a Quote" [ref=e1270] [cursor=pointer]:
+                - /url: /contact-us/
+                - text: Request a Quote
+                - img [ref=e1271]
+              - link "(800) 555-0123" [ref=e1273] [cursor=pointer]:
+                - /url: tel:18005550123
+                - img [ref=e1274]
+                - text: (800) 555-0123
+  - contentinfo [ref=e1276]:
+    - generic [ref=e1277]:
+      - generic [ref=e1278]:
+        - link "eShopping Autoparts" [ref=e1280] [cursor=pointer]:
+          - /url: https://eshopping-autoparts-demo.mybigcommerce.com/
+          - img "eShopping Autoparts" [ref=e1282]
+        - generic [ref=e1286]: eShopping Autoparts Demo — OEM & aftermarket auto parts for every make and model.
+        - generic [ref=e1287]:
+          - link "Facebook" [ref=e1288] [cursor=pointer]:
+            - /url: https://facebook.com/papathemes
+            - img [ref=e1289]
+          - link "Pinterest" [ref=e1291] [cursor=pointer]:
+            - /url: https://pinterest.com/papathemes
+            - img [ref=e1292]
+          - link "YouTube" [ref=e1294] [cursor=pointer]:
+            - /url: https://youtube.com/papathemes
+            - img [ref=e1295]
+          - link "Instagram" [ref=e1297] [cursor=pointer]:
+            - /url: https://instagram.com/papathemes
+            - img [ref=e1298]
+          - link "LinkedIn" [ref=e1300] [cursor=pointer]:
+            - /url: https://linkedin.com/papathemes
+            - img [ref=e1301]
+      - generic [ref=e1303]:
+        - heading "Navigate" [level=4] [ref=e1304]
+        - list [ref=e1305]:
+          - listitem [ref=e1306]:
+            - link "About" [ref=e1307] [cursor=pointer]:
+              - /url: https://eshopping-autoparts-demo.mybigcommerce.com/about/
+          - listitem [ref=e1308]:
+            - link "Help" [ref=e1309] [cursor=pointer]:
+              - /url: https://eshopping-autoparts-demo.mybigcommerce.com/help/
+          - listitem [ref=e1310]:
+            - link "Shipping & Returns" [ref=e1311] [cursor=pointer]:
+              - /url: https://eshopping-autoparts-demo.mybigcommerce.com/shipping-returns/
+          - listitem [ref=e1312]:
+            - link "Contact Us" [ref=e1313] [cursor=pointer]:
+              - /url: https://eshopping-autoparts-demo.mybigcommerce.com/contact-us/
+          - listitem [ref=e1314]:
+            - link "Promotions" [ref=e1315] [cursor=pointer]:
+              - /url: https://eshopping-autoparts-demo.mybigcommerce.com/promotions/
+          - listitem [ref=e1316]:
+            - link "Blog" [ref=e1317] [cursor=pointer]:
+              - /url: https://eshopping-autoparts-demo.mybigcommerce.com/blog/
+          - listitem [ref=e1318]:
+            - link "Sitemap" [ref=e1319] [cursor=pointer]:
+              - /url: https://eshopping-autoparts-demo.mybigcommerce.com/sitemap.php
+      - generic [ref=e1320]:
+        - heading "Categories" [level=4] [ref=e1321]
+        - list [ref=e1322]:
+          - listitem [ref=e1323]:
+            - link "Shop All" [ref=e1324] [cursor=pointer]:
+              - /url: https://eshopping-autoparts-demo.mybigcommerce.com/shop-all/
+          - listitem [ref=e1325]:
+            - link "Engine Parts" [ref=e1326] [cursor=pointer]:
+              - /url: https://eshopping-autoparts-demo.mybigcommerce.com/engine-parts/
+          - listitem [ref=e1327]:
+            - link "Brakes" [ref=e1328] [cursor=pointer]:
+              - /url: https://eshopping-autoparts-demo.mybigcommerce.com/brakes/
+          - listitem [ref=e1329]:
+            - link "Suspension" [ref=e1330] [cursor=pointer]:
+              - /url: https://eshopping-autoparts-demo.mybigcommerce.com/suspension/
+          - listitem [ref=e1331]:
+            - link "Electrical & Sensors" [ref=e1332] [cursor=pointer]:
+              - /url: https://eshopping-autoparts-demo.mybigcommerce.com/electrical/
+          - listitem [ref=e1333]:
+            - link "Fluids & Chemicals" [ref=e1334] [cursor=pointer]:
+              - /url: https://eshopping-autoparts-demo.mybigcommerce.com/fluids-chemicals/
+      - generic [ref=e1335]:
+        - heading "Brands" [level=4] [ref=e1336]
+        - list [ref=e1337]:
+          - listitem [ref=e1338]:
+            - link "FilterForce" [ref=e1339] [cursor=pointer]:
+              - /url: https://eshopping-autoparts-demo.mybigcommerce.com/filterforce/
+          - listitem [ref=e1340]:
+            - link "OilMax" [ref=e1341] [cursor=pointer]:
+              - /url: https://eshopping-autoparts-demo.mybigcommerce.com/oilmax/
+          - listitem [ref=e1342]:
+            - link "CoolMax" [ref=e1343] [cursor=pointer]:
+              - /url: https://eshopping-autoparts-demo.mybigcommerce.com/coolmax/
+          - listitem [ref=e1344]:
+            - link "PlugMax" [ref=e1345] [cursor=pointer]:
+              - /url: https://eshopping-autoparts-demo.mybigcommerce.com/plugmax/
+          - listitem [ref=e1346]:
+            - link "SensorPro" [ref=e1347] [cursor=pointer]:
+              - /url: https://eshopping-autoparts-demo.mybigcommerce.com/sensorpro/
+          - listitem [ref=e1348]:
+            - link "SpeedChip" [ref=e1349] [cursor=pointer]:
+              - /url: https://eshopping-autoparts-demo.mybigcommerce.com/speedchip/
+          - listitem [ref=e1350]:
+            - link "BatteryMax" [ref=e1351] [cursor=pointer]:
+              - /url: https://eshopping-autoparts-demo.mybigcommerce.com/batterymax/
+          - listitem [ref=e1352]:
+            - link "BrakeForce" [ref=e1353] [cursor=pointer]:
+              - /url: https://eshopping-autoparts-demo.mybigcommerce.com/brakeforce/
+          - listitem [ref=e1354]:
+            - link "RotorPro" [ref=e1355] [cursor=pointer]:
+              - /url: https://eshopping-autoparts-demo.mybigcommerce.com/rotorpro/
+          - listitem [ref=e1356]:
+            - link "ShockSmith" [ref=e1357] [cursor=pointer]:
+              - /url: https://eshopping-autoparts-demo.mybigcommerce.com/shocksmith/
+          - listitem [ref=e1358]:
+            - link "View All" [ref=e1359] [cursor=pointer]:
+              - /url: https://eshopping-autoparts-demo.mybigcommerce.com/brands/
+    - generic [ref=e1360]:
+      - generic [ref=e1361]: © 2026 EShopping Autoparts Demo. All rights reserved.
+      - generic [ref=e1362]:
+        - text: Powered by
+        - link "BigCommerce" [ref=e1363] [cursor=pointer]:
+          - /url: https://www.bigcommerce.com
+        - text: · Designed by
+        - link "PapaThemes.com" [ref=e1364] [cursor=pointer]:
+          - /url: https://papathemes.com

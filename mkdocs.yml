@@ -1,0 +1,146 @@
+site_name: "eShopping BigCommerce Theme User Guide"
+site_url: "https://bc-eshopping-docs.papathemes.com"
+site_description: "Step-by-step setup guide for the eShopping BigCommerce theme by PapaThemes — install, configure, and clone any of the 4 demo stores (Industrial, Auto Parts, Electronics, Packaging)."
+site_author: "PapaThemes"
+
+nav:
+  - Home: index.md
+  - Getting Started:
+    - usage/get-started.md
+    - usage/install-theme.md
+    - usage/choose-variant.md
+    - usage/import-demo-data.md
+  - Theme Editor (Page Builder):
+    - usage/theme-editor-tour.md
+    - usage/colors-and-fonts.md
+    - usage/header-and-topbar.md
+    - usage/footer.md
+    - usage/sidebar.md
+  - Home Page Setup:
+    - usage/home-overview.md
+    - usage/home-industrial.md
+    - usage/home-autoparts.md
+    - usage/home-electronics.md
+    - usage/home-packaging.md
+  - Product Page:
+    - usage/product.md
+    - usage/product-card.md
+    - usage/product-fbt.md
+    - usage/product-faq.md
+  - Category & Brand Pages:
+    - usage/category.md
+    - usage/brand.md
+    - usage/bulk-order.md
+  - Other Pages:
+    - usage/cart.md
+    - usage/search.md
+    - usage/keyword-suggestions.md
+    - usage/blog.md
+    - usage/static-pages.md
+  - Widgets:
+    - usage/widgets-papathemes.md
+    - usage/widgets-html.md
+    - usage/widget-regions.md
+  - Marketing Features:
+    - usage/urgency-and-recent-sales.md
+    - usage/popups.md
+    - usage/promotions.md
+  - Update Guide: update.md
+  - FAQs: faqs.md
+  - Support: support.md
+  - Release Notes: changelog.md
+
+theme:
+  name: material
+  custom_dir: overrides
+  features:
+    - announce.dismiss
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    - content.tooltips
+    - navigation.footer
+    - navigation.indexes
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    - toc.integrate
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/link
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep orange
+      accent: deep orange
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: deep orange
+      toggle:
+        icon: material/toggle-switch-off
+        name: Switch to system preference
+  font:
+    text: Source Sans 3
+    code: IBM Plex Mono
+
+plugins:
+  - search:
+      separator: '[\s​\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+
+not_in_nav: |
+  samples/README.md
+
+use_directory_urls: false
+
+extra_css:
+  - css/style.css
+
+extra_javascript:
+  - js/color-swatch.js
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+      separator: "-"
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      normalize_issue_symbols: true
+      repo_url_shorthand: true
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+      combine_header_slug: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde

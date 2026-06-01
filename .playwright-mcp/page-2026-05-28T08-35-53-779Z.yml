@@ -1,0 +1,1206 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+  - generic [ref=e6]:
+    - text: ⚡
+    - strong [ref=e7]: INDUSTRIAL SALE
+    - text: — Up to 25% off Power Tools & Safety Gear | Free Shipping on orders over
+    - strong [ref=e8]: $500
+    - text: "|"
+    - link "Shop Now" [ref=e9] [cursor=pointer]:
+      - /url: /tools/
+  - generic [ref=e10]:
+    - generic [ref=e11]:
+      - generic [ref=e12]: Welcome to eShopping Industrial Demo
+      - link "950 Industrial Way, Bldg C, Houston, TX 77001, United States" [ref=e14] [cursor=pointer]:
+        - /url: "#"
+        - img [ref=e15]
+        - text: 950 Industrial Way, Bldg C, Houston, TX 77001, United States
+    - generic [ref=e17]:
+      - link "+1 (800) 555-0100" [ref=e18] [cursor=pointer]:
+        - /url: tel:+1 (800) 555-0100
+        - img [ref=e19]
+        - text: +1 (800) 555-0100
+      - generic [ref=e22]:
+        - button "Sign in" [ref=e23] [cursor=pointer]
+        - link "Register" [ref=e24] [cursor=pointer]:
+          - /url: https://eshopping-industrial-demo.mybigcommerce.com/login.php?action=create_account
+        - button "USD" [ref=e27] [cursor=pointer]:
+          - generic [ref=e29]: USD
+          - img [ref=e30]
+      - generic [ref=e33]:
+        - link "Facebook" [ref=e34] [cursor=pointer]:
+          - /url: https://facebook.com/papathemes
+          - img [ref=e35]
+        - link "Pinterest" [ref=e37] [cursor=pointer]:
+          - /url: https://pinterest.com/papathemes
+          - img [ref=e38]
+        - link "YouTube" [ref=e40] [cursor=pointer]:
+          - /url: https://youtube.com/papathemes
+          - img [ref=e41]
+        - link "Instagram" [ref=e43] [cursor=pointer]:
+          - /url: https://instagram.com/papathemes
+          - img [ref=e44]
+        - link "LinkedIn" [ref=e46] [cursor=pointer]:
+          - /url: https://linkedin.com/papathemes
+          - img [ref=e47]
+  - banner [ref=e49]:
+    - generic [ref=e50]:
+      - link "eShopping Industrial" [ref=e52] [cursor=pointer]:
+        - /url: https://eshopping-industrial-demo.mybigcommerce.com/
+        - img "eShopping Industrial" [ref=e54]
+      - generic [ref=e56]:
+        - link "About" [ref=e58] [cursor=pointer]:
+          - /url: https://eshopping-industrial-demo.mybigcommerce.com/about/
+          - text: About
+          - img [ref=e59]
+        - link "Help" [ref=e62] [cursor=pointer]:
+          - /url: https://eshopping-industrial-demo.mybigcommerce.com/help/
+          - text: Help
+          - img [ref=e63]
+        - link "Contact Us" [ref=e65] [cursor=pointer]:
+          - /url: https://eshopping-industrial-demo.mybigcommerce.com/contact-us/
+        - link "Promotions" [ref=e66] [cursor=pointer]:
+          - /url: https://eshopping-industrial-demo.mybigcommerce.com/promotions/
+        - link "Blog" [ref=e67] [cursor=pointer]:
+          - /url: https://eshopping-industrial-demo.mybigcommerce.com/blog/
+      - generic [ref=e68]:
+        - button "Select a category" [ref=e69] [cursor=pointer]:
+          - img [ref=e70]
+          - img [ref=e72]
+        - textbox "Search" [ref=e75]:
+          - /placeholder: "|"
+        - button "Search by voice" [ref=e76] [cursor=pointer]:
+          - img [ref=e77]
+        - button "Search" [ref=e79] [cursor=pointer]:
+          - img [ref=e80]
+      - generic [ref=e82]:
+        - link "Wishlist" [ref=e83] [cursor=pointer]:
+          - /url: https://eshopping-industrial-demo.mybigcommerce.com/wishlist.php
+          - img [ref=e84]
+        - 'link "Cart: undefined items" [ref=e86] [cursor=pointer]':
+          - /url: /cart.php
+          - img [ref=e87]
+  - generic [ref=e89]:
+    - complementary [ref=e90]:
+      - generic [ref=e91]:
+        - button "Categories" [expanded] [ref=e92] [cursor=pointer]:
+          - img [ref=e93]
+          - heading "Categories" [level=3] [ref=e95]
+        - generic [ref=e97]:
+          - link "Shop All" [ref=e100] [cursor=pointer]:
+            - /url: https://eshopping-industrial-demo.mybigcommerce.com/shop-all/
+            - img [ref=e102]
+            - text: Shop All
+          - generic [ref=e105]:
+            - link "Tools" [ref=e106] [cursor=pointer]:
+              - /url: https://eshopping-industrial-demo.mybigcommerce.com/tools/
+              - img [ref=e108]
+              - text: Tools
+            - button "Toggle Tools" [ref=e110] [cursor=pointer]:
+              - img [ref=e111]
+          - generic [ref=e114]:
+            - link "Safety & PPE" [ref=e115] [cursor=pointer]:
+              - /url: https://eshopping-industrial-demo.mybigcommerce.com/safety-gear/
+              - img [ref=e117]
+              - text: Safety & PPE
+            - button "Toggle Safety & PPE" [ref=e119] [cursor=pointer]:
+              - img [ref=e120]
+          - generic [ref=e123]:
+            - link "Welding Equipment" [ref=e124] [cursor=pointer]:
+              - /url: https://eshopping-industrial-demo.mybigcommerce.com/welding/
+              - img [ref=e126]
+              - text: Welding Equipment
+            - button "Toggle Welding Equipment" [ref=e128] [cursor=pointer]:
+              - img [ref=e129]
+          - generic [ref=e132]:
+            - link "Air Compressors" [ref=e133] [cursor=pointer]:
+              - /url: https://eshopping-industrial-demo.mybigcommerce.com/compressors/
+              - img [ref=e135]
+              - text: Air Compressors
+            - button "Toggle Air Compressors" [ref=e137] [cursor=pointer]:
+              - img [ref=e138]
+          - generic [ref=e141]:
+            - link "Material Handling" [ref=e142] [cursor=pointer]:
+              - /url: https://eshopping-industrial-demo.mybigcommerce.com/material-handling/
+              - img [ref=e144]
+              - text: Material Handling
+            - button "Toggle Material Handling" [ref=e146] [cursor=pointer]:
+              - img [ref=e147]
+      - generic [ref=e149]:
+        - heading "Free Shipping $500+" [level=4] [ref=e150]
+        - paragraph [ref=e151]: Free ground shipping on qualifying orders.
+        - link "Shop Now" [ref=e152] [cursor=pointer]:
+          - /url: /shipping/
+          - generic [ref=e153]: Shop Now
+          - img [ref=e154]
+    - generic [ref=e156]:
+      - generic [ref=e157]:
+        - generic [ref=e160]:
+          - heading "Professional Power Tools" [level=1] [ref=e161]
+          - paragraph [ref=e162]: Up to 30% off drills, grinders, and saws
+          - link "Shop Power Tools" [ref=e164] [cursor=pointer]:
+            - /url: http:///tools/power-tools/
+            - text: Shop Power Tools
+            - img [ref=e165]
+        - generic [ref=e169]:
+          - heading "Safety PPE — OSHA Compliant" [level=1] [ref=e170]
+          - paragraph [ref=e171]: Hard hats, respirators, hearing protection and more
+          - link "Browse Safety Gear" [ref=e173] [cursor=pointer]:
+            - /url: http:///safety-gear/
+            - text: Browse Safety Gear
+            - img [ref=e174]
+        - generic [ref=e178]:
+          - heading "Welding Equipment Sale" [level=1] [ref=e179]
+          - paragraph [ref=e180]: MIG, TIG, and stick welders at trade prices
+          - link "View Welders" [ref=e182] [cursor=pointer]:
+            - /url: http:///welding/
+            - text: View Welders
+            - img [ref=e183]
+        - generic [ref=e187]:
+          - heading "Air Compressors & Pneumatics" [level=1] [ref=e188]
+          - paragraph [ref=e189]: Stationary and portable compressors — free freight over $999
+          - link "Shop Compressors" [ref=e191] [cursor=pointer]:
+            - /url: http:///compressors/
+            - text: Shop Compressors
+            - img [ref=e192]
+        - button "Previous slide" [ref=e194] [cursor=pointer]:
+          - img [ref=e195]
+        - button "Next slide" [ref=e197] [cursor=pointer]:
+          - img [ref=e198]
+        - generic [ref=e200]:
+          - button "Go to slide 1" [ref=e201] [cursor=pointer]
+          - button "Go to slide 2" [ref=e202] [cursor=pointer]
+          - button "Go to slide 3" [ref=e203] [cursor=pointer]
+          - button "Go to slide 4" [ref=e204] [cursor=pointer]
+        - button "Pause carousel" [ref=e205] [cursor=pointer]:
+          - img [ref=e206]
+      - generic [ref=e208]:
+        - generic [ref=e209]:
+          - generic [ref=e210]:
+            - img [ref=e212]
+            - generic [ref=e214]:
+              - heading "Made in USA" [level=4] [ref=e215]
+              - paragraph [ref=e216]: Fast & reliable shipping on all orders
+          - generic [ref=e217]:
+            - img [ref=e219]
+            - generic [ref=e221]:
+              - heading "Free Shipping" [level=4] [ref=e222]
+              - paragraph [ref=e223]: Shop with confidence, guaranteed
+          - generic [ref=e224]:
+            - img [ref=e226]
+            - generic [ref=e228]:
+              - heading "4.8 Star Rating" [level=4] [ref=e229]
+              - paragraph [ref=e230]: Easy returns within 30 days
+          - generic [ref=e231]:
+            - img [ref=e233]
+            - generic [ref=e235]:
+              - heading "Expert Support" [level=4] [ref=e236]
+              - paragraph [ref=e237]: Available Mon-Sat, 9am-6pm
+        - generic [ref=e238]:
+          - generic [ref=e239]:
+            - generic [ref=e240]:
+              - img [ref=e242]
+              - heading "Featured Products" [level=2] [ref=e244]
+            - generic [ref=e245]:
+              - button "Previous" [ref=e246] [cursor=pointer]:
+                - img [ref=e247]
+              - button "Next" [ref=e249] [cursor=pointer]:
+                - img [ref=e250]
+          - generic [ref=e253]:
+            - article [ref=e254] [cursor=pointer]:
+              - link "FlowMax 1/2 Inch Quick Coupler Brass Staff Pick" [ref=e255]:
+                - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-AIR-001/
+                - img "FlowMax 1/2 Inch Quick Coupler Brass" [ref=e257]
+                - generic [ref=e258]: Staff Pick
+              - generic [ref=e259]:
+                - heading "FlowMax 1/2 Inch Quick Coupler Brass" [level=3] [ref=e260]:
+                  - link "FlowMax 1/2 Inch Quick Coupler Brass" [ref=e261]:
+                    - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-AIR-001/
+                - generic [ref=e262]: IND-AIR-001
+                - img "FlowMax 1/2 Inch Quick Coupler Brass rating is 5 of 5" [ref=e265]:
+                  - img [ref=e267]
+                  - img [ref=e270]
+                  - img [ref=e273]
+                  - img [ref=e276]
+                  - img [ref=e279]
+                - generic [ref=e281]:
+                  - generic [ref=e283]: $22.00
+                  - generic [ref=e285]: $18.00 - $53.00
+                - generic [ref=e286]:
+                  - button "Compare" [ref=e287]:
+                    - img [ref=e288]
+                  - button "Quick view" [ref=e290]:
+                    - img [ref=e291]
+                  - link "Choose Options" [ref=e293]:
+                    - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-AIR-001/
+                    - img [ref=e294]
+            - article [ref=e296] [cursor=pointer]:
+              - link "BigAir 60-Gallon Stationary Compressor On Sale! Staff Pick" [ref=e297]:
+                - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-CMP-001/
+                - img "BigAir 60-Gallon Stationary Compressor" [ref=e299]
+                - generic [ref=e301]: On Sale!
+                - generic [ref=e302]: Staff Pick
+              - generic [ref=e303]:
+                - heading "BigAir 60-Gallon Stationary Compressor" [level=3] [ref=e304]:
+                  - link "BigAir 60-Gallon Stationary Compressor" [ref=e305]:
+                    - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-CMP-001/
+                - generic [ref=e306]: IND-CMP-001
+                - img "BigAir 60-Gallon Stationary Compressor rating is 5 of 5" [ref=e309]:
+                  - img [ref=e311]
+                  - img [ref=e314]
+                  - img [ref=e317]
+                  - img [ref=e320]
+                  - img [ref=e323]
+                - generic [ref=e325]:
+                  - generic [ref=e327]: $2,499.00
+                  - generic [ref=e329]: $2,199.00
+                  - generic [ref=e331]: $2,199.00 - $2,549.00
+                - generic [ref=e332]:
+                  - button "Compare" [ref=e333]:
+                    - img [ref=e334]
+                  - button "Quick view" [ref=e336]:
+                    - img [ref=e337]
+                  - link "Choose Options" [ref=e339]:
+                    - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-CMP-001/
+                    - img [ref=e340]
+            - article [ref=e342] [cursor=pointer]:
+              - link "TitanDrill Pro 20V Cordless Drill On Sale! Staff Pick" [ref=e343]:
+                - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-DRL-001/
+                - img "TitanDrill Pro 20V Cordless Drill" [ref=e345]
+                - generic [ref=e347]: On Sale!
+                - generic [ref=e348]: Staff Pick
+              - generic [ref=e349]:
+                - heading "TitanDrill Pro 20V Cordless Drill" [level=3] [ref=e350]:
+                  - link "TitanDrill Pro 20V Cordless Drill" [ref=e351]:
+                    - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-DRL-001/
+                - generic [ref=e352]: IND-DRL-001
+                - img "TitanDrill Pro 20V Cordless Drill rating is 5 of 5" [ref=e355]:
+                  - img [ref=e357]
+                  - img [ref=e360]
+                  - img [ref=e363]
+                  - img [ref=e366]
+                  - img [ref=e369]
+                - generic [ref=e371]:
+                  - generic [ref=e373]: $349.00
+                  - generic [ref=e375]: $299.00
+                  - generic [ref=e377]: $299.00 - $349.00
+                - generic [ref=e378]:
+                  - button "Compare" [ref=e379]:
+                    - img [ref=e380]
+                  - button "Quick view" [ref=e382]:
+                    - img [ref=e383]
+                  - link "Choose Options" [ref=e385]:
+                    - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-DRL-001/
+                    - img [ref=e386]
+            - article [ref=e388] [cursor=pointer]:
+              - link "ClearView ANSI Z87+ Safety Glasses Staff Pick" [ref=e389]:
+                - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-EYP-001/
+                - img "ClearView ANSI Z87+ Safety Glasses" [ref=e391]
+                - generic [ref=e392]: Staff Pick
+              - generic [ref=e393]:
+                - heading "ClearView ANSI Z87+ Safety Glasses" [level=3] [ref=e394]:
+                  - link "ClearView ANSI Z87+ Safety Glasses" [ref=e395]:
+                    - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-EYP-001/
+                - generic [ref=e396]: IND-EYP-001
+                - img "ClearView ANSI Z87+ Safety Glasses rating is 5 of 5" [ref=e399]:
+                  - img [ref=e401]
+                  - img [ref=e404]
+                  - img [ref=e407]
+                  - img [ref=e410]
+                  - img [ref=e413]
+                - generic [ref=e415]:
+                  - generic [ref=e417]: $14.00
+                  - generic [ref=e419]: $12.00 - $14.00
+                - generic [ref=e420]:
+                  - button "Compare" [ref=e421]:
+                    - img [ref=e422]
+                  - button "Quick view" [ref=e424]:
+                    - img [ref=e425]
+                  - link "Choose Options" [ref=e427]:
+                    - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-EYP-001/
+                    - img [ref=e428]
+            - article [ref=e430] [cursor=pointer]:
+              - link "CutShield Level A5 Gloves Cut Resistant Staff Pick" [ref=e431]:
+                - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-GLV-001/
+                - img "CutShield Level A5 Gloves Cut Resistant" [ref=e433]
+                - generic [ref=e434]: Staff Pick
+              - generic [ref=e435]:
+                - heading "CutShield Level A5 Gloves Cut Resistant" [level=3] [ref=e436]:
+                  - link "CutShield Level A5 Gloves Cut Resistant" [ref=e437]:
+                    - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-GLV-001/
+                - generic [ref=e438]: IND-GLV-001
+                - img "CutShield Level A5 Gloves Cut Resistant rating is 5 of 5" [ref=e441]:
+                  - img [ref=e443]
+                  - img [ref=e446]
+                  - img [ref=e449]
+                  - img [ref=e452]
+                  - img [ref=e455]
+                - generic [ref=e457]:
+                  - generic [ref=e459]: $22.00
+                  - generic [ref=e461]: $18.00
+                - generic [ref=e462]:
+                  - button "Compare" [ref=e463]:
+                    - img [ref=e464]
+                  - button "Quick view" [ref=e466]:
+                    - img [ref=e467]
+                  - link "Choose Options" [ref=e469]:
+                    - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-GLV-001/
+                    - img [ref=e470]
+            - article [ref=e472] [cursor=pointer]:
+              - link "Vortex Grinder 4.5 Inch Angle Grinder Staff Pick" [ref=e473]:
+                - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-GRD-001/
+                - img "Vortex Grinder 4.5 Inch Angle Grinder" [ref=e475]
+                - generic [ref=e476]: Staff Pick
+              - generic [ref=e477]:
+                - heading "Vortex Grinder 4.5 Inch Angle Grinder" [level=3] [ref=e478]:
+                  - link "Vortex Grinder 4.5 Inch Angle Grinder" [ref=e479]:
+                    - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-GRD-001/
+                - generic [ref=e480]: IND-GRD-001
+                - img "Vortex Grinder 4.5 Inch Angle Grinder rating is 5 of 5" [ref=e483]:
+                  - img [ref=e485]
+                  - img [ref=e488]
+                  - img [ref=e491]
+                  - img [ref=e494]
+                  - img [ref=e497]
+                - generic [ref=e499]:
+                  - generic [ref=e501]: $109.00
+                  - generic [ref=e503]: $89.00
+                - generic [ref=e504]:
+                  - button "Compare" [ref=e505]:
+                    - img [ref=e506]
+                  - button "Quick view" [ref=e508]:
+                    - img [ref=e509]
+                  - link "Choose Options" [ref=e511]:
+                    - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-GRD-001/
+                    - img [ref=e512]
+            - article [ref=e514] [cursor=pointer]:
+              - link "HardShield Type II Hard Hat Class E Staff Pick" [ref=e515]:
+                - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-HEP-001/
+                - img "HardShield Type II Hard Hat Class E" [ref=e517]
+                - generic [ref=e518]: Staff Pick
+              - generic [ref=e519]:
+                - heading "HardShield Type II Hard Hat Class E" [level=3] [ref=e520]:
+                  - link "HardShield Type II Hard Hat Class E" [ref=e521]:
+                    - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-HEP-001/
+                - generic [ref=e522]: IND-HEP-001
+                - img "HardShield Type II Hard Hat Class E rating is 5 of 5" [ref=e525]:
+                  - img [ref=e527]
+                  - img [ref=e530]
+                  - img [ref=e533]
+                  - img [ref=e536]
+                  - img [ref=e539]
+                - generic [ref=e541]:
+                  - generic [ref=e543]: $52.00
+                  - generic [ref=e545]: $45.00
+                - generic [ref=e546]:
+                  - button "Compare" [ref=e547]:
+                    - img [ref=e548]
+                  - button "Quick view" [ref=e550]:
+                    - img [ref=e551]
+                  - link "Choose Options" [ref=e553]:
+                    - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-HEP-001/
+                    - img [ref=e554]
+            - article [ref=e556] [cursor=pointer]:
+              - link "SoundStop 33dB Ear Muffs Class A Staff Pick" [ref=e557]:
+                - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-HAP-001/
+                - img "SoundStop 33dB Ear Muffs Class A" [ref=e559]
+                - generic [ref=e560]: Staff Pick
+              - generic [ref=e561]:
+                - heading "SoundStop 33dB Ear Muffs Class A" [level=3] [ref=e562]:
+                  - link "SoundStop 33dB Ear Muffs Class A" [ref=e563]:
+                    - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-HAP-001/
+                - generic [ref=e564]: IND-HAP-001
+                - img "SoundStop 33dB Ear Muffs Class A rating is 5 of 5" [ref=e567]:
+                  - img [ref=e569]
+                  - img [ref=e572]
+                  - img [ref=e575]
+                  - img [ref=e578]
+                  - img [ref=e581]
+                - generic [ref=e583]:
+                  - generic [ref=e585]: $32.00
+                  - generic [ref=e587]: $18.00 - $28.00
+                - generic [ref=e588]:
+                  - button "Compare" [ref=e589]:
+                    - img [ref=e590]
+                  - button "Quick view" [ref=e592]:
+                    - img [ref=e593]
+                  - link "Choose Options" [ref=e595]:
+                    - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-HAP-001/
+                    - img [ref=e596]
+        - generic [ref=e598]:
+          - generic [ref=e599]:
+            - generic [ref=e600]:
+              - img [ref=e602]
+              - heading "New Arrivals" [level=2] [ref=e604]
+              - generic [ref=e605]: Just In
+            - generic [ref=e606]:
+              - button "Previous" [ref=e607] [cursor=pointer]:
+                - img [ref=e608]
+              - button "Next" [ref=e610] [cursor=pointer]:
+                - img [ref=e611]
+          - generic [ref=e614]:
+            - article [ref=e615] [cursor=pointer]:
+              - link "CoreTec Reciprocating Saw 15 Amp New" [ref=e616]:
+                - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-SAW-002/
+                - img "CoreTec Reciprocating Saw 15 Amp" [ref=e618]
+                - generic [ref=e619]: New
+              - generic [ref=e620]:
+                - heading "CoreTec Reciprocating Saw 15 Amp" [level=3] [ref=e621]:
+                  - link "CoreTec Reciprocating Saw 15 Amp" [ref=e622]:
+                    - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-SAW-002/
+                - generic [ref=e623]: IND-SAW-002
+                - img "CoreTec Reciprocating Saw 15 Amp rating is 5 of 5" [ref=e626]:
+                  - img [ref=e628]
+                  - img [ref=e631]
+                  - img [ref=e634]
+                  - img [ref=e637]
+                  - img [ref=e640]
+                - generic [ref=e642]:
+                  - generic [ref=e644]: $189.00
+                  - generic [ref=e646]: $169.00
+                - generic [ref=e647]:
+                  - button "Compare" [ref=e648]:
+                    - img [ref=e649]
+                  - button "Quick view" [ref=e651]:
+                    - img [ref=e652]
+                  - link "Choose Options" [ref=e654]:
+                    - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-SAW-002/
+                    - img [ref=e655]
+            - article [ref=e657] [cursor=pointer]:
+              - link "ProRig Safety Master Slings 2-Ply 4 inch x 8 ft New" [ref=e658]:
+                - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-RIG-002/
+                - img "ProRig Safety Master Slings 2-Ply 4 inch x 8 ft" [ref=e660]
+                - generic [ref=e661]: New
+              - generic [ref=e662]:
+                - heading "ProRig Safety Master Slings 2-Ply 4 inch x 8 ft" [level=3] [ref=e663]:
+                  - link "ProRig Safety Master Slings 2-Ply 4 inch x 8 ft" [ref=e664]:
+                    - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-RIG-002/
+                - generic [ref=e665]: IND-RIG-002
+                - img "ProRig Safety Master Slings 2-Ply 4 inch x 8 ft rating is 5 of 5" [ref=e668]:
+                  - img [ref=e670]
+                  - img [ref=e673]
+                  - img [ref=e676]
+                  - img [ref=e679]
+                  - img [ref=e682]
+                - generic [ref=e684]:
+                  - generic [ref=e686]: $329.00
+                  - generic [ref=e688]: $289.00 - $349.00
+                - generic [ref=e689]:
+                  - button "Compare" [ref=e690]:
+                    - img [ref=e691]
+                  - button "Quick view" [ref=e693]:
+                    - img [ref=e694]
+                  - link "Choose Options" [ref=e696]:
+                    - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-RIG-002/
+                    - img [ref=e697]
+            - article [ref=e699] [cursor=pointer]:
+              - link "Aegis Disposable N95 Respirators 20pc New" [ref=e700]:
+                - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-RSP-002/
+                - img "Aegis Disposable N95 Respirators 20pc" [ref=e702]
+                - generic [ref=e703]: New
+              - generic [ref=e704]:
+                - heading "Aegis Disposable N95 Respirators 20pc" [level=3] [ref=e705]:
+                  - link "Aegis Disposable N95 Respirators 20pc" [ref=e706]:
+                    - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-RSP-002/
+                - generic [ref=e707]: IND-RSP-002
+                - img "Aegis Disposable N95 Respirators 20pc rating is 5 of 5" [ref=e710]:
+                  - img [ref=e712]
+                  - img [ref=e715]
+                  - img [ref=e718]
+                  - img [ref=e721]
+                  - img [ref=e724]
+                - generic [ref=e726]:
+                  - generic [ref=e728]: $38.00
+                  - generic [ref=e730]: $32.00
+                - generic [ref=e731]:
+                  - button "Compare" [ref=e732]:
+                    - img [ref=e733]
+                  - button "Quick view" [ref=e735]:
+                    - img [ref=e736]
+                  - link "Choose Options" [ref=e738]:
+                    - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-RSP-002/
+                    - img [ref=e739]
+            - article [ref=e741] [cursor=pointer]:
+              - link "AirForce Finish Nailer 2-1/2 Inch 16 Gauge New" [ref=e742]:
+                - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-PNU-002/
+                - img "AirForce Finish Nailer 2-1/2 Inch 16 Gauge" [ref=e744]
+                - generic [ref=e745]: New
+              - generic [ref=e746]:
+                - heading "AirForce Finish Nailer 2-1/2 Inch 16 Gauge" [level=3] [ref=e747]:
+                  - link "AirForce Finish Nailer 2-1/2 Inch 16 Gauge" [ref=e748]:
+                    - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-PNU-002/
+                - generic [ref=e749]: IND-PNU-002
+                - img "AirForce Finish Nailer 2-1/2 Inch 16 Gauge rating is 5 of 5" [ref=e752]:
+                  - img [ref=e754]
+                  - img [ref=e757]
+                  - img [ref=e760]
+                  - img [ref=e763]
+                  - img [ref=e766]
+                - generic [ref=e768]:
+                  - generic [ref=e770]: $279.00
+                  - generic [ref=e772]: $249.00 - $319.00
+                - generic [ref=e773]:
+                  - button "Compare" [ref=e774]:
+                    - img [ref=e775]
+                  - button "Quick view" [ref=e777]:
+                    - img [ref=e778]
+                  - link "Choose Options" [ref=e780]:
+                    - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-PNU-002/
+                    - img [ref=e781]
+            - article [ref=e783] [cursor=pointer]:
+              - link "TitanGrip Locking Plier Set 3pc New" [ref=e784]:
+                - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-PLR-002/
+                - img "TitanGrip Locking Plier Set 3pc" [ref=e786]
+                - generic [ref=e787]: New
+              - generic [ref=e788]:
+                - heading "TitanGrip Locking Plier Set 3pc" [level=3] [ref=e789]:
+                  - link "TitanGrip Locking Plier Set 3pc" [ref=e790]:
+                    - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-PLR-002/
+                - generic [ref=e791]: IND-PLR-002
+                - img "TitanGrip Locking Plier Set 3pc rating is 5 of 5" [ref=e794]:
+                  - img [ref=e796]
+                  - img [ref=e799]
+                  - img [ref=e802]
+                  - img [ref=e805]
+                  - img [ref=e808]
+                - generic [ref=e810]:
+                  - generic [ref=e812]: $69.00
+                  - generic [ref=e814]: $59.00 - $104.00
+                - generic [ref=e815]:
+                  - button "Compare" [ref=e816]:
+                    - img [ref=e817]
+                  - button "Quick view" [ref=e819]:
+                    - img [ref=e820]
+                  - link "Choose Options" [ref=e822]:
+                    - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-PLR-002/
+                    - img [ref=e823]
+            - article [ref=e825] [cursor=pointer]:
+              - link "IronClad Tape Measure 25 ft Heavy Duty New" [ref=e826]:
+                - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-MET-002/
+                - img "IronClad Tape Measure 25 ft Heavy Duty" [ref=e828]
+                - generic [ref=e829]: New
+              - generic [ref=e830]:
+                - heading "IronClad Tape Measure 25 ft Heavy Duty" [level=3] [ref=e831]:
+                  - link "IronClad Tape Measure 25 ft Heavy Duty" [ref=e832]:
+                    - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-MET-002/
+                - generic [ref=e833]: IND-MET-002
+                - img "IronClad Tape Measure 25 ft Heavy Duty rating is 5 of 5" [ref=e836]:
+                  - img [ref=e838]
+                  - img [ref=e841]
+                  - img [ref=e844]
+                  - img [ref=e847]
+                  - img [ref=e850]
+                - generic [ref=e852]:
+                  - generic [ref=e854]: $34.00
+                  - generic [ref=e856]: $29.00
+                - generic [ref=e857]:
+                  - button "Compare" [ref=e858]:
+                    - img [ref=e859]
+                  - button "Quick view" [ref=e861]:
+                    - img [ref=e862]
+                  - link "Choose Options" [ref=e864]:
+                    - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-MET-002/
+                    - img [ref=e865]
+            - article [ref=e867] [cursor=pointer]:
+              - link "CoreTec Impact Driver 3/8 Inch 18V New" [ref=e868]:
+                - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-IMP-002/
+                - img "CoreTec Impact Driver 3/8 Inch 18V" [ref=e870]
+                - generic [ref=e871]: New
+              - generic [ref=e872]:
+                - heading "CoreTec Impact Driver 3/8 Inch 18V" [level=3] [ref=e873]:
+                  - link "CoreTec Impact Driver 3/8 Inch 18V" [ref=e874]:
+                    - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-IMP-002/
+                - generic [ref=e875]: IND-IMP-002
+                - img "CoreTec Impact Driver 3/8 Inch 18V rating is 4 of 5" [ref=e878]:
+                  - img [ref=e880]
+                  - img [ref=e883]
+                  - img [ref=e886]
+                  - img [ref=e889]
+                  - img [ref=e892]
+                - generic [ref=e894]:
+                  - generic [ref=e896]: $219.00
+                  - generic [ref=e898]: $189.00
+                - generic [ref=e899]:
+                  - button "Compare" [ref=e900]:
+                    - img [ref=e901]
+                  - button "Quick view" [ref=e903]:
+                    - img [ref=e904]
+                  - link "Choose Options" [ref=e906]:
+                    - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-IMP-002/
+                    - img [ref=e907]
+            - article [ref=e909] [cursor=pointer]:
+              - link "LiftKing 6-Ton Chain Hoist Lever Puller New" [ref=e910]:
+                - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-HST-002/
+                - img "LiftKing 6-Ton Chain Hoist Lever Puller" [ref=e912]
+                - generic [ref=e913]: New
+              - generic [ref=e914]:
+                - heading "LiftKing 6-Ton Chain Hoist Lever Puller" [level=3] [ref=e915]:
+                  - link "LiftKing 6-Ton Chain Hoist Lever Puller" [ref=e916]:
+                    - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-HST-002/
+                - generic [ref=e917]: IND-HST-002
+                - img "LiftKing 6-Ton Chain Hoist Lever Puller rating is 5 of 5" [ref=e920]:
+                  - img [ref=e922]
+                  - img [ref=e925]
+                  - img [ref=e928]
+                  - img [ref=e931]
+                  - img [ref=e934]
+                - generic [ref=e936]:
+                  - generic [ref=e938]: $399.00
+                  - generic [ref=e940]: $349.00 - $749.00
+                - generic [ref=e941]:
+                  - button "Compare" [ref=e942]:
+                    - img [ref=e943]
+                  - button "Quick view" [ref=e945]:
+                    - img [ref=e946]
+                  - link "Choose Options" [ref=e948]:
+                    - /url: https://eshopping-industrial-demo.mybigcommerce.com/IND-HST-002/
+                    - img [ref=e949]
+        - generic [ref=e952]:
+          - generic [ref=e957]:
+            - generic [ref=e959]:
+              - generic [ref=e960]:
+                - generic [ref=e961]: 15+
+                - generic [ref=e962]: YEARS IN INDUSTRIAL
+              - generic [ref=e963]:
+                - generic [ref=e964]: 3,500+
+                - generic [ref=e965]: INDUSTRIAL SKUS
+              - generic [ref=e966]:
+                - generic [ref=e967]: 8M+
+                - generic [ref=e968]: Orders Shipped
+              - generic [ref=e969]:
+                - generic [ref=e970]: 99%
+                - generic [ref=e971]: Customer Satisfaction
+            - generic [ref=e972]:
+              - generic [ref=e973]: Why Choose Us
+              - heading "Industrial Tools That Last. Pricing That Works." [level=2] [ref=e974]:
+                - text: Industrial Tools That Last.
+                - emphasis [ref=e975]: Pricing That Works.
+              - paragraph [ref=e976]: From welding gear to power tools and shop supplies — every product is stocked for fast dispatch and tested to keep your jobsite running.
+              - generic [ref=e977]:
+                - generic [ref=e978]:
+                  - img [ref=e980]
+                  - generic [ref=e982]:
+                    - generic [ref=e983]: Heavy-Duty Built
+                    - generic [ref=e984]: Tools rated for daily commercial use, with cushioned grips and steel construction that outlast cheap alternatives.
+                - generic [ref=e985]:
+                  - img [ref=e987]
+                  - generic [ref=e989]:
+                    - generic [ref=e990]: Fast Bulk Fulfillment
+                    - generic [ref=e991]: Same-day dispatch on stock items and case pricing trusted by 9,000+ contractors and shops.
+                - generic [ref=e992]:
+                  - img [ref=e994]
+                  - generic [ref=e996]:
+                    - generic [ref=e997]: Pro-Grade Warranty
+                    - generic [ref=e998]: Lifetime guarantees on hand tools, multi-year coverage on power tools — built to back our quality.
+          - generic [ref=e1001]:
+            - banner [ref=e1002]:
+              - generic [ref=e1003]:
+                - generic [ref=e1004]: Reviews
+                - heading "Customer Reviews" [level=2] [ref=e1005]
+              - link "View all reviews" [ref=e1006] [cursor=pointer]:
+                - /url: "#reviews"
+                - text: View all 2,400
+                - img [ref=e1007]
+            - region "Rating summary" [ref=e1009]:
+              - generic [ref=e1010]:
+                - generic [ref=e1011]:
+                  - generic [ref=e1012]: "4.8"
+                  - generic [ref=e1013]: out of 5
+                - generic [ref=e1014]:
+                  - img [ref=e1015]
+                  - img [ref=e1017]
+                  - img [ref=e1019]
+                  - img [ref=e1021]
+                  - img [ref=e1023]
+                - generic [ref=e1025]: Based on 2,400+ verified reviews
+              - list [ref=e1026]:
+                - listitem [ref=e1027]:
+                  - generic [ref=e1028]:
+                    - text: "5"
+                    - img [ref=e1029]
+                  - generic [ref=e1033]: 78%
+                  - generic [ref=e1034]: 1,872
+                - listitem [ref=e1035]:
+                  - generic [ref=e1036]:
+                    - text: "4"
+                    - img [ref=e1037]
+                  - generic [ref=e1041]: 18%
+                  - generic [ref=e1042]: "432"
+                - listitem [ref=e1043]:
+                  - generic [ref=e1044]:
+                    - text: "3"
+                    - img [ref=e1045]
+                  - generic [ref=e1049]: 3%
+                  - generic [ref=e1050]: "72"
+                - listitem [ref=e1051]:
+                  - generic [ref=e1052]:
+                    - text: "2"
+                    - img [ref=e1053]
+                  - generic [ref=e1057]: 1%
+                  - generic [ref=e1058]: "24"
+                - listitem [ref=e1059]:
+                  - generic [ref=e1060]:
+                    - text: "1"
+                    - img [ref=e1061]
+                  - generic [ref=e1065]: <1%
+                  - generic [ref=e1066]: "0"
+              - generic [ref=e1067]:
+                - generic [ref=e1068]:
+                  - img [ref=e1070]
+                  - generic [ref=e1072]:
+                    - strong [ref=e1073]: 98%
+                    - text: recommend
+                - generic [ref=e1074]:
+                  - img [ref=e1076]
+                  - generic [ref=e1078]:
+                    - strong [ref=e1079]: 100%
+                    - text: verified
+                - generic [ref=e1080]:
+                  - img [ref=e1082]
+                  - generic [ref=e1084]:
+                    - strong [ref=e1085]: 87%
+                    - text: reorder
+            - generic [ref=e1086]:
+              - button "Previous reviews" [ref=e1087] [cursor=pointer]:
+                - img [ref=e1088]
+              - button "Next reviews" [ref=e1090] [cursor=pointer]:
+                - img [ref=e1091]
+              - generic [ref=e1093]:
+                - article [ref=e1094]:
+                  - generic: “
+                  - generic [ref=e1095]:
+                    - generic [ref=e1096]:
+                      - img [ref=e1097]
+                      - img [ref=e1099]
+                      - img [ref=e1101]
+                      - img [ref=e1103]
+                      - img [ref=e1105]
+                    - generic [ref=e1107]: 2 days ago
+                  - paragraph [ref=e1108]: Switched our entire fab shop to their welding gear. Better arc stability and longer consumable life than the brand we used for years.
+                  - generic [ref=e1109]:
+                    - generic [ref=e1110]: DM
+                    - generic [ref=e1111]:
+                      - strong [ref=e1112]:
+                        - text: Dana M.
+                        - generic "Verified buyer" [ref=e1113]:
+                          - img [ref=e1114]
+                      - generic [ref=e1116]: Shop Foreman
+                - article [ref=e1117]:
+                  - generic: “
+                  - generic [ref=e1118]:
+                    - generic [ref=e1119]:
+                      - img [ref=e1120]
+                      - img [ref=e1122]
+                      - img [ref=e1124]
+                      - img [ref=e1126]
+                      - img [ref=e1128]
+                    - generic [ref=e1130]: 1 week ago
+                  - paragraph [ref=e1131]: The cordless drills hold a charge through a full day on the jobsite. Cases of fasteners ship next day every time.
+                  - generic [ref=e1132]:
+                    - generic [ref=e1133]: EK
+                    - generic [ref=e1134]:
+                      - strong [ref=e1135]:
+                        - text: Erin K.
+                        - generic "Verified buyer" [ref=e1136]:
+                          - img [ref=e1137]
+                      - generic [ref=e1139]: Contractor
+                - article [ref=e1140]:
+                  - generic: “
+                  - generic [ref=e1141]:
+                    - generic [ref=e1142]:
+                      - img [ref=e1143]
+                      - img [ref=e1145]
+                      - img [ref=e1147]
+                      - img [ref=e1149]
+                      - img [ref=e1151]
+                    - generic [ref=e1153]: 2 weeks ago
+                  - paragraph [ref=e1154]: PPE arrives on a pallet, on time, every time. Volume pricing keeps our safety budget predictable.
+                  - generic [ref=e1155]:
+                    - generic [ref=e1156]: RT
+                    - generic [ref=e1157]:
+                      - strong [ref=e1158]:
+                        - text: Ray T.
+                        - generic "Verified buyer" [ref=e1159]:
+                          - img [ref=e1160]
+                      - generic [ref=e1162]: Plant Manager
+                - article [ref=e1163]:
+                  - generic: “
+                  - generic [ref=e1164]:
+                    - generic [ref=e1165]:
+                      - img [ref=e1166]
+                      - img [ref=e1168]
+                      - img [ref=e1170]
+                      - img [ref=e1172]
+                      - img [ref=e1174]
+                    - generic [ref=e1176]: 3 weeks ago
+                  - paragraph [ref=e1177]: Right-spec replacement parts cut our downtime by 30%. Reordering by the case is effortless.
+                  - generic [ref=e1178]:
+                    - generic [ref=e1179]: SP
+                    - generic [ref=e1180]:
+                      - strong [ref=e1181]:
+                        - text: Sofia P.
+                        - generic "Verified buyer" [ref=e1182]:
+                          - img [ref=e1183]
+                      - generic [ref=e1185]: Maintenance Lead
+                - article [ref=e1186]:
+                  - generic: “
+                  - generic [ref=e1187]:
+                    - generic [ref=e1188]:
+                      - img [ref=e1189]
+                      - img [ref=e1191]
+                      - img [ref=e1193]
+                      - img [ref=e1195]
+                      - img [ref=e1197]
+                    - generic [ref=e1199]: 1 month ago
+                  - paragraph [ref=e1200]: Hoods and gloves shipped same day when I ran low before a big project. Saved my deadline.
+                  - generic [ref=e1201]:
+                    - generic [ref=e1202]: JL
+                    - generic [ref=e1203]:
+                      - strong [ref=e1204]:
+                        - text: Jordan L.
+                        - generic "Verified buyer" [ref=e1205]:
+                          - img [ref=e1206]
+                      - generic [ref=e1208]: Welder
+                - article [ref=e1209]:
+                  - generic: “
+                  - generic [ref=e1210]:
+                    - generic [ref=e1211]:
+                      - img [ref=e1212]
+                      - img [ref=e1214]
+                      - img [ref=e1216]
+                      - img [ref=e1218]
+                      - img [ref=e1220]
+                    - generic [ref=e1222]: 1 month ago
+                  - paragraph [ref=e1223]: Power tools arrive calibrated and ready. No more lost time on jobsite re-spec.
+                  - generic [ref=e1224]:
+                    - generic [ref=e1225]: MA
+                    - generic [ref=e1226]:
+                      - strong [ref=e1227]:
+                        - text: Marcus A.
+                        - generic "Verified buyer" [ref=e1228]:
+                          - img [ref=e1229]
+                      - generic [ref=e1231]: Site Supervisor
+                - article [ref=e1232]:
+                  - generic: “
+                  - generic [ref=e1233]:
+                    - generic [ref=e1234]:
+                      - img [ref=e1235]
+                      - img [ref=e1237]
+                      - img [ref=e1239]
+                      - img [ref=e1241]
+                      - img [ref=e1243]
+                    - generic [ref=e1245]: 2 months ago
+                  - paragraph [ref=e1246]: The eco mailers and paper void fill let us drop plastic entirely. Our customers love the sustainable switch.
+                  - generic [ref=e1247]:
+                    - generic [ref=e1248]: NB
+                    - generic [ref=e1249]:
+                      - strong [ref=e1250]:
+                        - text: Nina B.
+                        - generic "Verified buyer" [ref=e1251]:
+                          - img [ref=e1252]
+                      - generic [ref=e1254]: Subscription Box Founder
+                - article [ref=e1255]:
+                  - generic: “
+                  - generic [ref=e1256]:
+                    - generic [ref=e1257]:
+                      - img [ref=e1258]
+                      - img [ref=e1260]
+                      - img [ref=e1262]
+                      - img [ref=e1264]
+                      - img [ref=e1266]
+                    - generic [ref=e1268]: 2 months ago
+                  - paragraph [ref=e1269]: Double-wall cartons hold up across multiple carrier hand-offs. Breakage on heavy SKUs is basically gone.
+                  - generic [ref=e1270]:
+                    - generic [ref=e1271]: CT
+                    - generic [ref=e1272]:
+                      - strong [ref=e1273]:
+                        - text: Carlos T.
+                        - generic "Verified buyer" [ref=e1274]:
+                          - img [ref=e1275]
+                      - generic [ref=e1277]: 3PL Operations
+                - article [ref=e1278]:
+                  - generic: “
+                  - generic [ref=e1279]:
+                    - generic [ref=e1280]:
+                      - img [ref=e1281]
+                      - img [ref=e1283]
+                      - img [ref=e1285]
+                      - img [ref=e1287]
+                      - img [ref=e1289]
+                    - generic [ref=e1291]: 3 months ago
+                  - paragraph [ref=e1292]: Consistent board strength and accurate dimensions. We can plan pallet loads without surprises.
+                  - generic [ref=e1293]:
+                    - generic [ref=e1294]: HW
+                    - generic [ref=e1295]:
+                      - strong [ref=e1296]:
+                        - text: Hannah W.
+                        - generic "Verified buyer" [ref=e1297]:
+                          - img [ref=e1298]
+                      - generic [ref=e1300]: Retail Buyer
+                - article [ref=e1301]:
+                  - generic: “
+                  - generic [ref=e1302]:
+                    - generic [ref=e1303]:
+                      - img [ref=e1304]
+                      - img [ref=e1306]
+                      - img [ref=e1308]
+                      - img [ref=e1310]
+                      - img [ref=e1312]
+                    - generic [ref=e1314]: 3 months ago
+                  - paragraph [ref=e1315]: Poly mailers are light, tough, and cheap to ship. Exactly what I needed to scale my store.
+                  - generic [ref=e1316]:
+                    - generic [ref=e1317]: TV
+                    - generic [ref=e1318]:
+                      - strong [ref=e1319]:
+                        - text: Tom V.
+                        - generic "Verified buyer" [ref=e1320]:
+                          - img [ref=e1321]
+                      - generic [ref=e1323]: Dropship Seller
+                - article [ref=e1324]:
+                  - generic: “
+                  - generic [ref=e1325]:
+                    - generic [ref=e1326]:
+                      - img [ref=e1327]
+                      - img [ref=e1329]
+                      - img [ref=e1331]
+                      - img [ref=e1333]
+                      - img [ref=e1335]
+                    - generic [ref=e1337]: 4 months ago
+                  - paragraph [ref=e1338]: Their team helped me spec the right cushioning for fragile glassware. Damage claims dropped to near zero.
+                  - generic [ref=e1339]:
+                    - generic [ref=e1340]: GR
+                    - generic [ref=e1341]:
+                      - strong [ref=e1342]:
+                        - text: Grace R.
+                        - generic "Verified buyer" [ref=e1343]:
+                          - img [ref=e1344]
+                      - generic [ref=e1346]: Logistics Coordinator
+                - article [ref=e1347]:
+                  - generic: “
+                  - generic [ref=e1348]:
+                    - generic [ref=e1349]:
+                      - img [ref=e1350]
+                      - img [ref=e1352]
+                      - img [ref=e1354]
+                      - img [ref=e1356]
+                      - img [ref=e1358]
+                    - generic [ref=e1360]: 5 months ago
+                  - paragraph [ref=e1361]: Bulk tape and box bundles ship fast and the quality is consistent. Our go-to supplier now.
+                  - generic [ref=e1362]:
+                    - generic [ref=e1363]: PD
+                    - generic [ref=e1364]:
+                      - strong [ref=e1365]:
+                        - text: Priya D.
+                        - generic "Verified buyer" [ref=e1366]:
+                          - img [ref=e1367]
+                      - generic [ref=e1369]: Shop Foreman
+          - generic [ref=e1372]:
+            - generic [ref=e1374]:
+              - img [ref=e1376]
+              - heading "Industrial Resources & Guides" [level=2] [ref=e1378]
+            - generic [ref=e1379]:
+              - link "Power tools on workbench Guide Power Tool Selection Guide Choose the right drills, saws, and grinders for your trade and jobsite needs." [ref=e1380] [cursor=pointer]:
+                - /url: https://eshopping-industrial-demo.mybigcommerce.com/blog/
+                - generic [ref=e1381]:
+                  - generic [ref=e1382]:
+                    - img "Power tools on workbench" [ref=e1383]
+                    - generic [ref=e1384]:
+                      - img [ref=e1385]
+                      - text: Guide
+                  - generic [ref=e1387]:
+                    - heading "Power Tool Selection Guide" [level=3] [ref=e1388]
+                    - paragraph [ref=e1389]: Choose the right drills, saws, and grinders for your trade and jobsite needs.
+              - link "Industrial PPE gear Guide PPE Standards & Best Practices ANSI ratings, fit guides, and worker safety essentials for every job site." [ref=e1390] [cursor=pointer]:
+                - /url: https://eshopping-industrial-demo.mybigcommerce.com/blog/
+                - generic [ref=e1391]:
+                  - generic [ref=e1392]:
+                    - img "Industrial PPE gear" [ref=e1393]
+                    - generic [ref=e1394]:
+                      - img [ref=e1395]
+                      - text: Guide
+                  - generic [ref=e1397]:
+                    - heading "PPE Standards & Best Practices" [level=3] [ref=e1398]
+                    - paragraph [ref=e1399]: ANSI ratings, fit guides, and worker safety essentials for every job site.
+              - link "Welding equipment Guide Welding Equipment Setup Choose the right MIG, TIG, or stick welder for your shop and material." [ref=e1400] [cursor=pointer]:
+                - /url: https://eshopping-industrial-demo.mybigcommerce.com/blog/
+                - generic [ref=e1401]:
+                  - generic [ref=e1402]:
+                    - img "Welding equipment" [ref=e1403]
+                    - generic [ref=e1404]:
+                      - img [ref=e1405]
+                      - text: Guide
+                  - generic [ref=e1407]:
+                    - heading "Welding Equipment Setup" [level=3] [ref=e1408]
+                    - paragraph [ref=e1409]: Choose the right MIG, TIG, or stick welder for your shop and material.
+        - generic "Popular Brands" [ref=e1410]
+        - generic [ref=e1411]:
+          - generic [ref=e1412]:
+            - generic [ref=e1413]:
+              - img [ref=e1415]
+              - heading "Latest from the Blog" [level=2] [ref=e1417]
+            - link "View All Posts" [ref=e1418] [cursor=pointer]:
+              - /url: /blog/
+              - text: View All Posts
+              - img [ref=e1419]
+          - generic [ref=e1421]:
+            - article [ref=e1422]:
+              - link "Preventive Maintenance Schedule for Power Tools" [ref=e1423] [cursor=pointer]:
+                - /url: https://eshopping-industrial-demo.mybigcommerce.com/blog/preventive-maintenance-schedule-for-power-tools/
+                - img "Preventive Maintenance Schedule for Power Tools" [ref=e1424]
+              - generic [ref=e1425]:
+                - time [ref=e1426]: 2nd Apr 2026
+                - heading "Preventive Maintenance Schedule for Power Tools" [level=3] [ref=e1427]:
+                  - link "Preventive Maintenance Schedule for Power Tools" [ref=e1428] [cursor=pointer]:
+                    - /url: https://eshopping-industrial-demo.mybigcommerce.com/blog/preventive-maintenance-schedule-for-power-tools/
+                - paragraph [ref=e1429]: Power tools are expensive, and replacing worn-out equipment drains budgets fast. A structured preven
+                - link "Read More" [ref=e1430] [cursor=pointer]:
+                  - /url: https://eshopping-industrial-demo.mybigcommerce.com/blog/preventive-maintenance-schedule-for-power-tools/
+                  - text: Read More
+                  - img [ref=e1431]
+            - article [ref=e1433]:
+              - 'link "Rigging Safety: Inspecting Wire Rope and Slings Before Every Lift" [ref=e1434] [cursor=pointer]':
+                - /url: https://eshopping-industrial-demo.mybigcommerce.com/blog/rigging-safety-inspecting-wire-rope-and-slings-before-every-lift/
+                - 'img "Rigging Safety: Inspecting Wire Rope and Slings Before Every Lift" [ref=e1435]'
+              - generic [ref=e1436]:
+                - time [ref=e1437]: 2nd Apr 2026
+                - 'heading "Rigging Safety: Inspecting Wire Rope and Slings Before Every Lift" [level=3] [ref=e1438]':
+                  - 'link "Rigging Safety: Inspecting Wire Rope and Slings Before Every Lift" [ref=e1439] [cursor=pointer]':
+                    - /url: https://eshopping-industrial-demo.mybigcommerce.com/blog/rigging-safety-inspecting-wire-rope-and-slings-before-every-lift/
+                - paragraph [ref=e1440]: Wire rope and synthetic slings are the critical link between the crane and the load. A failure durin
+                - link "Read More" [ref=e1441] [cursor=pointer]:
+                  - /url: https://eshopping-industrial-demo.mybigcommerce.com/blog/rigging-safety-inspecting-wire-rope-and-slings-before-every-lift/
+                  - text: Read More
+                  - img [ref=e1442]
+            - article [ref=e1444]:
+              - 'link "Cut-Resistant Gloves: ANSI Ratings Explained for Shop Buyers" [ref=e1445] [cursor=pointer]':
+                - /url: https://eshopping-industrial-demo.mybigcommerce.com/blog/cut-resistant-gloves-ansi-ratings-explained-for-shop-buyers/
+                - 'img "Cut-Resistant Gloves: ANSI Ratings Explained for Shop Buyers" [ref=e1446]'
+              - generic [ref=e1447]:
+                - time [ref=e1448]: 2nd Apr 2026
+                - 'heading "Cut-Resistant Gloves: ANSI Ratings Explained for Shop Buyers" [level=3] [ref=e1449]':
+                  - 'link "Cut-Resistant Gloves: ANSI Ratings Explained for Shop Buyers" [ref=e1450] [cursor=pointer]':
+                    - /url: https://eshopping-industrial-demo.mybigcommerce.com/blog/cut-resistant-gloves-ansi-ratings-explained-for-shop-buyers/
+                - paragraph [ref=e1451]: Cut-resistant gloves are rated on a scale from A1 (200-500 grams) to A9 (6,000+ grams) of force requ
+                - link "Read More" [ref=e1452] [cursor=pointer]:
+                  - /url: https://eshopping-industrial-demo.mybigcommerce.com/blog/cut-resistant-gloves-ansi-ratings-explained-for-shop-buyers/
+                  - text: Read More
+                  - img [ref=e1453]
+        - generic [ref=e1456]:
+          - generic [ref=e1457]:
+            - heading "Stay Updated with Our Newsletter" [level=3] [ref=e1458]:
+              - text: Stay Updated with
+              - emphasis [ref=e1459]: Our Newsletter
+            - paragraph [ref=e1460]: Product launches, field tips, and exclusive offers in your inbox.
+          - generic [ref=e1461]:
+            - textbox "Your email address" [ref=e1462]
+            - button "Subscribe to our newsletter" [ref=e1463] [cursor=pointer]
+        - generic [ref=e1465]:
+          - generic [ref=e1469]:
+            - heading "Your Complete Industrial Supply Source" [level=2] [ref=e1470]
+            - paragraph [ref=e1471]: We supply the tools, welding gear, PPE, and shop supplies that keep contractors, fabricators, and maintenance teams moving. Our catalog spans hand tools, power tools, welding equipment, safety gear, and shop consumables — all stocked in cases and on pallets for fast, predictable reordering.
+            - paragraph [ref=e1472]: From hand tools to heavy welding equipment, every product is chosen to outlast the alternatives and keep your jobsite or shop running. Browse trusted brands and pro-grade gear used by thousands of trades professionals every day.
+          - generic [ref=e1475]:
+            - generic [ref=e1476]:
+              - heading "Need help spec’ing tools? Talk to an Industrial Specialist" [level=3] [ref=e1477]:
+                - text: Need help spec’ing tools?
+                - emphasis [ref=e1478]: Talk to an Industrial Specialist
+              - paragraph [ref=e1479]: Our specialists help you spec the right welder, drill, or PPE for your jobsite. Call or chat anytime.
+            - generic [ref=e1480]:
+              - link "Request a Quote" [ref=e1481] [cursor=pointer]:
+                - /url: /contact-us/
+                - text: Request a Quote
+                - img [ref=e1482]
+              - link "(800) 555-0123" [ref=e1484] [cursor=pointer]:
+                - /url: tel:18005550123
+                - img [ref=e1485]
+                - text: (800) 555-0123
+  - contentinfo [ref=e1487]:
+    - generic [ref=e1488]:
+      - generic [ref=e1489]:
+        - link "eShopping Industrial" [ref=e1491] [cursor=pointer]:
+          - /url: https://eshopping-industrial-demo.mybigcommerce.com/
+          - img "eShopping Industrial" [ref=e1493]
+        - generic [ref=e1497]: eShopping Industrial Demo — Industrial tools, welding, safety, and shop supplies built to last.
+        - generic [ref=e1498]:
+          - link "Facebook" [ref=e1499] [cursor=pointer]:
+            - /url: https://facebook.com/papathemes
+            - img [ref=e1500]
+          - link "Pinterest" [ref=e1502] [cursor=pointer]:
+            - /url: https://pinterest.com/papathemes
+            - img [ref=e1503]
+          - link "YouTube" [ref=e1505] [cursor=pointer]:
+            - /url: https://youtube.com/papathemes
+            - img [ref=e1506]
+          - link "Instagram" [ref=e1508] [cursor=pointer]:
+            - /url: https://instagram.com/papathemes
+            - img [ref=e1509]
+          - link "LinkedIn" [ref=e1511] [cursor=pointer]:
+            - /url: https://linkedin.com/papathemes
+            - img [ref=e1512]
+      - generic [ref=e1514]:
+        - heading "Navigate" [level=4] [ref=e1515]
+        - list [ref=e1516]:
+          - listitem [ref=e1517]:
+            - link "About" [ref=e1518] [cursor=pointer]:
+              - /url: https://eshopping-industrial-demo.mybigcommerce.com/about/
+          - listitem [ref=e1519]:
+            - link "Help" [ref=e1520] [cursor=pointer]:
+              - /url: https://eshopping-industrial-demo.mybigcommerce.com/help/
+          - listitem [ref=e1521]:
+            - link "Contact Us" [ref=e1522] [cursor=pointer]:
+              - /url: https://eshopping-industrial-demo.mybigcommerce.com/contact-us/
+          - listitem [ref=e1523]:
+            - link "Promotions" [ref=e1524] [cursor=pointer]:
+              - /url: https://eshopping-industrial-demo.mybigcommerce.com/promotions/
+          - listitem [ref=e1525]:
+            - link "Blog" [ref=e1526] [cursor=pointer]:
+              - /url: https://eshopping-industrial-demo.mybigcommerce.com/blog/
+          - listitem [ref=e1527]:
+            - link "Sitemap" [ref=e1528] [cursor=pointer]:
+              - /url: https://eshopping-industrial-demo.mybigcommerce.com/sitemap.php
+      - generic [ref=e1529]:
+        - heading "Categories" [level=4] [ref=e1530]
+        - list [ref=e1531]:
+          - listitem [ref=e1532]:
+            - link "Shop All" [ref=e1533] [cursor=pointer]:
+              - /url: https://eshopping-industrial-demo.mybigcommerce.com/shop-all/
+          - listitem [ref=e1534]:
+            - link "Tools" [ref=e1535] [cursor=pointer]:
+              - /url: https://eshopping-industrial-demo.mybigcommerce.com/tools/
+          - listitem [ref=e1536]:
+            - link "Safety & PPE" [ref=e1537] [cursor=pointer]:
+              - /url: https://eshopping-industrial-demo.mybigcommerce.com/safety-gear/
+          - listitem [ref=e1538]:
+            - link "Welding Equipment" [ref=e1539] [cursor=pointer]:
+              - /url: https://eshopping-industrial-demo.mybigcommerce.com/welding/
+          - listitem [ref=e1540]:
+            - link "Air Compressors" [ref=e1541] [cursor=pointer]:
+              - /url: https://eshopping-industrial-demo.mybigcommerce.com/compressors/
+          - listitem [ref=e1542]:
+            - link "Material Handling" [ref=e1543] [cursor=pointer]:
+              - /url: https://eshopping-industrial-demo.mybigcommerce.com/material-handling/
+      - generic [ref=e1544]:
+        - heading "Brands" [level=4] [ref=e1545]
+        - list [ref=e1546]:
+          - listitem [ref=e1547]:
+            - link "ShieldPro" [ref=e1548] [cursor=pointer]:
+              - /url: https://eshopping-industrial-demo.mybigcommerce.com/shieldpro/
+          - listitem [ref=e1549]:
+            - link "WeldMaster" [ref=e1550] [cursor=pointer]:
+              - /url: https://eshopping-industrial-demo.mybigcommerce.com/weldmaster/
+          - listitem [ref=e1551]:
+            - link "SteelCore" [ref=e1552] [cursor=pointer]:
+              - /url: https://eshopping-industrial-demo.mybigcommerce.com/steelcore/
+          - listitem [ref=e1553]:
+            - link "View All" [ref=e1554] [cursor=pointer]:
+              - /url: https://eshopping-industrial-demo.mybigcommerce.com/brands/
+    - generic [ref=e1555]:
+      - generic [ref=e1556]: © 2026 eShopping Industrial Demo. All rights reserved.
+      - generic [ref=e1557]:
+        - text: Powered by
+        - link "BigCommerce" [ref=e1558] [cursor=pointer]:
+          - /url: https://www.bigcommerce.com
+        - text: · Designed by
+        - link "PapaThemes.com" [ref=e1559] [cursor=pointer]:
+          - /url: https://papathemes.com

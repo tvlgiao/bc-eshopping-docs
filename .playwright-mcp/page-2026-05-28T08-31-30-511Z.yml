@@ -1,0 +1,1658 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+  - generic [ref=e6]:
+    - strong [ref=e7]: NEW CUSTOMER?
+    - text: Get
+    - strong [ref=e8]: 10% off
+    - text: your first order with code
+    - strong [ref=e9]: WELCOME10
+    - text: •
+    - link "Create Account →" [ref=e10] [cursor=pointer]:
+      - /url: /login.php?action=create_account
+  - generic [ref=e11]:
+    - generic [ref=e12]:
+      - generic [ref=e13]: Welcome to eShopping Electronics Demo
+      - link "1500 Tech Plaza, Suite 200, San Jose, CA 95110, United States" [ref=e15] [cursor=pointer]:
+        - /url: "#"
+        - img [ref=e16]
+        - text: 1500 Tech Plaza, Suite 200, San Jose, CA 95110, United States
+    - generic [ref=e17]:
+      - link "+1 (800) 555-0100" [ref=e18] [cursor=pointer]:
+        - /url: tel:+1 (800) 555-0100
+        - img [ref=e19]
+        - text: +1 (800) 555-0100
+      - generic [ref=e21]:
+        - button "Sign in" [ref=e22] [cursor=pointer]
+        - link "Register" [ref=e23] [cursor=pointer]:
+          - /url: https://eshopping-electronics-demo.mybigcommerce.com/login.php?action=create_account
+        - button "USD" [ref=e26] [cursor=pointer]:
+          - generic [ref=e28]: USD
+          - img [ref=e29]
+      - generic [ref=e31]:
+        - link "Facebook" [ref=e32] [cursor=pointer]:
+          - /url: https://facebook.com/papathemes
+          - img [ref=e33]
+        - link "Pinterest" [ref=e35] [cursor=pointer]:
+          - /url: https://pinterest.com/papathemes
+          - img [ref=e36]
+        - link "YouTube" [ref=e38] [cursor=pointer]:
+          - /url: https://youtube.com/@papathemes
+          - img [ref=e39]
+        - link "Instagram" [ref=e41] [cursor=pointer]:
+          - /url: https://instagram.com/papathemes
+          - img [ref=e42]
+        - link "LinkedIn" [ref=e44] [cursor=pointer]:
+          - /url: https://linkedin.com/company/papathemes
+          - img [ref=e45]
+  - banner [ref=e47]:
+    - generic [ref=e48]:
+      - link "eShopping Electronics Demo" [ref=e50] [cursor=pointer]:
+        - /url: https://eshopping-electronics-demo.mybigcommerce.com/
+        - img "eShopping Electronics Demo" [ref=e52]
+      - generic [ref=e54]:
+        - link "About" [ref=e56] [cursor=pointer]:
+          - /url: https://eshopping-electronics-demo.mybigcommerce.com/about/
+          - text: About
+          - img [ref=e57]
+        - link "Help" [ref=e59] [cursor=pointer]:
+          - /url: https://eshopping-electronics-demo.mybigcommerce.com/help/
+          - text: Help
+          - img [ref=e60]
+        - link "Contact Us" [ref=e61] [cursor=pointer]:
+          - /url: https://eshopping-electronics-demo.mybigcommerce.com/contact-us/
+        - link "Blog" [ref=e62] [cursor=pointer]:
+          - /url: https://eshopping-electronics-demo.mybigcommerce.com/blog/
+        - link "Promotions" [ref=e63] [cursor=pointer]:
+          - /url: https://eshopping-electronics-demo.mybigcommerce.com/promotions/
+      - generic [ref=e64]:
+        - button "Select a category" [ref=e65] [cursor=pointer]:
+          - img [ref=e66]
+          - img [ref=e67]
+        - textbox "Search" [ref=e69]:
+          - /placeholder: Search for laptops & monitors...|
+        - button "Search by voice" [ref=e70] [cursor=pointer]:
+          - img [ref=e71]
+        - button "Search" [ref=e72] [cursor=pointer]:
+          - img [ref=e73]
+      - generic [ref=e74]:
+        - link "Wishlist" [ref=e75] [cursor=pointer]:
+          - /url: https://eshopping-electronics-demo.mybigcommerce.com/wishlist.php
+          - img [ref=e76]
+        - 'link "Cart: undefined items" [ref=e77] [cursor=pointer]':
+          - /url: /cart.php
+          - img [ref=e78]
+  - generic [ref=e79]:
+    - complementary [ref=e80]:
+      - generic [ref=e81]:
+        - button "Categories" [expanded] [ref=e82] [cursor=pointer]:
+          - img [ref=e83]
+          - heading "Categories" [level=3] [ref=e84]
+        - generic [ref=e86]:
+          - generic [ref=e88]:
+            - link "Electronics" [ref=e89] [cursor=pointer]:
+              - /url: https://eshopping-electronics-demo.mybigcommerce.com/electronics/
+              - img [ref=e91]
+              - text: Electronics
+            - button "Toggle Electronics" [ref=e92] [cursor=pointer]:
+              - img [ref=e93]
+          - link "Shop All" [ref=e96] [cursor=pointer]:
+            - /url: https://eshopping-electronics-demo.mybigcommerce.com/shop-all/
+            - img [ref=e98]
+            - text: Shop All
+          - generic [ref=e100]:
+            - link "Fashion" [ref=e101] [cursor=pointer]:
+              - /url: https://eshopping-electronics-demo.mybigcommerce.com/fashion/
+              - img [ref=e103]
+              - text: Fashion
+            - button "Toggle Fashion" [ref=e104] [cursor=pointer]:
+              - img [ref=e105]
+          - generic [ref=e107]:
+            - link "Home & Living" [ref=e108] [cursor=pointer]:
+              - /url: https://eshopping-electronics-demo.mybigcommerce.com/home-living/
+              - img [ref=e110]
+              - text: Home & Living
+            - button "Toggle Home & Living" [ref=e111] [cursor=pointer]:
+              - img [ref=e112]
+          - generic [ref=e114]:
+            - link "Sports & Outdoors" [ref=e115] [cursor=pointer]:
+              - /url: https://eshopping-electronics-demo.mybigcommerce.com/sports-outdoors/
+              - img [ref=e117]
+              - text: Sports & Outdoors
+            - button "Toggle Sports & Outdoors" [ref=e118] [cursor=pointer]:
+              - img [ref=e119]
+          - generic [ref=e121]:
+            - link "Beauty & Health" [ref=e122] [cursor=pointer]:
+              - /url: https://eshopping-electronics-demo.mybigcommerce.com/beauty-health/
+              - img [ref=e124]
+              - text: Beauty & Health
+            - button "Toggle Beauty & Health" [ref=e125] [cursor=pointer]:
+              - img [ref=e126]
+      - generic [ref=e127]:
+        - heading "Free Shipping $99+" [level=4] [ref=e128]
+        - paragraph [ref=e129]: Free shipping on all electronics orders over $99.
+        - link "Shop Deals" [ref=e130] [cursor=pointer]:
+          - /url: /shipping/
+          - generic [ref=e131]: Shop Deals
+          - img [ref=e132]
+    - generic [ref=e133]:
+      - generic [ref=e134]:
+        - generic [ref=e137]:
+          - heading "Next-Gen Laptops" [level=1] [ref=e138]
+          - paragraph [ref=e139]: Up to 40% off ultrabooks and creator laptops
+          - link "Shop Laptops" [ref=e141] [cursor=pointer]:
+            - /url: http:///computers-laptops/
+            - text: Shop Laptops
+            - img [ref=e142]
+        - generic [ref=e145]:
+          - heading "Audio Revolution" [level=1] [ref=e146]
+          - paragraph [ref=e147]: Studio headphones and wireless earbuds with ANC
+          - link "Discover Audio" [ref=e149] [cursor=pointer]:
+            - /url: http:///audio/
+            - text: Discover Audio
+            - img [ref=e150]
+        - generic [ref=e153]:
+          - heading "Smart Home Starter Kit" [level=1] [ref=e154]
+          - paragraph [ref=e155]: Automate your home from $89 — sensors, bulbs, hubs
+          - link "Start Smart" [ref=e157] [cursor=pointer]:
+            - /url: http:///smart-home/
+            - text: Start Smart
+            - img [ref=e158]
+        - generic [ref=e161]:
+          - heading "Gaming Season is Here" [level=1] [ref=e162]
+          - paragraph [ref=e163]: Consoles, mechanical keyboards, high-DPI mice
+          - link "Level Up" [ref=e165] [cursor=pointer]:
+            - /url: http:///gaming/
+            - text: Level Up
+            - img [ref=e166]
+        - button "Previous slide" [ref=e167] [cursor=pointer]:
+          - img [ref=e168]
+        - button "Next slide" [ref=e169] [cursor=pointer]:
+          - img [ref=e170]
+        - generic [ref=e171]:
+          - button "Go to slide 1" [ref=e172] [cursor=pointer]
+          - button "Go to slide 2" [ref=e173] [cursor=pointer]
+          - button "Go to slide 3" [ref=e174] [cursor=pointer]
+          - button "Go to slide 4" [ref=e175] [cursor=pointer]
+        - button "Pause carousel" [ref=e176] [cursor=pointer]:
+          - img [ref=e177]
+      - generic [ref=e178]:
+        - generic [ref=e179]:
+          - generic [ref=e180]:
+            - img [ref=e182]
+            - generic [ref=e183]:
+              - heading "Authorized Dealer" [level=4] [ref=e184]
+              - paragraph [ref=e185]: Genuine products with full manufacturer warranty
+          - generic [ref=e186]:
+            - img [ref=e188]
+            - generic [ref=e189]:
+              - heading "Free Shipping" [level=4] [ref=e190]
+              - paragraph [ref=e191]: On all orders over $99
+          - generic [ref=e192]:
+            - img [ref=e194]
+            - generic [ref=e195]:
+              - heading "Easy Returns" [level=4] [ref=e196]
+              - paragraph [ref=e197]: 30-day hassle-free returns
+          - generic [ref=e198]:
+            - img [ref=e200]
+            - generic [ref=e201]:
+              - heading "Tech Support" [level=4] [ref=e202]
+              - paragraph [ref=e203]: Expert assistance 7 days a week
+        - generic [ref=e204]:
+          - generic [ref=e205]:
+            - generic [ref=e206]:
+              - img [ref=e208]
+              - heading "Featured Products" [level=2] [ref=e209]
+            - generic [ref=e210]:
+              - button "Previous" [ref=e211] [cursor=pointer]:
+                - img [ref=e212]
+              - button "Next" [ref=e213] [cursor=pointer]:
+                - img [ref=e214]
+          - generic [ref=e216]:
+            - article [ref=e217] [cursor=pointer]:
+              - link "Mineral SPF50 Body Butter 200ml Staff Pick" [ref=e218]:
+                - /url: https://eshopping-electronics-demo.mybigcommerce.com/BTY-BAB-001/
+                - img "Mineral SPF50 Body Butter 200ml" [ref=e220]
+                - generic [ref=e221]: Staff Pick
+              - generic [ref=e222]:
+                - heading "Mineral SPF50 Body Butter 200ml" [level=3] [ref=e223]:
+                  - link "Mineral SPF50 Body Butter 200ml" [ref=e224]:
+                    - /url: https://eshopping-electronics-demo.mybigcommerce.com/BTY-BAB-001/
+                - generic [ref=e225]: BTY-BAB-001
+                - img "Mineral SPF50 Body Butter 200ml rating is 5 of 5" [ref=e228]:
+                  - img [ref=e230]
+                  - img [ref=e232]
+                  - img [ref=e234]
+                  - img [ref=e236]
+                  - img [ref=e238]
+                - generic [ref=e241]: $36.00
+                - generic [ref=e242]:
+                  - button "Compare" [ref=e243]:
+                    - img [ref=e244]
+                  - button "Quick view" [ref=e245]:
+                    - img [ref=e246]
+                  - link "Choose Options" [ref=e247]:
+                    - /url: https://eshopping-electronics-demo.mybigcommerce.com/BTY-BAB-001/
+                    - img [ref=e248]
+            - article [ref=e249] [cursor=pointer]:
+              - link "SoundWave Pro ANC On Sale! Staff Pick" [ref=e250]:
+                - /url: https://eshopping-electronics-demo.mybigcommerce.com/ELEC-AUD-001/
+                - img "SoundWave Pro ANC" [ref=e252]
+                - generic [ref=e254]: On Sale!
+                - generic [ref=e255]: Staff Pick
+              - generic [ref=e256]:
+                - heading "SoundWave Pro ANC" [level=3] [ref=e257]:
+                  - link "SoundWave Pro ANC" [ref=e258]:
+                    - /url: https://eshopping-electronics-demo.mybigcommerce.com/ELEC-AUD-001/
+                - generic [ref=e259]: ELEC-AUD-001
+                - img "SoundWave Pro ANC rating is 5 of 5" [ref=e262]:
+                  - img [ref=e264]
+                  - img [ref=e266]
+                  - img [ref=e268]
+                  - img [ref=e270]
+                  - img [ref=e272]
+                - generic [ref=e273]:
+                  - generic [ref=e275]: $349.00
+                  - generic [ref=e277]: $279.00
+                - generic [ref=e278]:
+                  - button "Compare" [ref=e279]:
+                    - img [ref=e280]
+                  - button "Quick view" [ref=e281]:
+                    - img [ref=e282]
+                  - link "Add to Cart" [ref=e283]:
+                    - /url: https://eshopping-electronics-demo.mybigcommerce.com/cart.php?action=add&product_id=113
+                    - img [ref=e284]
+            - article [ref=e285] [cursor=pointer]:
+              - link "BrewMaster Coffee Pro On Sale! Staff Pick" [ref=e286]:
+                - /url: https://eshopping-electronics-demo.mybigcommerce.com/HOME-APL-001/
+                - img "BrewMaster Coffee Pro" [ref=e288]
+                - generic [ref=e290]: On Sale!
+                - generic [ref=e291]: Staff Pick
+              - generic [ref=e292]:
+                - heading "BrewMaster Coffee Pro" [level=3] [ref=e293]:
+                  - link "BrewMaster Coffee Pro" [ref=e294]:
+                    - /url: https://eshopping-electronics-demo.mybigcommerce.com/HOME-APL-001/
+                - generic [ref=e295]: HOME-APL-001
+                - img "BrewMaster Coffee Pro rating is 5 of 5" [ref=e298]:
+                  - img [ref=e300]
+                  - img [ref=e302]
+                  - img [ref=e304]
+                  - img [ref=e306]
+                  - img [ref=e308]
+                - generic [ref=e309]:
+                  - generic [ref=e311]: $249.00
+                  - generic [ref=e313]: $199.00
+                  - generic [ref=e315]: $159.00
+                - generic [ref=e316]:
+                  - button "Compare" [ref=e317]:
+                    - img [ref=e318]
+                  - button "Quick view" [ref=e319]:
+                    - img [ref=e320]
+                  - link "Add to Cart" [ref=e321]:
+                    - /url: https://eshopping-electronics-demo.mybigcommerce.com/cart.php?action=add&product_id=115
+                    - img [ref=e322]
+            - article [ref=e323] [cursor=pointer]:
+              - link "UltraLight Tent 2-Person Staff Pick" [ref=e324]:
+                - /url: https://eshopping-electronics-demo.mybigcommerce.com/SPRT-CMP-001/
+                - img "UltraLight Tent 2-Person" [ref=e326]
+                - generic [ref=e327]: Staff Pick
+              - generic [ref=e328]:
+                - heading "UltraLight Tent 2-Person" [level=3] [ref=e329]:
+                  - link "UltraLight Tent 2-Person" [ref=e330]:
+                    - /url: https://eshopping-electronics-demo.mybigcommerce.com/SPRT-CMP-001/
+                - generic [ref=e331]: SPRT-CMP-001
+                - img "UltraLight Tent 2-Person rating is 5 of 5" [ref=e334]:
+                  - img [ref=e336]
+                  - img [ref=e338]
+                  - img [ref=e340]
+                  - img [ref=e342]
+                  - img [ref=e344]
+                - generic [ref=e345]:
+                  - generic [ref=e347]: $359.00
+                  - generic [ref=e349]: $299.00
+                - generic [ref=e350]:
+                  - button "Compare" [ref=e351]:
+                    - img [ref=e352]
+                  - button "Quick view" [ref=e353]:
+                    - img [ref=e354]
+                  - link "Choose Options" [ref=e355]:
+                    - /url: https://eshopping-electronics-demo.mybigcommerce.com/SPRT-CMP-001/
+                    - img [ref=e356]
+            - article [ref=e357] [cursor=pointer]:
+              - link "LeatherCraft Crossbody Staff Pick" [ref=e358]:
+                - /url: https://eshopping-electronics-demo.mybigcommerce.com/FASH-BAG-001/
+                - img "LeatherCraft Crossbody" [ref=e360]
+                - generic [ref=e361]: Staff Pick
+              - generic [ref=e362]:
+                - heading "LeatherCraft Crossbody" [level=3] [ref=e363]:
+                  - link "LeatherCraft Crossbody" [ref=e364]:
+                    - /url: https://eshopping-electronics-demo.mybigcommerce.com/FASH-BAG-001/
+                - generic [ref=e365]: FASH-BAG-001
+                - img "LeatherCraft Crossbody rating is 5 of 5" [ref=e368]:
+                  - img [ref=e370]
+                  - img [ref=e372]
+                  - img [ref=e374]
+                  - img [ref=e376]
+                  - img [ref=e378]
+                - generic [ref=e379]:
+                  - generic [ref=e381]: $229.00
+                  - generic [ref=e383]: $189.00
+                - generic [ref=e384]:
+                  - button "Compare" [ref=e385]:
+                    - img [ref=e386]
+                  - button "Quick view" [ref=e387]:
+                    - img [ref=e388]
+                  - link "Choose Options" [ref=e389]:
+                    - /url: https://eshopping-electronics-demo.mybigcommerce.com/FASH-BAG-001/
+                    - img [ref=e390]
+            - article [ref=e391] [cursor=pointer]:
+              - link "AirFryer Plus XL Staff Pick" [ref=e392]:
+                - /url: https://eshopping-electronics-demo.mybigcommerce.com/HOME-APL-002/
+                - img "AirFryer Plus XL" [ref=e394]
+                - generic [ref=e395]: Staff Pick
+              - generic [ref=e396]:
+                - heading "AirFryer Plus XL" [level=3] [ref=e397]:
+                  - link "AirFryer Plus XL" [ref=e398]:
+                    - /url: https://eshopping-electronics-demo.mybigcommerce.com/HOME-APL-002/
+                - generic [ref=e399]: HOME-APL-002
+                - img "AirFryer Plus XL rating is 5 of 5" [ref=e402]:
+                  - img [ref=e404]
+                  - img [ref=e406]
+                  - img [ref=e408]
+                  - img [ref=e410]
+                  - img [ref=e412]
+                - generic [ref=e415]: $129.00
+                - generic [ref=e416]:
+                  - button "Compare" [ref=e417]:
+                    - img [ref=e418]
+                  - button "Quick view" [ref=e419]:
+                    - img [ref=e420]
+                  - link "Choose Options" [ref=e421]:
+                    - /url: https://eshopping-electronics-demo.mybigcommerce.com/HOME-APL-002/
+                    - img [ref=e422]
+            - article [ref=e423] [cursor=pointer]:
+              - link "LuxeCool Sheet Set Queen Staff Pick" [ref=e424]:
+                - /url: https://eshopping-electronics-demo.mybigcommerce.com/HOME-BDT-001/
+                - img "LuxeCool Sheet Set Queen" [ref=e426]
+                - generic [ref=e427]: Staff Pick
+              - generic [ref=e428]:
+                - heading "LuxeCool Sheet Set Queen" [level=3] [ref=e429]:
+                  - link "LuxeCool Sheet Set Queen" [ref=e430]:
+                    - /url: https://eshopping-electronics-demo.mybigcommerce.com/HOME-BDT-001/
+                - generic [ref=e431]: HOME-BDT-001
+                - img "LuxeCool Sheet Set Queen rating is 5 of 5" [ref=e434]:
+                  - img [ref=e436]
+                  - img [ref=e438]
+                  - img [ref=e440]
+                  - img [ref=e442]
+                  - img [ref=e444]
+                - generic [ref=e447]: $89.00
+                - generic [ref=e448]:
+                  - button "Compare" [ref=e449]:
+                    - img [ref=e450]
+                  - button "Quick view" [ref=e451]:
+                    - img [ref=e452]
+                  - link "Choose Options" [ref=e453]:
+                    - /url: https://eshopping-electronics-demo.mybigcommerce.com/HOME-BDT-001/
+                    - img [ref=e454]
+            - article [ref=e455] [cursor=pointer]:
+              - link "VisionPro DSLR Kit Staff Pick" [ref=e456]:
+                - /url: https://eshopping-electronics-demo.mybigcommerce.com/ELEC-CAM-001/
+                - img "VisionPro DSLR Kit" [ref=e458]
+                - generic [ref=e459]: Staff Pick
+              - generic [ref=e460]:
+                - heading "VisionPro DSLR Kit" [level=3] [ref=e461]:
+                  - link "VisionPro DSLR Kit" [ref=e462]:
+                    - /url: https://eshopping-electronics-demo.mybigcommerce.com/ELEC-CAM-001/
+                - generic [ref=e463]: ELEC-CAM-001
+                - img "VisionPro DSLR Kit rating is 5 of 5" [ref=e466]:
+                  - img [ref=e468]
+                  - img [ref=e470]
+                  - img [ref=e472]
+                  - img [ref=e474]
+                  - img [ref=e476]
+                - generic [ref=e477]:
+                  - generic [ref=e479]: $1,599.00
+                  - generic [ref=e481]: $1,299.00
+                - generic [ref=e482]:
+                  - button "Compare" [ref=e483]:
+                    - img [ref=e484]
+                  - button "Quick view" [ref=e485]:
+                    - img [ref=e486]
+                  - link "Choose Options" [ref=e487]:
+                    - /url: https://eshopping-electronics-demo.mybigcommerce.com/ELEC-CAM-001/
+                    - img [ref=e488]
+        - generic [ref=e489]:
+          - generic [ref=e490]:
+            - generic [ref=e491]:
+              - img [ref=e493]
+              - heading "New Arrivals" [level=2] [ref=e494]
+              - generic [ref=e495]: Just In
+            - generic [ref=e496]:
+              - button "Previous" [ref=e497] [cursor=pointer]:
+                - img [ref=e498]
+              - button "Next" [ref=e499] [cursor=pointer]:
+                - img [ref=e500]
+          - generic [ref=e502]:
+            - article [ref=e503] [cursor=pointer]:
+              - link "AdjustaDumbbells 90lb Set New" [ref=e504]:
+                - /url: https://eshopping-electronics-demo.mybigcommerce.com/SPRT-GYM-001/
+                - img "AdjustaDumbbells 90lb Set" [ref=e506]
+                - generic [ref=e507]: New
+              - generic [ref=e508]:
+                - heading "AdjustaDumbbells 90lb Set" [level=3] [ref=e509]:
+                  - link "AdjustaDumbbells 90lb Set" [ref=e510]:
+                    - /url: https://eshopping-electronics-demo.mybigcommerce.com/SPRT-GYM-001/
+                - generic [ref=e511]: SPRT-GYM-001
+                - img "AdjustaDumbbells 90lb Set rating is 5 of 5" [ref=e514]:
+                  - img [ref=e516]
+                  - img [ref=e518]
+                  - img [ref=e520]
+                  - img [ref=e522]
+                  - img [ref=e524]
+                - generic [ref=e525]:
+                  - generic [ref=e527]: $499.00
+                  - generic [ref=e529]: $399.00
+                - generic [ref=e530]:
+                  - button "Compare" [ref=e531]:
+                    - img [ref=e532]
+                  - button "Quick view" [ref=e533]:
+                    - img [ref=e534]
+                  - link "Add to Cart" [ref=e535]:
+                    - /url: https://eshopping-electronics-demo.mybigcommerce.com/cart.php?action=add&product_id=151
+                    - img [ref=e536]
+            - article [ref=e537] [cursor=pointer]:
+              - link "PlatformBed Frame Queen New" [ref=e538]:
+                - /url: https://eshopping-electronics-demo.mybigcommerce.com/HOME-BED-001/
+                - img "PlatformBed Frame Queen" [ref=e540]
+                - generic [ref=e541]: New
+              - generic [ref=e542]:
+                - heading "PlatformBed Frame Queen" [level=3] [ref=e543]:
+                  - link "PlatformBed Frame Queen" [ref=e544]:
+                    - /url: https://eshopping-electronics-demo.mybigcommerce.com/HOME-BED-001/
+                - generic [ref=e545]: HOME-BED-001
+                - img "PlatformBed Frame Queen rating is 5 of 5" [ref=e548]:
+                  - img [ref=e550]
+                  - img [ref=e552]
+                  - img [ref=e554]
+                  - img [ref=e556]
+                  - img [ref=e558]
+                - generic [ref=e561]: $599.00
+                - generic [ref=e562]:
+                  - button "Compare" [ref=e563]:
+                    - img [ref=e564]
+                  - button "Quick view" [ref=e565]:
+                    - img [ref=e566]
+                  - link "Choose Options" [ref=e567]:
+                    - /url: https://eshopping-electronics-demo.mybigcommerce.com/HOME-BED-001/
+                    - img [ref=e568]
+            - article [ref=e569] [cursor=pointer]:
+              - link "TwistGold Necklace New" [ref=e570]:
+                - /url: https://eshopping-electronics-demo.mybigcommerce.com/FASH-JWL-001/
+                - img "TwistGold Necklace" [ref=e572]
+                - generic [ref=e573]: New
+              - generic [ref=e574]:
+                - heading "TwistGold Necklace" [level=3] [ref=e575]:
+                  - link "TwistGold Necklace" [ref=e576]:
+                    - /url: https://eshopping-electronics-demo.mybigcommerce.com/FASH-JWL-001/
+                - generic [ref=e577]: FASH-JWL-001
+                - img "TwistGold Necklace rating is 5 of 5" [ref=e580]:
+                  - img [ref=e582]
+                  - img [ref=e584]
+                  - img [ref=e586]
+                  - img [ref=e588]
+                  - img [ref=e590]
+                - generic [ref=e591]:
+                  - generic [ref=e593]: $349.00
+                  - generic [ref=e595]: $249.00
+                - generic [ref=e596]:
+                  - button "Compare" [ref=e597]:
+                    - img [ref=e598]
+                  - button "Quick view" [ref=e599]:
+                    - img [ref=e600]
+                  - link "Choose Options" [ref=e601]:
+                    - /url: https://eshopping-electronics-demo.mybigcommerce.com/FASH-JWL-001/
+                    - img [ref=e602]
+            - article [ref=e603] [cursor=pointer]:
+              - link "ActionCam Ultra 4K New" [ref=e604]:
+                - /url: https://eshopping-electronics-demo.mybigcommerce.com/ELEC-CAM-004/
+                - img "ActionCam Ultra 4K" [ref=e606]
+                - generic [ref=e607]: New
+              - generic [ref=e608]:
+                - heading "ActionCam Ultra 4K" [level=3] [ref=e609]:
+                  - link "ActionCam Ultra 4K" [ref=e610]:
+                    - /url: https://eshopping-electronics-demo.mybigcommerce.com/ELEC-CAM-004/
+                - generic [ref=e611]: ELEC-CAM-004
+                - img "ActionCam Ultra 4K rating is 5 of 5" [ref=e614]:
+                  - img [ref=e616]
+                  - img [ref=e618]
+                  - img [ref=e620]
+                  - img [ref=e622]
+                  - img [ref=e624]
+                - generic [ref=e627]: $299.00
+                - generic [ref=e628]:
+                  - button "Compare" [ref=e629]:
+                    - img [ref=e630]
+                  - button "Quick view" [ref=e631]:
+                    - img [ref=e632]
+                  - link "Choose Options" [ref=e633]:
+                    - /url: https://eshopping-electronics-demo.mybigcommerce.com/ELEC-CAM-004/
+                    - img [ref=e634]
+            - article [ref=e635] [cursor=pointer]:
+              - link "Hydra Glow Moisturizer 50ml On Sale! New" [ref=e636]:
+                - /url: https://eshopping-electronics-demo.mybigcommerce.com/BTY-SKN-001/
+                - img "Hydra Glow Moisturizer 50ml" [ref=e638]
+                - generic [ref=e640]: On Sale!
+                - generic [ref=e641]: New
+              - generic [ref=e642]:
+                - heading "Hydra Glow Moisturizer 50ml" [level=3] [ref=e643]:
+                  - link "Hydra Glow Moisturizer 50ml" [ref=e644]:
+                    - /url: https://eshopping-electronics-demo.mybigcommerce.com/BTY-SKN-001/
+                - generic [ref=e645]: BTY-SKN-001
+                - img "Hydra Glow Moisturizer 50ml rating is 5 of 5" [ref=e648]:
+                  - img [ref=e650]
+                  - img [ref=e652]
+                  - img [ref=e654]
+                  - img [ref=e656]
+                  - img [ref=e658]
+                - generic [ref=e659]:
+                  - generic [ref=e661]: $48.00
+                  - generic [ref=e663]: $38.00
+                - generic [ref=e664]:
+                  - button "Compare" [ref=e665]:
+                    - img [ref=e666]
+                  - button "Quick view" [ref=e667]:
+                    - img [ref=e668]
+                  - link "Add to Cart" [ref=e669]:
+                    - /url: https://eshopping-electronics-demo.mybigcommerce.com/cart.php?action=add&product_id=147
+                    - img [ref=e670]
+            - article [ref=e671] [cursor=pointer]:
+              - link "SmartHelmet Pro MIPS New" [ref=e672]:
+                - /url: https://eshopping-electronics-demo.mybigcommerce.com/SPRT-CYC-003/
+                - img "SmartHelmet Pro MIPS" [ref=e674]
+                - generic [ref=e675]: New
+              - generic [ref=e676]:
+                - heading "SmartHelmet Pro MIPS" [level=3] [ref=e677]:
+                  - link "SmartHelmet Pro MIPS" [ref=e678]:
+                    - /url: https://eshopping-electronics-demo.mybigcommerce.com/SPRT-CYC-003/
+                - generic [ref=e679]: SPRT-CYC-003
+                - img "SmartHelmet Pro MIPS rating is 5 of 5" [ref=e682]:
+                  - img [ref=e684]
+                  - img [ref=e686]
+                  - img [ref=e688]
+                  - img [ref=e690]
+                  - img [ref=e692]
+                - generic [ref=e695]: $149.00
+                - generic [ref=e696]:
+                  - button "Compare" [ref=e697]:
+                    - img [ref=e698]
+                  - button "Quick view" [ref=e699]:
+                    - img [ref=e700]
+                  - link "Choose Options" [ref=e701]:
+                    - /url: https://eshopping-electronics-demo.mybigcommerce.com/SPRT-CYC-003/
+                    - img [ref=e702]
+            - article [ref=e703] [cursor=pointer]:
+              - link "WeightedDream Blanket New" [ref=e704]:
+                - /url: https://eshopping-electronics-demo.mybigcommerce.com/HOME-BDT-004/
+                - img "WeightedDream Blanket" [ref=e706]
+                - generic [ref=e707]: New
+              - generic [ref=e708]:
+                - heading "WeightedDream Blanket" [level=3] [ref=e709]:
+                  - link "WeightedDream Blanket" [ref=e710]:
+                    - /url: https://eshopping-electronics-demo.mybigcommerce.com/HOME-BDT-004/
+                - generic [ref=e711]: HOME-BDT-004
+                - img "WeightedDream Blanket rating is 5 of 5" [ref=e714]:
+                  - img [ref=e716]
+                  - img [ref=e718]
+                  - img [ref=e720]
+                  - img [ref=e722]
+                  - img [ref=e724]
+                - generic [ref=e727]: $79.00
+                - generic [ref=e728]:
+                  - button "Compare" [ref=e729]:
+                    - img [ref=e730]
+                  - button "Quick view" [ref=e731]:
+                    - img [ref=e732]
+                  - link "Choose Options" [ref=e733]:
+                    - /url: https://eshopping-electronics-demo.mybigcommerce.com/HOME-BDT-004/
+                    - img [ref=e734]
+            - article [ref=e735] [cursor=pointer]:
+              - link "WrapStyle Day Dress New" [ref=e736]:
+                - /url: https://eshopping-electronics-demo.mybigcommerce.com/FASH-DRS-003/
+                - img "WrapStyle Day Dress" [ref=e738]
+                - generic [ref=e739]: New
+              - generic [ref=e740]:
+                - heading "WrapStyle Day Dress" [level=3] [ref=e741]:
+                  - link "WrapStyle Day Dress" [ref=e742]:
+                    - /url: https://eshopping-electronics-demo.mybigcommerce.com/FASH-DRS-003/
+                - generic [ref=e743]: FASH-DRS-003
+                - img "WrapStyle Day Dress rating is 5 of 5" [ref=e746]:
+                  - img [ref=e748]
+                  - img [ref=e750]
+                  - img [ref=e752]
+                  - img [ref=e754]
+                  - img [ref=e756]
+                - generic [ref=e759]: $115.00
+                - generic [ref=e760]:
+                  - button "Compare" [ref=e761]:
+                    - img [ref=e762]
+                  - button "Quick view" [ref=e763]:
+                    - img [ref=e764]
+                  - link "Choose Options" [ref=e765]:
+                    - /url: https://eshopping-electronics-demo.mybigcommerce.com/FASH-DRS-003/
+                    - img [ref=e766]
+        - generic [ref=e1554]:
+          - generic [ref=e1555]:
+            - generic [ref=e1556]:
+              - generic [ref=e1557]:
+                - generic [ref=e1559]: Electronics
+                - heading "Electronics" [level=2] [ref=e1560]:
+                  - link "Electronics" [ref=e1561] [cursor=pointer]:
+                    - /url: /electronics/
+              - generic [ref=e1562]:
+                - tablist [ref=e1563]:
+                  - tab "Bestselling" [ref=e1564] [cursor=pointer]
+                  - tab "Featured" [selected] [ref=e1565] [cursor=pointer]
+                  - tab "New" [ref=e1566] [cursor=pointer]
+                - link "View All" [ref=e1567] [cursor=pointer]:
+                  - /url: /electronics/
+                  - text: View All
+                  - img [ref=e1568]
+            - generic [ref=e1570]:
+              - tabpanel "Featured" [ref=e1572]:
+                - generic [ref=e1574]:
+                  - article [ref=e1576] [cursor=pointer]:
+                    - link "SoundWave Pro ANC On Sale!" [ref=e1577]:
+                      - /url: /ELEC-AUD-001/
+                      - img "SoundWave Pro ANC" [ref=e1579]
+                      - generic [ref=e1581]: On Sale!
+                    - generic [ref=e1582]:
+                      - heading "SoundWave Pro ANC" [level=3] [ref=e1583]:
+                        - link "SoundWave Pro ANC" [ref=e1584]:
+                          - /url: /ELEC-AUD-001/
+                      - generic [ref=e1585]: ELEC-AUD-001
+                      - 'img "SoundWave Pro ANC rating: 4.8 out of 5" [ref=e1588]':
+                        - img [ref=e1590]
+                        - img [ref=e1593]
+                        - img [ref=e1596]
+                        - img [ref=e1599]
+                        - img [ref=e1602]
+                      - generic [ref=e1604]:
+                        - generic [ref=e1606]: $349.00
+                        - generic [ref=e1608]: $279.00
+                      - generic [ref=e1609]:
+                        - button "Compare" [ref=e1610]:
+                          - img [ref=e1611]
+                        - button "Quick view" [ref=e1613]:
+                          - img [ref=e1614]
+                        - link "Add to Cart" [ref=e1616]:
+                          - /url: https://eshopping-electronics-demo.mybigcommerce.com/cart.php?action=add&product_id=113
+                          - img [ref=e1617]
+                  - article [ref=e1620] [cursor=pointer]:
+                    - link "AcousticPure Studio" [ref=e1621]:
+                      - /url: /ELEC-AUD-002/
+                      - img "AcousticPure Studio" [ref=e1623]
+                    - generic [ref=e1624]:
+                      - heading "AcousticPure Studio" [level=3] [ref=e1625]:
+                        - link "AcousticPure Studio" [ref=e1626]:
+                          - /url: /ELEC-AUD-002/
+                      - generic [ref=e1627]: ELEC-AUD-002
+                      - 'img "AcousticPure Studio rating: 4.75 out of 5" [ref=e1630]':
+                        - img [ref=e1632]
+                        - img [ref=e1635]
+                        - img [ref=e1638]
+                        - img [ref=e1641]
+                        - img [ref=e1644]
+                      - generic [ref=e1648]: $249.00
+                      - generic [ref=e1649]:
+                        - button "Compare" [ref=e1650]:
+                          - img [ref=e1651]
+                        - button "Quick view" [ref=e1653]:
+                          - img [ref=e1654]
+                        - link "Choose Options" [ref=e1656]:
+                          - /url: /ELEC-AUD-002/
+                          - img [ref=e1657]
+                  - article [ref=e1660] [cursor=pointer]:
+                    - link "BassBoom True Wireless On Sale!" [ref=e1661]:
+                      - /url: /ELEC-AUD-003/
+                      - img "BassBoom True Wireless" [ref=e1663]
+                      - generic [ref=e1665]: On Sale!
+                    - generic [ref=e1666]:
+                      - heading "BassBoom True Wireless" [level=3] [ref=e1667]:
+                        - link "BassBoom True Wireless" [ref=e1668]:
+                          - /url: /ELEC-AUD-003/
+                      - generic [ref=e1669]: ELEC-AUD-003
+                      - 'img "BassBoom True Wireless rating: 4.8 out of 5" [ref=e1672]':
+                        - img [ref=e1674]
+                        - img [ref=e1677]
+                        - img [ref=e1680]
+                        - img [ref=e1683]
+                        - img [ref=e1686]
+                      - generic [ref=e1688]:
+                        - generic [ref=e1690]: $129.00
+                        - generic [ref=e1692]: $99.00
+                      - generic [ref=e1693]:
+                        - button "Compare" [ref=e1694]:
+                          - img [ref=e1695]
+                        - button "Quick view" [ref=e1697]:
+                          - img [ref=e1698]
+                        - link "Add to Cart" [ref=e1700]:
+                          - /url: https://eshopping-electronics-demo.mybigcommerce.com/cart.php?action=add&product_id=123
+                          - img [ref=e1701]
+                  - article [ref=e1704] [cursor=pointer]:
+                    - link "ClearTone HD Earbuds" [ref=e1705]:
+                      - /url: /ELEC-AUD-004/
+                      - img "ClearTone HD Earbuds" [ref=e1707]
+                    - generic [ref=e1708]:
+                      - heading "ClearTone HD Earbuds" [level=3] [ref=e1709]:
+                        - link "ClearTone HD Earbuds" [ref=e1710]:
+                          - /url: /ELEC-AUD-004/
+                      - generic [ref=e1711]: ELEC-AUD-004
+                      - 'img "ClearTone HD Earbuds rating: 4.3333 out of 5" [ref=e1714]':
+                        - img [ref=e1716]
+                        - img [ref=e1719]
+                        - img [ref=e1722]
+                        - img [ref=e1725]
+                        - img [ref=e1728]
+                      - generic [ref=e1732]: $79.00
+                      - generic [ref=e1733]:
+                        - button "Compare" [ref=e1734]:
+                          - img [ref=e1735]
+                        - button "Quick view" [ref=e1737]:
+                          - img [ref=e1738]
+                        - link "Add to Cart" [ref=e1740]:
+                          - /url: https://eshopping-electronics-demo.mybigcommerce.com/cart.php?action=add&product_id=128
+                          - img [ref=e1741]
+              - generic [ref=e1743]:
+                - generic [ref=e1744]: Categories
+                - link "› Computers & Laptops" [ref=e1745] [cursor=pointer]:
+                  - /url: /computers-laptops/
+                - link "› Mobile & Phones" [ref=e1746] [cursor=pointer]:
+                  - /url: /mobile-phones/
+                - link "› Audio" [ref=e1747] [cursor=pointer]:
+                  - /url: /audio/
+                - link "› Cameras" [ref=e1748] [cursor=pointer]:
+                  - /url: /cameras/
+                - link "› Gaming" [ref=e1749] [cursor=pointer]:
+                  - /url: /gaming/
+                - link "› Smart Home" [ref=e1750] [cursor=pointer]:
+                  - /url: /smart-home/
+          - generic [ref=e1751]:
+            - generic [ref=e1752]:
+              - generic [ref=e1753]:
+                - generic [ref=e1755]: Shop All
+                - heading "Shop All" [level=2] [ref=e1756]:
+                  - link "Shop All" [ref=e1757] [cursor=pointer]:
+                    - /url: /shop-all/
+              - generic [ref=e1758]:
+                - tablist [ref=e1759]:
+                  - tab "Bestselling" [ref=e1760] [cursor=pointer]
+                  - tab "Featured" [selected] [ref=e1761] [cursor=pointer]
+                  - tab "New" [ref=e1762] [cursor=pointer]
+                - link "View All" [ref=e1763] [cursor=pointer]:
+                  - /url: /shop-all/
+                  - text: View All
+                  - img [ref=e1764]
+            - tabpanel "Featured" [ref=e1768]:
+              - generic [ref=e1770]:
+                - article [ref=e1772] [cursor=pointer]:
+                  - link "SoundWave Pro ANC On Sale!" [ref=e1773]:
+                    - /url: /ELEC-AUD-001/
+                    - img "SoundWave Pro ANC" [ref=e1775]
+                    - generic [ref=e1777]: On Sale!
+                  - generic [ref=e1778]:
+                    - heading "SoundWave Pro ANC" [level=3] [ref=e1779]:
+                      - link "SoundWave Pro ANC" [ref=e1780]:
+                        - /url: /ELEC-AUD-001/
+                    - generic [ref=e1781]: ELEC-AUD-001
+                    - 'img "SoundWave Pro ANC rating: 4.8 out of 5" [ref=e1784]':
+                      - img [ref=e1786]
+                      - img [ref=e1789]
+                      - img [ref=e1792]
+                      - img [ref=e1795]
+                      - img [ref=e1798]
+                    - generic [ref=e1800]:
+                      - generic [ref=e1802]: $349.00
+                      - generic [ref=e1804]: $279.00
+                    - generic [ref=e1805]:
+                      - button "Compare" [ref=e1806]:
+                        - img [ref=e1807]
+                      - button "Quick view" [ref=e1809]:
+                        - img [ref=e1810]
+                      - link "Add to Cart" [ref=e1812]:
+                        - /url: https://eshopping-electronics-demo.mybigcommerce.com/cart.php?action=add&product_id=113
+                        - img [ref=e1813]
+                - article [ref=e1816] [cursor=pointer]:
+                  - link "VintageWeave Belt 38mm" [ref=e1817]:
+                    - /url: /FASH-ACC-001/
+                    - img "VintageWeave Belt 38mm" [ref=e1819]
+                  - generic [ref=e1820]:
+                    - heading "VintageWeave Belt 38mm" [level=3] [ref=e1821]:
+                      - link "VintageWeave Belt 38mm" [ref=e1822]:
+                        - /url: /FASH-ACC-001/
+                    - generic [ref=e1823]: FASH-ACC-001
+                    - 'img "VintageWeave Belt 38mm rating: 4.6667 out of 5" [ref=e1826]':
+                      - img [ref=e1828]
+                      - img [ref=e1831]
+                      - img [ref=e1834]
+                      - img [ref=e1837]
+                      - img [ref=e1840]
+                    - generic [ref=e1844]: $48.00
+                    - generic [ref=e1845]:
+                      - button "Compare" [ref=e1846]:
+                        - img [ref=e1847]
+                      - button "Quick view" [ref=e1849]:
+                        - img [ref=e1850]
+                      - link "Choose Options" [ref=e1852]:
+                        - /url: /FASH-ACC-001/
+                        - img [ref=e1853]
+                - article [ref=e1856] [cursor=pointer]:
+                  - link "BrewMaster Coffee Pro On Sale!" [ref=e1857]:
+                    - /url: /HOME-APL-001/
+                    - img "BrewMaster Coffee Pro" [ref=e1859]
+                    - generic [ref=e1861]: On Sale!
+                  - generic [ref=e1862]:
+                    - heading "BrewMaster Coffee Pro" [level=3] [ref=e1863]:
+                      - link "BrewMaster Coffee Pro" [ref=e1864]:
+                        - /url: /HOME-APL-001/
+                    - generic [ref=e1865]: HOME-APL-001
+                    - 'img "BrewMaster Coffee Pro rating: 4.8 out of 5" [ref=e1868]':
+                      - img [ref=e1870]
+                      - img [ref=e1873]
+                      - img [ref=e1876]
+                      - img [ref=e1879]
+                      - img [ref=e1882]
+                    - generic [ref=e1884]:
+                      - generic [ref=e1886]: $249.00
+                      - generic [ref=e1888]: $199.00
+                      - generic [ref=e1890]: $159.00
+                    - generic [ref=e1891]:
+                      - button "Compare" [ref=e1892]:
+                        - img [ref=e1893]
+                      - button "Quick view" [ref=e1895]:
+                        - img [ref=e1896]
+                      - link "Add to Cart" [ref=e1898]:
+                        - /url: https://eshopping-electronics-demo.mybigcommerce.com/cart.php?action=add&product_id=115
+                        - img [ref=e1899]
+                - article [ref=e1902] [cursor=pointer]:
+                  - link "UltraLight Tent 2-Person" [ref=e1903]:
+                    - /url: /SPRT-CMP-001/
+                    - img "UltraLight Tent 2-Person" [ref=e1905]
+                  - generic [ref=e1906]:
+                    - heading "UltraLight Tent 2-Person" [level=3] [ref=e1907]:
+                      - link "UltraLight Tent 2-Person" [ref=e1908]:
+                        - /url: /SPRT-CMP-001/
+                    - generic [ref=e1909]: SPRT-CMP-001
+                    - 'img "UltraLight Tent 2-Person rating: 4.8 out of 5" [ref=e1912]':
+                      - img [ref=e1914]
+                      - img [ref=e1917]
+                      - img [ref=e1920]
+                      - img [ref=e1923]
+                      - img [ref=e1926]
+                    - generic [ref=e1928]:
+                      - generic [ref=e1930]: $359.00
+                      - generic [ref=e1932]: $299.00
+                    - generic [ref=e1933]:
+                      - button "Compare" [ref=e1934]:
+                        - img [ref=e1935]
+                      - button "Quick view" [ref=e1937]:
+                        - img [ref=e1938]
+                      - link "Choose Options" [ref=e1940]:
+                        - /url: /SPRT-CMP-001/
+                        - img [ref=e1941]
+          - generic [ref=e1943]:
+            - generic [ref=e1944]:
+              - generic [ref=e1945]:
+                - generic [ref=e1947]: Fashion
+                - heading "Fashion" [level=2] [ref=e1948]:
+                  - link "Fashion" [ref=e1949] [cursor=pointer]:
+                    - /url: /fashion/
+              - generic [ref=e1950]:
+                - tablist [ref=e1951]:
+                  - tab "Bestselling" [ref=e1952] [cursor=pointer]
+                  - tab "Featured" [selected] [ref=e1953] [cursor=pointer]
+                  - tab "New" [ref=e1954] [cursor=pointer]
+                - link "View All" [ref=e1955] [cursor=pointer]:
+                  - /url: /fashion/
+                  - text: View All
+                  - img [ref=e1956]
+            - generic [ref=e1958]:
+              - tabpanel "Featured" [ref=e1960]:
+                - generic [ref=e1962]:
+                  - article [ref=e1964] [cursor=pointer]:
+                    - link "VintageWeave Belt 38mm" [ref=e1965]:
+                      - /url: /FASH-ACC-001/
+                      - img "VintageWeave Belt 38mm" [ref=e1967]
+                    - generic [ref=e1968]:
+                      - heading "VintageWeave Belt 38mm" [level=3] [ref=e1969]:
+                        - link "VintageWeave Belt 38mm" [ref=e1970]:
+                          - /url: /FASH-ACC-001/
+                      - generic [ref=e1971]: FASH-ACC-001
+                      - 'img "VintageWeave Belt 38mm rating: 4.6667 out of 5" [ref=e1974]':
+                        - img [ref=e1976]
+                        - img [ref=e1979]
+                        - img [ref=e1982]
+                        - img [ref=e1985]
+                        - img [ref=e1988]
+                      - generic [ref=e1992]: $48.00
+                      - generic [ref=e1993]:
+                        - button "Compare" [ref=e1994]:
+                          - img [ref=e1995]
+                        - button "Quick view" [ref=e1997]:
+                          - img [ref=e1998]
+                        - link "Choose Options" [ref=e2000]:
+                          - /url: /FASH-ACC-001/
+                          - img [ref=e2001]
+                  - article [ref=e2004] [cursor=pointer]:
+                    - link "LeatherCraft Crossbody" [ref=e2005]:
+                      - /url: /FASH-BAG-001/
+                      - img "LeatherCraft Crossbody" [ref=e2007]
+                    - generic [ref=e2008]:
+                      - heading "LeatherCraft Crossbody" [level=3] [ref=e2009]:
+                        - link "LeatherCraft Crossbody" [ref=e2010]:
+                          - /url: /FASH-BAG-001/
+                      - generic [ref=e2011]: FASH-BAG-001
+                      - 'img "LeatherCraft Crossbody rating: 5 out of 5" [ref=e2014]':
+                        - img [ref=e2016]
+                        - img [ref=e2019]
+                        - img [ref=e2022]
+                        - img [ref=e2025]
+                        - img [ref=e2028]
+                      - generic [ref=e2030]:
+                        - generic [ref=e2032]: $229.00
+                        - generic [ref=e2034]: $189.00
+                      - generic [ref=e2035]:
+                        - button "Compare" [ref=e2036]:
+                          - img [ref=e2037]
+                        - button "Quick view" [ref=e2039]:
+                          - img [ref=e2040]
+                        - link "Choose Options" [ref=e2042]:
+                          - /url: /FASH-BAG-001/
+                          - img [ref=e2043]
+                  - article [ref=e2046] [cursor=pointer]:
+                    - link "ProSport Backpack" [ref=e2047]:
+                      - /url: /FASH-BAG-002/
+                      - img "ProSport Backpack" [ref=e2049]
+                    - generic [ref=e2050]:
+                      - heading "ProSport Backpack" [level=3] [ref=e2051]:
+                        - link "ProSport Backpack" [ref=e2052]:
+                          - /url: /FASH-BAG-002/
+                      - generic [ref=e2053]: FASH-BAG-002
+                      - 'img "ProSport Backpack rating: 4.6667 out of 5" [ref=e2056]':
+                        - img [ref=e2058]
+                        - img [ref=e2061]
+                        - img [ref=e2064]
+                        - img [ref=e2067]
+                        - img [ref=e2070]
+                      - generic [ref=e2074]: $79.00
+                      - generic [ref=e2075]:
+                        - button "Compare" [ref=e2076]:
+                          - img [ref=e2077]
+                        - button "Quick view" [ref=e2079]:
+                          - img [ref=e2080]
+                        - link "Choose Options" [ref=e2082]:
+                          - /url: /FASH-BAG-002/
+                          - img [ref=e2083]
+                  - article [ref=e2086] [cursor=pointer]:
+                    - link "WeekendTote Canvas" [ref=e2087]:
+                      - /url: /FASH-BAG-003/
+                      - img "WeekendTote Canvas" [ref=e2089]
+                    - generic [ref=e2090]:
+                      - heading "WeekendTote Canvas" [level=3] [ref=e2091]:
+                        - link "WeekendTote Canvas" [ref=e2092]:
+                          - /url: /FASH-BAG-003/
+                      - generic [ref=e2093]: FASH-BAG-003
+                      - 'img "WeekendTote Canvas rating: 4.6667 out of 5" [ref=e2096]':
+                        - img [ref=e2098]
+                        - img [ref=e2101]
+                        - img [ref=e2104]
+                        - img [ref=e2107]
+                        - img [ref=e2110]
+                      - generic [ref=e2114]: $49.00
+                      - generic [ref=e2115]:
+                        - button "Compare" [ref=e2116]:
+                          - img [ref=e2117]
+                        - button "Quick view" [ref=e2119]:
+                          - img [ref=e2120]
+                        - link "Choose Options" [ref=e2122]:
+                          - /url: /FASH-BAG-003/
+                          - img [ref=e2123]
+              - generic [ref=e2125]:
+                - generic [ref=e2126]: Categories
+                - link "› Men's Clothing" [ref=e2127] [cursor=pointer]:
+                  - /url: /mens-clothing/
+                - link "› Women's Clothing" [ref=e2128] [cursor=pointer]:
+                  - /url: /womens-clothing/
+                - link "› Accessories" [ref=e2129] [cursor=pointer]:
+                  - /url: /accessories/
+        - generic [ref=e768]:
+          - generic [ref=e773]:
+            - generic [ref=e775]:
+              - generic [ref=e776]:
+                - generic [ref=e777]: 15+
+                - generic [ref=e778]: YEARS IN ELECTRONICS
+              - generic [ref=e779]:
+                - generic [ref=e780]: 3,500+
+                - generic [ref=e781]: ELECTRONICS SKUS
+              - generic [ref=e782]:
+                - generic [ref=e783]: 8M+
+                - generic [ref=e784]: Orders Shipped
+              - generic [ref=e785]:
+                - generic [ref=e786]: 99%
+                - generic [ref=e787]: Customer Satisfaction
+            - generic [ref=e788]:
+              - generic [ref=e789]: Why Choose Us
+              - heading "Tech That Performs. Pricing That Powers Up." [level=2] [ref=e790]:
+                - text: Tech That Performs.
+                - emphasis [ref=e791]: Pricing That Powers Up.
+              - paragraph [ref=e792]: From laptops and monitors to audio gear and smart home — every product is tested for quality and stocked for fast dispatch to your desk or door.
+              - generic [ref=e793]:
+                - generic [ref=e794]:
+                  - img [ref=e796]
+                  - generic [ref=e798]:
+                    - generic [ref=e799]: Tested for Quality
+                    - generic [ref=e800]: Every product evaluated for performance, build quality, and value before stocking.
+                - generic [ref=e801]:
+                  - img [ref=e803]
+                  - generic [ref=e805]:
+                    - generic [ref=e806]: Fast Direct Fulfillment
+                    - generic [ref=e807]: Same-day dispatch on stock items with reliable tracking and packaging built for fragile electronics.
+                - generic [ref=e808]:
+                  - img [ref=e810]
+                  - generic [ref=e812]:
+                    - generic [ref=e813]: Expert Tech Support
+                    - generic [ref=e814]: Real specialists who help with compatibility, setup, and troubleshooting — not just sales reps.
+          - generic [ref=e817]:
+            - banner [ref=e818]:
+              - generic [ref=e819]:
+                - generic [ref=e820]: Reviews
+                - heading "Customer Reviews" [level=2] [ref=e821]
+              - link "View all reviews" [ref=e822] [cursor=pointer]:
+                - /url: "#reviews"
+                - text: View all 2,400
+                - img [ref=e823]
+            - region "Rating summary" [ref=e825]:
+              - generic [ref=e826]:
+                - generic [ref=e827]:
+                  - generic [ref=e828]: "4.8"
+                  - generic [ref=e829]: out of 5
+                - generic [ref=e830]:
+                  - img [ref=e831]
+                  - img [ref=e833]
+                  - img [ref=e835]
+                  - img [ref=e837]
+                  - img [ref=e839]
+                - generic [ref=e841]: Based on 2,400+ verified reviews
+              - list [ref=e842]:
+                - listitem [ref=e843]:
+                  - generic [ref=e844]:
+                    - text: "5"
+                    - img [ref=e845]
+                  - generic [ref=e849]: 78%
+                  - generic [ref=e850]: 1,872
+                - listitem [ref=e851]:
+                  - generic [ref=e852]:
+                    - text: "4"
+                    - img [ref=e853]
+                  - generic [ref=e857]: 18%
+                  - generic [ref=e858]: "432"
+                - listitem [ref=e859]:
+                  - generic [ref=e860]:
+                    - text: "3"
+                    - img [ref=e861]
+                  - generic [ref=e865]: 3%
+                  - generic [ref=e866]: "72"
+                - listitem [ref=e867]:
+                  - generic [ref=e868]:
+                    - text: "2"
+                    - img [ref=e869]
+                  - generic [ref=e873]: 1%
+                  - generic [ref=e874]: "24"
+                - listitem [ref=e875]:
+                  - generic [ref=e876]:
+                    - text: "1"
+                    - img [ref=e877]
+                  - generic [ref=e881]: <1%
+                  - generic [ref=e882]: "0"
+              - generic [ref=e883]:
+                - generic [ref=e884]:
+                  - img [ref=e886]
+                  - generic [ref=e888]:
+                    - strong [ref=e889]: 98%
+                    - text: recommend
+                - generic [ref=e890]:
+                  - img [ref=e892]
+                  - generic [ref=e894]:
+                    - strong [ref=e895]: 100%
+                    - text: verified
+                - generic [ref=e896]:
+                  - img [ref=e898]
+                  - generic [ref=e900]:
+                    - strong [ref=e901]: 87%
+                    - text: reorder
+            - generic [ref=e902]:
+              - button "Previous reviews" [ref=e903] [cursor=pointer]:
+                - img [ref=e904]
+              - button "Next reviews" [ref=e906] [cursor=pointer]:
+                - img [ref=e907]
+              - generic [ref=e909]:
+                - article [ref=e910]:
+                  - generic: “
+                  - generic [ref=e911]:
+                    - generic [ref=e912]:
+                      - img [ref=e913]
+                      - img [ref=e915]
+                      - img [ref=e917]
+                      - img [ref=e919]
+                      - img [ref=e921]
+                    - generic [ref=e923]: 2 days ago
+                  - paragraph [ref=e924]: Upgraded my whole home office here. The ultrawide monitor and mechanical keyboard transformed my workflow.
+                  - generic [ref=e925]:
+                    - generic [ref=e926]: DM
+                    - generic [ref=e927]:
+                      - strong [ref=e928]:
+                        - text: Dana M.
+                        - generic "Verified buyer" [ref=e929]:
+                          - img [ref=e930]
+                      - generic [ref=e932]: Software Engineer
+                - article [ref=e933]:
+                  - generic: “
+                  - generic [ref=e934]:
+                    - generic [ref=e935]:
+                      - img [ref=e936]
+                      - img [ref=e938]
+                      - img [ref=e940]
+                      - img [ref=e942]
+                      - img [ref=e944]
+                    - generic [ref=e946]: 1 week ago
+                  - paragraph [ref=e947]: The wireless headphones and audio interface ship same day with thoughtful packaging. Premium experience.
+                  - generic [ref=e948]:
+                    - generic [ref=e949]: EK
+                    - generic [ref=e950]:
+                      - strong [ref=e951]:
+                        - text: Erin K.
+                        - generic "Verified buyer" [ref=e952]:
+                          - img [ref=e953]
+                      - generic [ref=e955]: Content Creator
+                - article [ref=e956]:
+                  - generic: “
+                  - generic [ref=e957]:
+                    - generic [ref=e958]:
+                      - img [ref=e959]
+                      - img [ref=e961]
+                      - img [ref=e963]
+                      - img [ref=e965]
+                      - img [ref=e967]
+                    - generic [ref=e969]: 2 weeks ago
+                  - paragraph [ref=e970]: Laptops and docking stations arrive configured and ready. Bulk pricing keeps our refresh budget predictable.
+                  - generic [ref=e971]:
+                    - generic [ref=e972]: RT
+                    - generic [ref=e973]:
+                      - strong [ref=e974]:
+                        - text: Ray T.
+                        - generic "Verified buyer" [ref=e975]:
+                          - img [ref=e976]
+                      - generic [ref=e978]: IT Manager
+                - article [ref=e979]:
+                  - generic: “
+                  - generic [ref=e980]:
+                    - generic [ref=e981]:
+                      - img [ref=e982]
+                      - img [ref=e984]
+                      - img [ref=e986]
+                      - img [ref=e988]
+                      - img [ref=e990]
+                    - generic [ref=e992]: 3 weeks ago
+                  - paragraph [ref=e993]: Right-spec memory cards and external SSDs cut my workflow time noticeably. Reordering by model is effortless.
+                  - generic [ref=e994]:
+                    - generic [ref=e995]: SP
+                    - generic [ref=e996]:
+                      - strong [ref=e997]:
+                        - text: Sofia P.
+                        - generic "Verified buyer" [ref=e998]:
+                          - img [ref=e999]
+                      - generic [ref=e1001]: Photographer
+                - article [ref=e1002]:
+                  - generic: “
+                  - generic [ref=e1003]:
+                    - generic [ref=e1004]:
+                      - img [ref=e1005]
+                      - img [ref=e1007]
+                      - img [ref=e1009]
+                      - img [ref=e1011]
+                      - img [ref=e1013]
+                    - generic [ref=e1015]: 1 month ago
+                  - paragraph [ref=e1016]: New monitor and peripherals shipped before a tournament. Saved my season.
+                  - generic [ref=e1017]:
+                    - generic [ref=e1018]: JL
+                    - generic [ref=e1019]:
+                      - strong [ref=e1020]:
+                        - text: Jordan L.
+                        - generic "Verified buyer" [ref=e1021]:
+                          - img [ref=e1022]
+                      - generic [ref=e1024]: Gamer
+                - article [ref=e1025]:
+                  - generic: “
+                  - generic [ref=e1026]:
+                    - generic [ref=e1027]:
+                      - img [ref=e1028]
+                      - img [ref=e1030]
+                      - img [ref=e1032]
+                      - img [ref=e1034]
+                      - img [ref=e1036]
+                    - generic [ref=e1038]: 1 month ago
+                  - paragraph [ref=e1039]: USB-C hubs and cables arrive labeled and ready. No more lost time hunting the right port.
+                  - generic [ref=e1040]:
+                    - generic [ref=e1041]: MA
+                    - generic [ref=e1042]:
+                      - strong [ref=e1043]:
+                        - text: Marcus A.
+                        - generic "Verified buyer" [ref=e1044]:
+                          - img [ref=e1045]
+                      - generic [ref=e1047]: Home Office Pro
+                - article [ref=e1048]:
+                  - generic: “
+                  - generic [ref=e1049]:
+                    - generic [ref=e1050]:
+                      - img [ref=e1051]
+                      - img [ref=e1053]
+                      - img [ref=e1055]
+                      - img [ref=e1057]
+                      - img [ref=e1059]
+                    - generic [ref=e1061]: 2 months ago
+                  - paragraph [ref=e1062]: The eco mailers and paper void fill let us drop plastic entirely. Our customers love the sustainable switch.
+                  - generic [ref=e1063]:
+                    - generic [ref=e1064]: NB
+                    - generic [ref=e1065]:
+                      - strong [ref=e1066]:
+                        - text: Nina B.
+                        - generic "Verified buyer" [ref=e1067]:
+                          - img [ref=e1068]
+                      - generic [ref=e1070]: Subscription Box Founder
+                - article [ref=e1071]:
+                  - generic: “
+                  - generic [ref=e1072]:
+                    - generic [ref=e1073]:
+                      - img [ref=e1074]
+                      - img [ref=e1076]
+                      - img [ref=e1078]
+                      - img [ref=e1080]
+                      - img [ref=e1082]
+                    - generic [ref=e1084]: 2 months ago
+                  - paragraph [ref=e1085]: Double-wall cartons hold up across multiple carrier hand-offs. Breakage on heavy SKUs is basically gone.
+                  - generic [ref=e1086]:
+                    - generic [ref=e1087]: CT
+                    - generic [ref=e1088]:
+                      - strong [ref=e1089]:
+                        - text: Carlos T.
+                        - generic "Verified buyer" [ref=e1090]:
+                          - img [ref=e1091]
+                      - generic [ref=e1093]: 3PL Operations
+                - article [ref=e1094]:
+                  - generic: “
+                  - generic [ref=e1095]:
+                    - generic [ref=e1096]:
+                      - img [ref=e1097]
+                      - img [ref=e1099]
+                      - img [ref=e1101]
+                      - img [ref=e1103]
+                      - img [ref=e1105]
+                    - generic [ref=e1107]: 3 months ago
+                  - paragraph [ref=e1108]: Consistent board strength and accurate dimensions. We can plan pallet loads without surprises.
+                  - generic [ref=e1109]:
+                    - generic [ref=e1110]: HW
+                    - generic [ref=e1111]:
+                      - strong [ref=e1112]:
+                        - text: Hannah W.
+                        - generic "Verified buyer" [ref=e1113]:
+                          - img [ref=e1114]
+                      - generic [ref=e1116]: Retail Buyer
+                - article [ref=e1117]:
+                  - generic: “
+                  - generic [ref=e1118]:
+                    - generic [ref=e1119]:
+                      - img [ref=e1120]
+                      - img [ref=e1122]
+                      - img [ref=e1124]
+                      - img [ref=e1126]
+                      - img [ref=e1128]
+                    - generic [ref=e1130]: 3 months ago
+                  - paragraph [ref=e1131]: Poly mailers are light, tough, and cheap to ship. Exactly what I needed to scale my store.
+                  - generic [ref=e1132]:
+                    - generic [ref=e1133]: TV
+                    - generic [ref=e1134]:
+                      - strong [ref=e1135]:
+                        - text: Tom V.
+                        - generic "Verified buyer" [ref=e1136]:
+                          - img [ref=e1137]
+                      - generic [ref=e1139]: Dropship Seller
+                - article [ref=e1140]:
+                  - generic: “
+                  - generic [ref=e1141]:
+                    - generic [ref=e1142]:
+                      - img [ref=e1143]
+                      - img [ref=e1145]
+                      - img [ref=e1147]
+                      - img [ref=e1149]
+                      - img [ref=e1151]
+                    - generic [ref=e1153]: 4 months ago
+                  - paragraph [ref=e1154]: Their team helped me spec the right cushioning for fragile glassware. Damage claims dropped to near zero.
+                  - generic [ref=e1155]:
+                    - generic [ref=e1156]: GR
+                    - generic [ref=e1157]:
+                      - strong [ref=e1158]:
+                        - text: Grace R.
+                        - generic "Verified buyer" [ref=e1159]:
+                          - img [ref=e1160]
+                      - generic [ref=e1162]: Logistics Coordinator
+                - article [ref=e1163]:
+                  - generic: “
+                  - generic [ref=e1164]:
+                    - generic [ref=e1165]:
+                      - img [ref=e1166]
+                      - img [ref=e1168]
+                      - img [ref=e1170]
+                      - img [ref=e1172]
+                      - img [ref=e1174]
+                    - generic [ref=e1176]: 5 months ago
+                  - paragraph [ref=e1177]: Bulk tape and box bundles ship fast and the quality is consistent. Our go-to supplier now.
+                  - generic [ref=e1178]:
+                    - generic [ref=e1179]: PD
+                    - generic [ref=e1180]:
+                      - strong [ref=e1181]:
+                        - text: Priya D.
+                        - generic "Verified buyer" [ref=e1182]:
+                          - img [ref=e1183]
+                      - generic [ref=e1185]: Software Engineer
+          - generic [ref=e1188]:
+            - generic [ref=e1190]:
+              - img [ref=e1192]
+              - heading "Tech Resources & Guides" [level=2] [ref=e1194]
+            - generic [ref=e1195]:
+              - link "Laptops on a wooden desk Guide The Ultimate Guide to Buying the Right Laptop What to look for in displays, CPUs, GPUs, memory, and battery life when choosing your next laptop." [ref=e1196] [cursor=pointer]:
+                - /url: https://eshopping-electronics-demo.mybigcommerce.com/blog/
+                - generic [ref=e1197]:
+                  - generic [ref=e1198]:
+                    - img "Laptops on a wooden desk" [ref=e1199]
+                    - generic [ref=e1200]:
+                      - img [ref=e1201]
+                      - text: Guide
+                  - generic [ref=e1203]:
+                    - heading "The Ultimate Guide to Buying the Right Laptop" [level=3] [ref=e1204]
+                    - paragraph [ref=e1205]: What to look for in displays, CPUs, GPUs, memory, and battery life when choosing your next laptop.
+              - link "Premium wireless headphones Guide Best Wireless Headphones We’ve Tested This Year In-depth review of premium ANC headphones and true-wireless earbuds — sound, comfort, battery." [ref=e1206] [cursor=pointer]:
+                - /url: https://eshopping-electronics-demo.mybigcommerce.com/blog/
+                - generic [ref=e1207]:
+                  - generic [ref=e1208]:
+                    - img "Premium wireless headphones" [ref=e1209]
+                    - generic [ref=e1210]:
+                      - img [ref=e1211]
+                      - text: Guide
+                  - generic [ref=e1213]:
+                    - heading "Best Wireless Headphones We’ve Tested This Year" [level=3] [ref=e1214]
+                    - paragraph [ref=e1215]: In-depth review of premium ANC headphones and true-wireless earbuds — sound, comfort, battery.
+              - link "Home office tech gadgets Guide 10 Must-Have Tech Gadgets to Upgrade Your Home Office Smart monitors, ergonomic keyboards, USB-C hubs, and more — boost productivity at your desk." [ref=e1216] [cursor=pointer]:
+                - /url: https://eshopping-electronics-demo.mybigcommerce.com/blog/
+                - generic [ref=e1217]:
+                  - generic [ref=e1218]:
+                    - img "Home office tech gadgets" [ref=e1219]
+                    - generic [ref=e1220]:
+                      - img [ref=e1221]
+                      - text: Guide
+                  - generic [ref=e1223]:
+                    - heading "10 Must-Have Tech Gadgets to Upgrade Your Home Office" [level=3] [ref=e1224]
+                    - paragraph [ref=e1225]: Smart monitors, ergonomic keyboards, USB-C hubs, and more — boost productivity at your desk.
+        - generic "Popular Brands" [ref=e1226]:
+          - generic [ref=e2130]:
+            - generic [ref=e2131]:
+              - img [ref=e2133]
+              - heading "Popular Brands" [level=2] [ref=e2135]
+            - generic [ref=e2136]:
+              - link "View All Brands" [ref=e2137] [cursor=pointer]:
+                - /url: https://eshopping-electronics-demo.mybigcommerce.com/brands/
+                - text: View All Brands
+                - img [ref=e2138]
+              - button "Previous" [ref=e2140] [cursor=pointer]:
+                - img [ref=e2141]
+              - button "Next" [ref=e2143] [cursor=pointer]:
+                - img [ref=e2144]
+          - generic [ref=e2146]:
+            - link "PixelCraft PixelCraft" [ref=e2147] [cursor=pointer]:
+              - /url: /pixelcraft/
+              - img "PixelCraft" [ref=e2149]
+              - generic [ref=e2150]: PixelCraft
+            - link "AudioWave AudioWave" [ref=e2151] [cursor=pointer]:
+              - /url: /audiowave/
+              - img "AudioWave" [ref=e2153]
+              - generic [ref=e2154]: AudioWave
+            - link "GlitchFree GlitchFree" [ref=e2155] [cursor=pointer]:
+              - /url: /glitchfree/
+              - img "GlitchFree" [ref=e2157]
+              - generic [ref=e2158]: GlitchFree
+            - link "VisionLens VisionLens" [ref=e2159] [cursor=pointer]:
+              - /url: /visionlens/
+              - img "VisionLens" [ref=e2161]
+              - generic [ref=e2162]: VisionLens
+            - link "DeepSound DeepSound" [ref=e2163] [cursor=pointer]:
+              - /url: /deepsound/
+              - img "DeepSound" [ref=e2165]
+              - generic [ref=e2166]: DeepSound
+            - link "HoloView HoloView" [ref=e2167] [cursor=pointer]:
+              - /url: /holoview/
+              - img "HoloView" [ref=e2169]
+              - generic [ref=e2170]: HoloView
+            - link "VelaStyle VelaStyle" [ref=e2171] [cursor=pointer]:
+              - /url: /velastyle/
+              - img "VelaStyle" [ref=e2173]
+              - generic [ref=e2174]: VelaStyle
+            - link "LuxeWear LuxeWear" [ref=e2175] [cursor=pointer]:
+              - /url: /luxewear/
+              - img "LuxeWear" [ref=e2177]
+              - generic [ref=e2178]: LuxeWear
+            - link "UrbanPulse UrbanPulse" [ref=e2179] [cursor=pointer]:
+              - /url: /urbanpulse/
+              - img "UrbanPulse" [ref=e2181]
+              - generic [ref=e2182]: UrbanPulse
+            - link "GoldMint GoldMint" [ref=e2183] [cursor=pointer]:
+              - /url: /goldmint/
+              - img "GoldMint" [ref=e2185]
+              - generic [ref=e2186]: GoldMint
+            - link "LeatherLane LeatherLane" [ref=e2187] [cursor=pointer]:
+              - /url: /leatherlane/
+              - img "LeatherLane" [ref=e2189]
+              - generic [ref=e2190]: LeatherLane
+            - link "ColorBurst ColorBurst" [ref=e2191] [cursor=pointer]:
+              - /url: /colorburst/
+              - img "ColorBurst" [ref=e2193]
+              - generic [ref=e2194]: ColorBurst
+        - generic [ref=e1227]:
+          - generic [ref=e1228]:
+            - generic [ref=e1229]:
+              - img [ref=e1231]
+              - heading "Latest from the Blog" [level=2] [ref=e1232]
+            - link "View All Posts" [ref=e1233] [cursor=pointer]:
+              - /url: /blog/
+              - text: View All Posts
+              - img [ref=e1234]
+          - generic [ref=e1235]:
+            - article [ref=e1236]:
+              - link "How to Create a Living Room You Actually Want to Spend Time In" [ref=e1237] [cursor=pointer]:
+                - /url: https://eshopping-electronics-demo.mybigcommerce.com/blog/how-to-create-a-living-room-you-actually-want-to-spend-time-in/
+                - img "How to Create a Living Room You Actually Want to Spend Time In" [ref=e1238]
+              - generic [ref=e1239]:
+                - time [ref=e1240]: 26th May 2026
+                - heading "How to Create a Living Room You Actually Want to Spend Time In" [level=3] [ref=e1241]:
+                  - link "How to Create a Living Room You Actually Want to Spend Time In" [ref=e1242] [cursor=pointer]:
+                    - /url: https://eshopping-electronics-demo.mybigcommerce.com/blog/how-to-create-a-living-room-you-actually-want-to-spend-time-in/
+                - paragraph [ref=e1243]: The Living Room as the Heart of the HomeThe living room is where households come together — for conv
+                - link "Read More" [ref=e1244] [cursor=pointer]:
+                  - /url: https://eshopping-electronics-demo.mybigcommerce.com/blog/how-to-create-a-living-room-you-actually-want-to-spend-time-in/
+                  - text: Read More
+                  - img [ref=e1245]
+            - article [ref=e1246]:
+              - 'link "The Art of Gift Giving: How to Choose Presents People Actually Love" [ref=e1247] [cursor=pointer]':
+                - /url: https://eshopping-electronics-demo.mybigcommerce.com/blog/the-art-of-gift-giving-how-to-choose-presents-people-actually-love/
+                - 'img "The Art of Gift Giving: How to Choose Presents People Actually Love" [ref=e1248]'
+              - generic [ref=e1249]:
+                - time [ref=e1250]: 26th May 2026
+                - 'heading "The Art of Gift Giving: How to Choose Presents People Actually Love" [level=3] [ref=e1251]':
+                  - 'link "The Art of Gift Giving: How to Choose Presents People Actually Love" [ref=e1252] [cursor=pointer]':
+                    - /url: https://eshopping-electronics-demo.mybigcommerce.com/blog/the-art-of-gift-giving-how-to-choose-presents-people-actually-love/
+                - paragraph [ref=e1253]: Why Gift Giving Feels So HardChoosing a thoughtful gift for someone you care about can feel surprisi
+                - link "Read More" [ref=e1254] [cursor=pointer]:
+                  - /url: https://eshopping-electronics-demo.mybigcommerce.com/blog/the-art-of-gift-giving-how-to-choose-presents-people-actually-love/
+                  - text: Read More
+                  - img [ref=e1255]
+            - article [ref=e1256]:
+              - 'link "Smart Shopping: How to Find the Best Online Deals Without the Stress" [ref=e1257] [cursor=pointer]':
+                - /url: https://eshopping-electronics-demo.mybigcommerce.com/blog/smart-shopping-how-to-find-the-best-online-deals-without-the-stress/
+                - 'img "Smart Shopping: How to Find the Best Online Deals Without the Stress" [ref=e1258]'
+              - generic [ref=e1259]:
+                - time [ref=e1260]: 26th May 2026
+                - 'heading "Smart Shopping: How to Find the Best Online Deals Without the Stress" [level=3] [ref=e1261]':
+                  - 'link "Smart Shopping: How to Find the Best Online Deals Without the Stress" [ref=e1262] [cursor=pointer]':
+                    - /url: https://eshopping-electronics-demo.mybigcommerce.com/blog/smart-shopping-how-to-find-the-best-online-deals-without-the-stress/
+                - paragraph [ref=e1263]: The Reality of Online SalesOnline shopping has made it easier than ever to compare prices and find d
+                - link "Read More" [ref=e1264] [cursor=pointer]:
+                  - /url: https://eshopping-electronics-demo.mybigcommerce.com/blog/smart-shopping-how-to-find-the-best-online-deals-without-the-stress/
+                  - text: Read More
+                  - img [ref=e1265]
+        - generic [ref=e1267]:
+          - generic [ref=e1268]:
+            - heading "Stay Ahead in Tech" [level=3] [ref=e1269]:
+              - text: Stay Ahead in
+              - emphasis [ref=e1270]: Tech
+            - paragraph [ref=e1271]: Product launches, exclusive deals, and expert reviews delivered weekly.
+          - generic [ref=e1272]:
+            - textbox "Your email address" [ref=e1273]
+            - button "Subscribe to our newsletter" [ref=e1274] [cursor=pointer]
+        - generic [ref=e1276]:
+          - generic [ref=e1280]:
+            - heading "Your Complete Consumer Electronics Source" [level=2] [ref=e1281]
+            - paragraph [ref=e1282]: We supply the laptops, monitors, audio gear, smart home devices, and accessories that keep professionals, creators, and enthusiasts powered up. Our catalog spans computing, displays, audio, mobile, smart home, and cables — all tested and stocked for fast, predictable shipping.
+            - paragraph [ref=e1283]: From everyday productivity to high-performance gear, every product is chosen for quality and value. Browse trusted brands and pro-grade tech used by thousands of professionals and enthusiasts every day.
+          - generic [ref=e1286]:
+            - generic [ref=e1287]:
+              - heading "Need help choosing tech? Talk to a Tech Specialist" [level=3] [ref=e1288]:
+                - text: Need help choosing tech?
+                - emphasis [ref=e1289]: Talk to a Tech Specialist
+              - paragraph [ref=e1290]: Our specialists help you spec the right laptop, monitor, or peripheral for your work or play. Call or chat anytime.
+            - generic [ref=e1291]:
+              - link "Request a Quote" [ref=e1292] [cursor=pointer]:
+                - /url: /contact-us/
+                - text: Request a Quote
+                - img [ref=e1293]
+              - link "(800) 555-0123" [ref=e1295] [cursor=pointer]:
+                - /url: tel:18005550123
+                - img [ref=e1296]
+                - text: (800) 555-0123
+  - contentinfo [ref=e1298]:
+    - generic [ref=e1299]:
+      - generic [ref=e1300]:
+        - link "eShopping Electronics Demo" [ref=e1302] [cursor=pointer]:
+          - /url: https://eshopping-electronics-demo.mybigcommerce.com/
+          - img "eShopping Electronics Demo" [ref=e1304]
+        - generic [ref=e1308]: eShopping Electronics Demo — Laptops, monitors, audio gear, and smart home tech — tested for quality and shipped fast.
+        - generic [ref=e1309]:
+          - link "Facebook" [ref=e1310] [cursor=pointer]:
+            - /url: https://facebook.com/papathemes
+            - img [ref=e1311]
+          - link "Pinterest" [ref=e1313] [cursor=pointer]:
+            - /url: https://pinterest.com/papathemes
+            - img [ref=e1314]
+          - link "YouTube" [ref=e1316] [cursor=pointer]:
+            - /url: https://youtube.com/@papathemes
+            - img [ref=e1317]
+          - link "Instagram" [ref=e1319] [cursor=pointer]:
+            - /url: https://instagram.com/papathemes
+            - img [ref=e1320]
+          - link "LinkedIn" [ref=e1322] [cursor=pointer]:
+            - /url: https://linkedin.com/company/papathemes
+            - img [ref=e1323]
+      - generic [ref=e1325]:
+        - heading "Navigate" [level=4] [ref=e1326]
+        - list [ref=e1327]:
+          - listitem [ref=e1328]:
+            - link "About" [ref=e1329] [cursor=pointer]:
+              - /url: https://eshopping-electronics-demo.mybigcommerce.com/about/
+          - listitem [ref=e1330]:
+            - link "Help" [ref=e1331] [cursor=pointer]:
+              - /url: https://eshopping-electronics-demo.mybigcommerce.com/help/
+          - listitem [ref=e1332]:
+            - link "Contact Us" [ref=e1333] [cursor=pointer]:
+              - /url: https://eshopping-electronics-demo.mybigcommerce.com/contact-us/
+          - listitem [ref=e1334]:
+            - link "Blog" [ref=e1335] [cursor=pointer]:
+              - /url: https://eshopping-electronics-demo.mybigcommerce.com/blog/
+          - listitem [ref=e1336]:
+            - link "Promotions" [ref=e1337] [cursor=pointer]:
+              - /url: https://eshopping-electronics-demo.mybigcommerce.com/promotions/
+          - listitem [ref=e1338]:
+            - link "Sitemap" [ref=e1339] [cursor=pointer]:
+              - /url: https://eshopping-electronics-demo.mybigcommerce.com/sitemap.php
+      - generic [ref=e1340]:
+        - heading "Categories" [level=4] [ref=e1341]
+        - list [ref=e1342]:
+          - listitem [ref=e1343]:
+            - link "Electronics" [ref=e1344] [cursor=pointer]:
+              - /url: https://eshopping-electronics-demo.mybigcommerce.com/electronics/
+          - listitem [ref=e1345]:
+            - link "Shop All" [ref=e1346] [cursor=pointer]:
+              - /url: https://eshopping-electronics-demo.mybigcommerce.com/shop-all/
+          - listitem [ref=e1347]:
+            - link "Fashion" [ref=e1348] [cursor=pointer]:
+              - /url: https://eshopping-electronics-demo.mybigcommerce.com/fashion/
+          - listitem [ref=e1349]:
+            - link "Home & Living" [ref=e1350] [cursor=pointer]:
+              - /url: https://eshopping-electronics-demo.mybigcommerce.com/home-living/
+          - listitem [ref=e1351]:
+            - link "Sports & Outdoors" [ref=e1352] [cursor=pointer]:
+              - /url: https://eshopping-electronics-demo.mybigcommerce.com/sports-outdoors/
+          - listitem [ref=e1353]:
+            - link "Beauty & Health" [ref=e1354] [cursor=pointer]:
+              - /url: https://eshopping-electronics-demo.mybigcommerce.com/beauty-health/
+      - generic [ref=e1355]:
+        - heading "Brands" [level=4] [ref=e1356]
+        - list [ref=e1357]:
+          - listitem [ref=e1358]:
+            - link "CycleForce" [ref=e1359] [cursor=pointer]:
+              - /url: https://eshopping-electronics-demo.mybigcommerce.com/cycleforce/
+          - listitem [ref=e1360]:
+            - link "SleepSoft" [ref=e1361] [cursor=pointer]:
+              - /url: https://eshopping-electronics-demo.mybigcommerce.com/sleepsoft/
+          - listitem [ref=e1362]:
+            - link "ComfortAir" [ref=e1363] [cursor=pointer]:
+              - /url: https://eshopping-electronics-demo.mybigcommerce.com/comfortair/
+          - listitem [ref=e1364]:
+            - link "DeepSound" [ref=e1365] [cursor=pointer]:
+              - /url: https://eshopping-electronics-demo.mybigcommerce.com/deepsound/
+          - listitem [ref=e1366]:
+            - link "LuxeWear" [ref=e1367] [cursor=pointer]:
+              - /url: https://eshopping-electronics-demo.mybigcommerce.com/luxewear/
+          - listitem [ref=e1368]:
+            - link "VisionLens" [ref=e1369] [cursor=pointer]:
+              - /url: https://eshopping-electronics-demo.mybigcommerce.com/visionlens/
+          - listitem [ref=e1370]:
+            - link "AudioWave" [ref=e1371] [cursor=pointer]:
+              - /url: https://eshopping-electronics-demo.mybigcommerce.com/audiowave/
+          - listitem [ref=e1372]:
+            - link "ColorBurst" [ref=e1373] [cursor=pointer]:
+              - /url: https://eshopping-electronics-demo.mybigcommerce.com/colorburst/
+          - listitem [ref=e1374]:
+            - link "FabricHouse" [ref=e1375] [cursor=pointer]:
+              - /url: https://eshopping-electronics-demo.mybigcommerce.com/fabrichouse/
+          - listitem [ref=e1376]:
+            - link "GlitchFree" [ref=e1377] [cursor=pointer]:
+              - /url: https://eshopping-electronics-demo.mybigcommerce.com/glitchfree/
+          - listitem [ref=e1378]:
+            - link "View All" [ref=e1379] [cursor=pointer]:
+              - /url: https://eshopping-electronics-demo.mybigcommerce.com/brands/
+    - generic [ref=e1380]:
+      - generic [ref=e1381]: © 2026 eShopping Electronics Demo. All rights reserved.
+      - generic [ref=e1382]:
+        - text: Powered by
+        - link "BigCommerce" [ref=e1383] [cursor=pointer]:
+          - /url: https://www.bigcommerce.com
+        - text: · Designed by
+        - link "PapaThemes.com" [ref=e1384] [cursor=pointer]:
+          - /url: https://papathemes.com

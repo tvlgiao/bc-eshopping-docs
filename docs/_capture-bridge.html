@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>capture-bridge</title>
+<style>
+  body { font: 14px/1.4 system-ui; padding: 1rem; background: #fafaf9; }
+  .ok { color: #059669; }
+  pre { background: #fff; padding: 0.5rem; border: 1px solid #ddd; border-radius: 4px; max-height: 200px; overflow:auto; }
+</style>
+</head>
+<body>
+<h3>Screenshot capture bridge</h3>
+<p>Upload an image here — it auto-triggers a Chrome download to your Downloads folder.</p>
+<input type="file" id="up" accept="image/*">
+<pre id="log">waiting…</pre>
+<script>
+  const log = document.getElementById('log');
+  document.getElementById('up').addEventListener('change', (e) => {
+    const f = e.target.files[0];
+    if (!f) { log.textContent = 'no file'; return; }
+    const a = document.createElement('a');
+    a.href = URL.createObjectURL(f);
+    a.download = f.name || 'capture.png';
+    document.body.appendChild(a);
+    a.click();
+    setTimeout(() => { URL.revokeObjectURL(a.href); a.remove(); }, 1500);
+    log.textContent = 'TRIGGERED DOWNLOAD: ' + a.download + '  (' + f.size + ' bytes)';
+    log.className = 'ok';
+  });
+</script>
+</body>
+</html>
