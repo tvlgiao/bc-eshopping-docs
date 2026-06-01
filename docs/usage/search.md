@@ -54,7 +54,7 @@ When the panel does appear, it can include:
 
 Because every part of this panel is driven by BigCommerce's suggestions for the specific query, none of it shows on a zero-result search where BigCommerce has nothing to suggest.
 
-To add your own content below the no-results message, place an HTML widget in the search page's `search_below_content` region (see the [widget regions reference](widget-regions.md)). You can also override the message text by editing the theme's language file (advanced, requires theme file access).
+To add your own content below the no-results message, place an **AI HTML Generator | PapaThemes** widget in the search page's `search_below_content` region (see the [widget regions reference](widget-regions.md)). You can also override the message text by editing the theme's language file (advanced, requires theme file access).
 
 ## Hiding zero-result products
 

@@ -59,7 +59,7 @@ The four per-variation defaults:
 
 Leave the **Sidebar Promo Text** field empty to hide the built-in card.
 
-For more design control (image, custom colors), drop an **HTML Widget** (or any PapaThemes widget) into the **Sidebar — below (global)** region. This widget renders **just above** the built-in text promo card; the text promo card only appears when the **Sidebar Promo Text** field is filled. If you want the widget to **replace** the built-in card entirely, clear the **Sidebar Promo Text** field. The demo stores use a plain HTML Widget here.
+For more design control (image, custom colors), drop an **AI HTML Generator | PapaThemes** widget (or any PapaThemes widget) into the **Sidebar — below (global)** region. This widget renders **just above** the built-in text promo card; the text promo card only appears when the **Sidebar Promo Text** field is filled. If you want the widget to **replace** the built-in card entirely, clear the **Sidebar Promo Text** field. The demo stores use the **AI HTML Generator | PapaThemes** widget here, which requires the PapaThemes app to be installed.
 
 ---
 

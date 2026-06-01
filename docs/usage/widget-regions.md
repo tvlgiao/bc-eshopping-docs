@@ -165,4 +165,4 @@ The same two regions also render in the brand bulk-order page variant (`template
 5. **Click the widget** to edit its content.
 6. **Save → Publish**.
 
-For deeper widget tutorials, see [HTML widget](widgets-html.md) — the main way to fill these regions — and [Demo Marketing Blocks](widgets-papathemes.md) for how the demo storefronts use them.
+For deeper widget tutorials, see [AI HTML Generator](widgets-html.md) — the **AI HTML Generator | PapaThemes** widget the demos use to fill these regions (provided by the PapaThemes app) — and [Demo Marketing Blocks](widgets-papathemes.md) for how the demo storefronts use them.

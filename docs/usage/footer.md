@@ -23,7 +23,7 @@ The brand block shows your store logo, a tagline area, and (optionally) your soc
 The tagline area is a global widget region (`eshopping_footer_description--global`). By default it's empty. See the [Widget regions reference](widget-regions.md) for the full list of regions.
 
 1. Open Page Builder (**Storefront → My Theme → Customize**). Scroll down to the footer — the first column shows a dashed widget-region outline.
-2. Click the **+** button inside that outline and drag in an **HTML Widget** (this drops it into the **`eshopping_footer_description--global`** region).
+2. Click the **+** button inside that outline and drag in an **AI HTML Generator | PapaThemes** widget (this drops it into the **`eshopping_footer_description--global`** region). This widget is provided by the PapaThemes app, which must be installed.
 3. Paste your tagline + contact details, e.g.:
 
    ```html

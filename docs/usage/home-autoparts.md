@@ -16,11 +16,11 @@ The home page renders these sections in this order on the live demo:
 3. Featured Products slider
 4. New Arrivals slider
 5. Products by Category
-6. Value-prop callout (HTML widget — *"Auto Parts That Fit. Pricing That Drives…"*)
+6. Value-prop callout (AI HTML Generator | PapaThemes — *"Auto Parts That Fit. Pricing That Drives…"*)
 7. Brands carousel
 8. Blog posts
 9. Newsletter
-10. About block (HTML widget — *"Your Complete Auto Parts Source"*)
+10. About block (AI HTML Generator | PapaThemes — *"Your Complete Auto Parts Source"*)
 
 ## Section-by-section recipe
 
@@ -190,16 +190,16 @@ These popups use the **theme defaults** (the same in every variation) and are ac
 | Promo popup | "Spring Sale" — "Get 15% off your entire order with the code below." Code **SPRING15**, button "Shop Now" → / (shows after 5 seconds; reappears after 3 days) |
 | Exit-intent popup | "Wait! Don't Go Empty-Handed" — "Here's a special 10% discount just for you." Code **STAY10**, button "Claim Discount" → / (discount style; on desktop triggers when the cursor leaves the top of the window, on mobile after 45 seconds of inactivity; reappears after 1 day) |
 
-### 18. Home page marketing blocks (Page Builder HTML widgets)
+### 18. Home page marketing blocks (Page Builder — AI HTML Generator | PapaThemes)
 
-Two content blocks on the home page are **HTML widgets** placed via Page Builder. They arrive with the demo **widget import**, not the theme settings, so they appear automatically after you import the AutoParts widget data:
+Two content blocks on the home page are **AI HTML Generator | PapaThemes** widgets placed via Page Builder. They require the PapaThemes app to be installed, and arrive with the demo **widget import**, not the theme settings, so they appear automatically after you import the AutoParts widget data:
 
 | Block | Region | Heading |
 | ----- | ------ | ------- |
 | Value-prop callout | Below the Products by Category section | "Auto Parts That Fit. Pricing That Drives…" |
 | About block | Below the Newsletter section | "Your Complete Auto Parts Source" |
 
-To edit them, open **Storefront → Web Pages / Page Builder** and edit the corresponding HTML widgets.
+To edit them, open **Storefront → Web Pages / Page Builder** and edit the corresponding AI HTML Generator widgets.
 
 ---
 

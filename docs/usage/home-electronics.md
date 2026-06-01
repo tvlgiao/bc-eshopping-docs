@@ -10,7 +10,7 @@ Live demo: <https://eshopping-electronics-demo.mybigcommerce.com>
 The Electronics variation **already populates** most settings (colors, fonts, trust strip, newsletter, promo, cart goal, PDP shipping). Recipe below shows what's set automatically + what to override.
 
 !!! info "What actually renders on the live home page"
-    In order, top to bottom: **Hero** → **Trust strip** → **Featured Products** → **New Arrivals** → **Products by Category** → **value-prop callout** (HTML widget) → **Brands carousel** → **Blog posts** → **Newsletter** → **about block** (HTML widget). The two HTML widgets are placed via Page Builder by the demo widget import — not from theme settings.
+    In order, top to bottom: **Hero** → **Trust strip** → **Featured Products** → **New Arrivals** → **Products by Category** → **value-prop callout** (AI HTML Generator | PapaThemes) → **Brands carousel** → **Blog posts** → **Newsletter** → **about block** (AI HTML Generator widget). The two AI HTML Generator widgets are placed via Page Builder by the demo widget import — not from theme settings, and require the PapaThemes app to be installed.
 
 ## Section-by-section recipe
 
@@ -139,17 +139,17 @@ Slide ideas (*suggestions only*):
 
 Home page blog posts: `3`. Add at least 3 posts with featured images.
 
-### 14. Value-prop callout (HTML widget)
+### 14. Value-prop callout (AI HTML Generator | PapaThemes)
 
-A Page Builder **HTML Widget** placed in the region **below Products by Category**, with the heading **Tech That Performs. Pricing That Powers Up.** It arrives with the demo widget import — it is not a theme setting.
+A Page Builder **AI HTML Generator | PapaThemes** widget placed in the region **below Products by Category**, with the heading **Tech That Performs. Pricing That Powers Up.** It arrives with the demo widget import — it is not a theme setting, and requires the PapaThemes app to be installed.
 
 ### 15. Newsletter — variation default
 
 The variation sets the heading **Stay Ahead in *Tech*** with the description "Product launches, exclusive deals, and expert reviews delivered weekly."
 
-### 16. About block (HTML widget)
+### 16. About block (AI HTML Generator | PapaThemes)
 
-A Page Builder **HTML Widget** placed in the region **below the Newsletter**, with the heading **Your Complete Consumer Electronics Source.** Like the callout above, it comes from the demo widget import — not a theme setting.
+A Page Builder **AI HTML Generator | PapaThemes** widget placed in the region **below the Newsletter**, with the heading **Your Complete Consumer Electronics Source.** Like the callout above, it comes from the demo widget import — not a theme setting, and requires the PapaThemes app to be installed.
 
 ### 17. Marketing features to turn on
 

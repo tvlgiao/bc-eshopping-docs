@@ -18,14 +18,14 @@ The Packaging variation **already populates** most settings (colors, fonts, trus
     3. Featured Products slider
     4. New Arrivals slider
     5. Products by Category
-    6. Value-prop callout (HTML Widget — *Page Builder*)
-    7. Customer Reviews carousel (HTML Widget — *Page Builder*)
-    8. Packaging Resources & Guides (HTML Widget — *Page Builder*)
+    6. Value-prop callout (AI HTML Generator | PapaThemes — *Page Builder*)
+    7. Customer Reviews carousel (AI HTML Generator | PapaThemes — *Page Builder*)
+    8. Packaging Resources & Guides (AI HTML Generator | PapaThemes — *Page Builder*)
     9. Brands carousel
     10. Blog posts
     11. Newsletter
-    12. About block (HTML Widget — *Page Builder*)
-    13. Talk to an Expert CTA bar (HTML Widget — *Page Builder*)
+    12. About block (AI HTML Generator | PapaThemes — *Page Builder*)
+    13. Talk to an Expert CTA bar (AI HTML Generator | PapaThemes — *Page Builder*)
 
 ## Section-by-section recipe
 
@@ -135,19 +135,19 @@ The demo uses the built-in hero driven by the BigCommerce Home Page Carousel:
 | Tabs shown | Bestselling, Featured, New |
 | Show reviews | Off |
 
-### 12. Value-prop callout (HTML Widget — Page Builder)
+### 12. Value-prop callout (AI HTML Generator | PapaThemes — Page Builder)
 
-Below the Products by Category section, the demo renders an **HTML Widget** (added via Page Builder, imported with the demo widget data — **not** a theme setting). Heading: *"Packaging That Protects. Pricing That Scales."*.
+Below the Products by Category section, the demo renders an **AI HTML Generator | PapaThemes** widget (added via Page Builder, imported with the demo widget data — **not** a theme setting, and requires the PapaThemes app to be installed). Heading: *"Packaging That Protects. Pricing That Scales."*.
 
-This block is the first of three HTML Widgets that sit directly **below Products by Category** (this one appears first).
+This block is the first of three AI HTML Generator widgets that sit directly **below Products by Category** (this one appears first).
 
-### 12b. Customer Reviews (HTML Widget — Page Builder)
+### 12b. Customer Reviews (AI HTML Generator | PapaThemes — Page Builder)
 
-The second HTML Widget below Products by Category is a scrollable carousel of **12 customer testimonials**, each with a 5-star rating, quote, reviewer name/role, and a "Verified" tag. Like the others, it's imported with the demo widget data — **not** a theme setting. It appears directly after the value-prop callout.
+The second AI HTML Generator | PapaThemes widget below Products by Category is a scrollable carousel of **12 customer testimonials**, each with a 5-star rating, quote, reviewer name/role, and a "Verified" tag. Like the others, it's imported with the demo widget data — **not** a theme setting. It appears directly after the value-prop callout.
 
-### 12c. Packaging Resources & Guides (HTML Widget — Page Builder)
+### 12c. Packaging Resources & Guides (AI HTML Generator | PapaThemes — Page Builder)
 
-The third HTML Widget below Products by Category, headed *"Packaging Resources & Guides"*, shows three guide cards that link to blog posts:
+The third AI HTML Generator | PapaThemes widget below Products by Category, headed *"Packaging Resources & Guides"*, shows three guide cards that link to blog posts:
 
 - **How to Choose the Right Box Size**
 - **Bubble Wrap vs. Foam Peanuts vs. Air Pillows**
@@ -172,15 +172,15 @@ The homepage blog posts count is `3`.
 - Heading: Subscribe for *Packaging Deals*
 - Description: Bulk offers, new product alerts, and industry tips delivered to your inbox.
 
-### 16. About block (HTML Widget — Page Builder)
+### 16. About block (AI HTML Generator | PapaThemes — Page Builder)
 
-Below the newsletter, the demo renders a second **HTML Widget** (added via Page Builder, imported with the demo widget data — **not** a theme setting). Heading: *"Your Complete Shipping Supplies Source"*.
+Below the newsletter, the demo renders a second **AI HTML Generator | PapaThemes** widget (added via Page Builder, imported with the demo widget data — **not** a theme setting, and requires the PapaThemes app to be installed). Heading: *"Your Complete Shipping Supplies Source"*.
 
-This block is the first of two HTML Widgets directly **below Newsletter** (this one appears first).
+This block is the first of two AI HTML Generator widgets directly **below Newsletter** (this one appears first).
 
-### 16b. Talk to an Expert (HTML Widget — Page Builder)
+### 16b. Talk to an Expert (AI HTML Generator | PapaThemes — Page Builder)
 
-The second HTML Widget below the newsletter renders a dark CTA bar with the heading *"Need help choosing packaging? Talk to a Packaging Specialist"*. It includes a **Request a Quote** button linking to `/contact-us/` and a phone number, **(800) 555-0123**. Like the About block, it's imported with the demo widget data — **not** a theme setting — and appears directly after it.
+The second AI HTML Generator | PapaThemes widget below the newsletter renders a dark CTA bar with the heading *"Need help choosing packaging? Talk to a Packaging Specialist"*. It includes a **Request a Quote** button linking to `/contact-us/` and a phone number, **(800) 555-0123**. Like the About block, it's imported with the demo widget data — **not** a theme setting — and appears directly after it.
 
 ### 17. Sidebar / cart / PDP — variation defaults
 

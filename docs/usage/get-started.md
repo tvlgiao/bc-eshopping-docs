@@ -21,7 +21,7 @@ If you'd rather jump straight to a specific page, use the menu on the left.
 After step 3 your storefront already has the demo **products, product sliders, and marketing blocks** in place. The **hero carousel** is the one piece that isn't auto-imported — you add its slides manually in the BigCommerce admin under **Marketing → Carousel** (see step 4 below). Once that's done, your storefront matches one of the four demo stores. Step 5 is where you make it **your own**.
 
 !!! info "How the demo content is built"
-    You don't need any extra app to reproduce the demos. The demo home pages and footer marketing blocks are **built-in BigCommerce HTML widgets** — the importer in step 3 creates them for you. The home-page hero is the **built-in BigCommerce Carousel**, shown when the **Show carousel** setting is on (it is on in every demo variant). The HTML marketing blocks are managed in Page Builder. The hero carousel slides are **not** created by the importer — you add them yourself in the BigCommerce admin under **Marketing → Carousel** (step 4 below). No add-ons are required for either.
+    The theme's own configurable sections (hero, trust strip, sliders, etc.) need no extra app. The demo home pages and footer **marketing blocks**, however, are **AI HTML Generator | PapaThemes** widgets — provided by the **PapaThemes app**, which you must install for them to render fully — and the importer in step 3 creates them for you. The home-page hero is the **built-in BigCommerce Carousel**, shown when the **Show carousel** setting is on (it is on in every demo variant); no app is needed for the hero. The AI HTML Generator marketing blocks are managed in Page Builder. The hero carousel slides are **not** created by the importer — you add them yourself in the BigCommerce admin under **Marketing → Carousel** (step 4 below).
 
 ---
 
@@ -63,13 +63,13 @@ You'll need:
 
 ## How the demo home page is assembled
 
-It helps to know what you're actually setting up before you dive in. Every eShopping demo home page is built from standard BigCommerce pieces — no special app is required:
+It helps to know what you're actually setting up before you dive in. Every eShopping demo home page is built from a mix of built-in pieces and the **AI HTML Generator | PapaThemes** widget (the latter provided by the **PapaThemes app**):
 
 - **Hero** — the built-in BigCommerce **Carousel**. It appears when **two** things are both true: BigCommerce's standard **Show carousel** setting is on, and at least one slide exists. Both are already in place in every demo variant — the display setting is on by default, so you only need to add slides. The importer does not create slides, so you add them yourself under **Marketing → Carousel** — see [Step 4](#step-4-add-the-hero-carousel-slides).
-- **Marketing blocks** (the value-prop callout below the product sections, the "about" block under the newsletter, and the footer tagline) — built-in **HTML widgets**. The importer in step 3 creates these for you with demo-ready copy; you can then edit them directly in Page Builder.
+- **Marketing blocks** (the value-prop callout below the product sections, the "about" block under the newsletter, and the footer tagline) — **AI HTML Generator | PapaThemes** widgets, which require the **PapaThemes app** installed. The importer in step 3 creates these for you with demo-ready copy; you can then edit them directly in Page Builder.
 - **Product sliders, brands carousel, blog, newsletter** — rendered by the theme and controlled by the theme's own settings, which the demo variant pre-configures for you.
 
-Because everything is built-in, the only tool you need beyond your store is the [BC Tools importer](import-demo-data.md) in step 3, which loads the demo products and widget content in one pass.
+Beyond your store you need the [BC Tools importer](import-demo-data.md) in step 3, which loads the demo products and widget content in one pass, plus the **PapaThemes app** for the AI HTML Generator marketing blocks.
 
 ---
 

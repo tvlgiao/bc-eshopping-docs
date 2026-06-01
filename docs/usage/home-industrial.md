@@ -7,7 +7,7 @@ Live demo: <https://eshopping-industrial-demo.mybigcommerce.com>
 !!! note "Before you start"
     Theme installed, **Industrial** variation picked in Page Builder's *Theme styles* dropdown, **Industrial** product + widget data imported via BC Tools.
 
-The Industrial variation ships with its own warm "rust + bark" palette and serif headings. The two marketing blocks on the page (the value-prop callout and the about block) are **HTML Widgets** placed with Page Builder — they arrive with the demo widget import, not with theme settings.
+The Industrial variation ships with its own warm "rust + bark" palette and serif headings. The two marketing blocks on the page (the value-prop callout and the about block) are **AI HTML Generator | PapaThemes** widgets placed with Page Builder — they arrive with the demo widget import, not with theme settings. They require the PapaThemes app to be installed.
 
 What the live home page actually renders, top to bottom:
 
@@ -16,11 +16,11 @@ What the live home page actually renders, top to bottom:
 3. Featured Products slider
 4. New Arrivals slider
 5. Products by Category
-6. HTML Widget — value-prop callout ("Industrial Tools That Last. Pricing That…")
+6. AI HTML Generator | PapaThemes widget — value-prop callout ("Industrial Tools That Last. Pricing That…")
 7. Brands carousel
 8. Blog posts
 9. Newsletter
-10. HTML Widget — about block ("Your Complete Industrial Supply Source")
+10. AI HTML Generator | PapaThemes widget — about block ("Your Complete Industrial Supply Source")
 
 ## Section-by-section recipe
 
@@ -165,9 +165,9 @@ eShopping Theme → Homepage Sections → **Show Newsletter** is on. The heading
 
 The signup writes to **Customers → Subscribers**.
 
-### 14. Marketing blocks (HTML Widgets via Page Builder)
+### 14. Marketing blocks (AI HTML Generator | PapaThemes via Page Builder)
 
-Two content blocks on the home page are **HTML Widgets** placed through Page Builder, not theme settings. They come in with the demo widget import. To edit them: **Storefront → My Themes → Customize → Page Builder**, click the widget on the home page, and edit its content.
+Two content blocks on the home page are **AI HTML Generator | PapaThemes** widgets placed through Page Builder, not theme settings. They require the PapaThemes app to be installed, and come in with the demo widget import. To edit them: **Storefront → My Themes → Customize → Page Builder**, click the AI HTML Generator widget on the home page, and edit its content.
 
 | Widget | Heading (starts with) | Position |
 | ------ | --------------------- | -------- |

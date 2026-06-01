@@ -25,7 +25,7 @@ You will learn how to:
 2. Pick the variant (Industrial / AutoParts / Electronics / Packaging) that matches your products.
 3. Import the matching demo products and widgets in a few clicks.
 4. Customize the home page, product page, category page, cart, search, and blog through **Page Builder** — without touching any code.
-5. Use the theme's own configurable sections plus the built-in BigCommerce **HTML Widget** to build any layout you need — no third-party widget app is required.
+5. Use the theme's own configurable sections (no app required) plus the **AI HTML Generator | PapaThemes** widget — provided by the PapaThemes app — to build any layout you need.
 
 ---
 
@@ -69,7 +69,7 @@ Picking a variation in Page Builder applies that demo's visual settings in one c
 | **Product Page** | PDP layout, product cards, Frequently Bought Together (theme-wide), product compare (theme-wide), FAQ tab |
 | **Category & Brand Pages** | Filters, sidebar, bulk-order mode (theme-wide, on by default for every variant), sorting |
 | **Other Pages** | Cart, Search, Keyword Suggestions, Blog, static Pages |
-| **Widgets** | The built-in BigCommerce HTML Widget (and other Page Builder widgets) |
+| **Widgets** | The **AI HTML Generator \| PapaThemes** widget (and other Page Builder widgets) |
 | **Marketing Features** | Urgency badges, recent-sales toasts, promo & exit-intent popups |
 | **Update Guide** | Safely update the theme without losing customizations |
 | **FAQs / Support** | Common questions and how to contact us |

@@ -71,7 +71,7 @@ Your product, category, and cart pages get their main look from the theme itself
 1. In BC Tools open the widget-import area in the left menu.
 2. Pick your store from the top dropdown.
 3. Enter your **Channel ID** (the default is `1` — only change it if you have multiple storefronts; you can find the channel ID in your BigCommerce admin under your channels list).
-4. Confirm your Channel ID is correct, then continue — the demo widgets use only the built-in BigCommerce HTML widget, which is present on every store by default, so there's no widget-template installation step.
+4. Confirm your Channel ID is correct, then continue. The demo marketing widgets use the **AI HTML Generator | PapaThemes** widget, which is provided by the **PapaThemes app** — install that app on your store first so the imported widgets render fully.
 5. Choose one of two import modes:
     - **Import from the built-in samples** — pick `eshopping-industrial`, `eshopping-autoparts`, `eshopping-electronics`, or `eshopping-packaging`.
     - **Import from a widgets JSON file** — drag in a `.json` file if you have a custom dump.

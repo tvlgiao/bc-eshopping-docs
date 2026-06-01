@@ -2,16 +2,7 @@
 
 The eShopping header has three stacked strips:
 
-```
-┌─────────────────────────────────────────────────────────┐
-│ ① Top Banner     (BigCommerce native banner)            │  content-height
-├─────────────────────────────────────────────────────────┤
-│ ② Top Bar        welcome text · pages · address · phone  │  54 px
-│                  · account · currency · social           │
-├─────────────────────────────────────────────────────────┤
-│ ③ Main Nav       logo · pages · search · wishlist · cart │  grows to logo
-└─────────────────────────────────────────────────────────┘
-```
+![eShopping header structure — Top Banner, Top Bar, Main Nav](../img/header-structure.jpg){ loading=lazy }
 
 Each strip is configured independently.
 

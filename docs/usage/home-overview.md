@@ -19,7 +19,7 @@ In the Theme Editor, open the **eShopping Theme → Homepage Sections** group to
 | 9 | **Brands carousel** | Set the homepage brands limit above 0 | All brands with logos |
 | 10 | **Blog posts grid** | Set the homepage blog posts count above 0 | BigCommerce blog posts |
 | 11 | **Newsletter signup** | Show newsletter toggle + newsletter text setting **plus** the store's built-in newsletter subscription setting being enabled in BigCommerce admin | Built-in |
-| 12 | **Footer** | Always on | Built-in layout; the **brand description / tagline** column is an HTML Widget in the footer-description region (added by the demo widget import) |
+| 12 | **Footer** | Always on | Built-in layout; the **brand description / tagline** column is an **AI HTML Generator \| PapaThemes** widget in the footer-description region (added by the demo widget import) |
 
 After most sections there is a **widget region** you can insert into — but not every gap has one. The full list with placement is in the [Widget regions reference](widget-regions.md).
 
@@ -27,16 +27,16 @@ After most sections there is a **widget region** you can insert into — but not
 
 ## Marketing sections — delivered as widgets (not built-in)
 
-The richer marketing blocks you see in the demos are **not part of the theme** — they are plain **HTML Widgets** placed into home-page regions via Page Builder, and they arrive when you [import the demo widgets](import-demo-data.md). You can freely edit, reorder, or delete them without touching theme code.
+The richer marketing blocks you see in the demos are **not part of the theme** — they are **AI HTML Generator | PapaThemes** widgets placed into home-page regions via Page Builder, and they arrive when you [import the demo widgets](import-demo-data.md). This widget is provided by the **PapaThemes app**, so install that app for the imported blocks to render fully. You can freely edit, reorder, or delete them without touching theme code.
 
-Each demo store places its marketing HTML Widgets into **two regions** — the five widget types are identical across all four demos, and only the copy inside each block differs per store:
+Each demo store places its marketing AI HTML Generator widgets into **two regions** — the five widget types are identical across all four demos, and only the copy inside each block differs per store:
 
 | Region | Where it renders | Widgets in the demos |
 | ------ | ---------------- | -------------------- |
-| `home_below_products_by_category` | After the Products-by-Category tabs, before the Brands carousel | **Three** HTML Widgets: a *Why Choose Us* value-proposition block, a *Customer Reviews* block, and a *Resources* block |
-| `home_below_newsletter` | After the Newsletter, before the SEO block | **Two** HTML Widgets: an *About* block and a *Talk to an Expert* block |
+| `home_below_products_by_category` | After the Products-by-Category tabs, before the Brands carousel | **Three** AI HTML Generator widgets: a *Why Choose Us* value-proposition block, a *Customer Reviews* block, and a *Resources* block |
+| `home_below_newsletter` | After the Newsletter, before the SEO block | **Two** AI HTML Generator widgets: an *About* block and a *Talk to an Expert* block |
 
-All four demos use this same five-widget layout (three above, two below) — only the copy inside each widget differs per store. To edit one: **Page Builder → Home → click the widget → edit its HTML**. To add your own, drag an **HTML Widget** (or any PapaThemes widget) into any of the home regions listed in the [Widget regions reference](widget-regions.md).
+All four demos use this same five-widget layout (three above, two below) — only the copy inside each widget differs per store. To edit one: **Page Builder → Home → click the widget → edit its HTML**. To add your own, drag an **AI HTML Generator | PapaThemes** widget (or any PapaThemes widget) into any of the home regions listed in the [Widget regions reference](widget-regions.md).
 
 ---
 
@@ -49,11 +49,11 @@ All four demo stores ship with the **same home-page structure** — they differ 
 3. **Featured Products** slider
 4. **New Arrivals** slider
 5. Products by Category
-6. *HTML Widgets* — three blocks: **Why Choose Us** value-proposition callout, **Customer Reviews**, and **Resources** (store-specific copy)
+6. *AI HTML Generator widgets* — three blocks: **Why Choose Us** value-proposition callout, **Customer Reviews**, and **Resources** (store-specific copy)
 7. Brands carousel
 8. Blog posts
 9. Newsletter
-10. *HTML Widgets* — two blocks: an **About** ("Your complete … source") block and a **Talk to an Expert** block (store-specific copy)
+10. *AI HTML Generator widgets* — two blocks: an **About** ("Your complete … source") block and a **Talk to an Expert** block (store-specific copy)
 
 **Not visible in any demo:** the **Bestselling** slider doesn't appear on any of the four demo home pages. Its toggle is on, but the demos have no bestseller sales data yet, so it doesn't render — it appears automatically once your store accumulates sales.
 

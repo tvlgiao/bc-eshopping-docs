@@ -101,7 +101,7 @@ Each category page exposes these widget regions you can drop content into:
 !!! note
     The `category_below_header` region is only rendered when **Hide category page heading** is off (see [Header](#header)).
 
-Page Builder → Category page → drop in an **HTML Widget**, or use the **Banner** or **Accordion** widgets from the PapaThemes Widgets app (check the app for the exact widget names available in your store).
+Page Builder → Category page → drop in an **AI HTML Generator | PapaThemes** widget, or use the **Banner** or **Accordion** widgets from the PapaThemes Widgets app (check the app for the exact widget names available in your store).
 
 ---
 

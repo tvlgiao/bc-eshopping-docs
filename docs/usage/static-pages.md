@@ -71,5 +71,5 @@ In the Theme Editor under **Global → Pages**:
 
 ## Next
 
-- [PapaThemes widgets](widgets-papathemes.md)
-- [HTML widget](widgets-html.md)
+- [Demo marketing blocks](widgets-papathemes.md)
+- [AI HTML Generator](widgets-html.md)

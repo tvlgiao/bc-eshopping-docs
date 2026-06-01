@@ -3,13 +3,13 @@
 ## Setup & install
 
 ??? question "Do I need a developer to install this theme?"
-    No. Everything in this guide is point-and-click in the BigCommerce admin. The only "code" you ever paste is into an **HTML Widget** — and we provide ready-to-copy snippets.
+    No. Everything in this guide is point-and-click in the BigCommerce admin. The only "code" you ever paste is into an **AI HTML Generator | PapaThemes** widget (provided by the PapaThemes app) — and we provide ready-to-copy snippets.
 
 ??? question "Can I switch between variants (Industrial, AutoParts, Packaging, Electronics)?"
     Yes. The theme ships with four variants — **Industrial**, **AutoParts**, **Packaging**, and **Electronics**. Switching a variant only changes colors, fonts, and a few text snippets (such as the trust strip and newsletter text). Your products, orders, customers, and settings are unaffected. Widget placements are **not** part of a variant — you rebuild those manually in Page Builder (see step 2 below). You can:
 
     1. Make a backup copy of your current theme (My Themes → ⋯ → Make a copy).
-    2. Apply the variant in the Theme Editor, then rebuild that variant's home-page widgets in Page Builder (the demo stores use BigCommerce's built-in HTML widgets for their marketing blocks).
+    2. Apply the variant in the Theme Editor, then rebuild that variant's home-page widgets in Page Builder (the demo stores use the **AI HTML Generator | PapaThemes** widget for their marketing blocks, which requires the PapaThemes app).
     3. Update the colors / fonts to match the new variant.
 
     Allow ~30 minutes for a full variant swap.
@@ -17,8 +17,8 @@
 ??? question "Does it work with multi-storefront?"
     Yes. Install the theme on each channel separately. Each channel keeps its own widget content, colors, fonts, and settings.
 
-??? question "Do I need the PapaThemes Widgets app?"
-    Not for the core layout. The demo stores build their home-page marketing blocks and footer description with BigCommerce's **built-in HTML widgets** in Page Builder — no third-party app required. If you do choose to add the PapaThemes Widgets app for extra building blocks, check its listing in the BigCommerce App Marketplace for current pricing and capabilities.
+??? question "Do I need the PapaThemes app?"
+    Not for the core layout or the theme's own configurable sections (hero, trust strip, sliders, etc.) — those are built in and need no app. You **do** need the **PapaThemes app** to reproduce the demo marketing blocks and footer description, because the demo stores build those with the **AI HTML Generator | PapaThemes** widget, which is provided by that app. Check its listing in the BigCommerce App Marketplace for current pricing and capabilities.
 
 ??? question "Page Builder widgets don't show up after editing."
     Refresh the Page Builder tab once and re-open the page you're editing. If a widget you added still doesn't appear, drag it onto the page again from the widget panel and save.
@@ -39,7 +39,7 @@
     Theme Editor → **eShopping Theme → Product Page (PDP) → Show Mobile Sticky Add to Cart** ✅. It's automatic — appears once the user scrolls past the in-page ATC.
 
 ??? question "How do I show a different image on mobile vs desktop?"
-    The hero is the built-in BigCommerce **Carousel** — edit its slides in the BC admin under **Storefront → Carousel** (one image per slide). For full control over mobile vs desktop imagery on any other section, use a `<picture>` element with `srcset` inside an HTML widget:
+    The hero is the built-in BigCommerce **Carousel** — edit its slides in the BC admin under **Storefront → Carousel** (one image per slide). For full control over mobile vs desktop imagery on any other section, use a `<picture>` element with `srcset` inside an **AI HTML Generator | PapaThemes** widget:
 
     ```html
     <picture>

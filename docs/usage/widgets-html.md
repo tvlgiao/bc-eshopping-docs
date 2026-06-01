@@ -1,25 +1,25 @@
-# HTML Widget
+# AI HTML Generator (PapaThemes)
 
-The classic **HTML Widget** is the lowest-level widget in Page Builder — you paste raw HTML/CSS and it renders as-is. It is built into BigCommerce, and it is what the eShopping demos use for their home-page marketing blocks (the Why Choose Us / value-prop callout, Customer Reviews block, Resources block, About block, and Talk to an Expert block — across two home-page regions — plus the footer description).
+The **AI HTML Generator | PapaThemes** widget lets you paste raw HTML/CSS into Page Builder and it renders as-is. It is provided by the **PapaThemes app** (so it works fully only on a store where that app is installed), and it is what the eShopping demos use for their home-page marketing blocks (the Why Choose Us / value-prop callout, Customer Reviews block, Resources block, About block, and Talk to an Expert block — across two home-page regions — plus the footer description).
 
 !!! note
-    The sidebar promo card in the demos is **not** an HTML widget — it is the built-in **Sidebar Promo Text** field you set in **Theme Editor → Sidebar Promo Card**, not a Page Builder widget.
+    The sidebar promo card in the demos is **not** an AI HTML Generator widget — it is the built-in **Sidebar Promo Text** field you set in **Theme Editor → Sidebar Promo Card**, not a Page Builder widget.
 
-![HTML widget editor](../img/html-widget-editor.jpg){ loading=lazy }
+![AI HTML Generator editor](../img/html-widget-editor.jpg){ loading=lazy }
 
 ## When to use it
 
 | Need | Solution |
 | ---- | -------- |
-| Trust badges in cart | HTML widget with `<ul>` of icons |
-| 3rd-party embed (TrustPilot, YouTube, etc.) | Their iframe / script in an HTML widget |
-| JSON-LD schema for SEO | HTML widget with `<script type="application/ld+json">` |
-| CSS overrides for one page | HTML widget with `<style>` |
-| Custom hero banner | HTML widget — or, for richer slide controls, the built-in **Hero** section in **Storefront → My Themes → Customize** |
+| Trust badges in cart | AI HTML Generator widget with `<ul>` of icons |
+| 3rd-party embed (TrustPilot, YouTube, etc.) | Their iframe / script in an AI HTML Generator widget |
+| JSON-LD schema for SEO | AI HTML Generator widget with `<script type="application/ld+json">` |
+| CSS overrides for one page | AI HTML Generator widget with `<style>` |
+| Custom hero banner | AI HTML Generator widget — or, for richer slide controls, the built-in **Hero** section in **Storefront → My Themes → Customize** |
 
 ## Where it lives
 
-Page Builder → left panel → **HTML** widget. Drag it to any widget region.
+Page Builder → left panel → **AI HTML Generator | PapaThemes** widget. Drag it to any widget region. (The widget appears in the panel only when the **PapaThemes app** is installed on your store.)
 
 ## Editor
 
@@ -27,11 +27,11 @@ The editor is a plain `<textarea>`. Paste your HTML, then click **Save**. No syn
 
 ## Example patterns
 
-These are example HTML snippets you can paste into an HTML widget. They are not pre-built into the demo stores — copy and adapt them to your needs.
+These are example HTML snippets you can paste into an **AI HTML Generator | PapaThemes** widget. They are not pre-built into the demo stores — copy and adapt them to your needs.
 
 ### Rotating promo banner
 
-The theme does not auto-rotate HTML widget children, so include your own rotation logic in the widget's `<script>`:
+The theme does not auto-rotate AI HTML Generator widget children, so include your own rotation logic in the widget's `<script>`:
 
 ```html
 <div id="my-promo" style="text-align:center">
@@ -140,7 +140,7 @@ The content area already fills the available width on its own once the sidebar i
 
 ## Reusing the same block in many places
 
-If you find yourself pasting the same HTML in multiple places, drop the widget into a **global** region (the ones ending in `--global`) so one widget shows on every page of that type. See the [widget regions reference](widget-regions.md) for which regions support global placement.
+If you find yourself pasting the same HTML in multiple places, drop the **AI HTML Generator | PapaThemes** widget into a **global** region (the ones ending in `--global`) so one widget shows on every page of that type. See the [widget regions reference](widget-regions.md) for which regions support global placement.
 
 ---
 

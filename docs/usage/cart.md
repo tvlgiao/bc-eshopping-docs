@@ -78,7 +78,7 @@ Set either number to `0` to turn that surface's cross-sell off.
 
 ## Widget area below the cart
 
-The cart **page** exposes one widget region, which renders **below the cart items and the cross-sell section**. You can drop an **HTML Widget** here from the BigCommerce page-builder / widget tools to add custom content — for example a short value-prop list:
+The cart **page** exposes one widget region, which renders **below the cart items and the cross-sell section**. You can drop an **AI HTML Generator | PapaThemes** widget here from the BigCommerce page-builder / widget tools to add custom content — for example a short value-prop list:
 
 ```html
 <ul>
@@ -89,7 +89,7 @@ The cart **page** exposes one widget region, which renders **below the cart item
 ```
 
 !!! note
-    This widget area exists on the cart **page only**. The cart **drawer** does not accept HTML widgets.
+    This widget area exists on the cart **page only**. The cart **drawer** does not accept widgets.
 
 ## Cart goal bar — demo store values
 

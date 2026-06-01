@@ -1,6 +1,6 @@
 # Step 2 — Choose Your Variant
 
-eShopping ships with **4 built-in variations**, each tuned for a different industry. You pick one in the Theme Editor — and that single click swaps the entire palette, typography, trust-strip copy, newsletter text, footer colors, and most other "look & feel" defaults to match the demo. (The footer's brand description/tagline is **not** part of a variation — it's set by an HTML widget during demo-data import.)
+eShopping ships with **4 built-in variations**, each tuned for a different industry. You pick one in the Theme Editor — and that single click swaps the entire palette, typography, trust-strip copy, newsletter text, footer colors, and most other "look & feel" defaults to match the demo. (The footer's brand description/tagline is **not** part of a variation — it's set by an **AI HTML Generator | PapaThemes** widget, provided by the PapaThemes app, during demo-data import.)
 
 The 4 variations are:
 
