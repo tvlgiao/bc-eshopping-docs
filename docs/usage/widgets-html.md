@@ -5,7 +5,7 @@ The **AI HTML Generator | PapaThemes** widget lets you paste raw HTML/CSS into P
 !!! note
     The sidebar promo card in the demos is **not** an AI HTML Generator widget — it is the built-in **Sidebar Promo Text** field you set in **Theme Editor → Sidebar Promo Card**, not a Page Builder widget.
 
-![AI HTML Generator editor](../img/html-widget-editor.jpg){ loading=lazy }
+![AI HTML Generator editor](../img/ai-html-generator-editor.jpg){ loading=lazy }
 
 ## When to use it
 

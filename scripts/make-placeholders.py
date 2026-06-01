@@ -153,8 +153,8 @@ PLACEHOLDERS: list[tuple[str, int, int, str]] = [
         "Screenshot: verified-business / trust page (certifications, badges, value props)"),
 
     # Widgets
-    ("html-widget-editor.jpg", 900, 600,
-        "Screenshot: classic HTML Widget editor with the Save HTML button"),
+    ("ai-html-generator-editor.jpg", 900, 600,
+        "Screenshot: AI HTML Generator (PapaThemes) editor with the Save button"),
     ("widget-settings-panel.jpg", 600, 800,
         "Screenshot: PapaThemes widget Settings panel (3-dot menu -> Settings) with General/Slider sections"),
 ]
