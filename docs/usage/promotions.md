@@ -29,6 +29,12 @@ eShopping reads the difference between **Original price** and **Sale price** in 
 
 Badge style and position is set in **Theme Editor → Products → Show product sale badges** (within the **Product sale badges** section) — choose **None**, **Top left**, **Diagonal**, or **Burst**. You can also set the **Badge text color**, **Badge color**, and **Badge hover color** in the same section.
 
+<!--te-src:PiAqKkN1c3RvbWl6ZToqKiBUaGVtZSBFZGl0b3Ig4oaSICpQcm9kdWN0cyog4oaSICoqU2hvdyBwcm9kdWN0IHNhbGUgYmFkZ2VzKiogKGlkIGBwcm9kdWN0X3NhbGVfYmFkZ2VzYCkuIEZvcm1hdDogc2VsZWN0IOKAlCBgbm9uZWAgwrcgYHRvcGxlZnRgIMK3IGBzYXNoYCAoRGlhZ29uYWwpIMK3IGBidXJzdGAuIERlZmF1bHQ6IGB0b3BsZWZ0YC4=-->
+<!--te-src:PiAqKkN1c3RvbWl6ZToqKiBUaGVtZSBFZGl0b3Ig4oaSICpQcm9kdWN0cyog4oaSICoqQmFkZ2UgdGV4dCBjb2xvcioqIChpZCBgY29sb3JfdGV4dF9wcm9kdWN0X3NhbGVfYmFkZ2VzYCkuIEZvcm1hdDogY29sb3IuIERlZmF1bHQ6IGAjZmZmZmZmYC4=-->
+<!--te-src:PiAqKkN1c3RvbWl6ZToqKiBUaGVtZSBFZGl0b3Ig4oaSICpQcm9kdWN0cyog4oaSICoqQmFkZ2UgY29sb3IqKiAoaWQgYGNvbG9yX2JhZGdlX3Byb2R1Y3Rfc2FsZV9iYWRnZXNgKS4gRm9ybWF0OiBjb2xvci4gRGVmYXVsdDogYCNiZjViMzNgLg==-->
+<!--te-src:PiAqKkN1c3RvbWl6ZToqKiBUaGVtZSBFZGl0b3Ig4oaSICpQcm9kdWN0cyog4oaSICoqQmFkZ2UgaG92ZXIgY29sb3IqKiAoaWQgYGNvbG9yX2hvdmVyX3Byb2R1Y3Rfc2FsZV9iYWRnZXNgKS4gRm9ybWF0OiBjb2xvci4gRGVmYXVsdDogYCM5OTNmMWZgLg==-->
+<!--te-mock--><div class="te-mock"><div class="te-mock__hd"><span>Products</span><span class="te-x">✕</span></div><div class="te-mock__row"><span class="te-lbl">Show product sale badges</span><span class="te-dd"><span class="te-dd__v">topleft</span><span class="te-dd__b">▾</span></span></div><div class="te-mock__row"><span class="te-lbl">Badge text color</span><span class="te-color"><span class="te-hex">#FFFFFF</span><span class="te-sw" style="background:#ffffff"></span></span></div><div class="te-mock__row"><span class="te-lbl">Badge color</span><span class="te-color"><span class="te-hex">#BF5B33</span><span class="te-sw" style="background:#bf5b33"></span></span></div><div class="te-mock__row"><span class="te-lbl">Badge hover color</span><span class="te-color"><span class="te-hex">#993F1F</span><span class="te-sw" style="background:#993f1f"></span></span></div></div>
+
 ## Sitewide promo banner
 
 Use the top-banner HTML in **Marketing → Banners** ([see Header & top bar](header-and-topbar.md)) to announce site-wide promos. The examples below are illustrative copy only — adapt them to your own offers (keep text plain; the theme uses inline icons, not emoji):
@@ -36,6 +42,11 @@ Use the top-banner HTML in **Marketing → Banners** ([see Header & top bar](hea
 - **Flash sale**: `24-hour flash sale — 30% off everything with code FLASH30`
 - **Restock**: `Back in stock: limited quantities on a popular item — order now`
 - **Holiday**: `Holiday shipping cutoff: Dec 18 for ground, Dec 22 for express`
+
+There is also a **sidebar promo card** — a small heading/description/button block rendered in the category sidebar — driven entirely by a theme setting:
+
+<!--te-src:PiAqKkN1c3RvbWl6ZToqKiBUaGVtZSBFZGl0b3Ig4oaSICplU2hvcHBpbmcgVGhlbWUg4oaSIFNpZGViYXIgUHJvbW8gQ2FyZCog4oaSICoqU2lkZWJhciBQcm9tbyBUZXh0KiogKGlkIGBlc2hvcHBpbmctcHJvbW8tdGV4dGApLiBGb3JtYXQ6IHBpcGUtc2VwYXJhdGVkIGBIZWFkaW5nfERlc2NyaXB0aW9ufEJ1dHRvbiBMYWJlbHxVUkxgLiBEZWZhdWx0OiBgRnJlZSBTaGlwcGluZyAkNTAwK3xGcmVlIGdyb3VuZCBzaGlwcGluZyBvbiBxdWFsaWZ5aW5nIG9yZGVycy58U2hvcCBOb3d8L3NoaXBwaW5nL2Au-->
+<!--te-mock--><div class="te-mock"><div class="te-mock__hd"><span>eShopping Theme</span><span class="te-x">✕</span></div><div class="te-mock__grp">Sidebar Promo Card</div><div class="te-mock__row"><span class="te-lbl">Sidebar Promo Text</span><span class="te-tx">Free Shipping $500+|Free ground ship…</span></div></div>
 
 ## Newsletter signup → first-order coupon
 

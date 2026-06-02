@@ -4,17 +4,27 @@ The keyword-suggestions feature adds **Google-style autocomplete** to the header
 
 ![Keyword suggestions in action](../img/keyword-suggestions.jpg){ loading=lazy }
 
-!!! note "Off by default"
-    Keyword suggestions are **disabled by default** and are **not enabled on any of the demo stores**. Nothing appears in the search box until you turn the feature on and supply your own CSV file(s) — see the steps below.
+!!! note "On by default — supply your own CSVs"
+    Keyword suggestions are **enabled by default** (`suggest_keywords` defaults to `On`) and the demo stores ship with generated CSVs. Suggestions appear once the configured CSV file(s) are present at the keyword-file paths — supply your own `keyword,rank` CSV(s) to drive what shows. See the steps below.
 
 ## Quick start
 
 1. **Generate keywords** — produce a CSV in the two-column `keyword,rank` format (see [CSV format](#csv-format) below). You can build it by hand or export it from your analytics / search-volume data. Whatever tool you use, the file **must** be in the `keyword,rank` format the theme expects.
 2. **Upload the CSVs** — to BigCommerce **WebDAV → `/content/`** (drag & drop in **Storefront → File Manager**). Alternatively host on your own CDN.
+
+<!--te-src:ICAgID4gKipDdXN0b21pemU6KiogQmlnQ29tbWVyY2UgYWRtaW4g4oaSICoqU3RvcmVmcm9udCDihpIgRmlsZSBNYW5hZ2VyIOKGkiBgL2NvbnRlbnQvYCoqIOKAlCB1cGxvYWQgeW91ciBga2V5d29yZCxyYW5rYCBDU1YgZmlsZShzKS4gKE9yIGhvc3QgdGhlbSBvbiBhbnkgQ0ROIHdob3NlIENPUlMgYWxsb3dzIHlvdXIgc3RvcmVmcm9udC4p-->
+<!--te-mock--><div class="te-mock te-nav"><div class="te-nav__brand">BigCommerce admin</div><div class="te-nav__top"><span>Home</span></div><div class="te-nav__top"><span>Orders</span></div><div class="te-nav__top"><span>Products</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top"><span>Customers</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top is-open"><span>Storefront</span><span class="te-nav__chev">⌃</span></div><div class="te-nav__sub">Themes</div><div class="te-nav__sub">Logo</div><div class="te-nav__sub">Home page carousel</div><div class="te-nav__sub">Social media links</div><div class="te-nav__sub">Script manager</div><div class="te-nav__sub">Web pages</div><div class="te-nav__sub">Blog</div><div class="te-nav__sub">Image manager</div><div class="te-nav__sub is-active">File Manager</div><div class="te-nav__top"><span>Marketing</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top"><span>Analytics</span></div><div class="te-nav__top"><span>Settings</span><span class="te-nav__chev">⌄</span></div></div>
+
 3. **Enable in Theme Editor**:
     - Theme Editor → **eShopping Theme** section → **Search** heading → check **Enable keyword suggestions** ✅.
     - Set the **Keywords file 1 path** / **Keywords file 2 path** / **Keywords file 3 path** fields (see below).
 4. **Save & publish**. Try searching on your storefront.
+
+<!--te-src:PiAqKkN1c3RvbWl6ZToqKiBUaGVtZSBFZGl0b3Ig4oaSICplU2hvcHBpbmcgVGhlbWUg4oaSIFNlYXJjaCog4oaSICoqRW5hYmxlIGtleXdvcmQgc3VnZ2VzdGlvbnMqKiAoaWQgYHN1Z2dlc3Rfa2V5d29yZHNgKS4gRm9ybWF0OiBvbi9vZmYuIERlZmF1bHQ6IGB0cnVlYC4=-->
+<!--te-src:PiAqKkN1c3RvbWl6ZToqKiBUaGVtZSBFZGl0b3Ig4oaSICplU2hvcHBpbmcgVGhlbWUg4oaSIFNlYXJjaCog4oaSICoqS2V5d29yZHMgZmlsZSAxIHBhdGgqKiAoaWQgYGtleXdvcmRzX2ZpbGUxYCkuIEZvcm1hdDogdGV4dCAocmVsYXRpdmUgYC9jb250ZW50L2AgcGF0aCBvciBmdWxsIFVSTCkuIERlZmF1bHQ6IGAvY29udGVudC9zdWdnZXN0LWtleXdvcmRzLTEuY3N2YC4=-->
+<!--te-src:PiAqKkN1c3RvbWl6ZToqKiBUaGVtZSBFZGl0b3Ig4oaSICplU2hvcHBpbmcgVGhlbWUg4oaSIFNlYXJjaCog4oaSICoqS2V5d29yZHMgZmlsZSAyIHBhdGgqKiAoaWQgYGtleXdvcmRzX2ZpbGUyYCkuIEZvcm1hdDogdGV4dCAocmVsYXRpdmUgYC9jb250ZW50L2AgcGF0aCBvciBmdWxsIFVSTCkuIERlZmF1bHQ6IGAvY29udGVudC9zdWdnZXN0LWtleXdvcmRzLTIuY3N2YC4=-->
+<!--te-src:PiAqKkN1c3RvbWl6ZToqKiBUaGVtZSBFZGl0b3Ig4oaSICplU2hvcHBpbmcgVGhlbWUg4oaSIFNlYXJjaCog4oaSICoqS2V5d29yZHMgZmlsZSAzIHBhdGgqKiAoaWQgYGtleXdvcmRzX2ZpbGUzYCkuIEZvcm1hdDogdGV4dCAocmVsYXRpdmUgYC9jb250ZW50L2AgcGF0aCBvciBmdWxsIFVSTCkuIERlZmF1bHQ6IGAvY29udGVudC9zdWdnZXN0LWtleXdvcmRzLTMuY3N2YC4=-->
+<!--te-mock--><div class="te-mock"><div class="te-mock__hd"><span>eShopping Theme</span><span class="te-x">✕</span></div><div class="te-mock__grp">Search</div><div class="te-mock__row"><span class="te-lbl">Enable keyword suggestions</span><span class="te-cb is-on"></span></div><div class="te-mock__row"><span class="te-fld"><span class="te-lbl">Keywords file 1 path</span><span class="te-desc">One slice of your keyword list (any keywords)</span></span><span class="te-tx">/content/suggest-keywords-1</span></div><div class="te-mock__row"><span class="te-fld"><span class="te-lbl">Keywords file 2 path</span><span class="te-desc">Another slice — optional</span></span><span class="te-tx">/content/suggest-keywords-2</span></div><div class="te-mock__row"><span class="te-fld"><span class="te-lbl">Keywords file 3 path</span><span class="te-desc">Another slice — optional</span></span><span class="te-tx">/content/suggest-keywords-3</span></div></div>
 
 !!! warning "The path fields are pre-filled"
     The three path fields ship pre-filled with `/content/suggest-keywords-1.csv`, `/content/suggest-keywords-2.csv`, and `/content/suggest-keywords-3.csv`. If you enable the feature but **don't upload files to those exact paths**, the search box simply shows **no suggestions** — there's no on-screen error (only a console warning is logged). Either upload your CSVs to those exact paths, or change the paths to point at your files.
@@ -23,11 +33,7 @@ The keyword-suggestions feature adds **Google-style autocomplete** to the header
 
 You can supply up to 3 CSV files. There's no functional difference between them — the theme **concatenates all three and ranks every keyword together** by its rank column (see [CSV format](#csv-format)). The split into three files is purely for your own convenience (e.g. to keep large lists manageable), not to change behaviour.
 
-| File | What |
-| ---- | ---- |
-| Keywords file 1 path | One slice of your keyword list (any keywords) |
-| Keywords file 2 path | Another slice — optional |
-| Keywords file 3 path | Another slice — optional |
+<!--te-tbl:fCBGaWxlIHwgV2hhdCB8CnwgLS0tLSB8IC0tLS0gfAp8IEtleXdvcmRzIGZpbGUgMSBwYXRoIHwgT25lIHNsaWNlIG9mIHlvdXIga2V5d29yZCBsaXN0IChhbnkga2V5d29yZHMpIHwKfCBLZXl3b3JkcyBmaWxlIDIgcGF0aCB8IEFub3RoZXIgc2xpY2Ug4oCUIG9wdGlvbmFsIHwKfCBLZXl3b3JkcyBmaWxlIDMgcGF0aCB8IEFub3RoZXIgc2xpY2Ug4oCUIG9wdGlvbmFsIHw=-->
 
 You don't have to use all three — leave a path empty to skip it.
 

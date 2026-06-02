@@ -30,10 +30,16 @@ It's ideal for users who already know the products they want, with no need to cl
 
 (Bulk Order is a section inside the eShopping Theme panel.)
 
+<!--te-src:PiAqKkN1c3RvbWl6ZToqKiBUaGVtZSBFZGl0b3Ig4oaSICplU2hvcHBpbmcgVGhlbWUg4oaSIEJ1bGsgT3JkZXIqIOKGkiAqKlNob3cgYnVsayBvcmRlciBtb2RlKiogKGlkIGBlc2hvcHBpbmctc2hvdy1idWxrLW9yZGVyLW1vZGVgKS4gRm9ybWF0OiBvbi9vZmYuIERlZmF1bHQ6IGBvbmAu-->
+<!--te-mock--><div class="te-mock"><div class="te-mock__hd"><span>eShopping Theme</span><span class="te-x">✕</span></div><div class="te-mock__grp">Bulk Order</div><div class="te-mock__row"><span class="te-lbl">Show bulk order mode</span><span class="te-cb is-on"></span></div></div>
+
 A **grid / list view toggle** (two icon buttons) now appears in the toolbar above the category, brand, and search-results product grids. Click the **list** icon to switch to bulk-order (table) view; click the **grid** icon to switch back at any time.
 
 !!! tip "Force bulk order sitewide (no toggle)"
     To show **all** category, brand, and search-results pages in bulk-order view by default — without a per-page toggle — go to **Theme Editor → Global → Products → Display style** and choose **Show products in bulk order**. This forces bulk-order mode across the storefront regardless of each shopper's saved toggle preference.
+
+<!--te-src:PiAqKkN1c3RvbWl6ZToqKiBUaGVtZSBFZGl0b3Ig4oaSICpHbG9iYWwg4oaSIFByb2R1Y3RzKiDihpIgKipEaXNwbGF5IHN0eWxlKiogKGlkIGBwcm9kdWN0X2xpc3RfZGlzcGxheV9tb2RlYCkuIEZvcm1hdDogc2VsZWN0IChgU2hvdyBwcm9kdWN0cyBpbiBhIGdyaWRgID0gYGdyaWRgIC8gYFNob3cgcHJvZHVjdHMgaW4gYnVsayBvcmRlcmAgPSBgbGlzdGApLiBEZWZhdWx0OiBgZ3JpZGAu-->
+<!--te-mock--><div class="te-mock"><div class="te-mock__hd"><span>Global</span><span class="te-x">✕</span></div><div class="te-mock__grp">Products</div><div class="te-mock__row"><span class="te-lbl">Display style</span><span class="te-dd"><span class="te-dd__v">grid</span><span class="te-dd__b">▾</span></span></div></div>
 
 ## Per-category force-bulk via custom layout
 
@@ -44,6 +50,9 @@ If you want bulk-order on **a single category page** (without the global toggle)
 3. That single category page always renders as a bulk-order table.
 
 Same trick for an individual brand page.
+
+<!--te-src:PiAqKkN1c3RvbWl6ZToqKiBQYWdlIEJ1aWxkZXIg4oaSIHN3aXRjaCB0byB0aGUgY2F0ZWdvcnkgKG9yIGJyYW5kKSDihpIgKipQYWdlIHNldHRpbmdzIOKGkiBMYXlvdXQg4oaSIEJ1bGsgT3JkZXIqKi4gKE5vdCBhIHRoZW1lIHNldHRpbmcg4oCUIGFzc2lnbnMgdGhlIGB0ZW1wbGF0ZXMvcGFnZXMvY3VzdG9tL2NhdGVnb3J5L2J1bGstb3JkZXIuaHRtbGAgbGF5b3V0IHRvIHRoYXQgb25lIHBhZ2UuKQ==-->
+<!--te-mock--><div class="te-mock te-mock--pb"><div class="te-mock__hd"><span>‹ AI HTML Generator | PapaThemes</span><span class="te-x">⋯</span></div><div class="te-mock__grp">▾ Content</div><div class="te-pbbox"><span class="k">&lt;style&gt;</span><br><span class="s">.papathemes-ai-widget-…</span> { … }<br>…your HTML…<br><span class="k">&lt;/style&gt;</span></div><div class="te-pbbtns"><span class="te-btn-ghost">Expand HTML Editor</span><span class="te-save te-save--full">Save HTML</span></div><div class="te-mock__row"><span class="te-cb"></span><span class="te-lbl">Show in container div</span></div></div>
 
 ## Layout details
 

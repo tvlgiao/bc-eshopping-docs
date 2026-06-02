@@ -2,6 +2,10 @@
 
 The **Theme Editor** (also called **Page Builder**) is BigCommerce's visual editor for your theme. It's the single place where you change colors, fonts, sections, and widgets. Everything in this guide assumes you have it open.
 
+![Theme Editor — customize flow](../img/theme-editor-customize.png){ loading=lazy }
+
+Throughout this guide a **“Customize:”** step always means this path: **Storefront → My Themes → Customize → _section_ → _field_**, then **Save → Publish**.
+
 ## How to open it
 
 1. BigCommerce admin → **Storefront → My Themes**.

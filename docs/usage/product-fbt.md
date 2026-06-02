@@ -22,12 +22,13 @@ The block renders in the product info area of the product page (the right column
 
 ### 1. Turn FBT on
 
-**Theme Editor → eShopping Theme**, in the Frequently Bought Together group:
+<!--te-lead:KipUaGVtZSBFZGl0b3Ig4oaSIGVTaG9wcGluZyBUaGVtZSoqLCBpbiB0aGUgRnJlcXVlbnRseSBCb3VnaHQgVG9nZXRoZXIgZ3JvdXA6-->
 
-| Setting | Options | Notes |
-| ------- | ------- | ----- |
-| **FBT Products Count** | Off — don't show · 1 · 2 · 3 | How many related products to show alongside the main product |
-| **Visual Bundle Discount %** | e.g. `10` for 10% off | **Display only** — see the note below |
+<!--te-tbl:fCBTZXR0aW5nIHwgT3B0aW9ucyB8IE5vdGVzIHwKfCAtLS0tLS0tIHwgLS0tLS0tLSB8IC0tLS0tIHwKfCAqKkZCVCBQcm9kdWN0cyBDb3VudCoqIHwgT2ZmIOKAlCBkb24ndCBzaG93IMK3IDEgwrcgMiDCtyAzIHwgSG93IG1hbnkgcmVsYXRlZCBwcm9kdWN0cyB0byBzaG93IGFsb25nc2lkZSB0aGUgbWFpbiBwcm9kdWN0IHwKfCAqKlZpc3VhbCBCdW5kbGUgRGlzY291bnQgJSoqIHwgZS5nLiBgMTBgIGZvciAxMCUgb2ZmIHwgKipEaXNwbGF5IG9ubHkqKiDigJQgc2VlIHRoZSBub3RlIGJlbG93IHw=-->
+
+<!--te-src:PiAqKkN1c3RvbWl6ZToqKiBUaGVtZSBFZGl0b3Ig4oaSICplU2hvcHBpbmcgVGhlbWUg4oaSIEZyZXF1ZW50bHkgQm91Z2h0IFRvZ2V0aGVyKiDihpIgKipGQlQgUHJvZHVjdHMgQ291bnQqKiAoaWQgYGVzaG9wcGluZy1mYnQtY291bnRgKS4gRm9ybWF0OiBzZWxlY3QgKGBPZmYg4oCUIGRvbid0IHNob3dgIC8gYDFgIC8gYDJgIC8gYDNgKS4gRGVmYXVsdDogYDJgLg==-->
+<!--te-src:PiAqKkN1c3RvbWl6ZToqKiBUaGVtZSBFZGl0b3Ig4oaSICplU2hvcHBpbmcgVGhlbWUg4oaSIEZyZXF1ZW50bHkgQm91Z2h0IFRvZ2V0aGVyKiDihpIgKipWaXN1YWwgQnVuZGxlIERpc2NvdW50ICUqKiAoaWQgYGVzaG9wcGluZy1mYnQtZGlzY291bnQtcGVyY2VudGApLiBGb3JtYXQ6IG51bWJlciAod2hvbGUtbnVtYmVyIHBlcmNlbnQ7IGAwYCBzaG93cyBubyBzYXZpbmcpLiBEZWZhdWx0OiBgMGAu-->
+<!--te-mock--><div class="te-mock"><div class="te-mock__hd"><span>eShopping Theme</span><span class="te-x">✕</span></div><div class="te-mock__grp">Frequently Bought Toget…</div><div class="te-mock__row"><span class="te-fld"><span class="te-lbl">FBT Products Count</span><span class="te-desc">Off — don't show · 1 · 2 · 3</span></span><span class="te-dd"><span class="te-dd__v">2</span><span class="te-dd__b">▾</span></span></div><div class="te-mock__row"><span class="te-fld"><span class="te-lbl">Visual Bundle Discount %</span><span class="te-desc">e.g. 10 for 10% off</span></span><span class="te-dd"><span class="te-dd__v">0</span><span class="te-dd__b">▾</span></span></div></div>
 
 ### 2. About the "Visual Bundle Discount %"
 
@@ -46,13 +47,22 @@ The bundle is built from the main product's **Related Products** list, in order:
 
 The FBT block reads up to your **FBT Products Count** from the Related Products list, in order.
 
+<!--te-src:PiAqKkN1c3RvbWl6ZToqKiBCaWdDb21tZXJjZSBhZG1pbiDihpIgKipDYXRhbG9nIOKGkiBQcm9kdWN0cyDihpIgZWRpdCB0aGUgbWFpbiBwcm9kdWN0IOKGkiBSZWxhdGVkIFByb2R1Y3RzIHRhYioqLiAoTm90IGEgdGhlbWUgc2V0dGluZyDigJQgdGhpcyBpcyB0aGUgc291cmNlIGxpc3QgZm9yIHRoZSBidW5kbGUuKQ==-->
+<!--te-mock--><div class="te-mock te-nav"><div class="te-nav__brand">BigCommerce admin</div><div class="te-nav__top"><span>Home</span></div><div class="te-nav__top"><span>Orders</span></div><div class="te-nav__top is-open"><span>Products</span><span class="te-nav__chev">⌃</span></div><div class="te-nav__sub">All products</div><div class="te-nav__sub">Add</div><div class="te-nav__sub">Categories</div><div class="te-nav__sub">Options</div><div class="te-nav__sub">Filtering</div><div class="te-nav__sub">Reviews</div><div class="te-nav__sub">Brands</div><div class="te-nav__sub">Import</div><div class="te-nav__sub">Export</div><div class="te-nav__sub is-active">Products</div><div class="te-nav__top"><span>Customers</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top"><span>Storefront</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top"><span>Marketing</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top"><span>Analytics</span></div><div class="te-nav__top"><span>Settings</span><span class="te-nav__chev">⌄</span></div></div>
+
 ---
 
 ## How to hide FBT for one specific product
 
 There's no per-product toggle in Theme Editor. The FBT block hides itself automatically when the product has no Related Products linked. So the simplest way to hide FBT on one product is to remove all of its Related Products (Catalog → edit product → Related Products tab → remove).
 
+<!--te-src:PiAqKkN1c3RvbWl6ZToqKiBCaWdDb21tZXJjZSBhZG1pbiDihpIgKipDYXRhbG9nIOKGkiBQcm9kdWN0cyDihpIgZWRpdCB0aGUgcHJvZHVjdCDihpIgUmVsYXRlZCBQcm9kdWN0cyB0YWIg4oaSIHJlbW92ZSBhbGwqKi4gKE5vdCBhIHRoZW1lIHNldHRpbmcg4oCUIGVtcHRpZXMgdGhlIEZCVCBzb3VyY2Ugc28gdGhlIGJsb2NrIHNlbGYtaGlkZXMuKQ==-->
+<!--te-mock--><div class="te-mock te-nav"><div class="te-nav__brand">BigCommerce admin</div><div class="te-nav__top"><span>Home</span></div><div class="te-nav__top"><span>Orders</span></div><div class="te-nav__top is-open"><span>Products</span><span class="te-nav__chev">⌃</span></div><div class="te-nav__sub">All products</div><div class="te-nav__sub">Add</div><div class="te-nav__sub">Categories</div><div class="te-nav__sub">Options</div><div class="te-nav__sub">Filtering</div><div class="te-nav__sub">Reviews</div><div class="te-nav__sub">Brands</div><div class="te-nav__sub">Import</div><div class="te-nav__sub">Export</div><div class="te-nav__sub is-active">Products</div><div class="te-nav__top"><span>Customers</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top"><span>Storefront</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top"><span>Marketing</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top"><span>Analytics</span></div><div class="te-nav__top"><span>Settings</span><span class="te-nav__chev">⌄</span></div></div>
+
 If you need a hard hide on a specific product while keeping its Related Products, add a CSS-only override via **Storefront → Script Manager** that targets the product ID:
+
+<!--te-src:PiAqKkN1c3RvbWl6ZToqKiBCaWdDb21tZXJjZSBhZG1pbiDihpIgKipTdG9yZWZyb250IOKGkiBTY3JpcHQgTWFuYWdlciDihpIgQ3JlYXRlIGEgU2NyaXB0KiogKExvY2F0aW9uOiBGb290ZXIsIFBhZ2VzOiBBbGwgcGFnZXMpLCB0aGVuIHBhc3RlIHRoZSBzbmlwcGV0IGJlbG93LiAoTm90IGEgdGhlbWUgc2V0dGluZy4p-->
+<!--te-mock--><div class="te-mock te-nav"><div class="te-nav__brand">BigCommerce admin</div><div class="te-nav__top"><span>Home</span></div><div class="te-nav__top"><span>Orders</span></div><div class="te-nav__top"><span>Products</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top"><span>Customers</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top is-open"><span>Storefront</span><span class="te-nav__chev">⌃</span></div><div class="te-nav__sub">Themes</div><div class="te-nav__sub">Logo</div><div class="te-nav__sub">Home page carousel</div><div class="te-nav__sub">Social media links</div><div class="te-nav__sub is-active">Script manager</div><div class="te-nav__sub">Web pages</div><div class="te-nav__sub">Blog</div><div class="te-nav__sub">Image manager</div><div class="te-nav__top"><span>Marketing</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top"><span>Analytics</span></div><div class="te-nav__top"><span>Settings</span><span class="te-nav__chev">⌄</span></div></div>
 
 ```html
 <script>

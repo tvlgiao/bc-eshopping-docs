@@ -2,6 +2,9 @@
 
 The **AI HTML Generator | PapaThemes** widget lets you paste raw HTML/CSS into Page Builder and it renders as-is. It is provided by the **PapaThemes app** (so it works fully only on a store where that app is installed), and it is what the eShopping demos use for their home-page marketing blocks (the Why Choose Us / value-prop callout, Customer Reviews block, Resources block, About block, and Talk to an Expert block — across two home-page regions — plus the footer description).
 
+!!! tip "Looking for the demo block HTML?"
+    This page is the generic how-to for the widget. For the **exact HTML used by the demo blocks** — Why Choose Us, Customer Reviews, Resources, About, Talk to an Expert, and the Footer tagline — with clean copy-paste examples plus the per-store source, see [Demo marketing blocks](widgets-papathemes.md).
+
 !!! note
     The sidebar promo card in the demos is **not** an AI HTML Generator widget — it is the built-in **Sidebar Promo Text** field you set in **Theme Editor → Sidebar Promo Card**, not a Page Builder widget.
 
@@ -23,7 +26,16 @@ Page Builder → left panel → **AI HTML Generator | PapaThemes** widget. Drag 
 
 ## Editor
 
-The editor is a plain `<textarea>`. Paste your HTML, then click **Save**. No syntax highlighting, no preview — what you paste is what renders.
+When you click the widget in Page Builder, its settings panel opens. The field you paste your HTML into is labelled **HTML Content** (schema id `content`) — a code/HTML field. Paste your markup there, then click **Save**.
+
+The full flow is:
+
+1. **Storefront → My Themes → Customize** (opens Page Builder).
+2. Click the **AI HTML Generator | PapaThemes** block on the page (or drag a new one in from the left panel).
+3. Paste your markup into the **HTML Content** field.
+4. Click **Save**.
+
+What you paste into **HTML Content** is what renders — there is no preview inside the field. The panel also has an optional **Show in container div** toggle (schema id `showInContainer`, off by default); turning it on wraps your output in a `.container` div, which constrains it to the theme's centered content width.
 
 ## Example patterns
 
@@ -146,5 +158,5 @@ If you find yourself pasting the same HTML in multiple places, drop the **AI HTM
 
 ## Next
 
-- [Demo marketing blocks](widgets-papathemes.md)
+- [Demo marketing blocks](widgets-papathemes.md) — the exact **HTML Content** values for the demo blocks (Why Choose Us, Customer Reviews, Resources, About, Talk to an Expert, Footer tagline), with clean examples plus the per-store source HTML.
 - [Widget regions reference](widget-regions.md)
