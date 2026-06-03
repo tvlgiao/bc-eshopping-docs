@@ -463,3 +463,74 @@
 [data-md-color-scheme="slate"] .te-af__hint { color: #9aa3b2; }
 .te-af__row.is-focus { background: #fff8f3; }
 [data-md-color-scheme="slate"] .te-af__row.is-focus { background: #2c2722; }
+
+/* ----------------------------------------------------------------------
+ * Product-card skeleton wireframe (replaces ASCII card diagrams).
+ * ------------------------------------------------------------------- */
+.cardwire {
+  width: 240px; margin: 1.1rem 0; padding: 12px; position: relative;
+  border: 1px solid #e2e5ea; border-radius: 10px; background: #fff;
+  display: flex; flex-direction: column; gap: 7px; font-size: 0.72rem; color: #5a6473;
+}
+[data-md-color-scheme="slate"] .cardwire { background: #262a33; border-color: #343945; color: #aab2c0; }
+.cardwire__badge {
+  position: absolute; top: 14px; left: 14px; z-index: 1;
+  background: #c2603a; color: #fff; font-size: 0.62rem; font-weight: 600;
+  padding: 2px 7px; border-radius: 4px;
+}
+.cardwire__img {
+  aspect-ratio: 1 / 1; background: #eef0f4; border-radius: 6px;
+  display: flex; align-items: center; justify-content: center; color: #aab2c0;
+}
+[data-md-color-scheme="slate"] .cardwire__img { background: #2f343e; color: #7e8898; }
+.cardwire__skel { height: 9px; border-radius: 4px; background: #e7eaef; }
+[data-md-color-scheme="slate"] .cardwire__skel { background: #343945; }
+.cardwire__skel--title { width: 82%; height: 11px; }
+.cardwire__sub { color: #8a93a2; font-size: 0.68rem; }
+.cardwire__rating { color: #e0951f; letter-spacing: 1px; }
+.cardwire__rating small { color: #9aa3b2; letter-spacing: 0; }
+.cardwire__price { display: flex; gap: 8px; align-items: baseline; }
+.cardwire__price b { color: #c2603a; font-size: 0.9rem; }
+.cardwire__price s { color: #9aa3b2; }
+.cardwire__actions { display: flex; gap: 6px; align-items: center; margin-top: 2px; }
+.cardwire__ico {
+  width: 26px; height: 26px; border-radius: 6px; border: 1px solid #e2e5ea;
+  display: flex; align-items: center; justify-content: center; color: #6b7484;
+}
+[data-md-color-scheme="slate"] .cardwire__ico { border-color: #3a4150; color: #9aa3b2; }
+.cardwire__cart {
+  flex: 1; text-align: center; padding: 6px; border-radius: 6px;
+  background: #c2603a; color: #fff; font-weight: 600; font-size: 0.7rem;
+}
+
+/* ----------------------------------------------------------------------
+ * Bulk-order table skeleton wireframe (replaces ASCII table diagram).
+ * ------------------------------------------------------------------- */
+.bowire {
+  max-width: 680px; margin: 1.1rem 0; border: 1px solid #e2e5ea; border-radius: 8px;
+  overflow: hidden; font-size: 0.7rem; color: #5a6473;
+}
+[data-md-color-scheme="slate"] .bowire { border-color: #2c303a; color: #aab2c0; }
+.bowire__row {
+  display: grid; grid-template-columns: 40px 1.7fr 0.7fr 1fr 0.8fr 0.8fr 1.1fr;
+  gap: 8px; align-items: center; padding: 8px 12px; border-bottom: 1px solid #f0f2f5;
+}
+[data-md-color-scheme="slate"] .bowire__row { border-color: #2a2e38; }
+.bowire__row:last-child { border-bottom: 0; }
+.bowire__hd { background: #f3f5f8; font-weight: 600; color: #3a4252; }
+[data-md-color-scheme="slate"] .bowire__hd { background: #2c313b; color: #cdd3dd; }
+.bowire__foot { background: #fafbfc; font-weight: 600; }
+[data-md-color-scheme="slate"] .bowire__foot { background: #20232b; }
+.bowire__img { width: 30px; height: 30px; background: #e7eaef; border-radius: 4px; }
+[data-md-color-scheme="slate"] .bowire__img { background: #343945; }
+.bowire__name { display: flex; flex-direction: column; }
+.bowire__name small { color: #8a93a2; }
+.bowire__qty {
+  display: inline-flex; align-items: center; justify-content: center; gap: 8px;
+  padding: 3px 8px; border: 1px solid #d3d8e0; border-radius: 5px; color: #6b7484;
+}
+[data-md-color-scheme="slate"] .bowire__qty { border-color: #3a4150; }
+.bowire__btn {
+  text-align: center; padding: 5px 8px; border-radius: 5px;
+  background: #c2603a; color: #fff; font-weight: 600; font-size: 0.66rem;
+}

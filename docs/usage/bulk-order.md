@@ -2,21 +2,7 @@
 
 Bulk Order Mode replaces the grid on the category, brand, or search-results page with a **table view**:
 
-```
-┌────────────────────────────────────────────────────────────────────────────────┐
-│  Image   Product              In Cart  Quantity   Price    Subtotal   Action    │
-├────────────────────────────────────────────────────────────────────────────────┤
-│  [img]   Cotton dust mask        0     [- 0 +]   $4.99      $0.00    [Add to Cart]│
-│          Acme · CDM-100                                                          │
-│  [img]   Safety glasses          0     [- 0 +]   $7.99      $0.00    [Add to Cart]│
-│          Acme · SG-200                                                           │
-│  [img]   Nitrile gloves          0     [- 0 +]   $12.00     $0.00  [Choose Options]│
-│          Acme · NG-L                                                             │
-│  …                                                                               │
-├────────────────────────────────────────────────────────────────────────────────┤
-│  Total:  0 items / $0.00                                  [ Add all to cart ]    │
-└────────────────────────────────────────────────────────────────────────────────┘
-```
+<div class="bowire"><div class="bowire__row bowire__hd"><span>Image</span><span>Product</span><span>In Cart</span><span>Quantity</span><span>Price</span><span>Subtotal</span><span>Action</span></div><div class="bowire__row"><span class="bowire__img"></span><span class="bowire__name">Cotton dust mask<small>Acme · CDM-100</small></span><span>0</span><span class="bowire__qty">− 0 +</span><span>$4.99</span><span>$0.00</span><span class="bowire__btn">Add to cart</span></div><div class="bowire__row"><span class="bowire__img"></span><span class="bowire__name">Safety glasses<small>Acme · SG-200</small></span><span>0</span><span class="bowire__qty">− 0 +</span><span>$7.99</span><span>$0.00</span><span class="bowire__btn">Add to cart</span></div><div class="bowire__row"><span class="bowire__img"></span><span class="bowire__name">Nitrile gloves<small>Acme · NG-L</small></span><span>0</span><span class="bowire__qty">− 0 +</span><span>$12.00</span><span>$0.00</span><span class="bowire__btn">Choose Options</span></div><div class="bowire__row bowire__foot"><span></span><span>Total: 0 items / $0.00</span><span></span><span></span><span></span><span></span><span class="bowire__btn">Add all to cart</span></div></div>
 
 The **Product** column shows the name, brand, and SKU stacked together — there's no separate SKU column. Stock status shows as an inline badge rather than its own column.
 

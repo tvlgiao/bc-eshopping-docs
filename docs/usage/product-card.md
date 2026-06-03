@@ -19,19 +19,7 @@ The product card is the tile shown in:
 
 ### Slider card (home sliders, Products-by-Category, PDP related)
 
-```
-┌────────────────────────────────────────┐
-│ [Sale badge]                           │
-│                                        │
-│          Product image                 │
-│                                        │
-│ Product title                          │
-│ SKU (or brand name)                    │
-│ ★★★★☆ (24)                            │
-│ $29.99   $39.99                        │
-│                  [⇄] [👁] [+ cart]      │
-└────────────────────────────────────────┘
-```
+<div class="cardwire"><span class="cardwire__badge">Sale</span><div class="cardwire__img">Product image</div><div class="cardwire__skel cardwire__skel--title"></div><div class="cardwire__sub">SKU (or brand name)</div><div class="cardwire__rating">★★★★☆ <small>(24)</small></div><div class="cardwire__price"><b>$29.99</b> <s>$39.99</s></div><div class="cardwire__actions"><span class="cardwire__ico">⇄</span><span class="cardwire__ico">○</span><span class="cardwire__cart">+ Cart</span></div></div>
 
 From top to bottom this card shows:
 
@@ -47,19 +35,7 @@ From top to bottom this card shows:
 
 This card differs from the slider card in both order and content: it shows the **brand name** (not the SKU) in the metadata row, and the rating appears **above** the brand/title rather than below them:
 
-```
-┌────────────────────────────────────────┐
-│ [Sale badge]                           │
-│                                        │
-│          Product image                 │
-│                                        │
-│ ★★★★☆ (24)                            │
-│ Brand name                             │
-│ Product title                          │
-│ $29.99   $39.99                        │
-│                  [⇄] [👁] [+ cart]      │
-└────────────────────────────────────────┘
-```
+<div class="cardwire"><span class="cardwire__badge">Sale</span><div class="cardwire__img">Product image</div><div class="cardwire__rating">★★★★☆ <small>(24)</small></div><div class="cardwire__sub">Brand name</div><div class="cardwire__skel cardwire__skel--title"></div><div class="cardwire__price"><b>$29.99</b> <s>$39.99</s></div><div class="cardwire__actions"><span class="cardwire__ico">⇄</span><span class="cardwire__ico">○</span><span class="cardwire__cart">+ Cart</span></div></div>
 
 From top to bottom: **Sale badge → product image → star rating → brand name → product title → price → action row**.
 
