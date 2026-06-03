@@ -48,39 +48,20 @@ To change where these questions are delivered, edit your **Contact Us** page for
 
 ---
 
-## Where to put pre-written FAQ answers instead
+## Showing pre-written FAQ answers
 
-If you want to display **answers** (not just collect questions), use one of these alternatives:
+The **FAQs** tab ships with the **ask-a-question form** only — it has no answer content of its own. To display **pre-written answers**, drop a collapsible FAQ accordion into the **FAQs tab itself**, right above or below that form, in **Page Builder**:
 
-1. **Product description** — paste a Q&A section into the product's description (Catalog → Products → edit → Description).
-
-<!--te-src:ICAgID4gKipDdXN0b21pemU6KiogQmlnQ29tbWVyY2UgYWRtaW4g4oaSICoqQ2F0YWxvZyDihpIgUHJvZHVjdHMg4oaSIGVkaXQgdGhlIHByb2R1Y3Qg4oaSIERlc2NyaXB0aW9uKiouIChOb3QgYSB0aGVtZSBzZXR0aW5nLik=-->
-<!--te-mock--><div class="te-mock te-nav"><div class="te-nav__brand">BigCommerce admin</div><div class="te-nav__top"><span>Home</span></div><div class="te-nav__top"><span>Orders</span></div><div class="te-nav__top is-open"><span>Products</span><span class="te-nav__chev">⌃</span></div><div class="te-nav__sub">All products</div><div class="te-nav__sub">Add</div><div class="te-nav__sub">Categories</div><div class="te-nav__sub">Options</div><div class="te-nav__sub">Filtering</div><div class="te-nav__sub">Reviews</div><div class="te-nav__sub">Brands</div><div class="te-nav__sub">Import</div><div class="te-nav__sub">Export</div><div class="te-nav__sub is-active">Products</div><div class="te-nav__top"><span>Customers</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top"><span>Storefront</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top"><span>Marketing</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top"><span>Analytics</span></div><div class="te-nav__top"><span>Settings</span><span class="te-nav__chev">⌄</span></div></div>
-
-2. **Custom fields tab** — turn on **Product custom fields in tabs**, then add custom fields named like `Q: Does this fit my vehicle?` with the answer as the value. They render in the **Specifications** tab as a 2-column table (label / value).
-
-<!--te-src:ICAgID4gKipDdXN0b21pemU6KiogVGhlbWUgRWRpdG9yIOKGkiAqUHJvZHVjdHMqIOKGkiAqKlByb2R1Y3QgY3VzdG9tIGZpZWxkcyBpbiB0YWJzKiogKGlkIGBzaG93X2N1c3RvbV9maWVsZHNfdGFic2ApLiBGb3JtYXQ6IG9uL29mZi4gRGVmYXVsdDogYG9uYC4gVGhlbiBhZGQgdGhlIGZpZWxkcyBpbiBCaWdDb21tZXJjZSBhZG1pbiDihpIgKipDYXRhbG9nIOKGkiBQcm9kdWN0cyDihpIgZWRpdCB0aGUgcHJvZHVjdCDihpIgQ3VzdG9tIEZpZWxkcyoqLg==-->
-<!--te-mock--><div class="te-mock"><div class="te-mock__hd"><span>Products</span><span class="te-x">✕</span></div><div class="te-mock__row"><span class="te-lbl">Product custom fields in tabs</span><span class="te-cb is-on"></span></div><div class="te-mock__row"><span class="te-lbl">Catalog → Products → edit the product → Custom Fields</span><span class="te-cb"></span></div></div>
-
-3. **Warranty tab widget area** — drop an accordion or collapsible-content widget into the Warranty tab widget area (region `product_below_warranty--global`). It renders **inside the Warranty tab**, after the warranty description text and *before* the warranty card grid, on every PDP that has warranty text.
-
-<!--te-src:ICAgID4gKipDdXN0b21pemU6KiogUGFnZSBCdWlsZGVyIOKGkiBvcGVuIGEgcHJvZHVjdCBwYWdlIOKGkiBkcm9wIGEgd2lkZ2V0IGludG8gdGhlICoqYHByb2R1Y3RfYmVsb3dfd2FycmFudHktLWdsb2JhbGAqKiByZWdpb24uIChOb3QgYSB0aGVtZSBzZXR0aW5nLik=-->
+<!--te-src:PiAqKkN1c3RvbWl6ZToqKiBQYWdlIEJ1aWxkZXIg4oaSIG9wZW4gYSBwcm9kdWN0IHBhZ2Ug4oaSIHNlbGVjdCB0aGUgKipGQVFzKiogdGFiIOKGkiBkcm9wIGFuICoqQUkgSFRNTCBHZW5lcmF0b3IqKiAob3IgYW55IEhUTUwgLyBjb2xsYXBzaWJsZS1jb250ZW50KSB3aWRnZXQgaW50byAqKmBwcm9kdWN0X2Fib3ZlX2ZhcS0tZ2xvYmFsYCoqIChhYm92ZSB0aGUgZm9ybSkgb3IgKipgcHJvZHVjdF9iZWxvd19mYXEtLWdsb2JhbGAqKiAoYmVsb3cgdGhlIGZvcm0pLiBUaGUgbm9uLWdsb2JhbCB0d2lucyBgcHJvZHVjdF9hYm92ZV9mYXFgIC8gYHByb2R1Y3RfYmVsb3dfZmFxYCBzY29wZSBpdCB0byBhIHNpbmdsZSBwcm9kdWN0LiAoTm90IGEgdGhlbWUgc2V0dGluZy4p-->
 <!--te-mock--><div class="te-mock te-mock--pb"><div class="te-mock__hd"><span>‹ AI HTML Generator | PapaThemes</span><span class="te-x">⋯</span></div><div class="te-mock__grp">▾ Content</div><div class="te-pbbox"><span class="k">&lt;style&gt;</span><br><span class="s">.papathemes-ai-widget-…</span> { … }<br>…your HTML…<br><span class="k">&lt;/style&gt;</span></div><div class="te-pbbtns"><span class="te-btn-ghost">Expand HTML Editor</span><span class="te-save te-save--full">Save HTML</span></div><div class="te-mock__row"><span class="te-cb"></span><span class="te-lbl">Show in container div</span></div></div>
 
-    !!! warning "Requires the tabbed layout"
-        This widget area only exists when **Show Product Description Tabs** is enabled. If that setting is off and the product sections render stacked, the `product_below_warranty--global` region is not included in the page, and any widgets placed there will not appear.
-4. **Below-tabs widget area** — drop the accordion into the below-tabs widget area (region `product_below_content--global`, with the non-global twin `product_below_content`). It renders directly under the tabbed (or stacked) product content, visible on every PDP.
-
-<!--te-src:ICAgID4gKipDdXN0b21pemU6KiogUGFnZSBCdWlsZGVyIOKGkiBvcGVuIGEgcHJvZHVjdCBwYWdlIOKGkiBkcm9wIGEgd2lkZ2V0IGludG8gdGhlICoqYHByb2R1Y3RfYmVsb3dfY29udGVudC0tZ2xvYmFsYCoqIHJlZ2lvbi4gKE5vdCBhIHRoZW1lIHNldHRpbmcuKQ==-->
-<!--te-mock--><div class="te-mock te-mock--pb"><div class="te-mock__hd"><span>‹ AI HTML Generator | PapaThemes</span><span class="te-x">⋯</span></div><div class="te-mock__grp">▾ Content</div><div class="te-pbbox"><span class="k">&lt;style&gt;</span><br><span class="s">.papathemes-ai-widget-…</span> { … }<br>…your HTML…<br><span class="k">&lt;/style&gt;</span></div><div class="te-pbbtns"><span class="te-btn-ghost">Expand HTML Editor</span><span class="te-save te-save--full">Save HTML</span></div><div class="te-mock__row"><span class="te-cb"></span><span class="te-lbl">Show in container div</span></div></div>
-
-The 4th option is the closest to a "site-wide FAQ accordion that shows on every product page".
+This keeps **all** FAQ content — the question form *and* the pre-written answers — together in the one place shoppers look for it: the **FAQs** tab. Then add the **FAQPage** rich snippet (below) so the answers also feed Google's rich results.
 
 ---
 
 ## SEO — `FAQPage` schema.org rich snippet
 
-The built-in form doesn't emit FAQ schema markup (because there are no answers in it). If you provide FAQ content via an accordion in the below-tabs widget area, you can add the JSON-LD yourself in **Storefront → Script Manager** (Location: Footer, Pages: Store pages).
+The built-in form doesn't emit FAQ schema markup (because there are no answers in it). If you provide FAQ content via an accordion in the **FAQs tab** (above), you can add the JSON-LD yourself in **Storefront → Script Manager** (Location: Footer, Pages: Store pages).
 
 The theme does **not** output any FAQ markup or `data-faq-*` attributes automatically — the snippet below is a generic reader. It only works if **your** accordion HTML carries the matching hooks, which you add yourself when you author the widget:
 
