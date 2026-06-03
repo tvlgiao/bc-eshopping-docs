@@ -85,7 +85,7 @@ For each badge type, the **style and position** is the value you pick in its dro
 
 Each option places the badge differently: **None** hides it, **Top left** is a corner flag, **Diagonal** a corner sash, **Burst** a starburst. The sale badge defaults to **Top left**; the sold-out badge defaults to **None** (hidden).
 
-The two dropdowns are **Show product sale badges** and **Show product sold-out badges**. Each badge type also has its own color fields — **Badge text color**, **Badge color**, and **Badge hover color** — so the two badge types can be styled independently. You can override the default wording for each type using its **label** field in the same panel. There is no free-text or custom badge feature beyond these two badge types.
+The two dropdowns are **Show product sale badges** and **Show product sold-out badges**. Each badge type also has its own color fields — **Badge text color**, **Badge color**, and **Badge hover color** — so the two badge types can be styled independently. You can override the default wording for each type using its **label** field in the same panel.
 
 ---
 

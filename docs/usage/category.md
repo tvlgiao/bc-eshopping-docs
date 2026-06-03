@@ -48,6 +48,8 @@ To hide the page heading globally:
 
 ## Sort & toolbar
 
+![Sort dropdown and grid / bulk-order toggle above the grid](../img/cat-toolbar.png){ loading=lazy }
+
 Above the grid is a toolbar with:
 
 | Control | Options |
@@ -69,6 +71,8 @@ To set the default listing layout, go to **Theme Editor → Global → Products 
 
 ## Faceted filters (Price, Brand, Rating, Custom)
 
+![Sidebar faceted filters — Brand, Size, Price, Rating groups](../img/cat-filters.png){ loading=lazy }
+
 Powered by BigCommerce — enable in **Settings → Product Filtering**, then per-attribute toggles in **Catalog → Product Filtering**.
 
 The sidebar renders each enabled filter as a **collapsible group**:
@@ -89,11 +93,15 @@ Picking a value updates the grid via AJAX and adds a removable chip at the top o
 
 ## Filter chips (active filters)
 
+![Active filter chip with Clear all](../img/cat-active-chips.png){ loading=lazy }
+
 When the user picks a filter, eShopping renders an **active-filter chip** at the top of the grid. Clicking the × on a chip removes that filter. This is automatic — no setup needed.
 
 ---
 
 ## Mobile filter drawer
+
+![Mobile filter bottom-sheet drawer](../img/cat-mobile-drawer.png){ loading=lazy }
 
 Below 1024 px the sidebar collapses into a bottom-sheet that opens with a **Filter** button at the top. Categories, filters, and promo cards are all preserved.
 
@@ -102,6 +110,8 @@ The **Filter** button only appears when the category actually has faceted filter
 ---
 
 ## Sub-category chips
+
+![Sub-category chips row above the grid](../img/cat-subcat-chips.png){ loading=lazy }
 
 Whenever a category has sub-categories, eShopping shows them as a scrollable row of **chips** at the top of the grid (e.g. "Indoor", "Outdoor", "Heavy duty"), each linking to the sub-category. Clicking a chip drills into that sub-category.
 
@@ -113,6 +123,8 @@ This is independent of faceted filters — sub-category chips and sidebar filter
 ---
 
 ## Sidebar promo card
+
+![Sidebar promo card](../img/cat-promo.png){ loading=lazy }
 
 The sidebar can show a small **promo card** (heading, one line of copy, and a button) below the filters. It is also carried into the mobile filter drawer.
 

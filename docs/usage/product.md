@@ -10,7 +10,9 @@ This page covers each zone. For the **product card** that appears in sliders and
 
 ## Image gallery
 
-The gallery shows the main image with a **vertical thumbnail strip to the left** on desktop, switching to a **horizontal strip below** on mobile. There is one thumbnail per uploaded product image, so the strip grows with the number of photos you add. Click the main image for a fullscreen lightbox with zoom (mouse-wheel or pinch).
+The gallery shows the main image with a **horizontal thumbnail strip below it**. There is one thumbnail per uploaded product image, so the strip grows with the number of photos you add. Click the main image for a fullscreen lightbox with zoom (scroll-wheel, double-tap, or pinch).
+
+![PDP image gallery — main image, thumbnail strip, sale badge](../img/pdp-gallery.png){ loading=lazy }
 
 ### Image sizes
 
@@ -34,12 +36,6 @@ Product videos are **YouTube videos**, not uploaded files. Add them in **Catalog
 
 <!--te-src:PiAqKkN1c3RvbWl6ZToqKiBCaWdDb21tZXJjZSBhZG1pbiDihpIgQ2F0YWxvZyDihpIgUHJvZHVjdHMg4oaSIChwcm9kdWN0KSDihpIgVmlkZW9zLiAoTm90IGEgdGhlbWUgc2V0dGluZyDigJQgdGhlIFZpZGVvcyB0YWIgYXBwZWFycyBhdXRvbWF0aWNhbGx5IHdoZW4gdGhlIHByb2R1Y3QgaGFzIGF0IGxlYXN0IG9uZSB2aWRlby4pDQ==-->
 <!--te-mock--><div class="te-mock te-nav"><div class="te-nav__brand">BigCommerce admin</div><div class="te-nav__top"><span>Home</span></div><div class="te-nav__top"><span>Orders</span></div><div class="te-nav__top is-open"><span>Products</span><span class="te-nav__chev">⌃</span></div><div class="te-nav__sub">All products</div><div class="te-nav__sub">Add</div><div class="te-nav__sub">Categories</div><div class="te-nav__sub">Options</div><div class="te-nav__sub">Filtering</div><div class="te-nav__sub">Reviews</div><div class="te-nav__sub">Brands</div><div class="te-nav__sub">Import</div><div class="te-nav__sub">Export</div><div class="te-nav__sub is-active">Products</div><div class="te-nav__top"><span>Customers</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top"><span>Storefront</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top"><span>Marketing</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top"><span>Analytics</span></div><div class="te-nav__top"><span>Settings</span><span class="te-nav__chev">⌄</span></div></div>
-
-### 360-degree spin
-
-eShopping does **not** include a 360-degree spin viewer, and neither does BigCommerce's stock storefront gallery — the PDP shows your uploaded photos as flat images (thumbnail strip + main image + lightbox zoom), not a rotatable 360 sequence. Uploading a numbered sequence of photos just adds them as ordinary gallery images.
-
-To offer a true 360 spin you need a third-party app such as [Sirv Spin](https://sirv.com/integration/bigcommerce/) or [WebRotate 360](https://www.webrotate360.com/products/cms-and-e-commerce-plugins/plugin-for-bigcommerce.aspx); these inject their own viewer and need no theme template edits.
 
 ---
 
@@ -69,6 +65,8 @@ Then eShopping's own display checkboxes:
 
 ## Price + sale badges
 
+![PDP price — sale price, struck original, "You save" amount, sale badge](../img/pdp-price.png){ loading=lazy }
+
 eShopping shows:
 
 - **Sale price** (or regular if no sale) in the Terra colour
@@ -78,7 +76,7 @@ eShopping shows:
 <!--te-src:PiAqKkN1c3RvbWl6ZSAodGhlIHByaWNlcyk6KiogQmlnQ29tbWVyY2UgYWRtaW4g4oaSIENhdGFsb2cg4oaSIFByb2R1Y3RzIOKGkiAocHJvZHVjdCkg4oaSIFByaWNpbmcg4oCUIERlZmF1bHQgUHJpY2UsIFNhbGUgUHJpY2UsIE1TUlAgLyBSZXRhaWwgcHJpY2UuIChOb3QgdGhlbWUgc2V0dGluZ3MuKSBUaGUgc2FsZSBwcmljZS9zdHJ1Y2stdGhyb3VnaCBvcmlnaW5hbCBhcmUgZHJpdmVuIGVudGlyZWx5IGJ5IHlvdXIgUHJpY2luZyBmaWVsZHMuDQ==-->
 <!--te-mock--><div class="te-mock te-nav"><div class="te-nav__brand">BigCommerce admin</div><div class="te-nav__top"><span>Home</span></div><div class="te-nav__top"><span>Orders</span></div><div class="te-nav__top is-open"><span>Products</span><span class="te-nav__chev">⌃</span></div><div class="te-nav__sub">All products</div><div class="te-nav__sub">Add</div><div class="te-nav__sub">Categories</div><div class="te-nav__sub">Options</div><div class="te-nav__sub">Filtering</div><div class="te-nav__sub">Reviews</div><div class="te-nav__sub">Brands</div><div class="te-nav__sub">Import</div><div class="te-nav__sub">Export</div><div class="te-nav__sub is-active">Products</div><div class="te-nav__top"><span>Customers</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top"><span>Storefront</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top"><span>Marketing</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top"><span>Analytics</span></div><div class="te-nav__top"><span>Settings</span><span class="te-nav__chev">⌄</span></div></div>
 
-When you set an **MSRP / retail price** on the product, the theme also shows the retail price with a label. You can override that label with the **Product price label (retail)** text setting (id `pdp-retail-price-label`, default empty → uses the built-in label) under **Theme Editor → Products → Product sale badges**. There is no automatic "You save $X" calculation — the theme simply displays the retail price you entered.
+When you set an **MSRP / retail price** on the product, the theme shows it struck-through with an automatic **"You save $X"** amount (the difference between the retail price and the selling price). You can override the retail-price label with the **Product price label (retail)** text setting (id `pdp-retail-price-label`, default empty → uses the built-in label) under **Theme Editor → Products → Product sale badges**.
 
 <!--te-lead:Q29uZmlndXJlIHRoZSBiYWRnZSBpbiAqKlRoZW1lIEVkaXRvciDihpIgUHJvZHVjdHMg4oaSIFByb2R1Y3Qgc2FsZSBiYWRnZXMqKjoN-->
 
@@ -106,6 +104,8 @@ eShopping renders a **Staff Pick** badge on certain product cards. There is no m
 ---
 
 ## Variants — swatches
+
+![PDP variant swatches](../img/pdp-swatches.png){ loading=lazy }
 
 Color / size variants appear as **swatches** if you've set them up in **Catalog → Product Options & SKUs**:
 
@@ -158,6 +158,8 @@ The **Add to compare** control lets shoppers queue products into a compare panel
 These are two separate settings in the **eShopping Theme** section, under the *Product Page (PDP)* heading, and they appear in different places.
 
 **PDP Shipping Text** (id `eshopping-pdp-shipping-text`) produces the **3-item icon strip** shown under the Add-to-Cart button. It is a single field made of exactly **three `Title|Description` pairs** (6 pipe-separated segments — `Title1|Desc1|Title2|Desc2|Title3|Desc3`). The strip always renders three fixed icon cards (truck, shield, clock); extra segments are ignored.
+
+![PDP shipping strip — 3 icon cards under Add to Cart](../img/pdp-shipping-strip.png){ loading=lazy }
 
 ```
 Free Shipping|on orders over $500|1-Year Warranty|included with purchase|30-Day Returns|hassle-free policy
@@ -217,6 +219,8 @@ Use the **Product custom fields tab label** text setting (id `pdp-custom-fields-
 
 ## Frequently Bought Together (FBT)
 
+![Frequently Bought Together bundle](../img/pdp-fbt.png){ loading=lazy }
+
 A bundle widget that appears above the tab strip (between the image/info section and the tabs), showing the current product + 1–3 frequently-paired products with an optional bundle discount. See full guide: [Frequently Bought Together](product-fbt.md).
 
 <!--te-lead:UXVpY2sgdG9nZ2xlcyAoKipUaGVtZSBFZGl0b3Ig4oaSIGVTaG9wcGluZyBUaGVtZSoqLCB1bmRlciB0aGUgKkZyZXF1ZW50bHkgQm91Z2h0IFRvZ2V0aGVyKiBoZWFkaW5nKToN-->
@@ -230,19 +234,21 @@ A bundle widget that appears above the tab strip (between the image/info section
 
 ## Related products
 
+![Related products slider](../img/pdp-related.png){ loading=lazy }
+
 Below the tabs the PDP shows a single **Related products** slider. Related products come from the product's Related Products list in BigCommerce — automatic (by category) by default, or manually curated per product in **Catalog → Products**. The slider only renders when the product has related products.
 
-<!--te-tbl:fCBTZXR0aW5nIHwgaWQgfCBFZmZlY3QgfCBEZWZhdWx0IHwNCnwgLS0tLS0tLSB8IC0tIHwgLS0tLS0tIHwgLS0tLS0tLSB8DQp8ICoqUHJvZHVjdCBwYWdlIChyZWxhdGVkIHByb2R1Y3RzKSoqIHwgYHByb2R1Y3RwYWdlX3JlbGF0ZWRfcHJvZHVjdHNfY291bnRgIHwgSG93IG1hbnkgdG8gc2hvdzsgc2V0IHRvIGAwYCB0byBoaWRlIHRoZSBzbGlkZXIgfCBgMTBgIHwN-->
+<!--te-tbl:fCBTZXR0aW5nIHwgaWQgfCBFZmZlY3QgfCBEZWZhdWx0IHwNCnwgLS0tLS0tLSB8IC0tIHwgLS0tLS0tIHwgLS0tLS0tLSB8DQp8ICoqUHJvZHVjdCBwYWdlIChyZWxhdGVkIHByb2R1Y3RzKSoqIHwgYHByb2R1Y3RwYWdlX3JlbGF0ZWRfcHJvZHVjdHNfY291bnRgIHwgZHJvcGRvd24g4oCUIGhvdyBtYW55IHRvIHNob3cgKGBEaXNhYmxlYCAwIOKGkiBgMTJgKTsgYDBgIGhpZGVzIHRoZSBzbGlkZXIgfCBgMTBgIHwN-->
 
-<!--te-src:PiAqKkN1c3RvbWl6ZToqKiBUaGVtZSBFZGl0b3Ig4oaSICpQcm9kdWN0cyog4oaSICoqUHJvZHVjdCBwYWdlIChyZWxhdGVkIHByb2R1Y3RzKSoqIChudW1iZXIgaW5wdXQsIHVuZGVyIHRoZSAqTnVtYmVyIG9mIHByb2R1Y3RzIGRpc3BsYXllZCogaGVhZGluZzsgaWQgYHByb2R1Y3RwYWdlX3JlbGF0ZWRfcHJvZHVjdHNfY291bnRgKS4gRm9ybWF0OiBpbnRlZ2VyIChgMGAgaGlkZXMpLiBEZWZhdWx0OiBgMTBgLiBUaGUgcHJvZHVjdCBsaXN0IGl0c2VsZiBjb21lcyBmcm9tIEJpZ0NvbW1lcmNlIGFkbWluIOKGkiBDYXRhbG9nIOKGkiBQcm9kdWN0cyDihpIgKHByb2R1Y3QpIOKGkiBSZWxhdGVkIFByb2R1Y3RzLg0=-->
-<!--te-mock--><div class="te-mock"><div class="te-mock__hd"><span>Products</span><span class="te-x">✕</span></div><div class="te-mock__row"><span class="te-fld"><span class="te-lbl">Product page (related products)</span><span class="te-desc">How many to show; set to 0 to hide the slider</span></span><span class="te-tx">10</span></div></div>
+<!--te-src:PiAqKkN1c3RvbWl6ZToqKiBUaGVtZSBFZGl0b3Ig4oaSICpQcm9kdWN0cyog4oaSICoqUHJvZHVjdCBwYWdlIChyZWxhdGVkIHByb2R1Y3RzKSoqIChkcm9wZG93biwgdW5kZXIgdGhlICpOdW1iZXIgb2YgcHJvZHVjdHMgZGlzcGxheWVkKiBoZWFkaW5nOyBpZCBgcHJvZHVjdHBhZ2VfcmVsYXRlZF9wcm9kdWN0c19jb3VudGApLiBGb3JtYXQ6IHNlbGVjdCDigJQgYERpc2FibGVgICgwKSB1cCB0byBgMTJgLiBEZWZhdWx0OiBgMTBgLiBUaGUgcHJvZHVjdCBsaXN0IGl0c2VsZiBjb21lcyBmcm9tIEJpZ0NvbW1lcmNlIGFkbWluIOKGkiBDYXRhbG9nIOKGkiBQcm9kdWN0cyDihpIgKHByb2R1Y3QpIOKGkiBSZWxhdGVkIFByb2R1Y3RzLg==-->
+<!--te-mock--><div class="te-mock"><div class="te-mock__hd"><span>Products</span><span class="te-x">✕</span></div><div class="te-mock__row"><span class="te-fld"><span class="te-lbl">Product page (related products)</span><span class="te-desc">how many to show (Disable 0 → 12); 0 hides the slider</span></span><span class="te-dd"><span class="te-dd__v">10</span><span class="te-dd__b">▾</span></span></div></div>
 
 ### Customers Also Viewed
 
 The theme also has a **Customers Also Viewed** module, controlled by the **Product page (customers also viewed products)** count (id `productpage_similar_by_views_count`). When a product has **no** related products, the PDP falls back to the standard tab layout, where this module appears as a "Customers Also Viewed" carousel.
 
-<!--te-src:PiAqKkN1c3RvbWl6ZToqKiBUaGVtZSBFZGl0b3Ig4oaSICpQcm9kdWN0cyog4oaSICoqUHJvZHVjdCBwYWdlIChjdXN0b21lcnMgYWxzbyB2aWV3ZWQgcHJvZHVjdHMpKiogKG51bWJlciBpbnB1dCwgdW5kZXIgKk51bWJlciBvZiBwcm9kdWN0cyBkaXNwbGF5ZWQqOyBpZCBgcHJvZHVjdHBhZ2Vfc2ltaWxhcl9ieV92aWV3c19jb3VudGApLiBGb3JtYXQ6IGludGVnZXIgKGAwYCBoaWRlcykuIERlZmF1bHQ6IGAxMGAuIFRoaXMgbGlzdCBpcyBnZW5lcmF0ZWQgYnkgQmlnQ29tbWVyY2UgZnJvbSBzdG9yZS13aWRlIHZpZXcgYmVoYXZpb3VyIOKAlCB0aGVyZSBpcyBubyBtYW51YWwgcHJvZHVjdCBsaXN0IHRvIGVkaXQuDQ==-->
-<!--te-mock--><div class="te-mock"><div class="te-mock__hd"><span>Products</span><span class="te-x">✕</span></div><div class="te-mock__row"><span class="te-lbl">Product page (customers also viewed products)</span><span class="te-tx">10</span></div></div>
+<!--te-src:PiAqKkN1c3RvbWl6ZToqKiBUaGVtZSBFZGl0b3Ig4oaSICpQcm9kdWN0cyog4oaSICoqUHJvZHVjdCBwYWdlIChjdXN0b21lcnMgYWxzbyB2aWV3ZWQgcHJvZHVjdHMpKiogKGRyb3Bkb3duLCB1bmRlciAqTnVtYmVyIG9mIHByb2R1Y3RzIGRpc3BsYXllZCo7IGlkIGBwcm9kdWN0cGFnZV9zaW1pbGFyX2J5X3ZpZXdzX2NvdW50YCkuIEZvcm1hdDogc2VsZWN0IOKAlCBgRGlzYWJsZWAgKDApIHVwIHRvIGAxMmAuIERlZmF1bHQ6IGAxMGAuIFRoaXMgbGlzdCBpcyBnZW5lcmF0ZWQgYnkgQmlnQ29tbWVyY2UgZnJvbSBzdG9yZS13aWRlIHZpZXcgYmVoYXZpb3VyIOKAlCB0aGVyZSBpcyBubyBtYW51YWwgcHJvZHVjdCBsaXN0IHRvIGVkaXQu-->
+<!--te-mock--><div class="te-mock"><div class="te-mock__hd"><span>Products</span><span class="te-x">✕</span></div><div class="te-mock__row"><span class="te-lbl">Product page (customers also viewed products)</span><span class="te-dd"><span class="te-dd__v">10</span><span class="te-dd__b">▾</span></span></div></div>
 
 !!! note "Cross-sell is a cart feature"
     Cross-sell products are shown in the **cart / cart drawer**, not on the PDP — controlled by the **Cross-sell products (page,drawer — 0 = off)** field (id `eshopping-crosssell-count`, default `6,4`) under **Theme Editor → eShopping Theme → Cart Cross-sell**. The value is two numbers `page,drawer` (count on the cart page, count in the cart drawer). There is **no** recently-viewed slider on the product page (Customers Also Viewed is based on view behaviour, not the visitor's own recent history).
@@ -250,6 +256,8 @@ The theme also has a **Customers Also Viewed** module, controlled by the **Produ
 ---
 
 ## Urgency strips
+
+![PDP urgency strips — viewing now + last order](../img/pdp-urgency.png){ loading=lazy }
 
 Two short message strips that build social proof. Configure them in the **eShopping Theme** section, under the *Urgency Signals (Social Proof)* heading:
 
@@ -276,6 +284,8 @@ The product card in sliders + category grids has a **Quick View** button. Clicki
 ---
 
 ## Stock availability & rating bars (automatic)
+
+![PDP review rating bars](../img/pdp-reviews.png){ loading=lazy }
 
 - **Stock badge / availability message** comes straight from the product record — BigCommerce admin → Catalog → Products → (product) → Inventory (stock level, "Stock Level Display") and the availability text. (Not a theme setting; there is no Theme Editor toggle for the PDP availability line.)
 - **Review rating bars** (the 5-star breakdown in the Reviews tab) are rendered automatically from the product's approved reviews — no setting. Reviews are managed in BigCommerce admin → Products → Product Reviews. The Reviews tab and its count are gated by **Show product reviews** / **Number of product reviews** (see [Tabs](#pdp-tabs)).
