@@ -80,7 +80,9 @@ The 4th option is the closest to a "site-wide FAQ accordion that shows on every 
 
 ## SEO — `FAQPage` schema.org rich snippet
 
-The built-in form doesn't emit FAQ schema markup (because there are no answers in it). If you provide FAQ content via an accordion in the below-tabs widget area, add this in **Storefront → Script Manager** (Location: Footer, Pages: Store pages) to expose JSON-LD:
+The built-in form doesn't emit FAQ schema markup (because there are no answers in it). If you provide FAQ content via an accordion in the below-tabs widget area, you can add the JSON-LD yourself in **Storefront → Script Manager** (Location: Footer, Pages: Store pages).
+
+The theme does **not** output any FAQ markup or `data-faq-*` attributes automatically — the snippet below is a generic reader. It only works if **your** accordion HTML carries the matching hooks, which you add yourself when you author the widget:
 
 <!--te-src:PiAqKkN1c3RvbWl6ZToqKiBCaWdDb21tZXJjZSBhZG1pbiDihpIgKipTdG9yZWZyb250IOKGkiBTY3JpcHQgTWFuYWdlciDihpIgQ3JlYXRlIGEgU2NyaXB0KiogKExvY2F0aW9uOiBGb290ZXIsIFBhZ2VzOiBTdG9yZSBwYWdlcyksIHRoZW4gcGFzdGUgdGhlIHNuaXBwZXQgYmVsb3cuIChOb3QgYSB0aGVtZSBzZXR0aW5nLik=-->
 <!--te-mock--><div class="te-mock te-nav"><div class="te-nav__brand">BigCommerce admin</div><div class="te-nav__top"><span>Home</span></div><div class="te-nav__top"><span>Orders</span></div><div class="te-nav__top"><span>Products</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top"><span>Customers</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top is-open"><span>Storefront</span><span class="te-nav__chev">⌃</span></div><div class="te-nav__sub">Themes</div><div class="te-nav__sub">Logo</div><div class="te-nav__sub">Home page carousel</div><div class="te-nav__sub">Social media links</div><div class="te-nav__sub is-active">Script manager</div><div class="te-nav__sub">Web pages</div><div class="te-nav__sub">Blog</div><div class="te-nav__sub">Image manager</div><div class="te-nav__top"><span>Marketing</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top"><span>Analytics</span></div><div class="te-nav__top"><span>Settings</span><span class="te-nav__chev">⌄</span></div></div>
@@ -112,7 +114,7 @@ The built-in form doesn't emit FAQ schema markup (because there are no answers i
 </script>
 ```
 
-Adapt the selectors (`[data-faq-item]`, `[data-faq-q]`, `[data-faq-a]`) to match the markup actually emitted by your Accordion widget.
+For this to work your accordion markup must include the hooks the snippet looks for: `data-faq-item` on each Q&A item, `data-faq-q` on the question element, and `data-faq-a` on the answer element. The theme adds none of these — add them in your widget HTML (or change the three selectors above to whatever attributes/classes your accordion already uses).
 
 ---
 
