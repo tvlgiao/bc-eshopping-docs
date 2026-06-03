@@ -84,7 +84,7 @@ The theme styles the `.eshopping-footer-desc` wrapper (font, color, max-width) a
 Social icons render in the brand block **only when** the **Footer Placement** toggle is enabled under **Theme Editor → Header and footer → Social media icons**. The icons themselves come from the accounts you fill in at **Storefront → Social media accounts**.
 
 <!--te-src:PiAqKkN1c3RvbWl6ZToqKiBUaGVtZSBFZGl0b3Ig4oaSICpIZWFkZXIgYW5kIGZvb3Rlciog4oaSICoqRm9vdGVyIFBsYWNlbWVudCoqIChgc29jaWFsX2ljb25fcGxhY2VtZW50X2JvdHRvbWApIOKAlCBzaG93IC8gaGlkZSB0aGUgc29jaWFsIGljb25zIGluIHRoZSBmb290ZXIgYnJhbmQgYmxvY2suIERlZmF1bHQ6IGBPbmAuIFRoZSBpY29ucyBzaG93biBjb21lIGZyb20gKipTdG9yZWZyb250IOKGkiBTb2NpYWwgbWVkaWEgYWNjb3VudHMqKiAobm90IGEgdGhlbWUgc2V0dGluZyku-->
-<!--te-mock--><div class="te-mock"><div class="te-mock__hd"><span>Header and footer</span><span class="te-x">✕</span></div><div class="te-mock__row"><span class="te-lbl">Footer Placement</span><span class="te-tx te-tx--ph">Enter text…</span></div><div class="te-mock__row"><span class="te-lbl">Storefront → Social media accounts</span><span class="te-tx te-tx--ph">Enter text…</span></div></div>
+<!--te-mock--><div class="te-mock"><div class="te-mock__hd"><span>Header and footer</span><span class="te-x">✕</span></div><div class="te-mock__row"><span class="te-lbl">Footer Placement</span><span class="te-cb is-on"></span></div><div class="te-mock__row"><span class="te-lbl">Storefront → Social media accounts</span><span class="te-tx te-tx--ph">Enter text…</span></div></div>
 
 Supported networks: Facebook, Instagram, X (Twitter), LinkedIn, YouTube, Pinterest, Tumblr, Google+, and RSS.
 
@@ -134,7 +134,7 @@ The bottom bar holds the copyright line, the payment-method icons, and the Power
 > © {year} {Store name}. All rights reserved.
 
 <!--te-src:PiAqKkN1c3RvbWl6ZToqKiBUaGVtZSBFZGl0b3Ig4oaSICpIZWFkZXIgYW5kIGZvb3Rlciog4oaSICoqU2hvdyBDb3B5cmlnaHQgRm9vdGVyKiogKGBzaG93X2NvcHlyaWdodF9mb290ZXJgKSDigJQgc2hvdyAvIGhpZGUgdGhlIGNvcHlyaWdodCBsaW5lLiBEZWZhdWx0OiBgT25gLiBUaGUgc3RvcmUgbmFtZSBjb21lcyBmcm9tICoqU2V0dGluZ3Mg4oaSIFN0b3JlIHByb2ZpbGUg4oaSIFN0b3JlIG5hbWUqKiAobm90IGEgdGhlbWUgc2V0dGluZyk7IHRoZSB5ZWFyIGlzIGF1dG9tYXRpYy4=-->
-<!--te-mock--><div class="te-mock"><div class="te-mock__hd"><span>Header and footer</span><span class="te-x">✕</span></div><div class="te-mock__row"><span class="te-fld"><span class="te-lbl">Show Copyright Footer</span><span class="te-desc">Shows / hides the copyright line</span></span><span class="te-tx te-tx--ph">Enter text…</span></div><div class="te-mock__row"><span class="te-fld"><span class="te-lbl">Settings → Store profile → Store name</span><span class="te-desc">Appears in the copyright line</span></span><span class="te-tx te-tx--ph">Enter text…</span></div></div>
+<!--te-mock--><div class="te-mock"><div class="te-mock__hd"><span>Header and footer</span><span class="te-x">✕</span></div><div class="te-mock__row"><span class="te-fld"><span class="te-lbl">Show Copyright Footer</span><span class="te-desc">Shows / hides the copyright line</span></span><span class="te-cb is-on"></span></div><div class="te-mock__row"><span class="te-fld"><span class="te-lbl">Settings → Store profile → Store name</span><span class="te-desc">Appears in the copyright line</span></span><span class="te-tx te-tx--ph">Enter text…</span></div></div>
 
 **Powered-by / Designed-by line.** When **Show Powered By** is on, the line reads:
 

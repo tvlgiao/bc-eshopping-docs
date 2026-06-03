@@ -363,3 +363,103 @@
 .te-check { color: #16a34a; font-weight: 700; font-size: 0.9rem; flex-shrink: 0; }
 [data-md-color-scheme="slate"] .te-check { color: #34d17a; }
 .te-mock--styles .te-mock__row.is-active { background: rgba(22,163,74,0.06); }
+
+/* ----------------------------------------------------------------------
+ * PDP layout wireframe — a real grey-box skeleton of the product-page
+ * zones (replaces the old ASCII diagram). Pure presentation; aria-hidden.
+ * ------------------------------------------------------------------- */
+.pdpwire {
+  display: flex; flex-direction: column; gap: 10px;
+  max-width: 560px; margin: 1.1rem 0; padding: 16px;
+  border: 1px solid #e2e5ea; border-radius: 10px; background: #f7f8fa;
+  font-size: 0.74rem; color: #5a6473;
+}
+[data-md-color-scheme="slate"] .pdpwire { background: #1e2128; border-color: #2c303a; color: #aab2c0; }
+.pdpwire__zone, .pdpwire__bar {
+  background: #fff; border: 1px solid #e2e5ea; border-radius: 6px; padding: 9px 12px;
+}
+[data-md-color-scheme="slate"] .pdpwire__zone,
+[data-md-color-scheme="slate"] .pdpwire__bar { background: #262a33; border-color: #343945; }
+.pdpwire small { color: #99a2b0; font-size: 0.92em; }
+[data-md-color-scheme="slate"] .pdpwire small { color: #7e8898; }
+.pdpwire__cols { display: grid; grid-template-columns: 2fr 3fr; gap: 10px; }
+.pdpwire__gallery { display: grid; grid-template-columns: 26px 1fr; gap: 7px; }
+.pdpwire__thumbs { display: flex; flex-direction: column; gap: 6px; }
+.pdpwire__thumbs span { height: 26px; background: #e7eaef; border-radius: 4px; }
+[data-md-color-scheme="slate"] .pdpwire__thumbs span { background: #343945; }
+.pdpwire__main {
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  min-height: 132px; background: #eef0f4; border-radius: 6px; gap: 3px; text-align: center;
+}
+[data-md-color-scheme="slate"] .pdpwire__main { background: #2f343e; }
+.pdpwire__info { display: flex; flex-direction: column; gap: 8px; }
+.pdpwire__skel { height: 9px; border-radius: 4px; background: #e7eaef; }
+[data-md-color-scheme="slate"] .pdpwire__skel { background: #343945; }
+.pdpwire__skel--title { height: 15px; width: 78%; }
+.pdpwire__skel--brand { width: 32%; height: 7px; }
+.pdpwire__skel--price { height: 13px; width: 46%; background: #d7dbe2; }
+[data-md-color-scheme="slate"] .pdpwire__skel--price { background: #424856; }
+.pdpwire__row { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
+.pdpwire__chip {
+  font-size: 0.68rem; padding: 2px 8px; border-radius: 999px;
+  background: #eef0f4; border: 1px solid #e2e5ea; color: #6b7484;
+}
+[data-md-color-scheme="slate"] .pdpwire__chip { background: #2f343e; border-color: #3a4150; color: #9aa3b2; }
+.pdpwire__sw { width: 16px; height: 16px; border-radius: 50%; background: #dfe3e9; border: 1px solid #cfd5de; }
+[data-md-color-scheme="slate"] .pdpwire__sw { background: #3a4150; border-color: #474e5e; }
+.pdpwire__cta {
+  flex: 1; min-width: 120px; text-align: center; padding: 7px 10px; border-radius: 6px;
+  background: #c2603a; color: #fff; font-weight: 600; font-size: 0.72rem;
+}
+.pdpwire__qty {
+  width: 46px; text-align: center; padding: 7px 0; border-radius: 6px;
+  background: #fff; border: 1px solid #d3d8e0; color: #6b7484;
+}
+[data-md-color-scheme="slate"] .pdpwire__qty { background: #262a33; border-color: #3a4150; }
+.pdpwire__tabs { display: flex; gap: 6px; flex-wrap: wrap; }
+.pdpwire__tab {
+  font-size: 0.68rem; padding: 4px 9px; border-radius: 5px;
+  background: #fff; border: 1px solid #e2e5ea; color: #6b7484;
+}
+[data-md-color-scheme="slate"] .pdpwire__tab { background: #262a33; border-color: #343945; color: #9aa3b2; }
+.pdpwire__tab--active { background: #c2603a; border-color: #c2603a; color: #fff; font-weight: 600; }
+.pdpwire__bar--mobile { border-style: dashed; }
+@media (max-width: 480px){ .pdpwire__cols { grid-template-columns: 1fr; } }
+
+/* ----------------------------------------------------------------------
+ * BigCommerce admin "Product Settings" form mockup (Settings → Products) —
+ * right-aligned label + blue checkbox + helper text, matching the real BC UI.
+ * ------------------------------------------------------------------- */
+.te-adminform {
+  max-width: 540px; margin: 1rem 0; border: 1px solid #e2e5ea; border-radius: 8px;
+  background: #fff; overflow: hidden; font-size: 0.76rem;
+}
+[data-md-color-scheme="slate"] .te-adminform { background: #20232b; border-color: #2c303a; }
+.te-af__hd {
+  padding: 11px 16px; font-weight: 700; color: #3a4252;
+  background: #f3f5f8; border-bottom: 1px solid #e2e5ea;
+}
+[data-md-color-scheme="slate"] .te-af__hd { color: #cdd3dd; background: #262a33; border-color: #2c303a; }
+.te-af__row {
+  display: grid; grid-template-columns: 44% 1fr; gap: 12px; align-items: start;
+  padding: 9px 16px; border-bottom: 1px solid #f0f2f5;
+}
+.te-af__row:last-child { border-bottom: 0; }
+[data-md-color-scheme="slate"] .te-af__row { border-color: #2a2e38; }
+.te-af__lbl { text-align: right; color: #5a6473; }
+[data-md-color-scheme="slate"] .te-af__lbl { color: #aab2c0; }
+.te-af__ctrl { display: flex; align-items: flex-start; gap: 9px; }
+.te-af__cb {
+  width: 17px; height: 17px; border-radius: 3px; border: 1.5px solid #c2c8d2;
+  flex-shrink: 0; margin-top: 1px; position: relative; background: #fff;
+}
+[data-md-color-scheme="slate"] .te-af__cb { border-color: #4a5160; background: #262a33; }
+.te-af__cb.is-on { background: #4f6dd8; border-color: #4f6dd8; }
+.te-af__cb.is-on::after {
+  content: ""; position: absolute; left: 5px; top: 1px; width: 4px; height: 9px;
+  border: solid #fff; border-width: 0 2px 2px 0; transform: rotate(45deg);
+}
+.te-af__hint { color: #6b7484; }
+[data-md-color-scheme="slate"] .te-af__hint { color: #9aa3b2; }
+.te-af__row.is-focus { background: #fff8f3; }
+[data-md-color-scheme="slate"] .te-af__row.is-focus { background: #2c2722; }

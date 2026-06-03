@@ -118,7 +118,7 @@ The cart page's order-summary box shows a small trust cue under the checkout but
     **Bulk order mode** is a *product-listing* feature, not a cart feature. It adds a "bulk order" toggle to the action bar on **category, brand, and search** listing pages (and dedicated bulk-order pages), letting shoppers add many products from a quick table. It does **not** appear on the cart page or in the cart drawer.
 
 <!--te-src:PiAqKkN1c3RvbWl6ZToqKiBUaGVtZSBFZGl0b3Ig4oaSICplU2hvcHBpbmcgVGhlbWUqIOKGkiAoaGVhZGluZyAqQnVsayBPcmRlciopIOKGkiAqKlNob3cgYnVsayBvcmRlciBtb2RlKiog4oCUIGNoZWNrYm94IHRoYXQgc2hvd3MvaGlkZXMgdGhlIGJ1bGstb3JkZXIgdG9nZ2xlIG9uIGxpc3RpbmcgcGFnZXMuIEZpZWxkIGlkOiBgZXNob3BwaW5nLXNob3ctYnVsay1vcmRlci1tb2RlYC4gRGVmYXVsdDogYHRydWVgIChvbikuICooZm9yY2UtcmVsb2FkKSo=-->
-<!--te-mock--><div class="te-mock"><div class="te-mock__hd"><span>eShopping Theme</span><span class="te-x">✕</span></div><div class="te-mock__row"><span class="te-lbl">Show bulk order mode</span><span class="te-tx">true</span></div></div>
+<!--te-mock--><div class="te-mock"><div class="te-mock__hd"><span>eShopping Theme</span><span class="te-x">✕</span></div><div class="te-mock__row"><span class="te-lbl">Show bulk order mode</span><span class="te-cb is-on"></span></div></div>
 
 See the [category page documentation](category.md) for how the bulk-order table behaves.
 

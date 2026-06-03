@@ -60,7 +60,7 @@ If you want to display **answers** (not just collect questions), use one of thes
 2. **Custom fields tab** — turn on **Product custom fields in tabs**, then add custom fields named like `Q: Does this fit my vehicle?` with the answer as the value. They render in the **Specifications** tab as a 2-column table (label / value).
 
 <!--te-src:ICAgID4gKipDdXN0b21pemU6KiogVGhlbWUgRWRpdG9yIOKGkiAqUHJvZHVjdHMqIOKGkiAqKlByb2R1Y3QgY3VzdG9tIGZpZWxkcyBpbiB0YWJzKiogKGlkIGBzaG93X2N1c3RvbV9maWVsZHNfdGFic2ApLiBGb3JtYXQ6IG9uL29mZi4gRGVmYXVsdDogYG9uYC4gVGhlbiBhZGQgdGhlIGZpZWxkcyBpbiBCaWdDb21tZXJjZSBhZG1pbiDihpIgKipDYXRhbG9nIOKGkiBQcm9kdWN0cyDihpIgZWRpdCB0aGUgcHJvZHVjdCDihpIgQ3VzdG9tIEZpZWxkcyoqLg==-->
-<!--te-mock--><div class="te-mock"><div class="te-mock__hd"><span>Products</span><span class="te-x">✕</span></div><div class="te-mock__row"><span class="te-lbl">Product custom fields in tabs</span><span class="te-cb"></span></div><div class="te-mock__row"><span class="te-lbl">Catalog → Products → edit the product → Custom Fields</span><span class="te-cb"></span></div></div>
+<!--te-mock--><div class="te-mock"><div class="te-mock__hd"><span>Products</span><span class="te-x">✕</span></div><div class="te-mock__row"><span class="te-lbl">Product custom fields in tabs</span><span class="te-cb is-on"></span></div><div class="te-mock__row"><span class="te-lbl">Catalog → Products → edit the product → Custom Fields</span><span class="te-cb"></span></div></div>
 
 3. **Warranty tab widget area** — drop an accordion or collapsible-content widget into the Warranty tab widget area (region `product_below_warranty--global`). It renders **inside the Warranty tab**, after the warranty description text and *before* the warranty card grid, on every PDP that has warranty text.
 
