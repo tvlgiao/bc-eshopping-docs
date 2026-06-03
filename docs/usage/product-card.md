@@ -43,12 +43,12 @@ From top to bottom: **Sale badge → product image → star rating → brand nam
 
 ## Card action buttons
 
-The icon action row is controlled by two toggles, both under **Theme Editor → Products → Display settings**:
+<!--te-lead:VGhlIGljb24gYWN0aW9uIHJvdyBpcyBjb250cm9sbGVkIGJ5IHR3byB0b2dnbGVzIHVuZGVyICoqVGhlbWUgRWRpdG9yIOKGkiBQcm9kdWN0cyDihpIgRGlzcGxheSBzZXR0aW5ncyoqOg==-->
 
-| Setting | Effect |
-| ------- | ------ |
-| **Show product compare** | Shows the **Compare** icon on cards. On **category, brand, and search** pages the icon is additionally gated by a per-product eligibility flag, so it only appears for products eligible for comparison. On **home sliders and the PDP related section** the icon appears for all products when the toggle is on. |
-| **Show quickview button on product cards** | Shows the **Quick view** icon on cards. |
+<!--te-tbl:fCBTZXR0aW5nIHwgaWQgfCBFZmZlY3QgfCBEZWZhdWx0IHwKfCAtLS0tLS0tIHwgLS0gfCAtLS0tLS0gfCAtLS0tLS0tIHwKfCAqKlNob3cgcHJvZHVjdCBjb21wYXJlKiogfCBgc2hvd19jb21wYXJlYCB8IENvbXBhcmUgaWNvbiBvbiBjYXJkcyB8IGB0cnVlYCB8CnwgKipTaG93IHF1aWNrdmlldyBidXR0b24gb24gcHJvZHVjdCBjYXJkcyoqIHwgYHNob3dfcHJvZHVjdF9xdWlja192aWV3YCB8IFF1aWNrIHZpZXcgaWNvbiBvbiBjYXJkcyB8IGB0cnVlYCB8-->
+<!--te-mock--><div class="te-mock"><div class="te-mock__hd"><span>Products</span><span class="te-x">✕</span></div><div class="te-mock__grp">Display settings</div><div class="te-mock__row"><span class="te-fld"><span class="te-lbl">Show product compare</span><span class="te-desc">Compare icon on cards</span></span><span class="te-cb is-on"></span></div><div class="te-mock__row"><span class="te-fld"><span class="te-lbl">Show quickview button on product cards</span><span class="te-desc">Quick view icon on cards</span></span><span class="te-cb is-on"></span></div></div>
+
+On **category, brand, and search** pages the Compare icon is additionally gated by a per-product eligibility flag, so it only appears for products eligible for comparison; on **home sliders and the PDP related section** it appears for all products when the toggle is on.
 
 The **Add to cart** icon is always present for purchasable products, and it switches to a *Choose options* link when the product has variants. On **category, brand, and search** pages the icon also switches to a *Pre-order* link for pre-order products. There is a fourth state on these pages too: when a product is purchasable but currently out of stock and has an out-of-stock message set, the cart icon becomes an **out-of-stock link** that uses that message as its label and links to the product page.
 
@@ -88,6 +88,8 @@ For each badge type, the **style and position** is the value you pick in its dro
 | **Diagonal** | A diagonal sash across the corner. |
 | **Burst** | A starburst badge. |
 
+<div class="te-mock"><div class="te-mock__hd"><span>Products</span><span class="te-x">✕</span></div><div class="te-mock__grp">Product sale badges</div><div class="te-mock__row"><span class="te-lbl">Show product sale badges</span><span class="te-dd"><span class="te-dd__v">Top Left</span><span class="te-dd__b">▾</span></span></div><div class="te-mock__row"><span class="te-lbl">Show product sold-out badges</span><span class="te-dd"><span class="te-dd__v">None</span><span class="te-dd__b">▾</span></span></div></div>
+
 The two dropdowns are **Show product sale badges** and **Show product sold-out badges**. Each badge type also has its own color fields — **Badge text color**, **Badge color**, and **Badge hover color** — so the two badge types can be styled independently. You can override the default wording for each type using its **label** field in the same panel. There is no free-text or custom badge feature beyond these two badge types.
 
 ---
@@ -100,6 +102,8 @@ Category pages can show products in one of two modes. Set the default in **Theme
 | ------ | ----------------- |
 | **Show products in a grid** *(default)* | The standard grid of product cards. |
 | **Show products in bulk order** | The **Bulk Order table** — a row per product with a quantity field for fast multi-item ordering, instead of cards. |
+
+<div class="te-mock"><div class="te-mock__hd"><span>Global</span><span class="te-x">✕</span></div><div class="te-mock__grp">Products › Display style</div><div class="te-mock__row"><span class="te-lbl">Display style</span><span class="te-dd"><span class="te-dd__v">Grid</span><span class="te-dd__b">▾</span></span></div></div>
 
 "Show products in bulk order" is not a generic list/row view of the product cards — it replaces the card grid with the bulk-order table.
 
