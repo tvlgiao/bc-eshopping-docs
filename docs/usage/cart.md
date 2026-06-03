@@ -7,6 +7,10 @@ The eShopping cart has two surfaces:
 
 Both show the same line-items and totals. The cart page also has an order-summary sidebar with the goal bar and a cross-sell section below the items; the cart drawer shows the goal bar and cross-sell too.
 
+![Cart page — items and order-summary sidebar](../img/cart-page.png){ loading=lazy }
+
+![Cart drawer — slide-in panel](../img/cart-drawer.png){ loading=lazy }
+
 !!! note "Logged-out shoppers"
     If your store is set to hide prices from guests, the **goal bar** and the **You May Also Like** cross-sell are hidden for visitors who are not signed in. They appear once the shopper signs in — or if your store shows prices to guests.
 
@@ -17,6 +21,8 @@ Both show the same line-items and totals. The cart page also has an order-summar
     The slide-out **cart drawer** is built into the theme and opens automatically after an add-to-cart. It mirrors the cart page's goal bar and cross-sell, so the two **Cart Goal Bar** and **Cart Cross-sell** settings below control both surfaces at once. There is no on/off toggle and no widget region for the drawer.
 
 ## Cart goal bar
+
+![Cart goal bar — multi-tier progress](../img/cart-goal-bar.png){ loading=lazy }
 
 A theme-driven progress bar that rewards customers as their **cart subtotal** grows. It is **multi-tier**: you define a series of dollar milestones, and each milestone shows a marker on the bar plus a labelled reward (e.g. free shipping, a discount, a free gift). As the subtotal passes each milestone, that marker is ticked off.
 
@@ -66,6 +72,8 @@ These messages are built into the theme. The reward labels come from the **Goal 
 
 ## Cross-sell ("You May Also Like")
 
+![You May Also Like cross-sell row](../img/cart-crosssell.png){ loading=lazy }
+
 Both the cart page and the cart drawer can show a **You May Also Like** section. It pulls BigCommerce **related products** for the items currently in the cart — that is, the related products you assign to each product (or the store's automatic related products) — aggregated across all cart items and de-duplicated so nothing already in the cart is suggested.
 
 The heading text **You May Also Like** comes from the theme's language strings (`lang/en.json` key `eshopping.crosssell.heading`) and is shared by both the cart page and the cart drawer. To change it, edit that key (or, on a published store, translate it via BigCommerce admin → **Storefront → My Themes → ⋯ → Edit Theme Files → `lang/en.json`**).
@@ -109,6 +117,8 @@ The cart **page** exposes one widget region named **`cart_below_totals`**, which
     This widget area exists on the cart **page only**. The cart **drawer** does not accept widgets.
 
 ## Trust elements on the cart
+
+![Order summary — secure checkout cue](../img/cart-trust.png){ loading=lazy }
 
 The cart page's order-summary box shows a small trust cue under the checkout button — a lock icon on the **checkout** button plus a **Secure checkout** line with a shield icon. These are built into the theme; their wording comes from the language strings `cart.checkout.button` and `cart.checkout.secure` in `lang/en.json`.
 
