@@ -534,3 +534,25 @@
   text-align: center; padding: 5px 8px; border-radius: 5px;
   background: #c2603a; color: #fff; font-weight: 600; font-size: 0.66rem;
 }
+
+/* ----------------------------------------------------------------------
+ * Open dropdown menu (option enumeration) — field row + listed options,
+ * the default highlighted, matching an opened BC Theme-Editor select.
+ * ------------------------------------------------------------------- */
+.te-ddmenu {
+  margin: 3px 0 2px auto; width: max-content; max-width: 94%;
+  border: 1px solid #d3d8e0; border-radius: 6px; background: #fff;
+  box-shadow: 0 6px 18px rgba(23, 33, 55, 0.12); overflow: hidden;
+}
+[data-md-color-scheme="slate"] .te-ddmenu { background: #2c313b; border-color: #3a4150; box-shadow: 0 6px 18px rgba(0,0,0,0.35); }
+.te-ddopt {
+  display: flex; align-items: center; justify-content: space-between; gap: 18px;
+  padding: 6px 12px; font-size: 0.78rem; color: #3a4252;
+}
+.te-ddopt + .te-ddopt { border-top: 1px solid #f0f2f5; }
+[data-md-color-scheme="slate"] .te-ddopt { color: #c7cdd7; }
+[data-md-color-scheme="slate"] .te-ddopt + .te-ddopt { border-color: #343945; }
+.te-ddopt.is-sel { background: #eef4ff; color: #1d4ed8; font-weight: 600; }
+[data-md-color-scheme="slate"] .te-ddopt.is-sel { background: rgba(79,108,216,0.18); color: #9db4ff; }
+.te-ddck { color: #1d4ed8; font-size: 0.72rem; }
+[data-md-color-scheme="slate"] .te-ddck { color: #9db4ff; }

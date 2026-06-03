@@ -81,14 +81,9 @@ The theme supports two badge types on cards, both grouped under one heading: **T
 
 For each badge type, the **style and position** is the value you pick in its dropdown:
 
-| Option | Result |
-| ------ | ------ |
-| **None** | The badge is hidden *(default for the sold-out badge)*. |
-| **Top left** | A flag in the top-left corner *(default for the sale badge)*. |
-| **Diagonal** | A diagonal sash across the corner. |
-| **Burst** | A starburst badge. |
+<div class="te-mock"><div class="te-mock__hd"><span>Products</span><span class="te-x">✕</span></div><div class="te-mock__grp">Product sale badges</div><div class="te-mock__row"><span class="te-lbl">Show product sale badges</span><span class="te-dd"><span class="te-dd__v">Top Left</span><span class="te-dd__b">▴</span></span></div><div class="te-ddmenu"><div class="te-ddopt">None</div><div class="te-ddopt is-sel">Top Left<span class="te-ddck">✓</span></div><div class="te-ddopt">Diagonal</div><div class="te-ddopt">Burst</div></div><div class="te-mock__row"><span class="te-lbl">Show product sold-out badges</span><span class="te-dd"><span class="te-dd__v">None</span><span class="te-dd__b">▾</span></span></div></div>
 
-<div class="te-mock"><div class="te-mock__hd"><span>Products</span><span class="te-x">✕</span></div><div class="te-mock__grp">Product sale badges</div><div class="te-mock__row"><span class="te-lbl">Show product sale badges</span><span class="te-dd"><span class="te-dd__v">Top Left</span><span class="te-dd__b">▾</span></span></div><div class="te-mock__row"><span class="te-lbl">Show product sold-out badges</span><span class="te-dd"><span class="te-dd__v">None</span><span class="te-dd__b">▾</span></span></div></div>
+Each option places the badge differently: **None** hides it, **Top left** is a corner flag, **Diagonal** a corner sash, **Burst** a starburst. The sale badge defaults to **Top left**; the sold-out badge defaults to **None** (hidden).
 
 The two dropdowns are **Show product sale badges** and **Show product sold-out badges**. Each badge type also has its own color fields — **Badge text color**, **Badge color**, and **Badge hover color** — so the two badge types can be styled independently. You can override the default wording for each type using its **label** field in the same panel. There is no free-text or custom badge feature beyond these two badge types.
 
@@ -96,14 +91,10 @@ The two dropdowns are **Show product sale badges** and **Show product sold-out b
 
 ## Product display style
 
-Category pages can show products in one of two modes. Set the default in **Theme Editor → Global → Products → Display style**:
+<!--te-lead:Q2F0ZWdvcnkgcGFnZXMgY2FuIHNob3cgcHJvZHVjdHMgaW4gb25lIG9mIHR3byBtb2Rlcy4gU2V0IHRoZSBkZWZhdWx0IGluICoqVGhlbWUgRWRpdG9yIOKGkiBHbG9iYWwg4oaSIFByb2R1Y3RzIOKGkiBEaXNwbGF5IHN0eWxlKio6-->
 
-| Option | What shoppers see |
-| ------ | ----------------- |
-| **Show products in a grid** *(default)* | The standard grid of product cards. |
-| **Show products in bulk order** | The **Bulk Order table** — a row per product with a quantity field for fast multi-item ordering, instead of cards. |
-
-<div class="te-mock"><div class="te-mock__hd"><span>Global</span><span class="te-x">✕</span></div><div class="te-mock__grp">Products › Display style</div><div class="te-mock__row"><span class="te-lbl">Display style</span><span class="te-dd"><span class="te-dd__v">Grid</span><span class="te-dd__b">▾</span></span></div></div>
+<!--te-tbl:fCBPcHRpb24gfCBXaGF0IHNob3BwZXJzIHNlZSB8CnwgLS0tLS0tIHwgLS0tLS0tLS0tLS0tLS0tLS0gfAp8ICoqU2hvdyBwcm9kdWN0cyBpbiBhIGdyaWQqKiAqKGRlZmF1bHQpKiB8IFRoZSBzdGFuZGFyZCBncmlkIG9mIHByb2R1Y3QgY2FyZHMuIHwKfCAqKlNob3cgcHJvZHVjdHMgaW4gYnVsayBvcmRlcioqIHwgVGhlICoqQnVsayBPcmRlciB0YWJsZSoqIOKAlCBhIHJvdyBwZXIgcHJvZHVjdCB3aXRoIGEgcXVhbnRpdHkgZmllbGQgZm9yIGZhc3QgbXVsdGktaXRlbSBvcmRlcmluZywgaW5zdGVhZCBvZiBjYXJkcy4gfA==-->
+<!--te-mock--><div class="te-mock"><div class="te-mock__hd"><span>Global</span><span class="te-x">✕</span></div><div class="te-mock__grp">Products</div><div class="te-mock__row"><span class="te-lbl">Display style</span><span class="te-dd"><span class="te-dd__v">Show products in a grid</span><span class="te-dd__b">▴</span></span></div><div class="te-ddmenu"><div class="te-ddopt is-sel">Show products in a grid<span class="te-ddck">✓</span></div><div class="te-ddopt">Show products in bulk order</div></div></div>
 
 "Show products in bulk order" is not a generic list/row view of the product cards — it replaces the card grid with the bulk-order table.
 
