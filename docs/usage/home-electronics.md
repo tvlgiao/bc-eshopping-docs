@@ -92,6 +92,8 @@ See [Header & top bar](header-and-topbar.md) for the full header reference.
 
 The hero is the BigCommerce **Home Page Carousel** styled by the theme.
 
+![Hero on the storefront](../img/electronics-hero.png){ loading=lazy }
+
 1. **Storefront → Home Page Carousel** → upload 3 slides (1920 × 700).
 2. Theme Editor → **Homepage** → turn on **Show carousel** (`homepage_show_carousel`).
 3. (Optional) mobile fixed height — BigCommerce carousel setting → `420`.
@@ -121,6 +123,8 @@ Slide ideas (*suggestions only*):
 - **Easy Returns** — 30-day hassle-free returns
 - **Tech Support** — Expert assistance 7 days a week
 
+![Trust strip on the storefront](../img/electronics-trust.png){ loading=lazy }
+
 <!--te-src:PiAqKkN1c3RvbWl6ZSAoc2hvdy9oaWRlKToqKiBUaGVtZSBFZGl0b3Ig4oaSICoqZVNob3BwaW5nIFRoZW1lKiog4oaSICoqU2hvdyBUcnVzdCBTdHJpcCoqIChgZXNob3BwaW5nLXNob3ctdHJ1c3Qtc3RyaXBgLCBjaGVja2JveCkuIERlZmF1bHQ6IG9uLg==-->
 <!--te-src:PiAqKkN1c3RvbWl6ZSAoY29udGVudCk6KiogVGhlbWUgRWRpdG9yIOKGkiAqKmVTaG9wcGluZyBUaGVtZSoqIOKGkiAqKlRydXN0IFN0cmlwIEl0ZW1zKiogKGBlc2hvcHBpbmctdHJ1c3QtdGV4dGApLiBGb3JtYXQ6IGEgc2luZ2xlIGB8YC1zZXBhcmF0ZWQgc3RyaW5nIG9mICoqOCBzZWdtZW50cyA9IDQgYFRpdGxlfERlc2NyaXB0aW9uYCBwYWlycyoqIGluIG9yZGVyIChpdGVtIDEgdGl0bGUsIGl0ZW0gMSBkZXNjLCBpdGVtIDIgdGl0bGUsIGl0ZW0gMiBkZXNjLCDigKYpLiBUaGUgZm91ciBpY29ucyAoc2hpZWxkLCB0cnVjaywgc3RhciwgcGhvbmUpIGFyZSBmaXhlZCBieSB0aGUgdGVtcGxhdGUuIFRoZW1lIGRlZmF1bHQ6IGBNYWRlIGluIFVTQXxGYXN0ICYgcmVsaWFibGUgc2hpcHBpbmcgb24gYWxsIG9yZGVyc3xGcmVlIFNoaXBwaW5nfFNob3Agd2l0aCBjb25maWRlbmNlLCBndWFyYW50ZWVkfDQuOCBTdGFyIFJhdGluZ3xFYXN5IHJldHVybnMgd2l0aGluIDMwIGRheXN8RXhwZXJ0IFN1cHBvcnR8QXZhaWxhYmxlIE1vbi1TYXQsIDlhbS02cG1gLg==-->
 <!--te-mock--><div class="te-mock"><div class="te-mock__hd"><span>eShopping Theme</span><span class="te-x">✕</span></div><div class="te-mock__row"><span class="te-lbl">Show Trust Strip</span><span class="te-cb is-on"></span></div><div class="te-mock__row"><span class="te-lbl">Trust Strip Items</span><span class="te-tx te-tx--ph">Enter text…</span></div><div class="te-mock__row"><span class="te-lbl">8 segments = 4 Title|Description pairs</span><span class="te-tx te-tx--ph">Enter text…</span></div></div>
@@ -128,6 +132,8 @@ Slide ideas (*suggestions only*):
 ### 8. Featured Products
 
 **Show Featured Products** (`eshopping-show-featured`) is on. The Featured Products slider renders on the live home page.
+
+![Featured Products on the storefront](../img/electronics-featured.png){ loading=lazy }
 
 <!--te-src:PiAqKkN1c3RvbWl6ZSAoc2hvdy9oaWRlKToqKiBUaGVtZSBFZGl0b3Ig4oaSICoqZVNob3BwaW5nIFRoZW1lKiog4oaSICoqU2hvdyBGZWF0dXJlZCBQcm9kdWN0cyoqIChgZXNob3BwaW5nLXNob3ctZmVhdHVyZWRgLCBjaGVja2JveCkuIERlZmF1bHQ6IG9uLg==-->
 <!--te-src:PiAqKkN1c3RvbWl6ZSAod2hpY2ggcHJvZHVjdHMpOioqIEJpZ0NvbW1lcmNlIGFkbWluIOKGkiAqKlByb2R1Y3RzIOKGkiBWaWV3Kiog4oaSIHNldCBwcm9kdWN0cyBhcyAqRmVhdHVyZWQqIChhIHBlci1wcm9kdWN0IHRvZ2dsZSkuIFRoZSBzbGlkZXIgcHVsbHMgdGhlIHN0b3JlJ3MgRmVhdHVyZWQgcHJvZHVjdHMuIChOb3QgYSB0aGVtZSBzZXR0aW5nLik=-->
@@ -144,6 +150,8 @@ Slide ideas (*suggestions only*):
 ### 10. New Arrivals
 
 **Show New Arrivals** (`eshopping-show-new`) is on. The New Arrivals slider renders on the live home page.
+
+![New Arrivals on the storefront](../img/electronics-new.png){ loading=lazy }
 
 <!--te-src:PiAqKkN1c3RvbWl6ZSAoc2hvdy9oaWRlKToqKiBUaGVtZSBFZGl0b3Ig4oaSICoqZVNob3BwaW5nIFRoZW1lKiog4oaSICoqU2hvdyBOZXcgQXJyaXZhbHMqKiAoYGVzaG9wcGluZy1zaG93LW5ld2AsIGNoZWNrYm94KS4gRGVmYXVsdDogb24u-->
 <!--te-mock--><div class="te-mock"><div class="te-mock__hd"><span>eShopping Theme</span><span class="te-x">✕</span></div><div class="te-mock__row"><span class="te-lbl">Show New Arrivals</span><span class="te-cb is-on"></span></div></div>
@@ -162,6 +170,8 @@ Slide ideas (*suggestions only*):
 | Show New tab | `eshopping-pbcst-show-new` | ✅ |
 | Show Reviews (Top Rated) tab | `eshopping-pbcst-show-reviews` | ❌ (off) |
 
+![Products by Category on the storefront](../img/electronics-pbc.png){ loading=lazy }
+
 <!--te-src:PiAqKkN1c3RvbWl6ZSAoc2hvdy9oaWRlIHNlY3Rpb24pOioqIFRoZW1lIEVkaXRvciDihpIgKiplU2hvcHBpbmcgVGhlbWUqKiDihpIgKipTaG93IENhdGVnb3JpZXMqKiAoYGVzaG9wcGluZy1zaG93LWNhdGVnb3JpZXNgLCBjaGVja2JveCkuIERlZmF1bHQ6IG9uLg==-->
 <!--te-src:PiAqKkN1c3RvbWl6ZSAod2hpY2ggY2F0ZWdvcmllcyk6KiogVGhlbWUgRWRpdG9yIOKGkiAqKmVTaG9wcGluZyBUaGVtZSoqIOKGkiAqKkNhdGVnb3J5IElEcyAoY29tbWEgc2VwYXJhdGVkLCBsZWF2ZSBlbXB0eSBmb3IgYXV0by1kZXRlY3QpKiogKGBlc2hvcHBpbmctcGJjc3QtY2F0SURzYCkuIEZvcm1hdDogY29tbWEtc2VwYXJhdGVkIGNhdGVnb3J5IElEcyAoZS5nLiBgMjMsMjQsMjVgKTsgbGVhdmUgZW1wdHkgdG8gYXV0by1kZXRlY3QgYWxsIHRvcC1sZXZlbCBjYXRlZ29yaWVzLiBEZWZhdWx0OiBlbXB0eS4=-->
 <!--te-src:PiAqKkN1c3RvbWl6ZSAoZ3JpZCk6KiogVGhlbWUgRWRpdG9yIOKGkiAqKmVTaG9wcGluZyBUaGVtZSoqIOKGkiAqKkdyaWQgbGF5b3V0OiBjYXRlZ29yaWVzLHByb2R1Y3RzLHN1YmNhdGVnb3JpZXMqKiAoYGVzaG9wcGluZy1wYmNzdC1ncmlkYCkuIEZvcm1hdDogdGhyZWUgY29tbWEtc2VwYXJhdGVkIG51bWJlcnMg4oCUICoqYGNhdGVnb3JpZXMscHJvZHVjdHMsc3ViY2F0ZWdvcmllc2AqKiAobnVtYmVyIDEgPSBob3cgbWFueSBjYXRlZ29yeSBibG9ja3MsIG51bWJlciAyID0gcHJvZHVjdHMgcGVyIGJsb2NrLCBudW1iZXIgMyA9IHN1YmNhdGVnb3J5IGxpbmtzIHNob3duKS4gRGVmYXVsdDogYDMsNCw2YC4=-->
@@ -173,6 +183,8 @@ Slide ideas (*suggestions only*):
 
 12 brand logos shown on the home page. The demo uses fictional brand names (TechNova, PixelCraft, AudioWave, etc.) — replace them with your own brands.
 
+![Brands carousel on the storefront](../img/electronics-brands.png){ loading=lazy }
+
 <!--te-src:PiAqKkN1c3RvbWl6ZSAoaG93IG1hbnkpOioqIFRoZW1lIEVkaXRvciDihpIgKiplU2hvcHBpbmcgVGhlbWUqKiDihpIgKipIb21lcGFnZSBCcmFuZHMgTGltaXQqKiAoYGVzaG9wcGluZy1ob21lcGFnZS1icmFuZHMtbGltaXRgKS4gRm9ybWF0OiBhIG51bWJlciAobWF4IGJyYW5kcyB0byBzaG93KS4gRGVmYXVsdDogYDEyYC4=-->
 <!--te-src:PiAqKkN1c3RvbWl6ZSAod2hpY2ggYnJhbmRzIC8gbG9nb3MpOioqIEJpZ0NvbW1lcmNlIGFkbWluIOKGkiAqKlByb2R1Y3RzIOKGkiBCcmFuZHMqKiDigJQgYWRkIGJyYW5kcyBhbmQgdXBsb2FkIGVhY2ggYnJhbmQncyBpbWFnZS4gKE5vdCBhIHRoZW1lIHNldHRpbmcuKQ==-->
 <!--te-mock--><div class="te-mock"><div class="te-mock__hd"><span>eShopping Theme</span><span class="te-x">✕</span></div><div class="te-mock__row"><span class="te-lbl">Homepage Brands Limit</span><span class="te-dd"><span class="te-dd__v">12</span><span class="te-dd__b">▾</span></span></div></div>
@@ -182,12 +194,16 @@ Slide ideas (*suggestions only*):
 
 Home page blog posts: `3`. Add at least 3 posts with featured images.
 
+![Blog posts on the storefront](../img/electronics-blog.png){ loading=lazy }
+
 <!--te-src:PiAqKkN1c3RvbWl6ZSAocG9zdHMpOioqIEJpZ0NvbW1lcmNlIGFkbWluIOKGkiAqKlN0b3JlZnJvbnQg4oaSIEJsb2cqKiDigJQgYWRkIHBvc3RzIGFuZCBzZXQgYSBmZWF0dXJlZCBpbWFnZSBvbiBlYWNoIHNvIHRoZSBob21lIHBhZ2UgY2FyZHMgaGF2ZSB0aHVtYm5haWxzLiAoTm90IGEgdGhlbWUgc2V0dGluZy4p-->
 <!--te-mock--><div class="te-mock te-nav"><div class="te-nav__brand">BigCommerce admin</div><div class="te-nav__top"><span>Home</span></div><div class="te-nav__top"><span>Orders</span></div><div class="te-nav__top"><span>Products</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top"><span>Customers</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top is-open"><span>Storefront</span><span class="te-nav__chev">⌃</span></div><div class="te-nav__sub">Themes</div><div class="te-nav__sub">Logo</div><div class="te-nav__sub">Home page carousel</div><div class="te-nav__sub">Social media links</div><div class="te-nav__sub">Script manager</div><div class="te-nav__sub">Web pages</div><div class="te-nav__sub is-active">Blog</div><div class="te-nav__sub">Image manager</div><div class="te-nav__top"><span>Marketing</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top"><span>Analytics</span></div><div class="te-nav__top"><span>Settings</span><span class="te-nav__chev">⌄</span></div></div>
 
 ### 14. Why Choose Us (AI HTML Generator | PapaThemes)
 
 A Page Builder **AI HTML Generator | PapaThemes** widget placed in the region **`home_below_products_by_category` (sort 0)**, with the heading **Tech That Performs. Pricing That Powers Up.** It arrives with the demo widget import — it is not a theme setting, and requires the PapaThemes app to be installed.
+
+![Why Choose Us block on the storefront](../img/electronics-why.png){ loading=lazy }
 
 <!--te-src:PiAqKkN1c3RvbWl6ZToqKiBQYWdlIEJ1aWxkZXIg4oaSIGNsaWNrIHRoZSBibG9jayDihpIgKipIVE1MIENvbnRlbnQqKiBmaWVsZC4gU2VlIFtEZW1vIG1hcmtldGluZyBibG9ja3Mg4oaSIFdoeSBDaG9vc2UgVXNdKHdpZGdldHMtcGFwYXRoZW1lcy5tZCN3aHktY2hvb3NlLXVzKSBmb3IgdGhlIGV4YWN0IEhUTUwu-->
 <!--te-mock--><div class="te-mock te-mock--pb"><div class="te-mock__hd"><span>‹ AI HTML Generator | PapaThemes</span><span class="te-x">⋯</span></div><div class="te-mock__grp">▾ Content</div><div class="te-pbbox"><span class="k">&lt;style&gt;</span><br><span class="s">.papathemes-ai-widget-…</span> { … }<br>…your HTML…<br><span class="k">&lt;/style&gt;</span></div><div class="te-pbbtns"><span class="te-btn-ghost">Expand HTML Editor</span><span class="te-save te-save--full">Save HTML</span></div><div class="te-mock__row"><span class="te-cb"></span><span class="te-lbl">Show in container div</span></div></div>
@@ -501,6 +517,8 @@ A Page Builder **AI HTML Generator | PapaThemes** widget placed in the region **
 ### 15. Customer Reviews (AI HTML Generator | PapaThemes)
 
 A Page Builder **AI HTML Generator | PapaThemes** widget placed in the region **`home_below_products_by_category` (sort 1)**, with the heading **Customer Reviews** — a social-proof block. It comes from the demo widget import (not a theme setting) and requires the PapaThemes app.
+
+![Customer Reviews block on the storefront](../img/electronics-reviews.png){ loading=lazy }
 
 <!--te-src:PiAqKkN1c3RvbWl6ZToqKiBQYWdlIEJ1aWxkZXIg4oaSIGNsaWNrIHRoZSBibG9jayDihpIgKipIVE1MIENvbnRlbnQqKiBmaWVsZC4gU2VlIFtEZW1vIG1hcmtldGluZyBibG9ja3Mg4oaSIEN1c3RvbWVyIFJldmlld3NdKHdpZGdldHMtcGFwYXRoZW1lcy5tZCNjdXN0b21lci1yZXZpZXdzKSBmb3IgdGhlIGV4YWN0IEhUTUwu-->
 <!--te-mock--><div class="te-mock te-mock--pb"><div class="te-mock__hd"><span>‹ AI HTML Generator | PapaThemes</span><span class="te-x">⋯</span></div><div class="te-mock__grp">▾ Content</div><div class="te-pbbox"><span class="k">&lt;style&gt;</span><br><span class="s">.papathemes-ai-widget-…</span> { … }<br>…your HTML…<br><span class="k">&lt;/style&gt;</span></div><div class="te-pbbtns"><span class="te-btn-ghost">Expand HTML Editor</span><span class="te-save te-save--full">Save HTML</span></div><div class="te-mock__row"><span class="te-cb"></span><span class="te-lbl">Show in container div</span></div></div>
@@ -1363,6 +1381,8 @@ A Page Builder **AI HTML Generator | PapaThemes** widget placed in the region **
 
 A Page Builder **AI HTML Generator | PapaThemes** widget placed in the region **`home_below_products_by_category` (sort 2)**, with the heading **Tech Resources & Guides** (guide cards). It comes from the demo widget import (not a theme setting) and requires the PapaThemes app.
 
+![Resources block on the storefront](../img/electronics-resources.png){ loading=lazy }
+
 <!--te-src:PiAqKkN1c3RvbWl6ZToqKiBQYWdlIEJ1aWxkZXIg4oaSIGNsaWNrIHRoZSBibG9jayDihpIgKipIVE1MIENvbnRlbnQqKiBmaWVsZC4gU2VlIFtEZW1vIG1hcmtldGluZyBibG9ja3Mg4oaSIFJlc291cmNlc10od2lkZ2V0cy1wYXBhdGhlbWVzLm1kI3Jlc291cmNlcykgZm9yIHRoZSBleGFjdCBIVE1MLg==-->
 <!--te-mock--><div class="te-mock te-mock--pb"><div class="te-mock__hd"><span>‹ AI HTML Generator | PapaThemes</span><span class="te-x">⋯</span></div><div class="te-mock__grp">▾ Content</div><div class="te-pbbox"><span class="k">&lt;style&gt;</span><br><span class="s">.papathemes-ai-widget-…</span> { … }<br>…your HTML…<br><span class="k">&lt;/style&gt;</span></div><div class="te-pbbtns"><span class="te-btn-ghost">Expand HTML Editor</span><span class="te-save te-save--full">Save HTML</span></div><div class="te-mock__row"><span class="te-cb"></span><span class="te-lbl">Show in container div</span></div></div>
 
@@ -1668,6 +1688,8 @@ A Page Builder **AI HTML Generator | PapaThemes** widget placed in the region **
 
 **Show Newsletter** (`eshopping-show-newsletter`) is on. The variation sets the heading **Stay Ahead in *Tech*** with the description "Product launches, exclusive deals, and expert reviews delivered weekly."
 
+![Newsletter on the storefront](../img/electronics-newsletter.png){ loading=lazy }
+
 <!--te-src:PiAqKkN1c3RvbWl6ZSAoc2hvdy9oaWRlKToqKiBUaGVtZSBFZGl0b3Ig4oaSICoqZVNob3BwaW5nIFRoZW1lKiog4oaSICoqU2hvdyBOZXdzbGV0dGVyKiogKGBlc2hvcHBpbmctc2hvdy1uZXdzbGV0dGVyYCwgY2hlY2tib3gpLiBEZWZhdWx0OiBvbi4=-->
 <!--te-src:PiAqKkN1c3RvbWl6ZSAoaGVhZGluZyArIGRlc2NyaXB0aW9uKToqKiBUaGVtZSBFZGl0b3Ig4oaSICoqZVNob3BwaW5nIFRoZW1lKiog4oaSICoqTmV3c2xldHRlciBTaWdudXAgVGV4dCoqIChgZXNob3BwaW5nLW5ld3NsZXR0ZXItdGV4dGApLiBGb3JtYXQ6IGBUaXRsZXxEZXNjcmlwdGlvbmAsIHR3byBgfGAtc2VwYXJhdGVkIHNlZ21lbnRzIOKAlCB0aGUgKip0aXRsZSBzdXBwb3J0cyBpbmxpbmUgSFRNTCoqIChlLmcuIGA8ZW0+4oCmPC9lbT5gKS4gVGhlbWUgZGVmYXVsdDogYFN0YXkgVXBkYXRlZCB3aXRoIDxlbT5PdXIgTmV3c2xldHRlcjwvZW0+fFByb2R1Y3QgbGF1bmNoZXMsIGZpZWxkIHRpcHMsIGFuZCBleGNsdXNpdmUgb2ZmZXJzIGluIHlvdXIgaW5ib3guYC4=-->
 <!--te-mock--><div class="te-mock"><div class="te-mock__hd"><span>eShopping Theme</span><span class="te-x">✕</span></div><div class="te-mock__row"><span class="te-lbl">Show Newsletter</span><span class="te-cb is-on"></span></div><div class="te-mock__row"><span class="te-lbl">Newsletter Signup Text</span><span class="te-tx te-tx--ph">Enter text…</span></div><div class="te-mock__row"><span class="te-lbl">title supports inline HTML</span><span class="te-tx te-tx--ph">Enter text…</span></div></div>
@@ -1675,6 +1697,8 @@ A Page Builder **AI HTML Generator | PapaThemes** widget placed in the region **
 ### 18. About (AI HTML Generator | PapaThemes)
 
 A Page Builder **AI HTML Generator | PapaThemes** widget placed in the region **`home_below_newsletter` (sort 0)**, with the heading **Your Complete Consumer Electronics Source.** Like the blocks above, it comes from the demo widget import — not a theme setting — and requires the PapaThemes app.
+
+![About block on the storefront](../img/electronics-about.png){ loading=lazy }
 
 <!--te-src:PiAqKkN1c3RvbWl6ZToqKiBQYWdlIEJ1aWxkZXIg4oaSIGNsaWNrIHRoZSBibG9jayDihpIgKipIVE1MIENvbnRlbnQqKiBmaWVsZC4gU2VlIFtEZW1vIG1hcmtldGluZyBibG9ja3Mg4oaSIEFib3V0XSh3aWRnZXRzLXBhcGF0aGVtZXMubWQjYWJvdXQpIGZvciB0aGUgZXhhY3QgSFRNTC4=-->
 <!--te-mock--><div class="te-mock te-mock--pb"><div class="te-mock__hd"><span>‹ AI HTML Generator | PapaThemes</span><span class="te-x">⋯</span></div><div class="te-mock__grp">▾ Content</div><div class="te-pbbox"><span class="k">&lt;style&gt;</span><br><span class="s">.papathemes-ai-widget-…</span> { … }<br>…your HTML…<br><span class="k">&lt;/style&gt;</span></div><div class="te-pbbtns"><span class="te-btn-ghost">Expand HTML Editor</span><span class="te-save te-save--full">Save HTML</span></div><div class="te-mock__row"><span class="te-cb"></span><span class="te-lbl">Show in container div</span></div></div>
@@ -1764,6 +1788,8 @@ A Page Builder **AI HTML Generator | PapaThemes** widget placed in the region **
 ### 19. Talk to an Expert (AI HTML Generator | PapaThemes)
 
 A Page Builder **AI HTML Generator | PapaThemes** widget placed in the region **`home_below_newsletter` (sort 1)**, a contact-CTA block with the heading **Need help choosing tech? Talk to a Tech Specialist.** It comes from the demo widget import (not a theme setting) and requires the PapaThemes app.
+
+![Talk to an Expert block on the storefront](../img/electronics-expert.png){ loading=lazy }
 
 <!--te-src:PiAqKkN1c3RvbWl6ZToqKiBQYWdlIEJ1aWxkZXIg4oaSIGNsaWNrIHRoZSBibG9jayDihpIgKipIVE1MIENvbnRlbnQqKiBmaWVsZC4gU2VlIFtEZW1vIG1hcmtldGluZyBibG9ja3Mg4oaSIFRhbGsgdG8gYW4gRXhwZXJ0XSh3aWRnZXRzLXBhcGF0aGVtZXMubWQjdGFsay10by1hbi1leHBlcnQpIGZvciB0aGUgZXhhY3QgSFRNTC4=-->
 <!--te-mock--><div class="te-mock te-mock--pb"><div class="te-mock__hd"><span>‹ AI HTML Generator | PapaThemes</span><span class="te-x">⋯</span></div><div class="te-mock__grp">▾ Content</div><div class="te-pbbox"><span class="k">&lt;style&gt;</span><br><span class="s">.papathemes-ai-widget-…</span> { … }<br>…your HTML…<br><span class="k">&lt;/style&gt;</span></div><div class="te-pbbtns"><span class="te-btn-ghost">Expand HTML Editor</span><span class="te-save te-save--full">Save HTML</span></div><div class="te-mock__row"><span class="te-cb"></span><span class="te-lbl">Show in container div</span></div></div>

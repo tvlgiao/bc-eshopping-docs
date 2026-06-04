@@ -102,6 +102,8 @@ The banner *content* (the message) comes from your BigCommerce control panel, no
 
 The built-in **Home Page Carousel** is enabled. The slides themselves come from the store's Home Page Carousel — the theme does not require a fixed slide size; use a wide landscape image (JPG or WebP, e.g. ~1920 × 700) and keep all slides the same dimensions.
 
+![Hero on the storefront](../img/autoparts-hero.png){ loading=lazy }
+
 <!--te-src:PiAqKkN1c3RvbWl6ZSAoc2xpZGVzKToqKiBCaWdDb21tZXJjZSBhZG1pbiDihpIgKipTdG9yZWZyb250IOKGkiBIb21lIFBhZ2UgQ2Fyb3VzZWwqKi4gQWRkL2VkaXQvcmVvcmRlciBzbGlkZXMsIGltYWdlcywgaGVhZGluZ3MsIGFuZCBidXR0b24gbGlua3MgdGhlcmUuIChOb3QgYSB0aGVtZSBzZXR0aW5nLik=-->
 <!--te-src:PiAqKkN1c3RvbWl6ZSAoY2Fyb3VzZWwgYmVoYXZpb3VyKToqKiBUaGVtZSBFZGl0b3Ig4oaSICpIb21lIFBhZ2UqIChzdGFuZGFyZCBDb3JuZXJzdG9uZSBwYW5lbCkg4oaSICoqU2hvdyBjYXJvdXNlbCoqIChpZCBgaG9tZXBhZ2Vfc2hvd19jYXJvdXNlbGAsIGRlZmF1bHQgYE9uYCksICoqU2hvdyBDYXJvdXNlbCBBcnJvd3MqKiAoaWQgYGhvbWVwYWdlX3Nob3dfY2Fyb3VzZWxfYXJyb3dzYCwgZGVmYXVsdCBgT25gKSwgKipTaG93IENhcm91c2VsIFBsYXkvUGF1c2UgQnV0dG9uKiogKGlkIGBob21lcGFnZV9zaG93X2Nhcm91c2VsX3BsYXlfcGF1c2VfYnV0dG9uYCwgZGVmYXVsdCBgT25gKSwgcGx1cyB0aGUgY2Fyb3VzZWwgY29sb3IgZmllbGRzIChgY2Fyb3VzZWwtdGl0bGUtY29sb3JgLCBgY2Fyb3VzZWwtYXJyb3ctY29sb3JgLCBgY2Fyb3VzZWwtZG90LWNvbG9yYCwg4oCmKS4gRm9ybWF0OiBvbi9vZmYgdG9nZ2xlcyArIGhleCBjb2xvcnMu-->
 <!--te-mock--><div class="te-mock te-nav"><div class="te-nav__brand">BigCommerce admin</div><div class="te-nav__top"><span>Home</span></div><div class="te-nav__top"><span>Orders</span></div><div class="te-nav__top"><span>Products</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top"><span>Customers</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top is-open"><span>Storefront</span><span class="te-nav__chev">⌃</span></div><div class="te-nav__sub">Themes</div><div class="te-nav__sub">Logo</div><div class="te-nav__sub is-active">Home page carousel</div><div class="te-nav__sub">Social media links</div><div class="te-nav__sub">Script manager</div><div class="te-nav__sub">Web pages</div><div class="te-nav__sub">Blog</div><div class="te-nav__sub">Image manager</div><div class="te-nav__top"><span>Marketing</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top"><span>Analytics</span></div><div class="te-nav__top"><span>Settings</span><span class="te-nav__chev">⌄</span></div></div>
@@ -130,6 +132,8 @@ The built-in **Home Page Carousel** is enabled. The slides themselves come from 
 | Free Returns | Easy 30-day return policy |
 | Expert Support | ASE-certified advisors available |
 
+![Trust strip on the storefront](../img/autoparts-trust.png){ loading=lazy }
+
 <!--te-src:PiAqKkN1c3RvbWl6ZSAoc2hvdy9oaWRlKToqKiBUaGVtZSBFZGl0b3Ig4oaSICplU2hvcHBpbmcgVGhlbWUg4oaSIEhvbWVwYWdlIFNlY3Rpb25zKiDihpIgKipTaG93IFRydXN0IFN0cmlwKiogKGlkIGBlc2hvcHBpbmctc2hvdy10cnVzdC1zdHJpcGApLiBGb3JtYXQ6IG9uL29mZi4gRGVmYXVsdDogYE9uYC4=-->
 <!--te-src:PiAqKkN1c3RvbWl6ZSAoaXRlbXMpOioqIFRoZW1lIEVkaXRvciDihpIgKmVTaG9wcGluZyBUaGVtZSDihpIgVHJ1c3QgU3RyaXAqIOKGkiAqKlRydXN0IFN0cmlwIEl0ZW1zKiogKGlkIGBlc2hvcHBpbmctdHJ1c3QtdGV4dGApLiBUaGUgc3RyaXAgYWx3YXlzIHNob3dzIGV4YWN0bHkgKio0IGZpeGVkIGljb25zKio7IHRoZSB0ZXh0IGNvbWVzIGZyb20gdGhpcyBmaWVsZCBhcyAqKjQgdGl0bGUvZGVzY3JpcHRpb24gcGFpcnMqKiA9IDggcGlwZS1zZXBhcmF0ZWQgc2VnbWVudHMgaW4gb3JkZXIgYFRpdGxlMXxEZXNjMXxUaXRsZTJ8RGVzYzJ8VGl0bGUzfERlc2MzfFRpdGxlNHxEZXNjNGAuIERlZmF1bHQgKEF1dG9QYXJ0cyk6IGBPRU0gUXVhbGl0eSBQYXJ0c3xHZW51aW5lICYgYWZ0ZXJtYXJrZXQgcGFydHMgeW91IGNhbiB0cnVzdHxGYXN0IFNoaXBwaW5nfFNhbWUtZGF5IGRpc3BhdGNoIG9uIGluLXN0b2NrIGl0ZW1zfEZyZWUgUmV0dXJuc3xFYXN5IDMwLWRheSByZXR1cm4gcG9saWN5fEV4cGVydCBTdXBwb3J0fEFTRS1jZXJ0aWZpZWQgYWR2aXNvcnMgYXZhaWxhYmxlYC4=-->
 <!--te-mock--><div class="te-mock"><div class="te-mock__hd"><span>eShopping Theme</span><span class="te-x">✕</span></div><div class="te-mock__grp">Homepage Sections</div><div class="te-mock__row"><span class="te-lbl">Show Trust Strip</span><span class="te-cb is-on"></span></div><div class="te-mock__grp">Trust Strip</div><div class="te-mock__row"><span class="te-lbl">Trust Strip Items</span><span class="te-tx te-tx--ph">Enter text…</span></div><div class="te-mock__row"><span class="te-lbl">4 fixed icons</span><span class="te-tx te-tx--ph">Enter text…</span></div><div class="te-mock__row"><span class="te-lbl">4 title/description pairs</span><span class="te-tx te-tx--ph">Enter text…</span></div></div>
@@ -137,6 +141,8 @@ The built-in **Home Page Carousel** is enabled. The slides themselves come from 
 ### 8. Featured Products
 
 eShopping Theme → Homepage Sections → **Show Featured Products** is on. The slider shows products you flag as *Featured* in BigCommerce.
+
+![Featured Products on the storefront](../img/autoparts-featured.png){ loading=lazy }
 
 <!--te-src:PiAqKkN1c3RvbWl6ZSAoc2hvdy9oaWRlKToqKiBUaGVtZSBFZGl0b3Ig4oaSICplU2hvcHBpbmcgVGhlbWUg4oaSIEhvbWVwYWdlIFNlY3Rpb25zKiDihpIgKipTaG93IEZlYXR1cmVkIFByb2R1Y3RzKiogKGlkIGBlc2hvcHBpbmctc2hvdy1mZWF0dXJlZGApLiBGb3JtYXQ6IG9uL29mZi4gRGVmYXVsdDogYE9uYC4=-->
 <!--te-src:PiAqKkN1c3RvbWl6ZSAoY291bnQpOioqIFRoZW1lIEVkaXRvciDihpIgKkhvbWUgUGFnZSogKHN0YW5kYXJkIENvcm5lcnN0b25lIHBhbmVsKSDihpIgKipOdW1iZXIgb2YgRmVhdHVyZWQgUHJvZHVjdHMqKiAoaWQgYGhvbWVwYWdlX2ZlYXR1cmVkX3Byb2R1Y3RzX2NvdW50YCkuIEZvcm1hdDogc2VsZWN0Lg==-->
@@ -148,6 +154,8 @@ eShopping Theme → Homepage Sections → **Show Featured Products** is on. The 
 ### 9. New Arrivals
 
 eShopping Theme → Homepage Sections → **Show New Arrivals** is on. Recently added products render here automatically.
+
+![New Arrivals on the storefront](../img/autoparts-new.png){ loading=lazy }
 
 <!--te-src:PiAqKkN1c3RvbWl6ZSAoc2hvdy9oaWRlKToqKiBUaGVtZSBFZGl0b3Ig4oaSICplU2hvcHBpbmcgVGhlbWUg4oaSIEhvbWVwYWdlIFNlY3Rpb25zKiDihpIgKipTaG93IE5ldyBBcnJpdmFscyoqIChpZCBgZXNob3BwaW5nLXNob3ctbmV3YCkuIEZvcm1hdDogb24vb2ZmLiBEZWZhdWx0OiBgT25gLg==-->
 <!--te-src:PiAqKkN1c3RvbWl6ZSAoY291bnQpOioqIFRoZW1lIEVkaXRvciDihpIgKkhvbWUgUGFnZSog4oaSICoqTnVtYmVyIG9mIE5ldyBQcm9kdWN0cyoqIChpZCBgaG9tZXBhZ2VfbmV3X3Byb2R1Y3RzX2NvdW50YCkuIEZvcm1hdDogc2VsZWN0Lg==-->
@@ -173,6 +181,8 @@ eShopping Theme → Homepage Sections → **Show New Arrivals** is on. Recently 
 !!! note "Category IDs left empty on purpose"
     With no IDs entered, the section automatically pulls top-level categories — no need to look up or type any IDs.
 
+![Products by Category on the storefront](../img/autoparts-pbc.png){ loading=lazy }
+
 <!--te-src:PiAqKkN1c3RvbWl6ZSAoc2hvdy9oaWRlKToqKiBUaGVtZSBFZGl0b3Ig4oaSICplU2hvcHBpbmcgVGhlbWUg4oaSIEhvbWVwYWdlIFNlY3Rpb25zKiDihpIgKipTaG93IENhdGVnb3JpZXMqKiAoaWQgYGVzaG9wcGluZy1zaG93LWNhdGVnb3JpZXNgKS4gRm9ybWF0OiBvbi9vZmYuIERlZmF1bHQ6IGBPbmAu-->
 <!--te-src:PiAqKkN1c3RvbWl6ZSAod2hpY2ggY2F0ZWdvcmllcyk6KiogVGhlbWUgRWRpdG9yIOKGkiAqZVNob3BwaW5nIFRoZW1lIOKGkiBQcm9kdWN0cyBieSBDYXRlZ29yeSog4oaSICoqQ2F0ZWdvcnkgSURzIChjb21tYSBzZXBhcmF0ZWQsIGxlYXZlIGVtcHR5IGZvciBhdXRvLWRldGVjdCkqKiAoaWQgYGVzaG9wcGluZy1wYmNzdC1jYXRJRHNgKS4gRm9ybWF0OiBjb21tYS1zZXBhcmF0ZWQgY2F0ZWdvcnkgSURzOyBlbXB0eSA9IGF1dG8tZGV0ZWN0LiBEZWZhdWx0OiAqKGVtcHR5KSou-->
 <!--te-src:PiAqKkN1c3RvbWl6ZSAoZ3JpZCk6Kiogc2FtZSBzZWN0aW9uIOKGkiAqKkdyaWQgbGF5b3V0OiBjYXRlZ29yaWVzLHByb2R1Y3RzLHN1YmNhdGVnb3JpZXMgKGUuZy4gMyw0LDYpKiogKGlkIGBlc2hvcHBpbmctcGJjc3QtZ3JpZGApLiBGb3JtYXQ6IHRocmVlIGNvbW1hLXNlcGFyYXRlZCBudW1iZXJzIGBkLHQsc2AgPSBudW1iZXIgb2YgKipjYXRlZ29yaWVzICh0YWJzKSoqLCAqKnByb2R1Y3RzIHBlciBjYXRlZ29yeSoqLCBhbmQgKipzdWJjYXRlZ29yaWVzKiogc2hvd24uIERlZmF1bHQ6IGAzLDQsNmAu-->
@@ -183,6 +193,8 @@ eShopping Theme → Homepage Sections → **Show New Arrivals** is on. Recently 
 ### 12. Why Choose Us — marketing block (Page Builder)
 
 Below the Products-by-Category section, the value-prop callout — heading *"Auto Parts That Fit. Pricing That Drives."* with an eyebrow *"Why Choose Us"* and feature cards (Verified Fitment, Fast Bulk Fulfillment, OEM & Performance). This is an **AI HTML Generator | PapaThemes** widget, not a theme setting.
+
+![Why Choose Us block on the storefront](../img/autoparts-why.png){ loading=lazy }
 
 <!--te-src:PiAqKkN1c3RvbWl6ZToqKiBQYWdlIEJ1aWxkZXIgKCoqU3RvcmVmcm9udCDihpIgTXkgVGhlbWVzIOKGkiBDdXN0b21pemUqKikg4oaSIGNsaWNrIHRoZSBibG9jayDihpIgZWRpdCB0aGUgKipIVE1MIENvbnRlbnQqKiBmaWVsZCAod2lkZ2V0IHNjaGVtYSBpZCBgY29udGVudGAsIHR5cGUgYGNvZGVgL2h0bWwpIOKGkiAqKlNhdmUqKi4gU2VlIFtXaHkgQ2hvb3NlIFVzXSh3aWRnZXRzLXBhcGF0aGVtZXMubWQjd2h5LWNob29zZS11cykgZm9yIGEgY2xlYW4gY29weS1wYXN0ZSB0ZW1wbGF0ZSBhbmQgdGhlIHZlcmJhdGltIGRlbW8gSFRNTC4gUmVnaW9uIMK3IHNvcnQ6IGBob21lX2JlbG93X3Byb2R1Y3RzX2J5X2NhdGVnb3J5YCDCtyAwLg==-->
 <!--te-mock--><div class="te-mock te-mock--pb"><div class="te-mock__hd"><span>‹ AI HTML Generator | PapaThemes</span><span class="te-x">⋯</span></div><div class="te-mock__grp">▾ Content</div><div class="te-pbbox"><span class="k">&lt;style&gt;</span><br><span class="s">.papathemes-ai-widget-…</span> { … }<br>…your HTML…<br><span class="k">&lt;/style&gt;</span></div><div class="te-pbbtns"><span class="te-btn-ghost">Expand HTML Editor</span><span class="te-save te-save--full">Save HTML</span></div><div class="te-mock__row"><span class="te-cb"></span><span class="te-lbl">Show in container div</span></div></div>
@@ -496,6 +508,8 @@ Below the Products-by-Category section, the value-prop callout — heading *"Aut
 ### 13. Customer Reviews — marketing block (Page Builder)
 
 The social-proof block (heading *"Customer Reviews"*) sits directly below Why Choose Us. Also an **AI HTML Generator | PapaThemes** widget.
+
+![Customer Reviews block on the storefront](../img/autoparts-reviews.png){ loading=lazy }
 
 <!--te-src:PiAqKkN1c3RvbWl6ZToqKiBQYWdlIEJ1aWxkZXIg4oaSIGNsaWNrIHRoZSBibG9jayDihpIgKipIVE1MIENvbnRlbnQqKiBmaWVsZCDihpIgKipTYXZlKiouIFNlZSBbQ3VzdG9tZXIgUmV2aWV3c10od2lkZ2V0cy1wYXBhdGhlbWVzLm1kI2N1c3RvbWVyLXJldmlld3MpIGZvciB0aGUgZXhhY3QgSFRNTC4gUmVnaW9uIMK3IHNvcnQ6IGBob21lX2JlbG93X3Byb2R1Y3RzX2J5X2NhdGVnb3J5YCDCtyAxLg==-->
 <!--te-mock--><div class="te-mock te-mock--pb"><div class="te-mock__hd"><span>‹ AI HTML Generator | PapaThemes</span><span class="te-x">⋯</span></div><div class="te-mock__grp">▾ Content</div><div class="te-pbbox"><span class="k">&lt;style&gt;</span><br><span class="s">.papathemes-ai-widget-…</span> { … }<br>…your HTML…<br><span class="k">&lt;/style&gt;</span></div><div class="te-pbbtns"><span class="te-btn-ghost">Expand HTML Editor</span><span class="te-save te-save--full">Save HTML</span></div><div class="te-mock__row"><span class="te-cb"></span><span class="te-lbl">Show in container div</span></div></div>
@@ -1358,6 +1372,8 @@ The social-proof block (heading *"Customer Reviews"*) sits directly below Why Ch
 
 The guide-cards block (heading *"Auto Parts Resources & Guides"*, with cards *How to Find the Right Fitment*, *OEM vs Aftermarket: When to Choose*, *DIY Repair Safety & Tools*) follows Customer Reviews. Also an **AI HTML Generator | PapaThemes** widget.
 
+![Resources block on the storefront](../img/autoparts-resources.png){ loading=lazy }
+
 <!--te-src:PiAqKkN1c3RvbWl6ZToqKiBQYWdlIEJ1aWxkZXIg4oaSIGNsaWNrIHRoZSBibG9jayDihpIgKipIVE1MIENvbnRlbnQqKiBmaWVsZCDihpIgKipTYXZlKiouIFNlZSBbUmVzb3VyY2VzXSh3aWRnZXRzLXBhcGF0aGVtZXMubWQjcmVzb3VyY2VzKSBmb3IgdGhlIGV4YWN0IEhUTUwuIFJlZ2lvbiDCtyBzb3J0OiBgaG9tZV9iZWxvd19wcm9kdWN0c19ieV9jYXRlZ29yeWAgwrcgMi4=-->
 <!--te-mock--><div class="te-mock te-mock--pb"><div class="te-mock__hd"><span>‹ AI HTML Generator | PapaThemes</span><span class="te-x">⋯</span></div><div class="te-mock__grp">▾ Content</div><div class="te-pbbox"><span class="k">&lt;style&gt;</span><br><span class="s">.papathemes-ai-widget-…</span> { … }<br>…your HTML…<br><span class="k">&lt;/style&gt;</span></div><div class="te-pbbtns"><span class="te-btn-ghost">Expand HTML Editor</span><span class="te-save te-save--full">Save HTML</span></div><div class="te-mock__row"><span class="te-cb"></span><span class="te-lbl">Show in container div</span></div></div>
 
@@ -1668,6 +1684,8 @@ The guide-cards block (heading *"Auto Parts Resources & Guides"*, with cards *Ho
 
 eShopping Theme → Homepage Sections → **Homepage Brands Limit**: `12`. Square / transparent-PNG logos at a consistent size sit evenly in the carousel.
 
+![Brands carousel on the storefront](../img/autoparts-brands.png){ loading=lazy }
+
 <!--te-src:PiAqKkN1c3RvbWl6ZSAobGltaXQpOioqIFRoZW1lIEVkaXRvciDihpIgKmVTaG9wcGluZyBUaGVtZSDihpIgSG9tZXBhZ2UgU2VjdGlvbnMqIOKGkiAqKkhvbWVwYWdlIEJyYW5kcyBMaW1pdCoqIChpZCBgZXNob3BwaW5nLWhvbWVwYWdlLWJyYW5kcy1saW1pdGApLiBGb3JtYXQ6IG51bWJlciAobWF4IGJyYW5kcyBzaG93bikuIERlZmF1bHQ6IGAxMmAu-->
 <!--te-src:PiAqKkN1c3RvbWl6ZSAobG9nb3MpOioqIEJpZ0NvbW1lcmNlIGFkbWluIOKGkiAqKkNhdGFsb2cg4oaSIEJyYW5kcyoqLiBBZGQgYnJhbmRzIGFuZCB1cGxvYWQgZWFjaCBicmFuZCdzIGxvZ28gaW1hZ2UgdGhlcmUuIChOb3QgYSB0aGVtZSBzZXR0aW5nLik=-->
 <!--te-mock--><div class="te-mock"><div class="te-mock__hd"><span>eShopping Theme</span><span class="te-x">✕</span></div><div class="te-mock__grp">Homepage Sections</div><div class="te-mock__row"><span class="te-lbl">Homepage Brands Limit</span><span class="te-dd"><span class="te-dd__v">12</span><span class="te-dd__b">▾</span></span></div></div>
@@ -1676,6 +1694,8 @@ eShopping Theme → Homepage Sections → **Homepage Brands Limit**: `12`. Squar
 ### 16. Blog posts
 
 Blog posts count: `3`. Posts come from **Storefront → Blog**.
+
+![Blog posts on the storefront](../img/autoparts-blog.png){ loading=lazy }
 
 <!--te-src:PiAqKkN1c3RvbWl6ZSAocG9zdHMpOioqIEJpZ0NvbW1lcmNlIGFkbWluIOKGkiAqKlN0b3JlZnJvbnQg4oaSIEJsb2cqKi4gV3JpdGUvcHVibGlzaCBwb3N0cyB0aGVyZS4gKE5vdCBhIHRoZW1lIHNldHRpbmcuKQ==-->
 <!--te-mock--><div class="te-mock te-nav"><div class="te-nav__brand">BigCommerce admin</div><div class="te-nav__top"><span>Home</span></div><div class="te-nav__top"><span>Orders</span></div><div class="te-nav__top"><span>Products</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top"><span>Customers</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top is-open"><span>Storefront</span><span class="te-nav__chev">⌃</span></div><div class="te-nav__sub">Themes</div><div class="te-nav__sub">Logo</div><div class="te-nav__sub">Home page carousel</div><div class="te-nav__sub">Social media links</div><div class="te-nav__sub">Script manager</div><div class="te-nav__sub">Web pages</div><div class="te-nav__sub is-active">Blog</div><div class="te-nav__sub">Image manager</div><div class="te-nav__top"><span>Marketing</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top"><span>Analytics</span></div><div class="te-nav__top"><span>Settings</span><span class="te-nav__chev">⌄</span></div></div>
@@ -1689,6 +1709,8 @@ Blog posts count: `3`. Posts come from **Storefront → Blog**.
 
 The signup writes to **Customers → Subscribers**.
 
+![Newsletter on the storefront](../img/autoparts-newsletter.png){ loading=lazy }
+
 <!--te-src:PiAqKkN1c3RvbWl6ZSAoc2hvdy9oaWRlKToqKiBUaGVtZSBFZGl0b3Ig4oaSICplU2hvcHBpbmcgVGhlbWUg4oaSIEhvbWVwYWdlIFNlY3Rpb25zKiDihpIgKipTaG93IE5ld3NsZXR0ZXIqKiAoaWQgYGVzaG9wcGluZy1zaG93LW5ld3NsZXR0ZXJgKS4gRm9ybWF0OiBvbi9vZmYuIERlZmF1bHQ6IGBPbmAuIChBbHNvIHJlcXVpcmVzIHRoZSBzdG9yZS1sZXZlbCAqU2hvdyBuZXdzbGV0dGVyKiBzZXR0aW5nIHRvIGJlIG9uLik=-->
 <!--te-src:PiAqKkN1c3RvbWl6ZSAodGV4dCk6Kiogc2FtZSBzZWN0aW9uIOKGkiAqKk5ld3NsZXR0ZXIgU2lnbnVwIFRleHQqKiAoaWQgYGVzaG9wcGluZy1uZXdzbGV0dGVyLXRleHRgKS4gRm9ybWF0OiBgSGVhZGluZ3xEZXNjcmlwdGlvbmAsIHNwbGl0IG9uIGEgc2luZ2xlIGB8YC4gVGhlICoqaGVhZGluZyBzdXBwb3J0cyBpbmxpbmUgSFRNTCoqIChlLmcuIGA8ZW0+4oCmPC9lbT5gKTsgdGhlIGRlc2NyaXB0aW9uIGlzIHBsYWluIHRleHQuIERlZmF1bHQgKEF1dG9QYXJ0cyk6IGBHZXQgPGVtPlBhcnRzIFVwZGF0ZXM8L2VtPiAmIERlYWxzfE5ldyBhcnJpdmFscywgZml0bWVudCBndWlkZXMsIGFuZCBleGNsdXNpdmUgZGlzY291bnRzIGRlbGl2ZXJlZCB3ZWVrbHkuYA==-->
 <!--te-mock--><div class="te-mock"><div class="te-mock__hd"><span>eShopping Theme</span><span class="te-x">✕</span></div><div class="te-mock__grp">Homepage Sections</div><div class="te-mock__row"><span class="te-lbl">Show Newsletter</span><span class="te-cb is-on"></span></div><div class="te-mock__row"><span class="te-lbl">heading supports inline HTML</span><span class="te-tx">Get &lt;em&gt;Parts Updates&lt;/em&gt; &amp; Deals|N…</span></div></div>
@@ -1696,6 +1718,8 @@ The signup writes to **Customers → Subscribers**.
 ### 18. About — marketing block (Page Builder)
 
 Below the Newsletter, the SEO intro block (heading *"Your Complete Auto Parts Source"*). An **AI HTML Generator | PapaThemes** widget.
+
+![About block on the storefront](../img/autoparts-about.png){ loading=lazy }
 
 <!--te-src:PiAqKkN1c3RvbWl6ZToqKiBQYWdlIEJ1aWxkZXIg4oaSIGNsaWNrIHRoZSBibG9jayDihpIgKipIVE1MIENvbnRlbnQqKiBmaWVsZCDihpIgKipTYXZlKiouIFNlZSBbQWJvdXRdKHdpZGdldHMtcGFwYXRoZW1lcy5tZCNhYm91dCkgZm9yIHRoZSBleGFjdCBIVE1MLiBSZWdpb24gwrcgc29ydDogYGhvbWVfYmVsb3dfbmV3c2xldHRlcmAgwrcgMC4=-->
 <!--te-mock--><div class="te-mock te-mock--pb"><div class="te-mock__hd"><span>‹ AI HTML Generator | PapaThemes</span><span class="te-x">⋯</span></div><div class="te-mock__grp">▾ Content</div><div class="te-pbbox"><span class="k">&lt;style&gt;</span><br><span class="s">.papathemes-ai-widget-…</span> { … }<br>…your HTML…<br><span class="k">&lt;/style&gt;</span></div><div class="te-pbbtns"><span class="te-btn-ghost">Expand HTML Editor</span><span class="te-save te-save--full">Save HTML</span></div><div class="te-mock__row"><span class="te-cb"></span><span class="te-lbl">Show in container div</span></div></div>
@@ -1785,6 +1809,8 @@ Below the Newsletter, the SEO intro block (heading *"Your Complete Auto Parts So
 ### 19. Talk to an Expert — marketing block (Page Builder)
 
 Directly below About, the contact CTA (heading *"Need help finding the right part? Talk to an Auto Parts Specialist"*). An **AI HTML Generator | PapaThemes** widget.
+
+![Talk to an Expert block on the storefront](../img/autoparts-expert.png){ loading=lazy }
 
 <!--te-src:PiAqKkN1c3RvbWl6ZToqKiBQYWdlIEJ1aWxkZXIg4oaSIGNsaWNrIHRoZSBibG9jayDihpIgKipIVE1MIENvbnRlbnQqKiBmaWVsZCDihpIgKipTYXZlKiouIFNlZSBbVGFsayB0byBhbiBFeHBlcnRdKHdpZGdldHMtcGFwYXRoZW1lcy5tZCN0YWxrLXRvLWFuLWV4cGVydCkgZm9yIHRoZSBleGFjdCBIVE1MLiBSZWdpb24gwrcgc29ydDogYGhvbWVfYmVsb3dfbmV3c2xldHRlcmAgwrcgMS4=-->
 <!--te-mock--><div class="te-mock te-mock--pb"><div class="te-mock__hd"><span>‹ AI HTML Generator | PapaThemes</span><span class="te-x">⋯</span></div><div class="te-mock__grp">▾ Content</div><div class="te-pbbox"><span class="k">&lt;style&gt;</span><br><span class="s">.papathemes-ai-widget-…</span> { … }<br>…your HTML…<br><span class="k">&lt;/style&gt;</span></div><div class="te-pbbtns"><span class="te-btn-ghost">Expand HTML Editor</span><span class="te-save te-save--full">Save HTML</span></div><div class="te-mock__row"><span class="te-cb"></span><span class="te-lbl">Show in container div</span></div></div>

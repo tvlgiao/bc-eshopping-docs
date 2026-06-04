@@ -82,6 +82,8 @@ The four typing phrases rotate in the search box placeholder.
 
 The hero is on. The slides themselves come from the store's **Storefront → Home Page Carousel** — upload your slide images there. The theme does not require a fixed slide size; use a wide landscape image (JPG or WebP) and keep all slides the same dimensions so they line up.
 
+![Hero on the storefront](../img/home-hero.png){ loading=lazy }
+
 <!--te-src:PiAqKkN1c3RvbWl6ZSAoc2xpZGVzKToqKiBCaWdDb21tZXJjZSBhZG1pbiDihpIgKipTdG9yZWZyb250IOKGkiBIb21lIFBhZ2UgQ2Fyb3VzZWwqKi4gQWRkL2VkaXQvcmVvcmRlciBzbGlkZXMsIGltYWdlcywgaGVhZGluZ3MsIGFuZCBidXR0b24gbGlua3MgdGhlcmUuIChOb3QgYSB0aGVtZSBzZXR0aW5nLik=-->
 <!--te-src:PiAqKkN1c3RvbWl6ZSAoY2Fyb3VzZWwgYmVoYXZpb3VyKToqKiBUaGVtZSBFZGl0b3Ig4oaSICpIb21lIFBhZ2UqIChzdGFuZGFyZCBDb3JuZXJzdG9uZSBwYW5lbCkg4oaSICoqU2hvdyBDYXJvdXNlbCoqIChpZCBgaG9tZXBhZ2Vfc2hvd19jYXJvdXNlbGAsIGRlZmF1bHQgYE9uYCksICoqU2hvdyBDYXJvdXNlbCBBcnJvd3MqKiAoaWQgYGhvbWVwYWdlX3Nob3dfY2Fyb3VzZWxfYXJyb3dzYCwgZGVmYXVsdCBgT25gKSwgKipTaG93IENhcm91c2VsIFBsYXkvUGF1c2UgQnV0dG9uKiogKGlkIGBob21lcGFnZV9zaG93X2Nhcm91c2VsX3BsYXlfcGF1c2VfYnV0dG9uYCwgZGVmYXVsdCBgT25gKSwgcGx1cyB0aGUgY2Fyb3VzZWwgY29sb3IgZmllbGRzIChgY2Fyb3VzZWwtdGl0bGUtY29sb3JgLCBgY2Fyb3VzZWwtYXJyb3ctY29sb3JgLCBgY2Fyb3VzZWwtZG90LWNvbG9yYCwg4oCmKS4gRm9ybWF0OiBvbi9vZmYgdG9nZ2xlcyArIGhleCBjb2xvcnMu-->
 <!--te-mock--><div class="te-mock te-nav"><div class="te-nav__brand">BigCommerce admin</div><div class="te-nav__top"><span>Home</span></div><div class="te-nav__top"><span>Orders</span></div><div class="te-nav__top"><span>Products</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top"><span>Customers</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top is-open"><span>Storefront</span><span class="te-nav__chev">⌃</span></div><div class="te-nav__sub">Themes</div><div class="te-nav__sub">Logo</div><div class="te-nav__sub is-active">Home page carousel</div><div class="te-nav__sub">Social media links</div><div class="te-nav__sub">Script manager</div><div class="te-nav__sub">Web pages</div><div class="te-nav__sub">Blog</div><div class="te-nav__sub">Image manager</div><div class="te-nav__top"><span>Marketing</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top"><span>Analytics</span></div><div class="te-nav__top"><span>Settings</span><span class="te-nav__chev">⌄</span></div></div>
@@ -107,6 +109,8 @@ The hero is on. The slides themselves come from the store's **Storefront → Hom
 | 4.8 Star Rating | Easy returns within 30 days |
 | Expert Support | Available Mon-Sat, 9am-6pm |
 
+![Trust strip on the storefront](../img/home-trust-strip.png){ loading=lazy }
+
 <!--te-src:PiAqKkN1c3RvbWl6ZSAoc2hvdy9oaWRlKToqKiBUaGVtZSBFZGl0b3Ig4oaSICplU2hvcHBpbmcgVGhlbWUg4oaSIEhvbWVwYWdlIFNlY3Rpb25zKiDihpIgKipTaG93IFRydXN0IFN0cmlwKiogKGlkIGBlc2hvcHBpbmctc2hvdy10cnVzdC1zdHJpcGApLiBGb3JtYXQ6IG9uL29mZi4gRGVmYXVsdDogYE9uYC4=-->
 <!--te-src:PiAqKkN1c3RvbWl6ZSAoaXRlbXMpOioqIFRoZW1lIEVkaXRvciDihpIgKmVTaG9wcGluZyBUaGVtZSDihpIgVHJ1c3QgU3RyaXAqIOKGkiAqKlRydXN0IFN0cmlwIEl0ZW1zKiogKGlkIGBlc2hvcHBpbmctdHJ1c3QtdGV4dGApLiBUaGUgc3RyaXAgYWx3YXlzIHNob3dzIGV4YWN0bHkgKio0IGZpeGVkIGljb25zKio7IHRoZSB0ZXh0IGNvbWVzIGZyb20gdGhpcyBmaWVsZCBhcyAqKjQgdGl0bGUvZGVzY3JpcHRpb24gcGFpcnMqKiA9IDggcGlwZS1zZXBhcmF0ZWQgc2VnbWVudHMgaW4gb3JkZXIgYFRpdGxlMXxEZXNjMXxUaXRsZTJ8RGVzYzJ8VGl0bGUzfERlc2MzfFRpdGxlNHxEZXNjNGAuIERlZmF1bHQgKEluZHVzdHJpYWwpOiBgTWFkZSBpbiBVU0F8RmFzdCAmIHJlbGlhYmxlIHNoaXBwaW5nIG9uIGFsbCBvcmRlcnN8RnJlZSBTaGlwcGluZ3xTaG9wIHdpdGggY29uZmlkZW5jZSwgZ3VhcmFudGVlZHw0LjggU3RhciBSYXRpbmd8RWFzeSByZXR1cm5zIHdpdGhpbiAzMCBkYXlzfEV4cGVydCBTdXBwb3J0fEF2YWlsYWJsZSBNb24tU2F0LCA5YW0tNnBtYC4=-->
 <!--te-mock--><div class="te-mock"><div class="te-mock__hd"><span>eShopping Theme</span><span class="te-x">✕</span></div><div class="te-mock__grp">Homepage Sections</div><div class="te-mock__row"><span class="te-lbl">Show Trust Strip</span><span class="te-cb is-on"></span></div><div class="te-mock__grp">Trust Strip</div><div class="te-mock__row"><span class="te-lbl">Trust Strip Items</span><span class="te-tx te-tx--ph">Enter text…</span></div><div class="te-mock__row"><span class="te-lbl">4 fixed icons</span><span class="te-tx te-tx--ph">Enter text…</span></div><div class="te-mock__row"><span class="te-lbl">4 title/description pairs</span><span class="te-tx te-tx--ph">Enter text…</span></div></div>
@@ -116,6 +120,8 @@ The hero is on. The slides themselves come from the store's **Storefront → Hom
 <!--te-lead:ZVNob3BwaW5nIFRoZW1lIOKGkiBIb21lcGFnZSBTZWN0aW9ucyDihpIgKipTaG93IEZlYXR1cmVkIFByb2R1Y3RzKiogaXMgb24u-->
 
 In **Catalog → Products** mark products as **Featured** — they auto-render in the slider.
+
+![Featured Products on the storefront](../img/home-featured.png){ loading=lazy }
 
 <!--te-src:PiAqKkN1c3RvbWl6ZSAoc2hvdy9oaWRlKToqKiBUaGVtZSBFZGl0b3Ig4oaSICplU2hvcHBpbmcgVGhlbWUg4oaSIEhvbWVwYWdlIFNlY3Rpb25zKiDihpIgKipTaG93IEZlYXR1cmVkIFByb2R1Y3RzKiogKGlkIGBlc2hvcHBpbmctc2hvdy1mZWF0dXJlZGApLiBGb3JtYXQ6IG9uL29mZi4gRGVmYXVsdDogYE9uYC4=-->
 <!--te-src:PiAqKkN1c3RvbWl6ZSAoY291bnQpOioqIFRoZW1lIEVkaXRvciDihpIgKkhvbWUgUGFnZSogKHN0YW5kYXJkIENvcm5lcnN0b25lIHBhbmVsKSDihpIgKipOdW1iZXIgb2YgRmVhdHVyZWQgUHJvZHVjdHMqKiAoaWQgYGhvbWVwYWdlX2ZlYXR1cmVkX3Byb2R1Y3RzX2NvdW50YCkuIEZvcm1hdDogc2VsZWN0Lg==-->
@@ -127,6 +133,8 @@ In **Catalog → Products** mark products as **Featured** — they auto-render i
 ### 8. New Arrivals
 
 eShopping Theme → Homepage Sections → **Show New Arrivals** is on. Recently added products render here automatically.
+
+![New Arrivals on the storefront](../img/industrial-new.png){ loading=lazy }
 
 <!--te-src:PiAqKkN1c3RvbWl6ZSAoc2hvdy9oaWRlKToqKiBUaGVtZSBFZGl0b3Ig4oaSICplU2hvcHBpbmcgVGhlbWUg4oaSIEhvbWVwYWdlIFNlY3Rpb25zKiDihpIgKipTaG93IE5ldyBBcnJpdmFscyoqIChpZCBgZXNob3BwaW5nLXNob3ctbmV3YCkuIEZvcm1hdDogb24vb2ZmLiBEZWZhdWx0OiBgT25gLg==-->
 <!--te-src:PiAqKkN1c3RvbWl6ZSAoY291bnQpOioqIFRoZW1lIEVkaXRvciDihpIgKkhvbWUgUGFnZSog4oaSICoqTnVtYmVyIG9mIE5ldyBQcm9kdWN0cyoqIChpZCBgaG9tZXBhZ2VfbmV3X3Byb2R1Y3RzX2NvdW50YCkuIEZvcm1hdDogc2VsZWN0Lg==-->
@@ -154,6 +162,8 @@ eShopping Theme → Homepage Sections → **Show New Arrivals** is on. Recently 
 !!! note "Category IDs left empty on purpose"
     With no IDs entered, the section automatically pulls all top-level categories — no need to look up or type any IDs.
 
+![Products by Category on the storefront](../img/home-pbc.png){ loading=lazy }
+
 <!--te-src:PiAqKkN1c3RvbWl6ZSAoc2hvdy9oaWRlKToqKiBUaGVtZSBFZGl0b3Ig4oaSICplU2hvcHBpbmcgVGhlbWUg4oaSIEhvbWVwYWdlIFNlY3Rpb25zKiDihpIgKipTaG93IENhdGVnb3JpZXMqKiAoaWQgYGVzaG9wcGluZy1zaG93LWNhdGVnb3JpZXNgKS4gRm9ybWF0OiBvbi9vZmYuIERlZmF1bHQ6IGBPbmAu-->
 <!--te-src:PiAqKkN1c3RvbWl6ZSAod2hpY2ggY2F0ZWdvcmllcyk6KiogVGhlbWUgRWRpdG9yIOKGkiAqZVNob3BwaW5nIFRoZW1lIOKGkiBQcm9kdWN0cyBieSBDYXRlZ29yeSog4oaSICoqQ2F0ZWdvcnkgSURzIChjb21tYSBzZXBhcmF0ZWQsIGxlYXZlIGVtcHR5IGZvciBhdXRvLWRldGVjdCkqKiAoaWQgYGVzaG9wcGluZy1wYmNzdC1jYXRJRHNgKS4gRm9ybWF0OiBjb21tYS1zZXBhcmF0ZWQgY2F0ZWdvcnkgSURzOyBlbXB0eSA9IGF1dG8tZGV0ZWN0IGFsbCB0b3AtbGV2ZWwgY2F0ZWdvcmllcy4gRGVmYXVsdDogKihlbXB0eSkqLg==-->
 <!--te-src:PiAqKkN1c3RvbWl6ZSAoZ3JpZCk6Kiogc2FtZSBzZWN0aW9uIOKGkiAqKkdyaWQgbGF5b3V0OiBjYXRlZ29yaWVzLHByb2R1Y3RzLHN1YmNhdGVnb3JpZXMgKGUuZy4gMyw0LDYpKiogKGlkIGBlc2hvcHBpbmctcGJjc3QtZ3JpZGApLiBGb3JtYXQ6IHRocmVlIGNvbW1hLXNlcGFyYXRlZCBudW1iZXJzIGBkLHQsc2AgPSBudW1iZXIgb2YgKipjYXRlZ29yaWVzICh0YWJzKSoqLCAqKnByb2R1Y3RzIHBlciBjYXRlZ29yeSoqLCBhbmQgKipzdWJjYXRlZ29yaWVzKiogc2hvd24uIERlZmF1bHQgKEluZHVzdHJpYWwpOiBgMyw0LDZgLg==-->
@@ -165,6 +175,8 @@ eShopping Theme → Homepage Sections → **Show New Arrivals** is on. Recently 
 
 eShopping Theme → Homepage Sections → **Homepage Brands Limit**: `12`. Upload brand logos in **Catalog → Brands** — transparent PNGs work best, and keeping all logos a consistent size helps them sit evenly in the carousel.
 
+![Brands carousel on the storefront](../img/home-brands.png){ loading=lazy }
+
 <!--te-src:PiAqKkN1c3RvbWl6ZSAobGltaXQpOioqIFRoZW1lIEVkaXRvciDihpIgKmVTaG9wcGluZyBUaGVtZSDihpIgSG9tZXBhZ2UgU2VjdGlvbnMqIOKGkiAqKkhvbWVwYWdlIEJyYW5kcyBMaW1pdCoqIChpZCBgZXNob3BwaW5nLWhvbWVwYWdlLWJyYW5kcy1saW1pdGApLiBGb3JtYXQ6IG51bWJlciAobWF4IGJyYW5kcyBzaG93bikuIERlZmF1bHQ6IGAxMmAu-->
 <!--te-src:PiAqKkN1c3RvbWl6ZSAobG9nb3MpOioqIEJpZ0NvbW1lcmNlIGFkbWluIOKGkiAqKkNhdGFsb2cg4oaSIEJyYW5kcyoqLiBBZGQgYnJhbmRzIGFuZCB1cGxvYWQgZWFjaCBicmFuZCdzIGxvZ28gaW1hZ2UgdGhlcmUuIChOb3QgYSB0aGVtZSBzZXR0aW5nLik=-->
 <!--te-mock--><div class="te-mock"><div class="te-mock__hd"><span>eShopping Theme</span><span class="te-x">✕</span></div><div class="te-mock__grp">Homepage Sections</div><div class="te-mock__row"><span class="te-lbl">Homepage Brands Limit</span><span class="te-dd"><span class="te-dd__v">12</span><span class="te-dd__b">▾</span></span></div></div>
@@ -173,6 +185,8 @@ eShopping Theme → Homepage Sections → **Homepage Brands Limit**: `12`. Uploa
 ### 12. Blog posts
 
 Blog posts count: `3`. This count is set in the standard **Homepage** Theme-Editor panel (not the eShopping Theme panel). Posts come from **Storefront → Blog**.
+
+![Blog posts on the storefront](../img/industrial-blog.png){ loading=lazy }
 
 <!--te-src:PiAqKkN1c3RvbWl6ZSAocG9zdHMpOioqIEJpZ0NvbW1lcmNlIGFkbWluIOKGkiAqKlN0b3JlZnJvbnQg4oaSIEJsb2cqKi4gV3JpdGUvcHVibGlzaCBwb3N0cyB0aGVyZS4gKE5vdCBhIHRoZW1lIHNldHRpbmcuKQ==-->
 <!--te-mock--><div class="te-mock te-nav"><div class="te-nav__brand">BigCommerce admin</div><div class="te-nav__top"><span>Home</span></div><div class="te-nav__top"><span>Orders</span></div><div class="te-nav__top"><span>Products</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top"><span>Customers</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top is-open"><span>Storefront</span><span class="te-nav__chev">⌃</span></div><div class="te-nav__sub">Themes</div><div class="te-nav__sub">Logo</div><div class="te-nav__sub">Home page carousel</div><div class="te-nav__sub">Social media links</div><div class="te-nav__sub">Script manager</div><div class="te-nav__sub">Web pages</div><div class="te-nav__sub is-active">Blog</div><div class="te-nav__sub">Image manager</div><div class="te-nav__top"><span>Marketing</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top"><span>Analytics</span></div><div class="te-nav__top"><span>Settings</span><span class="te-nav__chev">⌄</span></div></div>
@@ -186,6 +200,8 @@ Blog posts count: `3`. This count is set in the standard **Homepage** Theme-Edit
 
 The signup writes to **Customers → Subscribers**.
 
+![Newsletter on the storefront](../img/home-newsletter.png){ loading=lazy }
+
 <!--te-src:PiAqKkN1c3RvbWl6ZSAoc2hvdy9oaWRlKToqKiBUaGVtZSBFZGl0b3Ig4oaSICplU2hvcHBpbmcgVGhlbWUg4oaSIEhvbWVwYWdlIFNlY3Rpb25zKiDihpIgKipTaG93IE5ld3NsZXR0ZXIqKiAoaWQgYGVzaG9wcGluZy1zaG93LW5ld3NsZXR0ZXJgKS4gRm9ybWF0OiBvbi9vZmYuIERlZmF1bHQ6IGBPbmAuIChBbHNvIHJlcXVpcmVzIHRoZSBzdG9yZS1sZXZlbCAqU2hvdyBuZXdzbGV0dGVyKiBzZXR0aW5nIHRvIGJlIG9uLik=-->
 <!--te-src:PiAqKkN1c3RvbWl6ZSAodGV4dCk6KiogVGhlbWUgRWRpdG9yIOKGkiAqZVNob3BwaW5nIFRoZW1lIOKGkiBIb21lcGFnZSBTZWN0aW9ucyog4oaSICoqTmV3c2xldHRlciBTaWdudXAgVGV4dCoqIChpZCBgZXNob3BwaW5nLW5ld3NsZXR0ZXItdGV4dGApLiBGb3JtYXQ6IGBIZWFkaW5nfERlc2NyaXB0aW9uYCwgc3BsaXQgb24gYSBzaW5nbGUgYHxgLiBUaGUgKipoZWFkaW5nIHN1cHBvcnRzIGlubGluZSBIVE1MKiogKGUuZy4gYDxlbT7igKY8L2VtPmAgZm9yIHRoZSBpdGFsaWMgZW1waGFzaXMpOyB0aGUgZGVzY3JpcHRpb24gaXMgcGxhaW4gdGV4dC4gRGVmYXVsdCAoSW5kdXN0cmlhbCk6IGBTdGF5IFVwZGF0ZWQgd2l0aCA8ZW0+T3VyIE5ld3NsZXR0ZXI8L2VtPnxQcm9kdWN0IGxhdW5jaGVzLCBmaWVsZCB0aXBzLCBhbmQgZXhjbHVzaXZlIG9mZmVycyBpbiB5b3VyIGluYm94LmA=-->
 <!--te-mock--><div class="te-mock"><div class="te-mock__hd"><span>eShopping Theme</span><span class="te-x">✕</span></div><div class="te-mock__grp">Homepage Sections</div><div class="te-mock__row"><span class="te-lbl">Show Newsletter</span><span class="te-cb is-on"></span></div><div class="te-mock__row"><span class="te-lbl">Newsletter Signup Text</span><span class="te-tx te-tx--ph">Enter text…</span></div><div class="te-mock__row"><span class="te-lbl">heading supports inline HTML</span><span class="te-tx te-tx--ph">Enter text…</span></div></div>
@@ -193,6 +209,18 @@ The signup writes to **Customers → Subscribers**.
 ### 14. Marketing blocks (AI HTML Generator | PapaThemes via Page Builder)
 
 The Industrial demo home page has **five** content blocks built with the **AI HTML Generator | PapaThemes** widget, plus a sixth widget for the footer tagline. These are placed through Page Builder, not theme settings — they require the PapaThemes app installed and arrive with the demo widget import.
+
+How the five blocks render on the live storefront:
+
+![Why Choose Us value-prop callout](../img/industrial-why.png){ loading=lazy }
+
+![Customer Reviews social proof](../img/industrial-reviews.png){ loading=lazy }
+
+![Resources guide cards](../img/industrial-resources.png){ loading=lazy }
+
+![About SEO intro](../img/industrial-about.png){ loading=lazy }
+
+![Talk to an Expert contact CTA](../img/industrial-expert.png){ loading=lazy }
 
 >
 > | Block | Region · sort | Exact HTML |

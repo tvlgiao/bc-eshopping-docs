@@ -23,6 +23,22 @@ In the Theme Editor, open the **eShopping Theme → Homepage Sections** group to
 
 After most sections there is a **widget region** you can insert into — but not every gap has one. The full list with placement is in the [Widget regions reference](widget-regions.md).
 
+### What the sections look like
+
+The shared structure on the live storefront, top to bottom (shots from the Industrial demo — the same layout renders in every variant):
+
+![Hero carousel](../img/home-hero.png){ loading=lazy }
+
+![Trust strip — four icon + text columns](../img/home-trust-strip.png){ loading=lazy }
+
+![Featured Products slider](../img/home-featured.png){ loading=lazy }
+
+![Products by Category tabs](../img/home-pbc.png){ loading=lazy }
+
+![Brands carousel](../img/home-brands.png){ loading=lazy }
+
+![Newsletter signup](../img/home-newsletter.png){ loading=lazy }
+
 ---
 
 ## Marketing sections — delivered as widgets (not built-in)
