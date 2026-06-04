@@ -54,6 +54,8 @@ The field you paste HTML into is labelled **HTML Content** (schema id `content`,
 
 A value-prop callout in region `home_below_products_by_category`, **sort 0** — a two-column card pairing a dark stats panel (years, SKUs, orders shipped, satisfaction) with an eyebrow + heading + three icon features. It is the **HTML Content** field of an AI HTML Generator | PapaThemes widget.
 
+![Why Choose Us on the storefront (Industrial demo)](../img/industrial-why.png){ loading=lazy }
+
 <!--te-src:PiAqKkN1c3RvbWl6ZToqKiBQYWdlIEJ1aWxkZXIgKCoqU3RvcmVmcm9udCDihpIgTXkgVGhlbWVzIOKGkiBDdXN0b21pemUqKikg4oaSIGNsaWNrIHRoZSAqKldoeSBDaG9vc2UgVXMqKiBibG9jayDihpIgZWRpdCB0aGUgKipIVE1MIENvbnRlbnQqKiBmaWVsZCDihpIgKipTYXZlKiou-->
 <!--te-mock--><div class="te-mock te-mock--pb"><div class="te-mock__hd"><span>‹ AI HTML Generator | PapaThemes</span><span class="te-x">⋯</span></div><div class="te-mock__grp">▾ Content</div><div class="te-pbbox"><span class="k">&lt;style&gt;</span><br><span class="s">.papathemes-ai-widget-…</span> { … }<br>…your HTML…<br><span class="k">&lt;/style&gt;</span></div><div class="te-pbbtns"><span class="te-btn-ghost">Expand HTML Editor</span><span class="te-save te-save--full">Save HTML</span></div><div class="te-mock__row"><span class="te-cb"></span><span class="te-lbl">Show in container div</span></div></div>
 
@@ -1457,6 +1459,8 @@ A value-prop callout in region `home_below_products_by_category`, **sort 0** —
 ## Customer Reviews
 
 A social-proof block in region `home_below_products_by_category`, **sort 1** — a rating hero (big average, star row, 5→1 distribution bars, recommend/verified/reorder badges) followed by a horizontally-scrolling carousel of review cards with prev/next arrows. It is the **HTML Content** field of an AI HTML Generator | PapaThemes widget.
+
+![Customer Reviews on the storefront (Industrial demo)](../img/industrial-reviews.png){ loading=lazy }
 
 <!--te-src:PiAqKkN1c3RvbWl6ZToqKiBQYWdlIEJ1aWxkZXIgKCoqU3RvcmVmcm9udCDihpIgTXkgVGhlbWVzIOKGkiBDdXN0b21pemUqKikg4oaSIGNsaWNrIHRoZSAqKkN1c3RvbWVyIFJldmlld3MqKiBibG9jayDihpIgZWRpdCB0aGUgKipIVE1MIENvbnRlbnQqKiBmaWVsZCDihpIgKipTYXZlKiou-->
 <!--te-mock--><div class="te-mock te-mock--pb"><div class="te-mock__hd"><span>‹ AI HTML Generator | PapaThemes</span><span class="te-x">⋯</span></div><div class="te-mock__grp">▾ Content</div><div class="te-pbbox"><span class="k">&lt;style&gt;</span><br><span class="s">.papathemes-ai-widget-…</span> { … }<br>…your HTML…<br><span class="k">&lt;/style&gt;</span></div><div class="te-pbbtns"><span class="te-btn-ghost">Expand HTML Editor</span><span class="te-save te-save--full">Save HTML</span></div><div class="te-mock__row"><span class="te-cb"></span><span class="te-lbl">Show in container div</span></div></div>
@@ -5046,6 +5050,8 @@ A social-proof block in region `home_below_products_by_category`, **sort 1** —
 
 A guide-cards block in region `home_below_products_by_category`, **sort 2** — a section header (icon + title) above a three-column grid of linked cards, each with a lazy-loaded thumbnail, a type badge, a heading, and a short description. A small inline script lazy-loads the thumbnails. It is the **HTML Content** field of an AI HTML Generator | PapaThemes widget.
 
+![Resources on the storefront (Industrial demo)](../img/industrial-resources.png){ loading=lazy }
+
 <!--te-src:PiAqKkN1c3RvbWl6ZToqKiBQYWdlIEJ1aWxkZXIgKCoqU3RvcmVmcm9udCDihpIgTXkgVGhlbWVzIOKGkiBDdXN0b21pemUqKikg4oaSIGNsaWNrIHRoZSAqKlJlc291cmNlcyoqIGJsb2NrIOKGkiBlZGl0IHRoZSAqKkhUTUwgQ29udGVudCoqIGZpZWxkIOKGkiAqKlNhdmUqKi4=-->
 <!--te-mock--><div class="te-mock te-mock--pb"><div class="te-mock__hd"><span>‹ AI HTML Generator | PapaThemes</span><span class="te-x">⋯</span></div><div class="te-mock__grp">▾ Content</div><div class="te-pbbox"><span class="k">&lt;style&gt;</span><br><span class="s">.papathemes-ai-widget-…</span> { … }<br>…your HTML…<br><span class="k">&lt;/style&gt;</span></div><div class="te-pbbtns"><span class="te-btn-ghost">Expand HTML Editor</span><span class="te-save te-save--full">Save HTML</span></div><div class="te-mock__row"><span class="te-cb"></span><span class="te-lbl">Show in container div</span></div></div>
 
@@ -6377,6 +6383,8 @@ a.papathemes-ai-widget-ieexqag9-card-link .papathemes-ai-widget-ieexqag9-card:ho
 
 An SEO intro block in region `home_below_newsletter`, **sort 0** — a simple bordered card with a centered title and two centered paragraphs of about/SEO copy. It is the **HTML Content** field of an AI HTML Generator | PapaThemes widget.
 
+![About on the storefront (Industrial demo)](../img/industrial-about.png){ loading=lazy }
+
 <!--te-src:PiAqKkN1c3RvbWl6ZToqKiBQYWdlIEJ1aWxkZXIgKCoqU3RvcmVmcm9udCDihpIgTXkgVGhlbWVzIOKGkiBDdXN0b21pemUqKikg4oaSIGNsaWNrIHRoZSAqKkFib3V0KiogYmxvY2sg4oaSIGVkaXQgdGhlICoqSFRNTCBDb250ZW50KiogZmllbGQg4oaSICoqU2F2ZSoqLg==-->
 <!--te-mock--><div class="te-mock te-mock--pb"><div class="te-mock__hd"><span>‹ AI HTML Generator | PapaThemes</span><span class="te-x">⋯</span></div><div class="te-mock__grp">▾ Content</div><div class="te-pbbox"><span class="k">&lt;style&gt;</span><br><span class="s">.papathemes-ai-widget-…</span> { … }<br>…your HTML…<br><span class="k">&lt;/style&gt;</span></div><div class="te-pbbtns"><span class="te-btn-ghost">Expand HTML Editor</span><span class="te-save te-save--full">Save HTML</span></div><div class="te-mock__row"><span class="te-cb"></span><span class="te-lbl">Show in container div</span></div></div>
 
@@ -6772,6 +6780,8 @@ An SEO intro block in region `home_below_newsletter`, **sort 0** — a simple bo
 ## Talk to an Expert
 
 A contact-CTA bar in region `home_below_newsletter`, **sort 1** — a dark gradient bar with a heading + supporting line on the left and two buttons on the right (a filled "request a quote" link and a ghost phone link). It is the **HTML Content** field of an AI HTML Generator | PapaThemes widget.
+
+![Talk to an Expert on the storefront (Industrial demo)](../img/industrial-expert.png){ loading=lazy }
 
 <!--te-src:PiAqKkN1c3RvbWl6ZToqKiBQYWdlIEJ1aWxkZXIgKCoqU3RvcmVmcm9udCDihpIgTXkgVGhlbWVzIOKGkiBDdXN0b21pemUqKikg4oaSIGNsaWNrIHRoZSAqKlRhbGsgdG8gYW4gRXhwZXJ0KiogYmxvY2sg4oaSIGVkaXQgdGhlICoqSFRNTCBDb250ZW50KiogZmllbGQg4oaSICoqU2F2ZSoqLg==-->
 <!--te-mock--><div class="te-mock te-mock--pb"><div class="te-mock__hd"><span>‹ AI HTML Generator | PapaThemes</span><span class="te-x">⋯</span></div><div class="te-mock__grp">▾ Content</div><div class="te-pbbox"><span class="k">&lt;style&gt;</span><br><span class="s">.papathemes-ai-widget-…</span> { … }<br>…your HTML…<br><span class="k">&lt;/style&gt;</span></div><div class="te-pbbtns"><span class="te-btn-ghost">Expand HTML Editor</span><span class="te-save te-save--full">Save HTML</span></div><div class="te-mock__row"><span class="te-cb"></span><span class="te-lbl">Show in container div</span></div></div>
@@ -7678,6 +7688,8 @@ A contact-CTA bar in region `home_below_newsletter`, **sort 1** — a dark gradi
 ## Footer tagline
 
 A one-line store tagline shown in the footer. It lives in the global region `eshopping_footer_description--global` — one widget, placed on every template, so it renders site-wide. It is the **HTML Content** field of an AI HTML Generator | PapaThemes widget, but here the content is just a single styled `<span>` (no `<style>` block needed — the theme styles `.eshopping-footer-desc-text`).
+
+![Footer tagline on the storefront — the line under the logo (Industrial demo)](../img/footer-industrial.png){ loading=lazy }
 
 <!--te-src:PiAqKkN1c3RvbWl6ZToqKiBQYWdlIEJ1aWxkZXIgKCoqU3RvcmVmcm9udCDihpIgTXkgVGhlbWVzIOKGkiBDdXN0b21pemUqKikg4oaSIGNsaWNrIHRoZSBmb290ZXIgdGFnbGluZSDihpIgZWRpdCB0aGUgKipIVE1MIENvbnRlbnQqKiBmaWVsZCDihpIgKipTYXZlKiouIEJlY2F1c2UgaXQgaXMgYSBnbG9iYWwgd2lkZ2V0LCB0aGUgY2hhbmdlIGFwcGxpZXMgdG8gZXZlcnkgcGFnZS4=-->
 <!--te-mock--><div class="te-mock te-mock--pb"><div class="te-mock__hd"><span>‹ AI HTML Generator | PapaThemes</span><span class="te-x">⋯</span></div><div class="te-mock__grp">▾ Content</div><div class="te-pbbox"><span class="k">&lt;style&gt;</span><br><span class="s">.papathemes-ai-widget-…</span> { … }<br>…your HTML…<br><span class="k">&lt;/style&gt;</span></div><div class="te-pbbtns"><span class="te-btn-ghost">Expand HTML Editor</span><span class="te-save te-save--full">Save HTML</span></div><div class="te-mock__row"><span class="te-cb"></span><span class="te-lbl">Show in container div</span></div></div>

@@ -11,6 +11,8 @@ A pair of short message strips above the Add-to-Cart button that build urgency. 
 
 On out-of-stock products the "last order" strip is hidden automatically; the view-count strip still shows.
 
+![Urgency strips on the product page — viewing-count + last-order](../img/pdp-urgency.png){ loading=lazy }
+
 ### Configure
 
 <!--te-lead:KipUaGVtZSBFZGl0b3Ig4oaSIGVTaG9wcGluZyBUaGVtZSDihpIgVXJnZW5jeSBTaWduYWxzIChTb2NpYWwgUHJvb2YpKio6-->
@@ -31,6 +33,8 @@ Turn both strips off to hide them entirely.
 
 Small pop-up toasts at the bottom of the screen showing recent purchase activity, for social proof. They never appear on the cart or checkout pages. Once a visitor closes a toast, no more toasts are shown for the rest of that browsing session.
 
+![Recent-sales toast on the storefront — thumbnail, product, time](../img/recent-sales-toast.png){ loading=lazy }
+
 ### Configure
 
 <!--te-lead:KipUaGVtZSBFZGl0b3Ig4oaSIGVTaG9wcGluZyBUaGVtZSDihpIgUmVjZW50IFNhbGVzIFBvcHVwKio6-->
@@ -46,7 +50,7 @@ Set **Show on pages** to "Off — don't show" to disable.
 
 ### How the data is sourced
 
-Each toast shows a product you list in the **Products** setting, using the location and time you enter for that entry (for example `77|California|2 hours ago`). If you leave the time blank on an entry — or if no products are listed and the best-seller fallback is used — a random time is generated. Locations are not auto-randomized; they come from what you type.
+Each toast shows a product you list in the **Products** setting, using the location and time you enter for that entry (for example `77|California|2 hours ago`). If the **Products** field is empty — or none of the listed products can be found — the theme falls back to your catalog automatically, in order: **best sellers → featured products → new arrivals** (the first that returns products wins). Fallback items show a generated time and **no location** (just *"Someone just purchased …"*); locations only appear for products you enter yourself.
 
 There's no order tracking — the toasts are designed for social-proof UX, not analytics. If you want to swap to real-order data, that's a customization beyond the built-in scope; email <contact@papathemes.com>.
 

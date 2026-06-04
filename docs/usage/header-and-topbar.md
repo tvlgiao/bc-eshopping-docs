@@ -14,6 +14,8 @@ This is the **BigCommerce native banner** — *not* a Page Builder widget region
 
 **Marketing → Banners** (in your BigCommerce admin sidebar — outside Page Builder).
 
+![Top promo banner on the storefront](../img/header-banner.png){ loading=lazy }
+
 ### Create a banner
 
 1. **Marketing → Banners → Create a banner**.
@@ -63,6 +65,8 @@ The theme renders whatever HTML you paste — it adds no carousel, rotation, or 
 ## ② Top Bar (welcome text + utility links)
 
 The 54 px strip showing the welcome text, web-page links and address on the left, and account links, currency selector, phone and social icons on the right. Configure colors and toggles in **Theme Editor → eShopping → Header**:
+
+![Top bar on the storefront — welcome text + address, phone, account, currency, social icons](../img/header-topbar.png){ loading=lazy }
 
 <!--te-tbl:fCBTZXR0aW5nIHwgRWZmZWN0IHwKfCAtLS0tLS0tIHwgLS0tLS0tIHwKfCBUb3BiYXIgQmFja2dyb3VuZCB8IFN0cmlwIGJhY2tncm91bmQgfAp8IFRvcGJhciBUZXh0IHwgVGV4dCArIGljb24gY29sb3IgfAp8IFRvcGJhciBUZXh0IEhvdmVyIHwgSG92ZXIgY29sb3IgZm9yIGxpbmtzL2ljb25zIHwKfCBTaG93IFNvY2lhbCBJY29ucyB8IEludGVuZGVkIHRvIHRvZ2dsZSB0aGUgc29jaWFsIGljb25zIChzZWUgbm90ZSBiZWxvdykgfAp8IFNob3cgQWRkcmVzcyBpbiBUb3BiYXIgfCBTaG93IHlvdXIgc3RvcmUgYWRkcmVzcyAoZnJvbSAqKlNldHRpbmdzIOKGkiBTdG9yZSBwcm9maWxlIOKGkiBBZGRyZXNzKiopIHwKfCBTaG93IFBob25lIGluIFRvcGJhciB8IFNob3cgeW91ciBzdG9yZSBwaG9uZSAoZnJvbSAqKlNldHRpbmdzIOKGkiBTdG9yZSBwcm9maWxlIOKGkiBQaG9uZSoqKSB8CnwgV2VsY29tZSBUZXh0IHwgRnJlZS10ZXh0IGdyZWV0aW5nIHNob3duIGF0IHRoZSBmYXIgbGVmdCB8CnwgVG9wYmFyIFBhZ2VzIFJhbmdlIHwgV2hpY2ggd2ViLXBhZ2UgbGlua3MgYXBwZWFyIGluIHRoZSB0b3AgYmFyIOKAlCBhIGBmcm9tLHRvYCBpbmRleCByYW5nZSAoc2VlIGJlbG93KSB8-->
 
@@ -122,6 +126,8 @@ The Main Nav height is not fixed — it grows to fit your logo height (a minimum
 ## ③ Main Nav (logo + pages + search + cart)
 
 The sticky strip containing the logo, web-page navigation, search box, and wishlist / cart icons. Configure colors and page range in **Theme Editor → eShopping → Header** (there is no separate "Nav" heading — the navigation color settings sit under the **Header** heading alongside the top bar):
+
+![Main nav on the storefront — logo, web-page links, category + search box, wishlist, cart](../img/header-mainnav.png){ loading=lazy }
 
 <!--te-tbl:fCBTZXR0aW5nIHwgRWZmZWN0IHwKfCAtLS0tLS0tIHwgLS0tLS0tIHwKfCBOYXZpZ2F0aW9uIEJhY2tncm91bmQgfCBTdHJpcCBiYWNrZ3JvdW5kIHwKfCBOYXZpZ2F0aW9uIFRleHQgfCBNZW51IGxpbmsgY29sb3IgfAp8IE5hdmlnYXRpb24gVGV4dCBIb3ZlciB8IE1lbnUgbGluayBob3ZlciBjb2xvciB8CnwgU2VhcmNoIEJhY2tncm91bmQgfCBQaWxsLXNoYXBlZCBzZWFyY2ggaW5wdXQgYmFja2dyb3VuZCB8CnwgU2VhcmNoIFRleHQgfCBQbGFjZWhvbGRlciArIHR5cGVkIHRleHQgY29sb3IgfAp8IFNlYXJjaCBCdXR0b24gfCBTdWJtaXQtYnV0dG9uIGNvbG9yIHwKfCBOYXYgUGFnZXMgUmFuZ2UgfCBXaGljaCB3ZWItcGFnZSBsaW5rcyBhcHBlYXIgaW4gdGhlIG5hdiDigJQgYSBgZnJvbSx0b2AgaW5kZXggcmFuZ2UgKHNlZSBbVG9wYmFyIC8gTmF2IHBhZ2VzIHJhbmdlXSgjdG9wYmFyLW5hdi1wYWdlcy1yYW5nZSkpIHw=-->
 

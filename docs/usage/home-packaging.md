@@ -96,6 +96,8 @@ The demo uses the built-in hero driven by the BigCommerce Home Page Carousel:
 !!! note "There is no separate \"Show hero\" toggle"
     An older `eshopping-show-hero` toggle was **removed** from the theme. The hero is now gated **only** by **Show carousel** (`homepage_show_carousel`) plus having carousel slides — nothing else.
 
+![Hero on the storefront](../img/packaging-desktop-hero.png){ loading=lazy }
+
 <!--te-src:PiAqKkN1c3RvbWl6ZSAoY2Fyb3VzZWwgdG9nZ2xlKToqKiBUaGVtZSBFZGl0b3Ig4oaSICpIb21lcGFnZSog4oaSICoqU2hvdyBjYXJvdXNlbCoqIChgaG9tZXBhZ2Vfc2hvd19jYXJvdXNlbGAsIGRlZmF1bHQgYHRydWVgKS4=-->
 <!--te-src:PiAqKkN1c3RvbWl6ZSAoc2xpZGVzKToqKiBCaWdDb21tZXJjZSBhZG1pbiDihpIgKipTdG9yZWZyb250IOKGkiBDYXJvdXNlbCoqLiBTbGlkZSBpbWFnZXMsIGhlYWRpbmdzLCBhbmQgbGlua3MgYXJlIHN0b3JlIGRhdGEsIG5vdCB0aGVtZSBzZXR0aW5ncy4=-->
 <!--te-mock--><div class="te-mock"><div class="te-mock__hd"><span>Homepage</span><span class="te-x">✕</span></div><div class="te-mock__row"><span class="te-lbl">Show carousel</span><span class="te-cb is-on"></span></div></div>
@@ -120,12 +122,16 @@ The demo uses the built-in hero driven by the BigCommerce Home Page Carousel:
 - **Free Samples** — Try before you buy on select items
 - **Expert Support** — Packaging specialists available Mon-Fri
 
+![Trust strip on the storefront](../img/packaging-trust.png){ loading=lazy }
+
 <!--te-src:PiAqKkN1c3RvbWl6ZToqKiBUaGVtZSBFZGl0b3Ig4oaSICpIb21lcGFnZSog4oaSICoqVHJ1c3QgU3RyaXAgSXRlbXMqKiAoYGVzaG9wcGluZy10cnVzdC10ZXh0YCkg4oCUIGNvbnRlbnQgb2YgdGhlIHRydXN0IHN0cmlwLiBGb3JtYXQ6IHBpcGUgYHxgIHNlcGFyYXRlZCwgaW4gKip0aXRsZSwgZGVzY3JpcHRpb24qKiBwYWlycyAodHdvIHNlZ21lbnRzIHBlciBpdGVtOyBmb3VyIGl0ZW1zID0gZWlnaHQgc2VnbWVudHMpLiBUb2dnbGUgdGhlIHdob2xlIHN0cmlwIHdpdGggKipTaG93IFRydXN0IFN0cmlwKiogKGBlc2hvcHBpbmctc2hvdy10cnVzdC1zdHJpcGAsIGRlZmF1bHQgYHRydWVgKS4=-->
 <!--te-mock--><div class="te-mock"><div class="te-mock__hd"><span>Homepage</span><span class="te-x">✕</span></div><div class="te-mock__row"><span class="te-lbl">Trust Strip Items</span><span class="te-tx te-tx--ph">Enter text…</span></div><div class="te-mock__row"><span class="te-lbl">title, description</span><span class="te-cb is-on"></span></div><div class="te-mock__row"><span class="te-lbl">Show Trust Strip</span><span class="te-cb is-on"></span></div></div>
 
 ### 8. Featured Products — enabled
 
 **Show Featured Products** (`eshopping-show-featured`) is on. The Featured Products slider appears on the live demo, populated from products flagged as Featured in the catalog.
+
+![Featured Products on the storefront](../img/packaging-featured.png){ loading=lazy }
 
 <!--te-src:PiAqKkN1c3RvbWl6ZSAodG9nZ2xlKToqKiBUaGVtZSBFZGl0b3Ig4oaSICpIb21lcGFnZSog4oaSICoqU2hvdyBGZWF0dXJlZCBQcm9kdWN0cyoqIChgZXNob3BwaW5nLXNob3ctZmVhdHVyZWRgLCBkZWZhdWx0IGB0cnVlYCku-->
 <!--te-src:PiAqKkN1c3RvbWl6ZSAod2hpY2ggcHJvZHVjdHMpOioqIEJpZ0NvbW1lcmNlIGFkbWluIOKGkiAqKlByb2R1Y3RzIOKGkiBzZXQgIkZlYXR1cmVkIiBvbiBpbmRpdmlkdWFsIHByb2R1Y3RzKiouIChDYXRhbG9nIGRhdGEsIG5vdCBhIHRoZW1lIHNldHRpbmcuKQ==-->
@@ -135,6 +141,8 @@ The demo uses the built-in hero driven by the BigCommerce Home Page Carousel:
 ### 9. New Arrivals — enabled
 
 **Show New Arrivals** (`eshopping-show-new`) is on. The New Arrivals slider appears on the live demo.
+
+![New Arrivals on the storefront](../img/packaging-new.png){ loading=lazy }
 
 <!--te-src:PiAqKkN1c3RvbWl6ZSAodG9nZ2xlKToqKiBUaGVtZSBFZGl0b3Ig4oaSICpIb21lcGFnZSog4oaSICoqU2hvdyBOZXcgQXJyaXZhbHMqKiAoYGVzaG9wcGluZy1zaG93LW5ld2AsIGRlZmF1bHQgYHRydWVgKS4=-->
 <!--te-src:PiAqKkN1c3RvbWl6ZSAod2hpY2ggcHJvZHVjdHMpOioqIEJpZ0NvbW1lcmNlIGFkbWluIOKGkiBtb3N0IHJlY2VudGx5IGFkZGVkIHByb2R1Y3RzIHBvcHVsYXRlIHRoaXMgYXV0b21hdGljYWxseS4gKENhdGFsb2cgZGF0YSwgbm90IGEgdGhlbWUgc2V0dGluZy4p-->
@@ -161,6 +169,8 @@ The demo uses the built-in hero driven by the BigCommerce Home Page Carousel:
     - `4` = how many products to show per category.
     - `6` = how many subcategory chips to show per category (`0` hides subcategory chips).
 
+![Products by Category on the storefront](../img/packaging-pbc.png){ loading=lazy }
+
 <!--te-src:PiAqKkN1c3RvbWl6ZSAodG9nZ2xlKToqKiBUaGVtZSBFZGl0b3Ig4oaSICpIb21lcGFnZSog4oaSICoqU2hvdyBDYXRlZ29yaWVzKiogKGBlc2hvcHBpbmctc2hvdy1jYXRlZ29yaWVzYCwgZGVmYXVsdCBgdHJ1ZWApLg==-->
 <!--te-src:PiAqKkN1c3RvbWl6ZSAod2hpY2ggY2F0ZWdvcmllcyk6KiogVGhlbWUgRWRpdG9yIOKGkiAqSG9tZXBhZ2UqIOKGkiAqKkNhdGVnb3J5IElEcyAoY29tbWEgc2VwYXJhdGVkLCBsZWF2ZSBlbXB0eSBmb3IgYXV0by1kZXRlY3QpKiogKGBlc2hvcHBpbmctcGJjc3QtY2F0SURzYCkuIEZvcm1hdDogY29tbWEtc2VwYXJhdGVkIGNhdGVnb3J5IElEczsgZW1wdHkgPSBhdXRvLWRldGVjdCB0b3AtbGV2ZWwgY2F0ZWdvcmllcyAodGhlbiB0cmltbWVkIHRvIHRoZSBmaXJzdCBgY2F0ZWdvcmllc2AgY291bnQgZnJvbSB0aGUgZ3JpZCkuIERlZmF1bHQ6ICooZW1wdHkpKi4=-->
 <!--te-src:PiAqKkN1c3RvbWl6ZSAoZ3JpZCk6KiogVGhlbWUgRWRpdG9yIOKGkiAqSG9tZXBhZ2UqIOKGkiAqKkdyaWQgbGF5b3V0OiBjYXRlZ29yaWVzLHByb2R1Y3RzLHN1YmNhdGVnb3JpZXMgKGUuZy4gMyw0LDYpKiogKGBlc2hvcHBpbmctcGJjc3QtZ3JpZGApLiBGb3JtYXQ6IHRocmVlIGNvbW1hLXNlcGFyYXRlZCBpbnRlZ2Vycy4gRGVmYXVsdDogYDMsNCw2YC4=-->
@@ -171,6 +181,8 @@ The demo uses the built-in hero driven by the BigCommerce Home Page Carousel:
 ### 11. Why Choose Us — value-prop callout (AI HTML Generator | PapaThemes)
 
 The first of three AI HTML Generator | PapaThemes widgets below Products by Category (region `home_below_products_by_category`, **sort 0**). Heading: *"Packaging That Protects. Pricing That Scales."*. Imported with the demo widget data — **not** a theme setting, and requires the PapaThemes app to be installed.
+
+![Why Choose Us block on the storefront](../img/packaging-why.png){ loading=lazy }
 
 <!--te-src:PiAqKkN1c3RvbWl6ZToqKiBQYWdlIEJ1aWxkZXIg4oaSIGNsaWNrIHRoZSBibG9jayDihpIgKipIVE1MIENvbnRlbnQqKiBmaWVsZC4gU2VlIFtXaHkgQ2hvb3NlIFVzXSh3aWRnZXRzLXBhcGF0aGVtZXMubWQjd2h5LWNob29zZS11cykgZm9yIHRoZSBleGFjdCBIVE1MLg==-->
 <!--te-mock--><div class="te-mock te-mock--pb"><div class="te-mock__hd"><span>‹ AI HTML Generator | PapaThemes</span><span class="te-x">⋯</span></div><div class="te-mock__grp">▾ Content</div><div class="te-pbbox"><span class="k">&lt;style&gt;</span><br><span class="s">.papathemes-ai-widget-…</span> { … }<br>…your HTML…<br><span class="k">&lt;/style&gt;</span></div><div class="te-pbbtns"><span class="te-btn-ghost">Expand HTML Editor</span><span class="te-save te-save--full">Save HTML</span></div><div class="te-mock__row"><span class="te-cb"></span><span class="te-lbl">Show in container div</span></div></div>
@@ -484,6 +496,8 @@ The first of three AI HTML Generator | PapaThemes widgets below Products by Cate
 ### 12. Customer Reviews carousel (AI HTML Generator | PapaThemes)
 
 The second AI HTML Generator | PapaThemes widget below Products by Category (region `home_below_products_by_category`, **sort 1**) — a scrollable carousel of customer testimonials, each with a 5-star rating, quote, reviewer name/role, and a "Verified" tag. Imported with the demo widget data — **not** a theme setting.
+
+![Customer Reviews block on the storefront](../img/packaging-reviews.png){ loading=lazy }
 
 <!--te-src:PiAqKkN1c3RvbWl6ZToqKiBQYWdlIEJ1aWxkZXIg4oaSIGNsaWNrIHRoZSBibG9jayDihpIgKipIVE1MIENvbnRlbnQqKiBmaWVsZC4gU2VlIFtDdXN0b21lciBSZXZpZXdzXSh3aWRnZXRzLXBhcGF0aGVtZXMubWQjY3VzdG9tZXItcmV2aWV3cykgZm9yIHRoZSBleGFjdCBIVE1MLg==-->
 <!--te-mock--><div class="te-mock te-mock--pb"><div class="te-mock__hd"><span>‹ AI HTML Generator | PapaThemes</span><span class="te-x">⋯</span></div><div class="te-mock__grp">▾ Content</div><div class="te-pbbox"><span class="k">&lt;style&gt;</span><br><span class="s">.papathemes-ai-widget-…</span> { … }<br>…your HTML…<br><span class="k">&lt;/style&gt;</span></div><div class="te-pbbtns"><span class="te-btn-ghost">Expand HTML Editor</span><span class="te-save te-save--full">Save HTML</span></div><div class="te-mock__row"><span class="te-cb"></span><span class="te-lbl">Show in container div</span></div></div>
@@ -1352,6 +1366,8 @@ The third AI HTML Generator | PapaThemes widget below Products by Category (regi
 
 Imported with the demo widget data — **not** a theme setting.
 
+![Resources block on the storefront](../img/packaging-resources.png){ loading=lazy }
+
 <!--te-src:PiAqKkN1c3RvbWl6ZToqKiBQYWdlIEJ1aWxkZXIg4oaSIGNsaWNrIHRoZSBibG9jayDihpIgKipIVE1MIENvbnRlbnQqKiBmaWVsZC4gU2VlIFtSZXNvdXJjZXNdKHdpZGdldHMtcGFwYXRoZW1lcy5tZCNyZXNvdXJjZXMpIGZvciB0aGUgZXhhY3QgSFRNTC4=-->
 <!--te-mock--><div class="te-mock te-mock--pb"><div class="te-mock__hd"><span>‹ AI HTML Generator | PapaThemes</span><span class="te-x">⋯</span></div><div class="te-mock__grp">▾ Content</div><div class="te-pbbox"><span class="k">&lt;style&gt;</span><br><span class="s">.papathemes-ai-widget-…</span> { … }<br>…your HTML…<br><span class="k">&lt;/style&gt;</span></div><div class="te-pbbtns"><span class="te-btn-ghost">Expand HTML Editor</span><span class="te-save te-save--full">Save HTML</span></div><div class="te-mock__row"><span class="te-cb"></span><span class="te-lbl">Show in container div</span></div></div>
 
@@ -1662,6 +1678,8 @@ Imported with the demo widget data — **not** a theme setting.
 
 The homepage brands limit (`eshopping-homepage-brands-limit`) is `12`, so the Brands carousel appears on the live demo.
 
+![Brands carousel on the storefront](../img/packaging-brands.png){ loading=lazy }
+
 <!--te-src:PiAqKkN1c3RvbWl6ZSAobGltaXQgLyB0b2dnbGUpOioqIFRoZW1lIEVkaXRvciDihpIgKkhvbWVwYWdlKiDihpIgKipIb21lcGFnZSBCcmFuZHMgTGltaXQqKiAoYGVzaG9wcGluZy1ob21lcGFnZS1icmFuZHMtbGltaXRgKS4gRm9ybWF0OiBpbnRlZ2VyIGFzIHRleHQuIERlZmF1bHQ6IGAxMmAuIFNldCB0byBgMGAgKG9yIGVtcHR5KSB0byBoaWRlIHRoZSBjYXJvdXNlbCDigJQgdGhlIHNlY3Rpb24gaXMgZ2F0ZWQgYnkgdGhpcyB2YWx1ZSBiZWluZyBhIG5vbi16ZXJvIG51bWJlci4=-->
 <!--te-src:PiAqKkN1c3RvbWl6ZSAod2hpY2ggYnJhbmRzKToqKiBCaWdDb21tZXJjZSBhZG1pbiDihpIgKipQcm9kdWN0cyDihpIgQnJhbmRzKiogKGJyYW5kIG5hbWUgKyBsb2dvKS4gKENhdGFsb2cgZGF0YSwgbm90IGEgdGhlbWUgc2V0dGluZy4p-->
 <!--te-mock--><div class="te-mock"><div class="te-mock__hd"><span>Homepage</span><span class="te-x">✕</span></div><div class="te-mock__row"><span class="te-lbl">Homepage Brands Limit</span><span class="te-tx">12</span></div></div>
@@ -1685,6 +1703,8 @@ The homepage blog posts count (`homepage_blog_posts_count`) is `3`.
 - Heading: Subscribe for *Packaging Deals*
 - Description: Bulk offers, new product alerts, and industry tips delivered to your inbox.
 
+![Newsletter on the storefront](../img/packaging-newsletter.png){ loading=lazy }
+
 <!--te-src:PiAqKkN1c3RvbWl6ZToqKiBUaGVtZSBFZGl0b3Ig4oaSICpIb21lcGFnZSog4oaSICoqTmV3c2xldHRlciBTaWdudXAgVGV4dCoqIChgZXNob3BwaW5nLW5ld3NsZXR0ZXItdGV4dGApIOKAlCB0aGUgaGVhZGluZyArIGRlc2NyaXB0aW9uLiBGb3JtYXQ6IHBpcGUgYHxgIHNlcGFyYXRlZCwgKipoZWFkaW5nLCBkZXNjcmlwdGlvbioqICh0aGUgaGVhZGluZyBhY2NlcHRzIGlubGluZSBgPGVtPi4uLjwvZW0+YCkuIFRvZ2dsZSB3aXRoICoqU2hvdyBOZXdzbGV0dGVyKiogKGBlc2hvcHBpbmctc2hvdy1uZXdzbGV0dGVyYCwgZGVmYXVsdCBgdHJ1ZWApLg==-->
 <!--te-src:PiAqKkN1c3RvbWl6ZSAoZm9ybSAvIHN1YnNjcmliZXJzKToqKiBCaWdDb21tZXJjZSBhZG1pbiDihpIgKipNYXJrZXRpbmcg4oaSIGVtYWlsL25ld3NsZXR0ZXIgaW50ZWdyYXRpb24qKi4gKFN0b3JlIGRhdGEsIG5vdCBhIHRoZW1lIHNldHRpbmcuKQ==-->
 <!--te-mock--><div class="te-mock"><div class="te-mock__hd"><span>Homepage</span><span class="te-x">✕</span></div><div class="te-mock__row"><span class="te-lbl">Newsletter Signup Text</span><span class="te-tx te-tx--ph">Enter text…</span></div><div class="te-mock__row"><span class="te-lbl">heading, description</span><span class="te-cb is-on"></span></div><div class="te-mock__row"><span class="te-lbl">Show Newsletter</span><span class="te-cb is-on"></span></div></div>
@@ -1693,6 +1713,8 @@ The homepage blog posts count (`homepage_blog_posts_count`) is `3`.
 ### 17. About block (AI HTML Generator | PapaThemes)
 
 The first of two AI HTML Generator | PapaThemes widgets below the newsletter (region `home_below_newsletter`, **sort 0**). Heading: *"Your Complete Shipping Supplies Source"*. Imported with the demo widget data — **not** a theme setting.
+
+![About block on the storefront](../img/packaging-about.png){ loading=lazy }
 
 !!! note "Not the theme SEO intro"
     The theme's own SEO intro (`eshopping-seo-text`, gated by `eshopping-show-seo`) is **off** for Packaging (`eshopping-show-seo` is `false` and is a hidden/code-only flag — no Theme Editor UI). This About block is the AI HTML widget instead.
@@ -1785,6 +1807,8 @@ The first of two AI HTML Generator | PapaThemes widgets below the newsletter (re
 ### 18. Talk to an Expert CTA bar (AI HTML Generator | PapaThemes)
 
 The second AI HTML Generator | PapaThemes widget below the newsletter (region `home_below_newsletter`, **sort 1**) — a dark CTA bar headed *"Need help choosing packaging? Talk to a Packaging Specialist"*, with a **Request a Quote** button linking to `/contact-us/` and a phone number, **(800) 555-0123**. Imported with the demo widget data — **not** a theme setting.
+
+![Talk to an Expert block on the storefront](../img/packaging-expert.png){ loading=lazy }
 
 <!--te-src:PiAqKkN1c3RvbWl6ZToqKiBQYWdlIEJ1aWxkZXIg4oaSIGNsaWNrIHRoZSBibG9jayDihpIgKipIVE1MIENvbnRlbnQqKiBmaWVsZC4gU2VlIFtUYWxrIHRvIGFuIEV4cGVydF0od2lkZ2V0cy1wYXBhdGhlbWVzLm1kI3RhbGstdG8tYW4tZXhwZXJ0KSBmb3IgdGhlIGV4YWN0IEhUTUwu-->
 <!--te-mock--><div class="te-mock te-mock--pb"><div class="te-mock__hd"><span>‹ AI HTML Generator | PapaThemes</span><span class="te-x">⋯</span></div><div class="te-mock__grp">▾ Content</div><div class="te-pbbox"><span class="k">&lt;style&gt;</span><br><span class="s">.papathemes-ai-widget-…</span> { … }<br>…your HTML…<br><span class="k">&lt;/style&gt;</span></div><div class="te-pbbtns"><span class="te-btn-ghost">Expand HTML Editor</span><span class="te-save te-save--full">Save HTML</span></div><div class="te-mock__row"><span class="te-cb"></span><span class="te-lbl">Show in container div</span></div></div>
