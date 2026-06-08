@@ -1,1 +1,714 @@
-{"_placeholder":true,"note":"Replace with the actual demo JSON published with each theme release. See ../usage/import-demo-data.md."}
+{
+  "id": 112,
+  "name": "3/16\" Small Bubble Roll 175ft",
+  "type": "physical",
+  "sku": "PK-BBL-001",
+  "description": "<p>3/16 inch small bubble cushioning roll 175 feet long. Perfect for wrapping delicate items and filling voids in boxes.</p><ul><li>3/16 inch small bubbles</li><li>175 feet per roll</li><li>12 inch wide roll</li><li>Reusable and recyclable</li></ul><p>General wrapping, void fill, and delicate product protection.</p>",
+  "weight": 1.2,
+  "width": 10,
+  "depth": 10,
+  "height": 10,
+  "price": 28,
+  "cost_price": 0,
+  "retail_price": 0,
+  "sale_price": 24,
+  "map_price": 0,
+  "tax_class_id": 0,
+  "product_tax_code": "",
+  "calculated_price": 24,
+  "categories": [
+    30,
+    29,
+    24
+  ],
+  "brand_id": 39,
+  "option_set_id": 57,
+  "option_set_display": "right",
+  "inventory_level": 100,
+  "inventory_warning_level": 10,
+  "inventory_tracking": "none",
+  "reviews_rating_sum": 5,
+  "reviews_count": 1,
+  "total_sold": 0,
+  "fixed_cost_shipping_price": 0,
+  "is_free_shipping": false,
+  "is_visible": true,
+  "is_featured": true,
+  "related_products": [
+    -1
+  ],
+  "warranty": "<p>All packaging products are guaranteed to arrive <strong>free of manufacturing defects</strong> and in usable condition. If any item is received damaged or defective, we will replace it or issue a full refund.</p><p>Report any issue within 30 days of delivery — include your order number and photos of the affected items — and our team will resolve it promptly.</p>",
+  "bin_picking_number": "",
+  "layout_file": "",
+  "upc": "",
+  "mpn": "",
+  "gtin": "",
+  "date_last_imported": null,
+  "search_keywords": "",
+  "availability": "available",
+  "availability_description": "",
+  "gift_wrapping_options_type": "any",
+  "gift_wrapping_options_list": [],
+  "sort_order": 0,
+  "condition": "New",
+  "is_condition_shown": false,
+  "order_quantity_minimum": 0,
+  "order_quantity_maximum": 0,
+  "page_title": "3/16\" Small Bubble Roll 175ft",
+  "meta_keywords": [],
+  "meta_description": "",
+  "date_created": "2026-05-22T10:40:53+00:00",
+  "date_modified": "2026-06-03T08:55:54+00:00",
+  "view_count": 0,
+  "preorder_release_date": null,
+  "preorder_message": "",
+  "is_preorder_only": false,
+  "is_price_hidden": false,
+  "price_hidden_label": "",
+  "custom_url": {
+    "url": "/PK-BBL-001/",
+    "is_customized": false
+  },
+  "base_variant_id": null,
+  "open_graph_type": "product",
+  "open_graph_title": "",
+  "open_graph_description": "",
+  "open_graph_use_meta_description": true,
+  "open_graph_use_product_name": true,
+  "open_graph_use_image": true,
+  "channels": [
+    1
+  ],
+  "images": [
+    {
+      "id": 416,
+      "product_id": 112,
+      "is_thumbnail": false,
+      "sort_order": 1,
+      "description": "",
+      "image_file": "l/681/02__35340.png",
+      "url_zoom": "https://cdn11.bigcommerce.com/s-navdn4fsqj/products/112/images/416/02__35340.1779447673.1280.1280.png?c=1",
+      "url_standard": "https://cdn11.bigcommerce.com/s-navdn4fsqj/products/112/images/416/02__35340.1779447673.386.513.png?c=1",
+      "url_thumbnail": "https://cdn11.bigcommerce.com/s-navdn4fsqj/products/112/images/416/02__35340.1779447673.220.290.png?c=1",
+      "url_tiny": "https://cdn11.bigcommerce.com/s-navdn4fsqj/products/112/images/416/02__35340.1779447673.44.58.png?c=1",
+      "date_modified": "2026-05-22T11:01:13+00:00"
+    },
+    {
+      "id": 417,
+      "product_id": 112,
+      "is_thumbnail": false,
+      "sort_order": 2,
+      "description": "",
+      "image_file": "y/081/03__82488.png",
+      "url_zoom": "https://cdn11.bigcommerce.com/s-navdn4fsqj/products/112/images/417/03__82488.1779447676.1280.1280.png?c=1",
+      "url_standard": "https://cdn11.bigcommerce.com/s-navdn4fsqj/products/112/images/417/03__82488.1779447676.386.513.png?c=1",
+      "url_thumbnail": "https://cdn11.bigcommerce.com/s-navdn4fsqj/products/112/images/417/03__82488.1779447676.220.290.png?c=1",
+      "url_tiny": "https://cdn11.bigcommerce.com/s-navdn4fsqj/products/112/images/417/03__82488.1779447676.44.58.png?c=1",
+      "date_modified": "2026-05-22T11:01:16+00:00"
+    },
+    {
+      "id": 418,
+      "product_id": 112,
+      "is_thumbnail": false,
+      "sort_order": 3,
+      "description": "",
+      "image_file": "t/414/04__33710.png",
+      "url_zoom": "https://cdn11.bigcommerce.com/s-navdn4fsqj/products/112/images/418/04__33710.1779447678.1280.1280.png?c=1",
+      "url_standard": "https://cdn11.bigcommerce.com/s-navdn4fsqj/products/112/images/418/04__33710.1779447678.386.513.png?c=1",
+      "url_thumbnail": "https://cdn11.bigcommerce.com/s-navdn4fsqj/products/112/images/418/04__33710.1779447678.220.290.png?c=1",
+      "url_tiny": "https://cdn11.bigcommerce.com/s-navdn4fsqj/products/112/images/418/04__33710.1779447678.44.58.png?c=1",
+      "date_modified": "2026-05-22T11:01:18+00:00"
+    },
+    {
+      "id": 419,
+      "product_id": 112,
+      "is_thumbnail": false,
+      "sort_order": 4,
+      "description": "",
+      "image_file": "c/421/05__53376.png",
+      "url_zoom": "https://cdn11.bigcommerce.com/s-navdn4fsqj/products/112/images/419/05__53376.1779447680.1280.1280.png?c=1",
+      "url_standard": "https://cdn11.bigcommerce.com/s-navdn4fsqj/products/112/images/419/05__53376.1779447680.386.513.png?c=1",
+      "url_thumbnail": "https://cdn11.bigcommerce.com/s-navdn4fsqj/products/112/images/419/05__53376.1779447680.220.290.png?c=1",
+      "url_tiny": "https://cdn11.bigcommerce.com/s-navdn4fsqj/products/112/images/419/05__53376.1779447680.44.58.png?c=1",
+      "date_modified": "2026-05-22T11:01:20+00:00"
+    },
+    {
+      "id": 420,
+      "product_id": 112,
+      "is_thumbnail": false,
+      "sort_order": 5,
+      "description": "",
+      "image_file": "h/549/06__96799.png",
+      "url_zoom": "https://cdn11.bigcommerce.com/s-navdn4fsqj/products/112/images/420/06__96799.1779447682.1280.1280.png?c=1",
+      "url_standard": "https://cdn11.bigcommerce.com/s-navdn4fsqj/products/112/images/420/06__96799.1779447682.386.513.png?c=1",
+      "url_thumbnail": "https://cdn11.bigcommerce.com/s-navdn4fsqj/products/112/images/420/06__96799.1779447682.220.290.png?c=1",
+      "url_tiny": "https://cdn11.bigcommerce.com/s-navdn4fsqj/products/112/images/420/06__96799.1779447682.44.58.png?c=1",
+      "date_modified": "2026-05-22T11:01:22+00:00"
+    },
+    {
+      "id": 421,
+      "product_id": 112,
+      "is_thumbnail": false,
+      "sort_order": 6,
+      "description": "",
+      "image_file": "y/622/07__09603.png",
+      "url_zoom": "https://cdn11.bigcommerce.com/s-navdn4fsqj/products/112/images/421/07__09603.1779447684.1280.1280.png?c=1",
+      "url_standard": "https://cdn11.bigcommerce.com/s-navdn4fsqj/products/112/images/421/07__09603.1779447684.386.513.png?c=1",
+      "url_thumbnail": "https://cdn11.bigcommerce.com/s-navdn4fsqj/products/112/images/421/07__09603.1779447684.220.290.png?c=1",
+      "url_tiny": "https://cdn11.bigcommerce.com/s-navdn4fsqj/products/112/images/421/07__09603.1779447684.44.58.png?c=1",
+      "date_modified": "2026-05-22T11:01:24+00:00"
+    },
+    {
+      "id": 422,
+      "product_id": 112,
+      "is_thumbnail": false,
+      "sort_order": 7,
+      "description": "",
+      "image_file": "d/631/08__86575.png",
+      "url_zoom": "https://cdn11.bigcommerce.com/s-navdn4fsqj/products/112/images/422/08__86575.1779447686.1280.1280.png?c=1",
+      "url_standard": "https://cdn11.bigcommerce.com/s-navdn4fsqj/products/112/images/422/08__86575.1779447686.386.513.png?c=1",
+      "url_thumbnail": "https://cdn11.bigcommerce.com/s-navdn4fsqj/products/112/images/422/08__86575.1779447686.220.290.png?c=1",
+      "url_tiny": "https://cdn11.bigcommerce.com/s-navdn4fsqj/products/112/images/422/08__86575.1779447686.44.58.png?c=1",
+      "date_modified": "2026-05-22T11:01:26+00:00"
+    },
+    {
+      "id": 423,
+      "product_id": 112,
+      "is_thumbnail": false,
+      "sort_order": 8,
+      "description": "",
+      "image_file": "q/734/09__77170.png",
+      "url_zoom": "https://cdn11.bigcommerce.com/s-navdn4fsqj/products/112/images/423/09__77170.1779447688.1280.1280.png?c=1",
+      "url_standard": "https://cdn11.bigcommerce.com/s-navdn4fsqj/products/112/images/423/09__77170.1779447688.386.513.png?c=1",
+      "url_thumbnail": "https://cdn11.bigcommerce.com/s-navdn4fsqj/products/112/images/423/09__77170.1779447688.220.290.png?c=1",
+      "url_tiny": "https://cdn11.bigcommerce.com/s-navdn4fsqj/products/112/images/423/09__77170.1779447688.44.58.png?c=1",
+      "date_modified": "2026-05-22T11:01:28+00:00"
+    },
+    {
+      "id": 424,
+      "product_id": 112,
+      "is_thumbnail": false,
+      "sort_order": 9,
+      "description": "",
+      "image_file": "x/804/10__04876.png",
+      "url_zoom": "https://cdn11.bigcommerce.com/s-navdn4fsqj/products/112/images/424/10__04876.1779447690.1280.1280.png?c=1",
+      "url_standard": "https://cdn11.bigcommerce.com/s-navdn4fsqj/products/112/images/424/10__04876.1779447690.386.513.png?c=1",
+      "url_thumbnail": "https://cdn11.bigcommerce.com/s-navdn4fsqj/products/112/images/424/10__04876.1779447690.220.290.png?c=1",
+      "url_tiny": "https://cdn11.bigcommerce.com/s-navdn4fsqj/products/112/images/424/10__04876.1779447690.44.58.png?c=1",
+      "date_modified": "2026-05-22T11:01:30+00:00"
+    },
+    {
+      "id": 415,
+      "product_id": 112,
+      "is_thumbnail": true,
+      "sort_order": 0,
+      "description": "",
+      "image_file": "q/583/01__13655.png",
+      "url_zoom": "https://cdn11.bigcommerce.com/s-navdn4fsqj/products/112/images/415/01__13655.1779447672.1280.1280.png?c=1",
+      "url_standard": "https://cdn11.bigcommerce.com/s-navdn4fsqj/products/112/images/415/01__13655.1779447672.386.513.png?c=1",
+      "url_thumbnail": "https://cdn11.bigcommerce.com/s-navdn4fsqj/products/112/images/415/01__13655.1779447672.220.290.png?c=1",
+      "url_tiny": "https://cdn11.bigcommerce.com/s-navdn4fsqj/products/112/images/415/01__13655.1779447672.44.58.png?c=1",
+      "date_modified": "2026-05-22T11:01:12+00:00"
+    }
+  ],
+  "videos": [],
+  "custom_fields": [
+    {
+      "id": 119,
+      "name": "Bubble Size",
+      "value": "3/16 inch"
+    },
+    {
+      "id": 120,
+      "name": "Length",
+      "value": "175 ft"
+    },
+    {
+      "id": 121,
+      "name": "Material",
+      "value": "Polyethylene"
+    }
+  ],
+  "bulk_pricing_rules": [
+    {
+      "id": 128,
+      "quantity_min": 2,
+      "quantity_max": 5,
+      "type": "percent",
+      "amount": 3
+    },
+    {
+      "id": 129,
+      "quantity_min": 6,
+      "quantity_max": 19,
+      "type": "percent",
+      "amount": 8
+    },
+    {
+      "id": 130,
+      "quantity_min": 20,
+      "quantity_max": 0,
+      "type": "percent",
+      "amount": 15
+    }
+  ],
+  "reviews": [
+    {
+      "id": 43,
+      "email": "",
+      "name": "Moving Company",
+      "rating": 5,
+      "text": "Wrapping dishes and glasses. Nothing broke. Good quality.",
+      "title": "Great wrap",
+      "status": "approved",
+      "date_created": "2026-05-22T11:01:32+00:00",
+      "date_modified": "2026-05-22T11:01:32+00:00",
+      "date_reviewed": "2026-01-15T00:00:00+00:00"
+    }
+  ],
+  "options": [
+    {
+      "id": 153,
+      "product_id": 112,
+      "name": "Width1779447658-112",
+      "display_name": "Width",
+      "type": "dropdown",
+      "sort_order": 0,
+      "option_values": [
+        {
+          "id": 192,
+          "label": "12 inch",
+          "sort_order": 0,
+          "value_data": null,
+          "is_default": false
+        },
+        {
+          "id": 193,
+          "label": "24 inch",
+          "sort_order": 1,
+          "value_data": null,
+          "is_default": false
+        }
+      ],
+      "config": []
+    }
+  ],
+  "modifiers": [],
+  "parent_relations": [],
+  "variants": [
+    {
+      "id": 211,
+      "product_id": 112,
+      "sku": "PK-BBL-001-12INC",
+      "sku_id": 221,
+      "price": 28,
+      "calculated_price": 28,
+      "sale_price": null,
+      "retail_price": null,
+      "map_price": null,
+      "fixed_cost_shipping_price": null,
+      "cost_price": 0,
+      "weight": 1.2,
+      "width": null,
+      "height": null,
+      "depth": null,
+      "is_free_shipping": false,
+      "calculated_weight": 1.2,
+      "purchasing_disabled": false,
+      "purchasing_disabled_message": "",
+      "image_url": "",
+      "upc": "",
+      "mpn": "",
+      "gtin": "",
+      "inventory_level": 50,
+      "inventory_warning_level": 0,
+      "bin_picking_number": "",
+      "option_values": [
+        {
+          "id": 192,
+          "label": "12 inch",
+          "option_id": 153,
+          "option_display_name": "Width"
+        }
+      ]
+    },
+    {
+      "id": 212,
+      "product_id": 112,
+      "sku": "PK-BBL-001-24INC",
+      "sku_id": 222,
+      "price": 28,
+      "calculated_price": 28,
+      "sale_price": null,
+      "retail_price": null,
+      "map_price": null,
+      "fixed_cost_shipping_price": null,
+      "cost_price": 0,
+      "weight": 1.2,
+      "width": null,
+      "height": null,
+      "depth": null,
+      "is_free_shipping": false,
+      "calculated_weight": 1.2,
+      "purchasing_disabled": false,
+      "purchasing_disabled_message": "",
+      "image_url": "",
+      "upc": "",
+      "mpn": "",
+      "gtin": "",
+      "inventory_level": 50,
+      "inventory_warning_level": 0,
+      "bin_picking_number": "",
+      "option_values": [
+        {
+          "id": 193,
+          "label": "24 inch",
+          "option_id": 153,
+          "option_display_name": "Width"
+        }
+      ]
+    }
+  ],
+  "category_details": [
+    {
+      "id": 24,
+      "parent_id": 0,
+      "name": "Shop All",
+      "description": "Browse all products in this store",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/shop-all/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 25,
+      "parent_id": 0,
+      "name": "Shipping Boxes",
+      "description": "<p>Corrugated shipping boxes in standard and custom sizes for every shipping need. From small mailer boxes to large heavy-duty cartons — all recyclable.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/shipping-boxes/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 26,
+      "parent_id": 25,
+      "name": "Corrugated Boxes",
+      "description": "<p>Single, double, and triple-wall corrugated boxes rated for specific weights. Available in over 50 standard sizes. Crush-resistant ECT-32 to ECT-44 grades.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/corrugated-boxes/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 27,
+      "parent_id": 25,
+      "name": "Mailer Boxes",
+      "description": "<p>Self-locking mailer boxes ideal for e-commerce, subscription boxes, and retail packaging. Available in kraft, white, and custom-printed designs.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mailer-boxes/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 28,
+      "parent_id": 25,
+      "name": "Heavy Duty Boxes",
+      "description": "<p>Reinforced double-wall corrugated boxes for heavy parts, industrial components, and high-value products. Stackable and palletizable for warehouse storage.</p>",
+      "views": 0,
+      "sort_order": 2,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/heavy-duty-boxes/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 29,
+      "parent_id": 0,
+      "name": "Protective Packaging",
+      "description": "<p>Cushioning, void fill, and surface protection for safe transit. Keep products protected from impact, vibration, and moisture during shipping.</p>",
+      "views": 0,
+      "sort_order": 2,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/protective-packaging/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 30,
+      "parent_id": 29,
+      "name": "Bubble Wrap",
+      "description": "<p>Small, medium, and large bubble cushioning film for wrapping and interleaving. Anti-static bubble for electronics. Perforated rolls for easy dispensing.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bubble-wrap/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 31,
+      "parent_id": 29,
+      "name": "Foam Packaging",
+      "description": "<p>Polyethylene and polyurethane foam sheets, planks, and custom-cut inserts. Closed-cell foam for heavy items, open-cell for cushioning delicate products.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/foam-packaging/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 32,
+      "parent_id": 29,
+      "name": "Packing Peanuts",
+      "description": "<p>Biodegradable starch packing peanuts for void fill. Anti-static loose fill for electronics. Dissolvable in water — easy cleanup and eco-friendly disposal.</p>",
+      "views": 0,
+      "sort_order": 2,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/packing-peanuts/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 33,
+      "parent_id": 0,
+      "name": "Tape & Adhesives",
+      "description": "<p>Packaging tapes, dispensers, and industrial adhesives for secure box sealing. Pressure-sensitive tapes that bond instantly on contact.</p>",
+      "views": 0,
+      "sort_order": 3,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/tape-adhesives/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 34,
+      "parent_id": 33,
+      "name": "Packing Tape",
+      "description": "<p>Clear, tan, and custom-printed packing tape. Acrylic, hot melt, and solvent-based adhesives. 2-inch and 3-inch widths with multiple yardage options.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/packing-tape/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 35,
+      "parent_id": 33,
+      "name": "Masking & Surface Tape",
+      "description": "<p>Masking tapes for surface protection during painting and finishing. Vinyl tapes for floor marking. Temperature-resistant tapes for industrial applications.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/masking-tape/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 36,
+      "parent_id": 0,
+      "name": "Labels & Tags",
+      "description": "<p>Shipping labels, product labels, barcode labels, and price tags. Thermal, laser, and inkjet compatible. Custom printing available.</p>",
+      "views": 0,
+      "sort_order": 4,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/labels/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 37,
+      "parent_id": 36,
+      "name": "Shipping Labels",
+      "description": "<p>Direct thermal and thermal transfer shipping labels compatible with all major carrier label printers. 4x6 standard size. Fanfold and roll formats.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/shipping-labels/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 38,
+      "parent_id": 36,
+      "name": "Product Labels",
+      "description": "<p>Custom product labels on glossy, matte, or Kraft paper. Waterproof vinyl options for outdoor products. Compatible with laser, inkjet, and direct thermal printers.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/product-labels/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 39,
+      "parent_id": 0,
+      "name": "Stretch Wrap",
+      "description": "<p>Hand stretch wrap and machine stretch film for pallet wrapping and unitizing. Cast and blown stretch film with varying gauge strengths for different load types.</p>",
+      "views": 0,
+      "sort_order": 5,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/stretch-film/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 40,
+      "parent_id": 39,
+      "name": "Hand Stretch Film",
+      "description": "<p>18-inch and 20-inch hand stretch rolls for manual pallet wrapping. Cast and blown options. Pre-stretched formulas for easier application and less waste.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/hand-stretch/",
+        "is_customized": true
+      },
+      "image_url": ""
+    }
+  ]
+}

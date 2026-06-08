@@ -2,18 +2,18 @@
 
 This folder lists the demo-data files referenced by the documentation.
 
-!!! warning "These files are placeholders — don't import them directly"
-    The `.json` files in this `samples/` folder are 1-line **stubs**, not real demo data. To make your store match a demo, import via BC Tools using the **Import from the built-in samples** option, which downloads the latest demo JSON automatically. See [Import demo data](../usage/import-demo-data.md) for the full walkthrough.
+!!! warning "These files are ready to import"
+    The **widget** `.json` files are real demo dumps — import via **BC Tools → Import from a widgets JSON file**. The **product** `.json` files each hold one fully-featured example product — import via **BC Tools → Import from a product JSON file**. For the full demo catalog use **BC Tools → Import from the built-in samples**. See [Import demo data](../usage/import-demo-data.md) for the full walkthrough.
 
 | File | Used by | Purpose |
 | ---- | ------- | ------- |
-| `eshopping-industrial-products.json` | [Import demo data](../usage/import-demo-data.md) | Demo products for the Industrial demo; categories and brands are created automatically alongside the products as part of the same import |
-| `eshopping-industrial-widgets.json` | [Import demo data](../usage/import-demo-data.md) | Demo widget content for the Industrial demo |
-| `eshopping-autoparts-products.json` | [Import demo data](../usage/import-demo-data.md) | Demo products for the Auto Parts demo; categories and brands are created automatically alongside the products as part of the same import |
-| `eshopping-autoparts-widgets.json` | [Import demo data](../usage/import-demo-data.md) | Demo widget content for the Auto Parts demo |
-| `eshopping-electronics-products.json` | [Import demo data](../usage/import-demo-data.md) | Demo products for the Electronics demo; categories and brands are created automatically alongside the products as part of the same import |
-| `eshopping-electronics-widgets.json` | [Import demo data](../usage/import-demo-data.md) | Demo widget content for the Electronics demo |
-| `eshopping-packaging-products.json` | [Import demo data](../usage/import-demo-data.md) | Demo products for the Packaging demo; categories and brands are created automatically alongside the products as part of the same import |
-| `eshopping-packaging-widgets.json` | [Import demo data](../usage/import-demo-data.md) | Demo widget content for the Packaging demo |
+| `eshopping-industrial-products.json` | [Import demo data](../usage/import-demo-data.md) | Fully-featured example product for the Industrial demo — import via BC Tools → Import from a product JSON file |
+| `eshopping-industrial-widgets.json` | [Import demo data](../usage/import-demo-data.md) | Real widget dump for the Industrial demo — import directly via BC Tools |
+| `eshopping-autoparts-products.json` | [Import demo data](../usage/import-demo-data.md) | Fully-featured example product for the Auto Parts demo — import via BC Tools → Import from a product JSON file |
+| `eshopping-autoparts-widgets.json` | [Import demo data](../usage/import-demo-data.md) | Real widget dump for the Auto Parts demo — import directly via BC Tools |
+| `eshopping-electronics-products.json` | [Import demo data](../usage/import-demo-data.md) | Fully-featured example product for the Electronics demo — import via BC Tools → Import from a product JSON file |
+| `eshopping-electronics-widgets.json` | [Import demo data](../usage/import-demo-data.md) | Real widget dump for the Electronics demo — import directly via BC Tools |
+| `eshopping-packaging-products.json` | [Import demo data](../usage/import-demo-data.md) | Fully-featured example product for the Packaging demo — import via BC Tools → Import from a product JSON file |
+| `eshopping-packaging-widgets.json` | [Import demo data](../usage/import-demo-data.md) | Real widget dump for the Packaging demo — import directly via BC Tools |
 
-> The real demo JSON is published as part of every theme release and is pulled automatically by BC Tools' **Import from the built-in samples** option. If you need the raw files directly (offline migration, etc.) or a download is out-of-date, email <contact@papathemes.com>.
+> These files are real BC Tools import files (widgets as full dumps, products as single example products). BC Tools' **Import from the built-in samples** option loads the complete demo catalog. For the full raw catalog export (offline migration, etc.) email <contact@papathemes.com>.

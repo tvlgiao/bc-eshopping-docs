@@ -45,7 +45,7 @@ If you don't already have an API token:
 2. Pick your store from the top dropdown.
 3. Choose one of two import modes:
     - **Import from the built-in samples** — pick the variant matching your demo: `eshopping-industrial`, `eshopping-autoparts`, `eshopping-electronics`, or `eshopping-packaging`.
-    - **Import from a product JSON file** — drag in a `.json` file (we send these on request for very large catalogs).
+    - **Import from a product JSON file** — drag in a `.json` file (use a [sample product file](#sample-json-downloads) or your own catalog export).
 4. Start the import.
 
    ![Import product UI](../img/import-product.jpg){ loading=lazy }
@@ -74,7 +74,7 @@ Your product, category, and cart pages get their main look from the theme itself
 4. Confirm your Channel ID is correct, then continue. The demo marketing widgets use the **AI HTML Generator | PapaThemes** widget, which is provided by the **PapaThemes app** — install that app on your store first so the imported widgets render fully.
 5. Choose one of two import modes:
     - **Import from the built-in samples** — pick `eshopping-industrial`, `eshopping-autoparts`, `eshopping-electronics`, or `eshopping-packaging`.
-    - **Import from a widgets JSON file** — drag in a `.json` file if you have a custom dump.
+    - **Import from a widgets JSON file** — drag in a `.json` file (use a [sample widgets file](#sample-json-downloads) or any custom dump).
 6. When the page list appears, leave the defaults selected if you're not sure — they cover everything the demo uses.
 7. Start the import.
 
@@ -86,7 +86,7 @@ Your product, category, and cart pages get their main look from the theme itself
 
 ## Sample JSON downloads
 
-The **Quick Import from Samples** picker in BC Tools downloads the latest demo JSON automatically — you almost never need the raw files. They're listed below only as offline-backup placeholders. The current copies in this docs folder are 1-line stubs; the real JSON is published with each theme release.
+The **Quick Import from Samples** picker in BC Tools downloads the latest demo JSON automatically — you almost never need the raw files. They're listed below for reference and offline use.
 
 | Variation | Product JSON | Widgets JSON |
 | --------- | ------------ | ------------ |
@@ -95,8 +95,8 @@ The **Quick Import from Samples** picker in BC Tools downloads the latest demo J
 | Electronics | [eshopping-electronics-products.json](../samples/eshopping-electronics-products.json) | [eshopping-electronics-widgets.json](../samples/eshopping-electronics-widgets.json) |
 | Packaging | [eshopping-packaging-products.json](../samples/eshopping-packaging-products.json) | [eshopping-packaging-widgets.json](../samples/eshopping-packaging-widgets.json) |
 
-!!! warning "Files in `samples/` are placeholders"
-    The `.json` files in this docs site's `samples/` folder are stubs. Use **BC Tools → Quick Import from Samples** to pull the real demo data. If you need the raw JSON directly (offline migration, etc.), email <contact@papathemes.com>.
+!!! warning "Sample files are ready to import"
+    Both file types are real BC Tools import files. Drag a **Widgets JSON** into **BC Tools → Import from a widgets JSON file**, or a **Product JSON** into **BC Tools → Import from a product JSON file**, to import it directly. Each **Product JSON** holds one fully-featured example product (not the full catalog) — use **BC Tools → Import from the built-in samples** to load the complete demo catalog.
 
 ---
 
