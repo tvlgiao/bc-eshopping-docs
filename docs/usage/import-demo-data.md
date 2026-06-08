@@ -59,14 +59,15 @@ If you don't already have an API token:
 
 ## 3.3 — Import widget content
 
-The demo widgets populate two areas:
+The demo widgets populate three areas:
 
 - **Home-page marketing sections** — five separate sections you can edit individually after import:
     - Below the product sliders: **Why Choose Us**, **Customer Reviews**, and **Resources**.
     - Below the newsletter: **About** and **Talk to an Expert**.
 - **Footer brand/tagline block** — this lives in a global footer region, so it appears site-wide (the same footer tagline shows at the bottom of your home, product, category, cart, and other pages).
+- **Product-page sections** — an FAQ accordion and an info block that appear on every product page.
 
-Your product, category, and cart pages get their main look from the theme itself once it's applied. Apart from the shared footer tagline above, their body content doesn't rely on imported widgets.
+Your category and cart pages get their main look from the theme itself once it's applied — their body content doesn't rely on imported widgets.
 
 1. In BC Tools open the widget-import area in the left menu.
 2. Pick your store from the top dropdown.
@@ -80,7 +81,7 @@ Your product, category, and cart pages get their main look from the theme itself
 
    ![Import widgets UI](../img/import-widgets.jpg){ loading=lazy }
 
-8. Open your storefront in a new tab — your five home-page marketing sections (Why Choose Us, Customer Reviews, Resources, About, Talk to an Expert) and the site-wide footer brand/tagline block should now match the demo. The rest of the storefront (the body of your product, category, and cart pages) is styled by the theme itself, so it will already look like the demo once the theme is applied.
+8. Open your storefront in a new tab — your five home-page marketing sections (Why Choose Us, Customer Reviews, Resources, About, Talk to an Expert), the product-page FAQ and info sections, and the site-wide footer brand/tagline block should now match the demo. Your category and cart page bodies are styled by the theme itself, so they will already look like the demo once the theme is applied.
 
 ---
 
