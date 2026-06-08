@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-08T04:27:20.608Z",
+  "timestamp": "2026-06-08T06:35:11.402Z",
   "storeHash": "v0uhwv1yxm",
   "templates": [
     {
@@ -101,19 +101,6 @@
       "snapshot": {
         "regions": [
           {
-            "name": "product_above_faq--global",
-            "children": [
-              {
-                "widget_template_uuid": "8bf37b8d-ff53-45b4-b946-0200fb717c81",
-                "configuration": {},
-                "storefront_api_query_params": {},
-                "name": "eShopping FAQ Accordion docs test",
-                "description": "",
-                "type": "widget"
-              }
-            ]
-          },
-          {
             "name": "product_below_warranty--global",
             "children": [
               {
@@ -125,6 +112,19 @@
                 },
                 "storefront_api_query_params": {},
                 "name": "eShopping Additional Warranty",
+                "description": "",
+                "type": "widget"
+              }
+            ]
+          },
+          {
+            "name": "product_above_faq--global",
+            "children": [
+              {
+                "widget_template_uuid": "8bf37b8d-ff53-45b4-b946-0200fb717c81",
+                "configuration": {},
+                "storefront_api_query_params": {},
+                "name": "eShopping FAQ Accordion docs test",
                 "description": "",
                 "type": "widget"
               }
