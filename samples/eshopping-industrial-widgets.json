@@ -3,6 +3,64 @@
   "storeHash": "w0rowd2tbb",
   "templates": [
     {
+      "template_file": "",
+      "snapshot": {
+        "regions": [
+          {
+            "name": "eshopping_footer_description--global",
+            "children": [
+              {
+                "widget_template_uuid": "f6b4c498-6563-4122-ae77-ff3ac59c2ce6",
+                "configuration": {
+                  "content": "<span class=\"eshopping-footer-desc-text\">eShopping Industrial Demo — Industrial tools, welding, safety, and shop supplies built to last.</span>",
+                  "showInContainer": false,
+                  "instanceId": ""
+                },
+                "storefront_api_query_params": {},
+                "name": "Footer Tagline (industrial)",
+                "description": "",
+                "type": "widget"
+              }
+            ]
+          },
+          {
+            "name": "product_below_warranty--global",
+            "children": [
+              {
+                "widget_template_uuid": "f6b4c498-6563-4122-ae77-ff3ac59c2ce6",
+                "configuration": {
+                  "content": "<style>.eswarr{border:1px solid var(--eshopping-bark-200);border-radius:var(--eshopping-r-md);overflow:hidden;margin:var(--eshopping-sp-5) 0;background:var(--eshopping-bark-50)}.eswarr__hd{display:flex;align-items:center;gap:var(--eshopping-sp-2);padding:var(--eshopping-sp-3) var(--eshopping-sp-4);font-family:var(--eshopping-font-heading),Georgia,serif;font-weight:700;font-size:1rem;color:var(--eshopping-bark-800);background:var(--eshopping-white);border-bottom:2px solid var(--eshopping-terra)}.eswarr__hd svg{width:1.15rem;height:1.15rem;color:var(--eshopping-terra);flex-shrink:0}.eswarr__grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:var(--eshopping-sp-4);padding:var(--eshopping-sp-5)}.eswarr__item{display:flex;gap:var(--eshopping-sp-3);align-items:flex-start}.eswarr__ic{flex-shrink:0;width:40px;height:40px;display:flex;align-items:center;justify-content:center;border-radius:var(--eshopping-r-sm);background:var(--eshopping-terra-tint);color:var(--eshopping-terra)}.eswarr__ic svg{width:20px;height:20px}.eswarr__tt{margin:0 0 2px;font-weight:700;font-size:0.93rem;line-height:1.3;color:var(--eshopping-bark-800)}.eswarr__tx{margin:0;font-size:0.82rem;line-height:1.5;color:var(--eshopping-bark-600)}.eswarr__note{display:flex;gap:var(--eshopping-sp-2);align-items:center;padding:var(--eshopping-sp-3) var(--eshopping-sp-4);font-size:0.82rem;line-height:1.45;color:var(--eshopping-bark-600);background:var(--eshopping-white);border-top:1px solid var(--eshopping-bark-200)}.eswarr__note svg{width:1rem;height:1rem;color:var(--eshopping-terra);flex-shrink:0}</style><div class=\"eswarr\"><div class=\"eswarr__hd\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z\"/><path d=\"m9 12 2 2 4-4\"/></svg><span>Additional Warranty &amp; Protection</span></div><div class=\"eswarr__grid\"><div class=\"eswarr__item\"><span class=\"eswarr__ic\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z\"/><path d=\"m9 12 2 2 4-4\"/></svg></span><div><p class=\"eswarr__tt\">Manufacturer-Backed Warranty</p><p class=\"eswarr__tx\">Every item carries the full manufacturer warranty against defects in materials and workmanship.</p></div></div><div class=\"eswarr__item\"><span class=\"eswarr__ic\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M3.85 8.62a4 4 0 0 1 4.78-4.77 4 4 0 0 1 6.74 0 4 4 0 0 1 4.78 4.78 4 4 0 0 1 0 6.74 4 4 0 0 1-4.77 4.78 4 4 0 0 1-6.75 0 4 4 0 0 1-4.78-4.77 4 4 0 0 1 0-6.76Z\"/><path d=\"m9 12 2 2 4-4\"/></svg></span><div><p class=\"eswarr__tt\">100% Genuine &amp; Certified</p><p class=\"eswarr__tx\">Sourced only from authorized suppliers and inspected before each item is shipped.</p></div></div><div class=\"eswarr__item\"><span class=\"eswarr__ic\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect width=\"8\" height=\"4\" x=\"8\" y=\"2\" rx=\"1\"/><path d=\"M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2\"/><path d=\"m9 14 2 2 4-4\"/></svg></span><div><p class=\"eswarr__tt\">Fast Online Registration</p><p class=\"eswarr__tx\">Activate your coverage in minutes with your order number — no paperwork to mail.</p></div></div><div class=\"eswarr__item\"><span class=\"eswarr__ic\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M3 12a9 9 0 0 1 15-6.7L21 8\"/><path d=\"M21 3v5h-5\"/><path d=\"M21 12a9 9 0 0 1-15 6.7L3 16\"/><path d=\"M3 21v-5h5\"/></svg></span><div><p class=\"eswarr__tt\">Hassle-Free Replacements</p><p class=\"eswarr__tx\">Approved claims are replaced or refunded quickly, with no restocking fees.</p></div></div></div><div class=\"eswarr__note\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M12 16v-4\"/><path d=\"M12 8h.01\"/></svg><span>Questions about coverage? Contact our support team with your order number and we'll help you get it sorted.</span></div></div>",
+                  "showInContainer": false,
+                  "instanceId": ""
+                },
+                "storefront_api_query_params": {},
+                "name": "eShopping Additional Warranty",
+                "description": "",
+                "type": "widget"
+              }
+            ]
+          },
+          {
+            "name": "product_above_faq--global",
+            "children": [
+              {
+                "widget_template_uuid": "f6b4c498-6563-4122-ae77-ff3ac59c2ce6",
+                "configuration": {
+                  "content": "<style>.esfaq{border:1px solid var(--eshopping-bark-200);border-radius:var(--eshopping-r-md);overflow:hidden;margin:var(--eshopping-sp-5) 0;background:var(--eshopping-white)}.esfaq__hd{padding:var(--eshopping-sp-3) var(--eshopping-sp-4);font-weight:700;font-size:0.93rem;color:var(--eshopping-bark-800);background:var(--eshopping-bark-50);border-bottom:2px solid var(--eshopping-terra)}.esfaq__item{border-top:1px solid var(--eshopping-bark-100)}.esfaq__q{display:flex;justify-content:space-between;align-items:center;gap:var(--eshopping-sp-3);padding:var(--eshopping-sp-3) var(--eshopping-sp-4);font-weight:600;font-size:0.9rem;color:var(--eshopping-bark-800);cursor:pointer;list-style:none}.esfaq__q::-webkit-details-marker{display:none}.esfaq__q::after{content:\"+\";color:var(--eshopping-terra);font-size:1.15rem;line-height:1;flex-shrink:0}.esfaq__item[open] .esfaq__q::after{content:\"\\2212\"}.esfaq__a{padding:0 var(--eshopping-sp-4) var(--eshopping-sp-3);font-size:0.86rem;line-height:1.55;color:var(--eshopping-bark-600)}</style><div class=\"esfaq\" itemscope itemtype=\"https://schema.org/FAQPage\"><div class=\"esfaq__hd\">Frequently Asked Questions</div><details class=\"esfaq__item\" itemscope itemprop=\"mainEntity\" itemtype=\"https://schema.org/Question\"><summary class=\"esfaq__q\" itemprop=\"name\">Does this ship internationally?</summary><div class=\"esfaq__a\" itemprop=\"acceptedAnswer\" itemscope itemtype=\"https://schema.org/Answer\"><span itemprop=\"text\">Yes, we ship worldwide. Shipping is calculated at checkout based on destination.</span></div></details><details class=\"esfaq__item\" itemscope itemprop=\"mainEntity\" itemtype=\"https://schema.org/Question\"><summary class=\"esfaq__q\" itemprop=\"name\">What is the return policy?</summary><div class=\"esfaq__a\" itemprop=\"acceptedAnswer\" itemscope itemtype=\"https://schema.org/Answer\"><span itemprop=\"text\">30-day returns on unused items in their original packaging.</span></div></details><details class=\"esfaq__item\" itemscope itemprop=\"mainEntity\" itemtype=\"https://schema.org/Question\"><summary class=\"esfaq__q\" itemprop=\"name\">How do I track my order?</summary><div class=\"esfaq__a\" itemprop=\"acceptedAnswer\" itemscope itemtype=\"https://schema.org/Answer\"><span itemprop=\"text\">You will get a tracking link by email as soon as your order ships.</span></div></details></div>",
+                  "showInContainer": false,
+                  "instanceId": ""
+                },
+                "storefront_api_query_params": {},
+                "name": "Product FAQ",
+                "description": "",
+                "type": "widget"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
       "template_file": "pages/home",
       "snapshot": {
         "regions": [
@@ -311,64 +369,6 @@
                 },
                 "storefront_api_query_params": {},
                 "name": "Homepage Section (industrial)",
-                "description": "",
-                "type": "widget"
-              }
-            ]
-          },
-          {
-            "name": "eshopping_footer_description--global",
-            "children": [
-              {
-                "widget_template_uuid": "f6b4c498-6563-4122-ae77-ff3ac59c2ce6",
-                "configuration": {
-                  "content": "<span class=\"eshopping-footer-desc-text\">eShopping Industrial Demo — Industrial tools, welding, safety, and shop supplies built to last.</span>",
-                  "showInContainer": false,
-                  "instanceId": ""
-                },
-                "storefront_api_query_params": {},
-                "name": "Footer Tagline (industrial)",
-                "description": "",
-                "type": "widget"
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "template_file": "pages/product",
-      "snapshot": {
-        "regions": [
-          {
-            "name": "product_below_warranty--global",
-            "children": [
-              {
-                "widget_template_uuid": "f6b4c498-6563-4122-ae77-ff3ac59c2ce6",
-                "configuration": {
-                  "content": "<style>.eswarr{border:1px solid var(--eshopping-bark-200);border-radius:var(--eshopping-r-md);overflow:hidden;margin:var(--eshopping-sp-5) 0;background:var(--eshopping-bark-50)}.eswarr__hd{display:flex;align-items:center;gap:var(--eshopping-sp-2);padding:var(--eshopping-sp-3) var(--eshopping-sp-4);font-family:var(--eshopping-font-heading),Georgia,serif;font-weight:700;font-size:1rem;color:var(--eshopping-bark-800);background:var(--eshopping-white);border-bottom:2px solid var(--eshopping-terra)}.eswarr__hd svg{width:1.15rem;height:1.15rem;color:var(--eshopping-terra);flex-shrink:0}.eswarr__grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:var(--eshopping-sp-4);padding:var(--eshopping-sp-5)}.eswarr__item{display:flex;gap:var(--eshopping-sp-3);align-items:flex-start}.eswarr__ic{flex-shrink:0;width:40px;height:40px;display:flex;align-items:center;justify-content:center;border-radius:var(--eshopping-r-sm);background:var(--eshopping-terra-tint);color:var(--eshopping-terra)}.eswarr__ic svg{width:20px;height:20px}.eswarr__tt{margin:0 0 2px;font-weight:700;font-size:0.93rem;line-height:1.3;color:var(--eshopping-bark-800)}.eswarr__tx{margin:0;font-size:0.82rem;line-height:1.5;color:var(--eshopping-bark-600)}.eswarr__note{display:flex;gap:var(--eshopping-sp-2);align-items:center;padding:var(--eshopping-sp-3) var(--eshopping-sp-4);font-size:0.82rem;line-height:1.45;color:var(--eshopping-bark-600);background:var(--eshopping-white);border-top:1px solid var(--eshopping-bark-200)}.eswarr__note svg{width:1rem;height:1rem;color:var(--eshopping-terra);flex-shrink:0}</style><div class=\"eswarr\"><div class=\"eswarr__hd\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z\"/><path d=\"m9 12 2 2 4-4\"/></svg><span>Additional Warranty &amp; Protection</span></div><div class=\"eswarr__grid\"><div class=\"eswarr__item\"><span class=\"eswarr__ic\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z\"/><path d=\"m9 12 2 2 4-4\"/></svg></span><div><p class=\"eswarr__tt\">Manufacturer-Backed Warranty</p><p class=\"eswarr__tx\">Every item carries the full manufacturer warranty against defects in materials and workmanship.</p></div></div><div class=\"eswarr__item\"><span class=\"eswarr__ic\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M3.85 8.62a4 4 0 0 1 4.78-4.77 4 4 0 0 1 6.74 0 4 4 0 0 1 4.78 4.78 4 4 0 0 1 0 6.74 4 4 0 0 1-4.77 4.78 4 4 0 0 1-6.75 0 4 4 0 0 1-4.78-4.77 4 4 0 0 1 0-6.76Z\"/><path d=\"m9 12 2 2 4-4\"/></svg></span><div><p class=\"eswarr__tt\">100% Genuine &amp; Certified</p><p class=\"eswarr__tx\">Sourced only from authorized suppliers and inspected before each item is shipped.</p></div></div><div class=\"eswarr__item\"><span class=\"eswarr__ic\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect width=\"8\" height=\"4\" x=\"8\" y=\"2\" rx=\"1\"/><path d=\"M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2\"/><path d=\"m9 14 2 2 4-4\"/></svg></span><div><p class=\"eswarr__tt\">Fast Online Registration</p><p class=\"eswarr__tx\">Activate your coverage in minutes with your order number — no paperwork to mail.</p></div></div><div class=\"eswarr__item\"><span class=\"eswarr__ic\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M3 12a9 9 0 0 1 15-6.7L21 8\"/><path d=\"M21 3v5h-5\"/><path d=\"M21 12a9 9 0 0 1-15 6.7L3 16\"/><path d=\"M3 21v-5h5\"/></svg></span><div><p class=\"eswarr__tt\">Hassle-Free Replacements</p><p class=\"eswarr__tx\">Approved claims are replaced or refunded quickly, with no restocking fees.</p></div></div></div><div class=\"eswarr__note\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M12 16v-4\"/><path d=\"M12 8h.01\"/></svg><span>Questions about coverage? Contact our support team with your order number and we'll help you get it sorted.</span></div></div>",
-                  "showInContainer": false,
-                  "instanceId": ""
-                },
-                "storefront_api_query_params": {},
-                "name": "eShopping Additional Warranty",
-                "description": "",
-                "type": "widget"
-              }
-            ]
-          },
-          {
-            "name": "product_above_faq--global",
-            "children": [
-              {
-                "widget_template_uuid": "f6b4c498-6563-4122-ae77-ff3ac59c2ce6",
-                "configuration": {
-                  "content": "<style>.esfaq{border:1px solid var(--eshopping-bark-200);border-radius:var(--eshopping-r-md);overflow:hidden;margin:var(--eshopping-sp-5) 0;background:var(--eshopping-white)}.esfaq__hd{padding:var(--eshopping-sp-3) var(--eshopping-sp-4);font-weight:700;font-size:0.93rem;color:var(--eshopping-bark-800);background:var(--eshopping-bark-50);border-bottom:2px solid var(--eshopping-terra)}.esfaq__item{border-top:1px solid var(--eshopping-bark-100)}.esfaq__q{display:flex;justify-content:space-between;align-items:center;gap:var(--eshopping-sp-3);padding:var(--eshopping-sp-3) var(--eshopping-sp-4);font-weight:600;font-size:0.9rem;color:var(--eshopping-bark-800);cursor:pointer;list-style:none}.esfaq__q::-webkit-details-marker{display:none}.esfaq__q::after{content:\"+\";color:var(--eshopping-terra);font-size:1.15rem;line-height:1;flex-shrink:0}.esfaq__item[open] .esfaq__q::after{content:\"\\2212\"}.esfaq__a{padding:0 var(--eshopping-sp-4) var(--eshopping-sp-3);font-size:0.86rem;line-height:1.55;color:var(--eshopping-bark-600)}</style><div class=\"esfaq\" itemscope itemtype=\"https://schema.org/FAQPage\"><div class=\"esfaq__hd\">Frequently Asked Questions</div><details class=\"esfaq__item\" itemscope itemprop=\"mainEntity\" itemtype=\"https://schema.org/Question\"><summary class=\"esfaq__q\" itemprop=\"name\">Does this ship internationally?</summary><div class=\"esfaq__a\" itemprop=\"acceptedAnswer\" itemscope itemtype=\"https://schema.org/Answer\"><span itemprop=\"text\">Yes, we ship worldwide. Shipping is calculated at checkout based on destination.</span></div></details><details class=\"esfaq__item\" itemscope itemprop=\"mainEntity\" itemtype=\"https://schema.org/Question\"><summary class=\"esfaq__q\" itemprop=\"name\">What is the return policy?</summary><div class=\"esfaq__a\" itemprop=\"acceptedAnswer\" itemscope itemtype=\"https://schema.org/Answer\"><span itemprop=\"text\">30-day returns on unused items in their original packaging.</span></div></details><details class=\"esfaq__item\" itemscope itemprop=\"mainEntity\" itemtype=\"https://schema.org/Question\"><summary class=\"esfaq__q\" itemprop=\"name\">How do I track my order?</summary><div class=\"esfaq__a\" itemprop=\"acceptedAnswer\" itemscope itemtype=\"https://schema.org/Answer\"><span itemprop=\"text\">You will get a tracking link by email as soon as your order ships.</span></div></details></div>",
-                  "showInContainer": false,
-                  "instanceId": ""
-                },
-                "storefront_api_query_params": {},
-                "name": "Product FAQ",
                 "description": "",
                 "type": "widget"
               }
