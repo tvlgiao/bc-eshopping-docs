@@ -1,0 +1,2457 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Step-by-step setup guide for the eShopping BigCommerce theme by PapaThemes — install, configure, and clone any of the 4 demo stores (Industrial, Auto Parts, Electronics, Packaging).">
+      
+      
+        <meta name="author" content="PapaThemes">
+      
+      
+        <link rel="canonical" href="https://bc-eshopping-docs.papathemes.com/usage/product.html">
+      
+      
+        <link rel="prev" href="home-packaging.html">
+      
+      
+        <link rel="next" href="product-card.html">
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.0, mkdocs-material-9.6.9">
+    
+    
+      
+        <title>Product Page (PDP) - eShopping BigCommerce Theme User Guide</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.4af4bdda.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+3:300,300i,400,400i,700,700i%7CIBM+Plex+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Source Sans 3";--md-code-font:"IBM Plex Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../css/style.css">
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#product-page-pdp" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../index.html" title="eShopping BigCommerce Theme User Guide" class="md-header__button md-logo" aria-label="eShopping BigCommerce Theme User Guide" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            eShopping BigCommerce Theme User Guide
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Product Page (PDP)
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme)" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h4v-1.9H7c-1.71 0-3.1-1.39-3.1-3.1M8 13h8v-2H8zm9-6h-4v1.9h4c1.71 0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4a5 5 0 0 0 5-5 5 5 0 0 0-5-5"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="deep-orange" data-md-color-accent="deep-orange"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="black" data-md-color-accent="deep-orange"  aria-label="Switch to system preference"  type="radio" name="__palette" id="__palette_2">
+    
+      <label class="md-header__button md-icon" title="Switch to system preference" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5M7 15a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+          <a href="javascript:void(0)" class="md-search__icon md-icon" title="Share" aria-label="Share" data-clipboard data-clipboard-text="" data-md-component="search-share" tabindex="-1">
+            
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66 0 1.61 1.31 2.91 2.92 2.91s2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08"/></svg>
+          </a>
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../index.html" class="md-tabs__link">
+        
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="get-started.html" class="md-tabs__link">
+          
+  
+    
+  
+  Getting Started
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="theme-editor-tour.html" class="md-tabs__link">
+          
+  
+    
+  
+  Theme Editor (Page Builder)
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="home-overview.html" class="md-tabs__link">
+          
+  
+    
+  
+  Home Page Setup
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="product.html" class="md-tabs__link">
+          
+  
+    
+  
+  Product Page
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="category.html" class="md-tabs__link">
+          
+  
+    
+  
+  Category & Brand Pages
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="cart.html" class="md-tabs__link">
+          
+  
+    
+  
+  Other Pages
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="widgets-papathemes.html" class="md-tabs__link">
+          
+  
+    
+  
+  Widgets
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="urgency-and-recent-sales.html" class="md-tabs__link">
+          
+  
+    
+  
+  Marketing Features
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../update.html" class="md-tabs__link">
+        
+  
+    
+  
+  Update Guide
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../faqs.html" class="md-tabs__link">
+        
+  
+    
+  
+  FAQs
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../support.html" class="md-tabs__link">
+        
+  
+    
+  
+  Support
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../changelog.html" class="md-tabs__link">
+        
+  
+    
+  
+  Release Notes
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../index.html" title="eShopping BigCommerce Theme User Guide" class="md-nav__button md-logo" aria-label="eShopping BigCommerce Theme User Guide" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    eShopping BigCommerce Theme User Guide
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../index.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Getting Started
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Getting Started
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="get-started.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Get Started
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="install-theme.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Step 1 — Install the eShopping Theme
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="choose-variant.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Step 2 — Choose Your Variant
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="import-demo-data.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Step 3 — Import Demo Products &amp; Widgets
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Theme Editor (Page Builder)
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Theme Editor (Page Builder)
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="theme-editor-tour.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Theme Editor (Page Builder) Tour
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="colors-and-fonts.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Colors &amp; Fonts
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="header-and-topbar.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Header &amp; Top Bar
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="footer.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Footer
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="sidebar.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sidebar
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Home Page Setup
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Home Page Setup
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="home-overview.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home Page — Overview
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="home-industrial.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home Page — Industrial Variant
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="home-autoparts.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home Page — Auto Parts Variant
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="home-electronics.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home Page — Electronics Variant
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="home-packaging.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home Page — Packaging Variant
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+        
+        
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Product Page
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Product Page
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Product Page (PDP)
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="product.html" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Product Page (PDP)
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#image-gallery" class="md-nav__link">
+    <span class="md-ellipsis">
+      Image gallery
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Image gallery">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#image-sizes" class="md-nav__link">
+    <span class="md-ellipsis">
+      Image sizes
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#videos" class="md-nav__link">
+    <span class="md-ellipsis">
+      Videos
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#title-brand-sku-rating" class="md-nav__link">
+    <span class="md-ellipsis">
+      Title, brand, SKU, rating
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#price-sale-badges" class="md-nav__link">
+    <span class="md-ellipsis">
+      Price + sale badges
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Price + sale badges">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#staff-pick-badge-colour" class="md-nav__link">
+    <span class="md-ellipsis">
+      Staff Pick badge colour
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#variants-swatches" class="md-nav__link">
+    <span class="md-ellipsis">
+      Variants — swatches
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#add-to-cart-sticky-mobile-atc" class="md-nav__link">
+    <span class="md-ellipsis">
+      Add to Cart + sticky mobile ATC
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Add to Cart + sticky mobile ATC">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#quick-payment-buttons" class="md-nav__link">
+    <span class="md-ellipsis">
+      Quick payment buttons
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#compare" class="md-nav__link">
+    <span class="md-ellipsis">
+      Compare
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#shipping-text-warranty-text" class="md-nav__link">
+    <span class="md-ellipsis">
+      Shipping text + Warranty text
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#pdp-tabs" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tabs (Description · Videos · Specs · Warranty · FAQ · Reviews)
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Tabs (Description · Videos · Specs · Warranty · FAQ · Reviews)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#adding-shipping-returns-or-other-content-to-every-pdp" class="md-nav__link">
+    <span class="md-ellipsis">
+      Adding "Shipping &amp; Returns" or other content to every PDP
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#customizing-the-specifications-tab-label" class="md-nav__link">
+    <span class="md-ellipsis">
+      Customizing the Specifications tab label
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#frequently-bought-together-fbt" class="md-nav__link">
+    <span class="md-ellipsis">
+      Frequently Bought Together (FBT)
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#related-products" class="md-nav__link">
+    <span class="md-ellipsis">
+      Related products
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Related products">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#customers-also-viewed" class="md-nav__link">
+    <span class="md-ellipsis">
+      Customers Also Viewed
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#urgency-strips" class="md-nav__link">
+    <span class="md-ellipsis">
+      Urgency strips
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#quick-view-button" class="md-nav__link">
+    <span class="md-ellipsis">
+      Quick view button
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#stock-availability-rating-bars-automatic" class="md-nav__link">
+    <span class="md-ellipsis">
+      Stock availability &amp; rating bars (automatic)
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#product-page-settings-in-the-demo-stores" class="md-nav__link">
+    <span class="md-ellipsis">
+      Product page settings in the demo stores
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#next" class="md-nav__link">
+    <span class="md-ellipsis">
+      Next
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="product-card.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Product Card
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="product-fbt.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Frequently Bought Together (FBT)
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="product-faq.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Product FAQs Tab
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="product-warranty.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Product Warranty Tab
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Category & Brand Pages
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Category & Brand Pages
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="category.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Category Page
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="brand.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Brand Pages
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="bulk-order.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Bulk Order Mode
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Other Pages
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            Other Pages
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="cart.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cart Page
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="search.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Search
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="keyword-suggestions.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Quick Search — Keyword Suggestions
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="blog.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Blog
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="static-pages.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Static Pages (About / Contact / Privacy / Returns)
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Widgets
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8">
+            <span class="md-nav__icon md-icon"></span>
+            Widgets
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="widgets-papathemes.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Demo Marketing Blocks
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="widgets-html.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    AI HTML Generator (PapaThemes)
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="widget-regions.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Widget Regions Reference
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9" >
+        
+          
+          <label class="md-nav__link" for="__nav_9" id="__nav_9_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Marketing Features
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_9_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9">
+            <span class="md-nav__icon md-icon"></span>
+            Marketing Features
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="urgency-and-recent-sales.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Urgency Strips &amp; Recent-Sales Toasts
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="popups.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Popups (Newsletter / Promotion / Exit-Intent)
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="promotions.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Promotions &amp; Discounts
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../update.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Update Guide
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../faqs.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    FAQs
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../support.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Support
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../changelog.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Release Notes
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="product-page-pdp">Product Page (PDP)<a class="headerlink" href="#product-page-pdp" title="Permanent link">&para;</a></h1>
+<p>The Product Detail Page is the most important page on your storefront — most stores see 60-80% of sessions touch it. eShopping's PDP is composed of these zones:</p>
+<div class="pdpwire" aria-hidden="true"><div class="pdpwire__bar">Breadcrumbs</div><div class="pdpwire__cols"><div class="pdpwire__zone pdpwire__gallery"><div class="pdpwire__thumbs"><span></span><span></span><span></span><span></span></div><div class="pdpwire__main">Image gallery<small>thumbnails · main image · lightbox zoom</small></div></div><div class="pdpwire__zone pdpwire__info"><div class="pdpwire__skel pdpwire__skel--brand"></div><div class="pdpwire__skel pdpwire__skel--title"></div><div class="pdpwire__row"><span class="pdpwire__chip">SKU</span><span class="pdpwire__chip">★ Rating</span></div><div class="pdpwire__skel pdpwire__skel--price"></div><div class="pdpwire__row"><span class="pdpwire__chip">Stock badge</span><span class="pdpwire__chip">Urgency strip</span></div><div class="pdpwire__row"><span class="pdpwire__sw"></span><span class="pdpwire__sw"></span><span class="pdpwire__sw"></span><span class="pdpwire__sw"></span><small>variants (color / size)</small></div><div class="pdpwire__row"><span class="pdpwire__qty">Qty</span><span class="pdpwire__cta">Add to Cart</span></div><div class="pdpwire__row"><span class="pdpwire__chip">Wishlist</span><span class="pdpwire__chip">Compare</span></div><div class="pdpwire__row"><span class="pdpwire__chip">Shipping</span><span class="pdpwire__chip">Returns</span><span class="pdpwire__chip">Warranty</span></div></div></div><div class="pdpwire__bar">Frequently Bought Together&nbsp; <small>bundle 1–3 items · optional %</small></div><div class="pdpwire__tabs"><span class="pdpwire__tab pdpwire__tab--active">Description</span><span class="pdpwire__tab">Videos</span><span class="pdpwire__tab">Specs</span><span class="pdpwire__tab">Warranty</span><span class="pdpwire__tab">FAQ</span><span class="pdpwire__tab">Reviews</span></div><div class="pdpwire__bar">Related products</div><div class="pdpwire__bar pdpwire__bar--mobile">Mobile sticky Add-to-Cart <small>· mobile only · on scroll</small></div></div>
+
+<p>This page covers each zone. For the <strong>product card</strong> that appears in sliders and category grids, see <a href="product-card.html">Product card</a>.</p>
+<hr />
+<h2 id="image-gallery">Image gallery<a class="headerlink" href="#image-gallery" title="Permanent link">&para;</a></h2>
+<p>The gallery shows the main image with a <strong>horizontal thumbnail strip below it</strong>. There is one thumbnail per uploaded product image, so the strip grows with the number of photos you add. Click the main image for a fullscreen lightbox with zoom (scroll-wheel, double-tap, or pinch).</p>
+<p><img alt="PDP image gallery — main image, thumbnail strip, sale badge" loading="lazy" src="../img/pdp-gallery.png" /></p>
+<h3 id="image-sizes">Image sizes<a class="headerlink" href="#image-sizes" title="Permanent link">&para;</a></h3>
+<!--te-lead:U2V0IGluICoqVGhlbWUgRWRpdG9yIOKGkiBQcm9kdWN0cyDihpIgSW1hZ2Ugc2l6ZXMqKjoN-->
+
+<!--te-tbl:fCBTZXR0aW5nIHwgaWQgfCBVc2VkIGZvciB8IERlZmF1bHQgfA0KfCAtLS0tLS0tIHwgLS0gfCAtLS0tLS0tLSB8IC0tLS0tLS0gfA0KfCBNYWluIHByb2R1Y3QgaW1hZ2VzIHwgYHByb2R1Y3Rfc2l6ZWAgfCBNYWluIGdhbGxlcnkgaW1hZ2UgfCBgMTUwMHgxNTAwYCB8DQp8IFRodW1ibmFpbCBpbWFnZSBpbiBwcm9kdWN0IHBhZ2UgfCBgcHJvZHVjdHZpZXdfdGh1bWJfc2l6ZWAgfCBHYWxsZXJ5IHRodW1ibmFpbHMgfCBgMTAweDEwMGAgfA0KfCBab29tZWQgaW1hZ2UgfCBgem9vbV9zaXplYCB8IExpZ2h0Ym94IHpvb20gfCBgMjAwMHgyMDAwYCB8DQp8IEltYWdlIGluIGdhbGxlcnkgdmlldyB8IGBwcm9kdWN0Z2FsbGVyeV9zaXplYCB8IENhcmQgc2xpZGVycyAocHJvZHVjdCBncmlkIGFuZCBzbGlkZXJzKSB8IGAxNTAweDE1MDBgIHwN-->
+
+<p>These settings tell the theme the maximum render size; BigCommerce downscales each uploaded photo to fit.</p>
+<!--te-src:PiAqKkN1c3RvbWl6ZToqKiBUaGVtZSBFZGl0b3Ig4oaSICpQcm9kdWN0cyog4oaSICoqSW1hZ2Ugc2l6ZXMqKiAoaGVhZGluZykg4oaSIHRoZSBmaWVsZCBhYm92ZS4gRWFjaCBpcyBhbiBpbWFnZS1kaW1lbnNpb24gcGlja2VyOiBjaG9vc2UgKk9wdGltaXplZCBmb3IgdGhlbWUqIG9yICpTcGVjaWZ5IGRpbWVuc2lvbnMqIGFuZCBlbnRlciBgV0lEVEh4SEVJR0hUYCAoZS5nLiBgMTUwMHgxNTAwYCkuIEZvcm1hdDogYFd4SGAgaW4gcGl4ZWxzLg0=-->
+<!--te-src:PiAqKkN1c3RvbWl6ZSAodGhlIHBob3RvcyB0aGVtc2VsdmVzKToqKiBCaWdDb21tZXJjZSBhZG1pbiDihpIgQ2F0YWxvZyDihpIgUHJvZHVjdHMg4oaSIChwcm9kdWN0KSDihpIgSW1hZ2VzLiAoTm90IGEgdGhlbWUgc2V0dGluZy4pIFRoZSBnYWxsZXJ5LCB0aHVtYm5haWwgc3RyaXAgYW5kIGxpZ2h0Ym94IGFyZSBhdXRvbWF0aWMg4oCUIHRoZXJlIGlzICoqbm8qKiBUaGVtZSBFZGl0b3IgdG9nZ2xlIGZvciB0aGUgdGh1bWJuYWlsIGxheW91dCwgbGlnaHRib3ggb3Igem9vbTsgdGhleSByZW5kZXIgZnJvbSB5b3VyIHVwbG9hZGVkIGltYWdlcy4N-->
+<!--te-mock-->
+<div class="te-mock"><div class="te-mock__hd"><span>Products</span><span class="te-x">✕</span></div><div class="te-mock__grp">Image sizes</div><div class="te-mock__row"><span class="te-fld"><span class="te-lbl">Main product images</span><span class="te-desc">Main gallery image</span></span><span class="te-dd"><span class="te-dd__v">1500x1500</span><span class="te-dd__b">▾</span></span></div><div class="te-mock__row"><span class="te-fld"><span class="te-lbl">Thumbnail image in product page</span><span class="te-desc">Gallery thumbnails</span></span><span class="te-dd"><span class="te-dd__v">100x100</span><span class="te-dd__b">▾</span></span></div><div class="te-mock__row"><span class="te-fld"><span class="te-lbl">Zoomed image</span><span class="te-desc">Lightbox zoom</span></span><span class="te-dd"><span class="te-dd__v">2000x2000</span><span class="te-dd__b">▾</span></span></div><div class="te-mock__row"><span class="te-fld"><span class="te-lbl">Image in gallery view</span><span class="te-desc">Card sliders</span></span><span class="te-dd"><span class="te-dd__v">1500x1500</span><span class="te-dd__b">▾</span></span></div></div>
+<!--te-mock-->
+<div class="te-mock te-nav"><div class="te-nav__brand">BigCommerce admin</div><div class="te-nav__top"><span>Home</span></div><div class="te-nav__top"><span>Orders</span></div><div class="te-nav__top is-open"><span>Products</span><span class="te-nav__chev">⌃</span></div><div class="te-nav__sub">All products</div><div class="te-nav__sub">Add</div><div class="te-nav__sub">Categories</div><div class="te-nav__sub">Options</div><div class="te-nav__sub">Filtering</div><div class="te-nav__sub">Reviews</div><div class="te-nav__sub">Brands</div><div class="te-nav__sub">Import</div><div class="te-nav__sub">Export</div><div class="te-nav__sub is-active">Products</div><div class="te-nav__top"><span>Customers</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top"><span>Storefront</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top"><span>Marketing</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top"><span>Analytics</span></div><div class="te-nav__top"><span>Settings</span><span class="te-nav__chev">⌄</span></div></div>
+
+<div class="admonition warning">
+<p class="admonition-title">Always upload large, square images</p>
+<p>Upload high-resolution square PNG/JPG (e.g. 1500×1500). BigCommerce can downscale for thumbnails and product cards but cannot upscale. A square shape avoids cropping surprises across the gallery and card layouts.</p>
+</div>
+<h3 id="videos">Videos<a class="headerlink" href="#videos" title="Permanent link">&para;</a></h3>
+<p>Product videos are <strong>YouTube videos</strong>, not uploaded files. Add them in <strong>Catalog → Products → (product) → Videos</strong> by pasting a YouTube URL (or video ID). They do not appear inside the image gallery — they render in the dedicated <strong>Videos</strong> tab below the gallery (see <a href="#pdp-tabs">Tabs</a>).</p>
+<!--te-src:PiAqKkN1c3RvbWl6ZToqKiBCaWdDb21tZXJjZSBhZG1pbiDihpIgQ2F0YWxvZyDihpIgUHJvZHVjdHMg4oaSIChwcm9kdWN0KSDihpIgVmlkZW9zLiAoTm90IGEgdGhlbWUgc2V0dGluZyDigJQgdGhlIFZpZGVvcyB0YWIgYXBwZWFycyBhdXRvbWF0aWNhbGx5IHdoZW4gdGhlIHByb2R1Y3QgaGFzIGF0IGxlYXN0IG9uZSB2aWRlby4pDQ==-->
+<!--te-mock-->
+<div class="te-mock te-nav"><div class="te-nav__brand">BigCommerce admin</div><div class="te-nav__top"><span>Home</span></div><div class="te-nav__top"><span>Orders</span></div><div class="te-nav__top is-open"><span>Products</span><span class="te-nav__chev">⌃</span></div><div class="te-nav__sub">All products</div><div class="te-nav__sub">Add</div><div class="te-nav__sub">Categories</div><div class="te-nav__sub">Options</div><div class="te-nav__sub">Filtering</div><div class="te-nav__sub">Reviews</div><div class="te-nav__sub">Brands</div><div class="te-nav__sub">Import</div><div class="te-nav__sub">Export</div><div class="te-nav__sub is-active">Products</div><div class="te-nav__top"><span>Customers</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top"><span>Storefront</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top"><span>Marketing</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top"><span>Analytics</span></div><div class="te-nav__top"><span>Settings</span><span class="te-nav__chev">⌄</span></div></div>
+
+<hr />
+<h2 id="title-brand-sku-rating">Title, brand, SKU, rating<a class="headerlink" href="#title-brand-sku-rating" title="Permanent link">&para;</a></h2>
+<p>These come straight from the product record (Catalog → Products → edit). Brand is shown only if you've assigned one. Rating shows the average of all approved reviews.</p>
+<!--te-src:PiAqKkN1c3RvbWl6ZSAodGhlIGRhdGEpOioqIEJpZ0NvbW1lcmNlIGFkbWluIOKGkiBDYXRhbG9nIOKGkiBQcm9kdWN0cyDihpIgKHByb2R1Y3QpIOKAlCBOYW1lLCBTS1UsIEJyYW5kLCBXZWlnaHQsIERpbWVuc2lvbnMuIChOb3QgdGhlbWUgc2V0dGluZ3Mg4oCUIHRoZXkgZGlzcGxheSB0aGUgcHJvZHVjdCByZWNvcmQuKQ0=-->
+<!--te-mock-->
+<div class="te-mock te-nav"><div class="te-nav__brand">BigCommerce admin</div><div class="te-nav__top"><span>Home</span></div><div class="te-nav__top"><span>Orders</span></div><div class="te-nav__top is-open"><span>Products</span><span class="te-nav__chev">⌃</span></div><div class="te-nav__sub">All products</div><div class="te-nav__sub">Add</div><div class="te-nav__sub">Categories</div><div class="te-nav__sub">Options</div><div class="te-nav__sub">Filtering</div><div class="te-nav__sub">Reviews</div><div class="te-nav__sub">Brands</div><div class="te-nav__sub">Import</div><div class="te-nav__sub">Export</div><div class="te-nav__sub is-active">Products</div><div class="te-nav__top"><span>Customers</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top"><span>Storefront</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top"><span>Marketing</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top"><span>Analytics</span></div><div class="te-nav__top"><span>Settings</span><span class="te-nav__chev">⌄</span></div></div>
+
+<p><strong>Weight</strong> is gated in two places — both must be on, and the value itself comes from the product record (Catalog → Products → product → Weight). <strong>Dimensions</strong> has no global toggle; it is theme-only.</p>
+<p>First the store-wide switch in <strong>BigCommerce admin → Settings → Product Settings</strong>:</p>
+<div class="te-adminform"><div class="te-af__hd">Product Settings</div><div class="te-af__row"><span class="te-af__lbl">Show Product's Price?</span><span class="te-af__ctrl"><span class="te-af__cb is-on"></span><span class="te-af__hint">Yes, show the product's price in my store</span></span></div><div class="te-af__row"><span class="te-af__lbl">Show Product's SKU?</span><span class="te-af__ctrl"><span class="te-af__cb is-on"></span><span class="te-af__hint">Yes, show the product's SKU in my store</span></span></div><div class="te-af__row is-focus"><span class="te-af__lbl">Show Product's Weight?</span><span class="te-af__ctrl"><span class="te-af__cb is-on"></span><span class="te-af__hint">Yes, show the product's weight in my store</span></span></div><div class="te-af__row"><span class="te-af__lbl">Show Product's Brand?</span><span class="te-af__ctrl"><span class="te-af__cb is-on"></span><span class="te-af__hint">Yes, show the product's brand in my store</span></span></div><div class="te-af__row"><span class="te-af__lbl">Show Product's Rating?</span><span class="te-af__ctrl"><span class="te-af__cb is-on"></span><span class="te-af__hint">Yes, show the product's rating in my store</span></span></div></div>
+
+<p>Then eShopping's own display checkboxes:</p>
+<!--te-lead:KipUaGVtZSBFZGl0b3Ig4oaSIFByb2R1Y3RzIOKGkiBEaXNwbGF5IHNldHRpbmdzKio6DQ==-->
+
+<!--te-tbl:fCBTZXR0aW5nIHwgaWQgfCBFZmZlY3QgfCBEZWZhdWx0IHwNCnwgLS0tLS0tLSB8IC0tIHwgLS0tLS0tIHwgLS0tLS0tLSB8DQp8IFNob3cgcHJvZHVjdCB3ZWlnaHQgfCBgc2hvd19wcm9kdWN0X3dlaWdodGAgfCBTaG93IHdlaWdodCB1bmRlciB0aGUgdGl0bGUgfCBgdHJ1ZWAgfA0KfCBTaG93IHByb2R1Y3QgZGltZW5zaW9ucyB8IGBzaG93X3Byb2R1Y3RfZGltZW5zaW9uc2AgfCBTaG93IEjDl1fDl0QgdW5kZXIgdGhlIHRpdGxlIHwgYGZhbHNlYCB8DQ==-->
+
+<!--te-src:PiAqKkN1c3RvbWl6ZToqKiBUaGVtZSBFZGl0b3Ig4oaSICpQcm9kdWN0cyog4oaSICoqU2hvdyBwcm9kdWN0IHdlaWdodCoqIC8gKipTaG93IHByb2R1Y3QgZGltZW5zaW9ucyoqIChjaGVja2JveGVzLCB1bmRlciB0aGUgKkRpc3BsYXkgc2V0dGluZ3MqIGhlYWRpbmcpLiBGb3JtYXQ6IG9uL29mZi4gRGVmYXVsdHM6IHdlaWdodCBgdHJ1ZWAsIGRpbWVuc2lvbnMgYGZhbHNlYC4N-->
+<!--te-mock-->
+<div class="te-mock"><div class="te-mock__hd"><span>Products</span><span class="te-x">✕</span></div><div class="te-mock__grp">Display settings</div><div class="te-mock__row"><span class="te-fld"><span class="te-lbl">Show product weight</span><span class="te-desc">Show weight under the title</span></span><span class="te-cb is-on"></span></div><div class="te-mock__row"><span class="te-fld"><span class="te-lbl">Show product dimensions</span><span class="te-desc">Show H×W×D under the title</span></span><span class="te-cb"></span></div></div>
+
+<hr />
+<h2 id="price-sale-badges">Price + sale badges<a class="headerlink" href="#price-sale-badges" title="Permanent link">&para;</a></h2>
+<p><img alt="PDP price — sale price, struck original, &quot;You save&quot; amount, sale badge" loading="lazy" src="../img/pdp-price.png" /></p>
+<p>eShopping shows:</p>
+<ul>
+<li><strong>Sale price</strong> (or regular if no sale) in the Terra colour</li>
+<li><strong>Original price</strong> struck-through to the right (only if on sale)</li>
+<li><strong>Sale badge</strong> as a coloured pill on the image (see below)</li>
+</ul>
+<!--te-src:PiAqKkN1c3RvbWl6ZSAodGhlIHByaWNlcyk6KiogQmlnQ29tbWVyY2UgYWRtaW4g4oaSIENhdGFsb2cg4oaSIFByb2R1Y3RzIOKGkiAocHJvZHVjdCkg4oaSIFByaWNpbmcg4oCUIERlZmF1bHQgUHJpY2UsIFNhbGUgUHJpY2UsIE1TUlAgLyBSZXRhaWwgcHJpY2UuIChOb3QgdGhlbWUgc2V0dGluZ3MuKSBUaGUgc2FsZSBwcmljZS9zdHJ1Y2stdGhyb3VnaCBvcmlnaW5hbCBhcmUgZHJpdmVuIGVudGlyZWx5IGJ5IHlvdXIgUHJpY2luZyBmaWVsZHMuDQ==-->
+<!--te-mock-->
+<div class="te-mock te-nav"><div class="te-nav__brand">BigCommerce admin</div><div class="te-nav__top"><span>Home</span></div><div class="te-nav__top"><span>Orders</span></div><div class="te-nav__top is-open"><span>Products</span><span class="te-nav__chev">⌃</span></div><div class="te-nav__sub">All products</div><div class="te-nav__sub">Add</div><div class="te-nav__sub">Categories</div><div class="te-nav__sub">Options</div><div class="te-nav__sub">Filtering</div><div class="te-nav__sub">Reviews</div><div class="te-nav__sub">Brands</div><div class="te-nav__sub">Import</div><div class="te-nav__sub">Export</div><div class="te-nav__sub is-active">Products</div><div class="te-nav__top"><span>Customers</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top"><span>Storefront</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top"><span>Marketing</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top"><span>Analytics</span></div><div class="te-nav__top"><span>Settings</span><span class="te-nav__chev">⌄</span></div></div>
+
+<p>When you set an <strong>MSRP / retail price</strong> on the product, the theme shows it struck-through with an automatic <strong>"You save $X"</strong> amount (the difference between the retail price and the selling price). You can override the retail-price label with the <strong>Product price label (retail)</strong> text setting (id <code>pdp-retail-price-label</code>, default empty → uses the built-in label) under <strong>Theme Editor → Products → Product sale badges</strong>.</p>
+<!--te-lead:Q29uZmlndXJlIHRoZSBiYWRnZSBpbiAqKlRoZW1lIEVkaXRvciDihpIgUHJvZHVjdHMg4oaSIFByb2R1Y3Qgc2FsZSBiYWRnZXMqKjoN-->
+
+<!--te-tbl:fCBTZXR0aW5nIHwgaWQgfCBPcHRpb25zIHwgRGVmYXVsdCB8DQp8IC0tLS0tLS0gfCAtLSB8IC0tLS0tLS0gfCAtLS0tLS0tIHwNCnwgKipTaG93IHByb2R1Y3Qgc2FsZSBiYWRnZXMqKiB8IGBwcm9kdWN0X3NhbGVfYmFkZ2VzYCB8IGBOb25lYCAobm9uZSkgLyBgVG9wIExlZnRgICh0b3BsZWZ0KSAvIGBEaWFnb25hbGAgKHNhc2gpIC8gYEJ1cnN0YCAoYnVyc3QpIHwgYHRvcGxlZnRgIHwNCnwgKipQcm9kdWN0IHNhbGUgYmFkZ2UgbGFiZWwqKiB8IGBwZHBfc2FsZV9iYWRnZV9sYWJlbGAgfCB0ZXh0IOKAlCB0aGUgdGV4dCBpbiB0aGUgYmFkZ2UgKGUuZy4gYFNBTEVgKTsgZW1wdHkg4oaSIGJ1aWx0LWluIGRlZmF1bHQgfCBlbXB0eSB8DQp8ICoqQmFkZ2UgY29sb3IqKiB8IGBjb2xvcl9iYWRnZV9wcm9kdWN0X3NhbGVfYmFkZ2VzYCB8IGNvbG91ciBwaWNrZXIg4oCUIGJhZGdlIGJhY2tncm91bmQgfCAodGhlbWUpIHwNCnwgKipCYWRnZSB0ZXh0IGNvbG9yKiogfCBgY29sb3JfdGV4dF9wcm9kdWN0X3NhbGVfYmFkZ2VzYCB8IGNvbG91ciBwaWNrZXIg4oCUIGJhZGdlIHRleHQgfCAodGhlbWUpIHwN-->
+
+<!--te-src:PiAqKkN1c3RvbWl6ZToqKiBUaGVtZSBFZGl0b3Ig4oaSICpQcm9kdWN0cyog4oaSICoqUHJvZHVjdCBzYWxlIGJhZGdlcyoqIChoZWFkaW5nKSDihpIgZmllbGRzIGFib3ZlLiBCYWRnZSBzdHlsZSBpcyBhIGRyb3Bkb3duOyBsYWJlbCBpcyBwbGFpbiB0ZXh0OyBjb2xvdXJzIGFyZSBwaWNrZXJzLg0=-->
+<!--te-mock-->
+<div class="te-mock"><div class="te-mock__hd"><span>Products</span><span class="te-x">✕</span></div><div class="te-mock__grp">Product sale badges</div><div class="te-mock__row"><span class="te-lbl">Show product sale badges</span><span class="te-dd"><span class="te-dd__v">Top Left</span><span class="te-dd__b">▾</span></span></div><div class="te-mock__row"><span class="te-fld"><span class="te-lbl">Product sale badge label</span><span class="te-desc">the text in the badge (e.g. SALE); empty → built-in default</span></span><span class="te-tx te-tx--ph">Enter text…</span></div><div class="te-mock__row"><span class="te-fld"><span class="te-lbl">Badge color</span><span class="te-desc">badge background</span></span><span class="te-color"><span class="te-hex">#BF5B33</span><span class="te-sw" style="background:#bf5b33"></span></span></div><div class="te-mock__row"><span class="te-fld"><span class="te-lbl">Badge text color</span><span class="te-desc">badge text</span></span><span class="te-color"><span class="te-hex">#FFFFFF</span><span class="te-sw" style="background:#ffffff"></span></span></div></div>
+
+<!--te-lead:Rm9yIHRoZSAqKiJTb2xkIG91dCIqKiBiYWRnZSAoc2FtZSBoZWFkaW5nKToN-->
+
+<!--te-tbl:fCBTZXR0aW5nIHwgaWQgfCBFZmZlY3QgfCBEZWZhdWx0IHwNCnwgLS0tLS0tLSB8IC0tIHwgLS0tLS0tIHwgLS0tLS0tLSB8DQp8ICoqU2hvdyBwcm9kdWN0IHNvbGQtb3V0IGJhZGdlcyoqIHwgYHByb2R1Y3Rfc29sZF9vdXRfYmFkZ2VzYCB8IEJhZGdlIHN0eWxlOiBgTm9uZWAgLyBgVG9wIExlZnRgIC8gYERpYWdvbmFsYCAvIGBCdXJzdGAgfCBgbm9uZWAgKG9mZikgfA0KfCAqKlByb2R1Y3Qgc29sZCBvdXQgYmFkZ2UgbGFiZWwqKiB8IGBwZHBfc29sZF9vdXRfbGFiZWxgIHwgZS5nLiBgU29sZCBvdXRgOyBlbXB0eSDihpIgYnVpbHQtaW4gZGVmYXVsdCB8IGVtcHR5IHwN-->
+
+<!--te-src:PiAqKkN1c3RvbWl6ZToqKiBUaGVtZSBFZGl0b3Ig4oaSICpQcm9kdWN0cyog4oaSICoqUHJvZHVjdCBzYWxlIGJhZGdlcyoqIOKGkiAqKlNob3cgcHJvZHVjdCBzb2xkLW91dCBiYWRnZXMqKiAvICoqUHJvZHVjdCBzb2xkIG91dCBiYWRnZSBsYWJlbCoqLiBUaGUgc29sZC1vdXQgYmFkZ2UgaXMgKipvZmYgYnkgZGVmYXVsdCoqIChgbm9uZWApLg0=-->
+<!--te-mock-->
+<div class="te-mock"><div class="te-mock__hd"><span>Products</span><span class="te-x">✕</span></div><div class="te-mock__row"><span class="te-lbl">Show product sold-out badges</span><span class="te-dd"><span class="te-dd__v">None</span><span class="te-dd__b">▾</span></span></div><div class="te-mock__row"><span class="te-fld"><span class="te-lbl">Product sold out badge label</span><span class="te-desc">e.g. Sold out; empty → built-in default</span></span><span class="te-tx te-tx--ph">Enter text…</span></div></div>
+
+<h3 id="staff-pick-badge-colour">Staff Pick badge colour<a class="headerlink" href="#staff-pick-badge-colour" title="Permanent link">&para;</a></h3>
+<p>eShopping renders a <strong>Staff Pick</strong> badge on certain product cards. There is no merchant-facing toggle to enable it per product and no custom-badge value field — only the styling is controlled, by two colour pickers in the <strong>eShopping Theme</strong> section:</p>
+<!--te-tbl:fCBTZXR0aW5nIHwgaWQgfCBFZmZlY3QgfA0KfCAtLS0tLS0tIHwgLS0gfCAtLS0tLS0gfA0KfCAqKlN0YWZmIFBpY2sgQmFkZ2UgQmFja2dyb3VuZCoqIHwgYGVzaG9wcGluZy1iYWRnZS1zdGFmZi1iZ2AgfCBCYWRnZSBiYWNrZ3JvdW5kIGNvbG91ciB8DQp8ICoqU3RhZmYgUGljayBCYWRnZSBUZXh0KiogfCBgZXNob3BwaW5nLWJhZGdlLXN0YWZmLXRleHRgIHwgQmFkZ2UgdGV4dCBjb2xvdXIgfA0=-->
+
+<!--te-src:PiAqKkN1c3RvbWl6ZToqKiBUaGVtZSBFZGl0b3Ig4oaSICplU2hvcHBpbmcgVGhlbWUqIOKGkiAqKlN0YWZmIFBpY2sgQmFkZ2UgQmFja2dyb3VuZCoqIC8gKipTdGFmZiBQaWNrIEJhZGdlIFRleHQqKiAoY29sb3VyIHBpY2tlcnMpLiBUaGVzZSBvbmx5IHJlc3R5bGUgdGhlIGJhZGdlIOKAlCB0aGVyZSBpcyBubyBzZXR0aW5nIHRvIGNob29zZSAqd2hpY2gqIHByb2R1Y3RzIHNob3cgaXQuDQ==-->
+<!--te-mock-->
+<div class="te-mock"><div class="te-mock__hd"><span>eShopping Theme</span><span class="te-x">✕</span></div><div class="te-mock__row"><span class="te-fld"><span class="te-lbl">Staff Pick Badge Background</span><span class="te-desc">Badge background colour</span></span><span class="te-color"><span class="te-hex">#D97706</span><span class="te-sw" style="background:#d97706"></span></span></div><div class="te-mock__row"><span class="te-fld"><span class="te-lbl">Staff Pick Badge Text</span><span class="te-desc">Badge text colour</span></span><span class="te-color"><span class="te-hex">#FFFFFF</span><span class="te-sw" style="background:#ffffff"></span></span></div></div>
+
+<hr />
+<h2 id="variants-swatches">Variants — swatches<a class="headerlink" href="#variants-swatches" title="Permanent link">&para;</a></h2>
+<p><img alt="PDP variant swatches" loading="lazy" src="../img/pdp-swatches.png" /></p>
+<p>Color / size variants appear as <strong>swatches</strong> if you've set them up in <strong>Catalog → Product Options &amp; SKUs</strong>:</p>
+<ul>
+<li><strong>Color swatches</strong> — for option type "Swatch (Color)". The theme renders them as colour circles.</li>
+<li><strong>Image swatches</strong> — for option type "Swatch (Image)". The theme renders the option image.</li>
+<li><strong>Rectangle text swatches</strong> — for "Rectangle list" options (size: S / M / L). Rendered as text pills.</li>
+</ul>
+<!--te-src:PiAqKkN1c3RvbWl6ZSAodGhlIHZhcmlhbnRzKToqKiBCaWdDb21tZXJjZSBhZG1pbiDihpIgQ2F0YWxvZyDihpIgUHJvZHVjdCBPcHRpb25zICYgU0tVcyAoc2hhcmVkIG9wdGlvbnMpIG9yIHRoZSBwcm9kdWN0J3MgKipWYXJpYXRpb25zKiogdGFiLiAoTm90IGEgdGhlbWUgc2V0dGluZyDigJQgc3dhdGNoIGNvbG91cnMvaW1hZ2VzIGNvbWUgZnJvbSB5b3VyIG9wdGlvbiB2YWx1ZXMuKQ0=-->
+<!--te-mock-->
+<div class="te-mock te-nav"><div class="te-nav__brand">BigCommerce admin</div><div class="te-nav__top"><span>Home</span></div><div class="te-nav__top"><span>Orders</span></div><div class="te-nav__top is-open"><span>Products</span><span class="te-nav__chev">⌃</span></div><div class="te-nav__sub">All products</div><div class="te-nav__sub">Add</div><div class="te-nav__sub">Categories</div><div class="te-nav__sub">Options</div><div class="te-nav__sub">Filtering</div><div class="te-nav__sub">Reviews</div><div class="te-nav__sub">Brands</div><div class="te-nav__sub">Import</div><div class="te-nav__sub">Export</div><div class="te-nav__sub is-active">Product Options &amp; SKUs</div><div class="te-nav__top"><span>Customers</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top"><span>Storefront</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top"><span>Marketing</span><span class="te-nav__chev">⌄</span></div><div class="te-nav__top"><span>Analytics</span></div><div class="te-nav__top"><span>Settings</span><span class="te-nav__chev">⌄</span></div></div>
+
+<p>The swatch sizes shown are styled by the theme. The only configurable image dimension is <strong>Product swatch images</strong> (id <code>swatch_option_size</code>, default <code>22x22</code>) under <strong>Theme Editor → Products → Image sizes</strong>, which controls the source resolution of image swatches.</p>
+<!--te-src:PiAqKkN1c3RvbWl6ZSAoc3dhdGNoIGltYWdlIHJlc29sdXRpb24pOioqIFRoZW1lIEVkaXRvciDihpIgKlByb2R1Y3RzKiDihpIgKipQcm9kdWN0IHN3YXRjaCBpbWFnZXMqKi4gRm9ybWF0OiBgV3hIYCBwaXhlbHMuIERlZmF1bHQ6IGAyMngyMmAuIChGb3IgdGV4dHVyZSBzd2F0Y2hlcyBCaWdDb21tZXJjZSBjYXBzIHNvdXJjZSBpbWFnZXMgYXQgYDE1MHgxNTBgLikN-->
+<!--te-mock-->
+<div class="te-mock"><div class="te-mock__hd"><span>Products</span><span class="te-x">✕</span></div><div class="te-mock__row"><span class="te-lbl">Product swatch images</span><span class="te-dd"><span class="te-dd__v">22x22</span><span class="te-dd__b">▾</span></span></div></div>
+
+<p>To <strong>show swatch names beside the swatch</strong> (e.g. "Black" next to a black swatch), check <strong>Show product swatch names</strong> (id <code>show_product_swatch_names</code>) in the Products panel.</p>
+<!--te-src:PiAqKkN1c3RvbWl6ZToqKiBUaGVtZSBFZGl0b3Ig4oaSICpQcm9kdWN0cyog4oaSICoqU2hvdyBwcm9kdWN0IHN3YXRjaCBuYW1lcyoqIChjaGVja2JveCwgdW5kZXIgKkRpc3BsYXkgc2V0dGluZ3MqKS4gRm9ybWF0OiBvbi9vZmYuIERlZmF1bHQ6IGB0cnVlYC4N-->
+<!--te-mock-->
+<div class="te-mock"><div class="te-mock__hd"><span>Products</span><span class="te-x">✕</span></div><div class="te-mock__row"><span class="te-lbl">Show product swatch names</span><span class="te-cb is-on"></span></div></div>
+
+<hr />
+<h2 id="add-to-cart-sticky-mobile-atc">Add to Cart + sticky mobile ATC<a class="headerlink" href="#add-to-cart-sticky-mobile-atc" title="Permanent link">&para;</a></h2>
+<p>The <strong>Add to Cart</strong> button is always visible on desktop. On mobile, when the user scrolls past it, a sticky bottom bar appears with <strong>price + ATC</strong>.</p>
+<p>Toggle the mobile sticky ATC:</p>
+<!--te-src:PiAqKkN1c3RvbWl6ZToqKiBUaGVtZSBFZGl0b3Ig4oaSICplU2hvcHBpbmcgVGhlbWUqIOKGkiAqKlNob3cgTW9iaWxlIFN0aWNreSBBZGQgdG8gQ2FydCoqIChjaGVja2JveCwgdW5kZXIgdGhlICpQcm9kdWN0IFBhZ2UgKFBEUCkqIGhlYWRpbmc7IGlkIGBlc2hvcHBpbmctcGRwLXNob3ctbW9iaWxlLWF0Y2ApLiBGb3JtYXQ6IG9uL29mZi4gRGVmYXVsdDogYHRydWVgLg0=-->
+<!--te-mock-->
+<div class="te-mock"><div class="te-mock__hd"><span>eShopping Theme</span><span class="te-x">✕</span></div><div class="te-mock__row"><span class="te-lbl">Show Mobile Sticky Add to Cart</span><span class="te-cb is-on"></span></div></div>
+
+<h3 id="quick-payment-buttons">Quick payment buttons<a class="headerlink" href="#quick-payment-buttons" title="Permanent link">&para;</a></h3>
+<p>When BigCommerce's express-checkout providers (PayPal, Apple Pay, etc.) are enabled in your store, the theme can render their quick-payment buttons beneath Add to Cart.</p>
+<!--te-src:PiAqKkN1c3RvbWl6ZToqKiBUaGVtZSBFZGl0b3Ig4oaSICpQcm9kdWN0cyog4oaSICoqU2hvdyBxdWljayBwYXltZW50IGJ1dHRvbnMqKiAoY2hlY2tib3gsIHVuZGVyICpEaXNwbGF5IHNldHRpbmdzKjsgaWQgYHNob3dfcXVpY2tfcGF5bWVudF9idXR0b25zYCkuIEZvcm1hdDogb24vb2ZmLiBEZWZhdWx0OiBgdHJ1ZWAuIFRoZSBidXR0b25zIHRoZW1zZWx2ZXMgY29tZSBmcm9tIHRoZSBwYXltZW50IHByb3ZpZGVycyB5b3UgZW5hYmxlIGluIEJpZ0NvbW1lcmNlIGFkbWluIOKGkiBTZXR0aW5ncyDihpIgUGF5bWVudHMg4oCUIGNvbG91cnMvc2hhcGVzL2xhYmVscyBhcmUgdHVuZWQgdW5kZXIgVGhlbWUgRWRpdG9yIOKGkiAqUGF5bWVudCBidXR0b25zKi4N-->
+<!--te-mock-->
+<div class="te-mock"><div class="te-mock__hd"><span>Products</span><span class="te-x">✕</span></div><div class="te-mock__row"><span class="te-lbl">Show quick payment buttons</span><span class="te-cb is-on"></span></div></div>
+
+<h3 id="compare">Compare<a class="headerlink" href="#compare" title="Permanent link">&para;</a></h3>
+<p>The <strong>Add to compare</strong> control lets shoppers queue products into a compare panel.</p>
+<!--te-src:PiAqKkN1c3RvbWl6ZToqKiBUaGVtZSBFZGl0b3Ig4oaSICpQcm9kdWN0cyog4oaSICoqU2hvdyBwcm9kdWN0IGNvbXBhcmUqKiAoY2hlY2tib3gsIHVuZGVyICpEaXNwbGF5IHNldHRpbmdzKjsgaWQgYHNob3dfY29tcGFyZWApLiBGb3JtYXQ6IG9uL29mZi4gRGVmYXVsdDogYHRydWVgLg0=-->
+<!--te-mock-->
+<div class="te-mock"><div class="te-mock__hd"><span>Products</span><span class="te-x">✕</span></div><div class="te-mock__row"><span class="te-lbl">Show product compare</span><span class="te-cb is-on"></span></div></div>
+
+<hr />
+<h2 id="shipping-text-warranty-text">Shipping text + Warranty text<a class="headerlink" href="#shipping-text-warranty-text" title="Permanent link">&para;</a></h2>
+<p>These are two separate settings in the <strong>eShopping Theme</strong> section, under the <em>Product Page (PDP)</em> heading, and they appear in different places.</p>
+<p><strong>PDP Shipping Text</strong> (id <code>eshopping-pdp-shipping-text</code>) produces the <strong>3-item icon strip</strong> shown under the Add-to-Cart button. It is a single field made of exactly <strong>three <code>Title|Description</code> pairs</strong> (6 pipe-separated segments — <code>Title1|Desc1|Title2|Desc2|Title3|Desc3</code>). The strip always renders three fixed icon cards (truck, shield, clock); extra segments are ignored.</p>
+<p><img alt="PDP shipping strip — 3 icon cards under Add to Cart" loading="lazy" src="../img/pdp-shipping-strip.png" /></p>
+<div class="language-text highlight"><pre><span></span><code><span id="__span-0-1"><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a>Free Shipping|on orders over $500|1-Year Warranty|included with purchase|30-Day Returns|hassle-free policy
+</span></code></pre></div>
+<p>Plain text only — HTML and links are <strong>not</strong> supported (each segment is inserted as plain text via <code>textContent</code>). The strip is hidden entirely if the field is empty.</p>
+<!--te-src:PiAqKkN1c3RvbWl6ZToqKiBUaGVtZSBFZGl0b3Ig4oaSICplU2hvcHBpbmcgVGhlbWUqIOKGkiAqKlBEUCBTaGlwcGluZyBUZXh0KiogKHRleHQgaW5wdXQsIHVuZGVyICpQcm9kdWN0IFBhZ2UgKFBEUCkqOyBpZCBgZXNob3BwaW5nLXBkcC1zaGlwcGluZy10ZXh0YCkuIEZvcm1hdDogYFRpdGxlMXxEZXNjMXxUaXRsZTJ8RGVzYzJ8VGl0bGUzfERlc2MzYCAocGlwZS1kZWxpbWl0ZWQsIDYgc2VnbWVudHMpLiBEZWZhdWx0IChiYXNlKTogYEZyZWUgU2hpcHBpbmd8b24gb3JkZXJzIG92ZXIgJDUwMHwxLVllYXIgV2FycmFudHl8aW5jbHVkZWQgd2l0aCBwdXJjaGFzZXwzMC1EYXkgUmV0dXJuc3xoYXNzbGUtZnJlZSBwb2xpY3lgLg0=-->
+<!--te-mock-->
+<div class="te-mock"><div class="te-mock__hd"><span>eShopping Theme</span><span class="te-x">✕</span></div><div class="te-mock__row"><span class="te-lbl">PDP Shipping Text</span><span class="te-tx">Free Shipping|on orders over $500|1-…</span></div></div>
+
+<p><strong>PDP Warranty Text</strong> (id <code>eshopping-pdp-warranty-text</code>) is a separate field that fills the <strong>4-card grid inside the Warranty tab</strong> (not the strip under the ATC). It is made of exactly <strong>four <code>Title|Description</code> pairs</strong> (8 pipe segments). The grid always renders four fixed cards.</p>
+<div class="language-text highlight"><pre><span></span><code><span id="__span-1-1"><a id="__codelineno-1-1" name="__codelineno-1-1" href="#__codelineno-1-1"></a>What&#39;s Covered|...|What&#39;s Not Covered|...|How to Claim|...|Extended Warranty|...
+</span></code></pre></div>
+<!--te-src:PiAqKkN1c3RvbWl6ZToqKiBUaGVtZSBFZGl0b3Ig4oaSICplU2hvcHBpbmcgVGhlbWUqIOKGkiAqKlBEUCBXYXJyYW50eSBUZXh0KiogKHRleHQgaW5wdXQsIHVuZGVyICpQcm9kdWN0IFBhZ2UgKFBEUCkqOyBpZCBgZXNob3BwaW5nLXBkcC13YXJyYW50eS10ZXh0YCkuIEZvcm1hdDogYFRpdGxlMXxEZXNjMXxUaXRsZTJ8RGVzYzJ8VGl0bGUzfERlc2MzfFRpdGxlNHxEZXNjNGAgKHBpcGUtZGVsaW1pdGVkLCA4IHNlZ21lbnRzKS4gUGxhaW4gdGV4dCBvbmx5LiBOb3RlOiB0aGUgd2FycmFudHkgKnRhYiogb25seSBhcHBlYXJzIHdoZW4gdGhlIHByb2R1Y3QgaGFzIFdhcnJhbnR5IEluZm9ybWF0aW9uIChDYXRhbG9nIOKGkiBQcm9kdWN0cyDihpIgZWRpdCDihpIgV2FycmFudHkgSW5mb3JtYXRpb24pOyB0aGlzIGZpZWxkIG9ubHkgZmlsbHMgdGhlIGNhcmQgZ3JpZCBpbnNpZGUgdGhhdCB0YWIuDQ==-->
+<!--te-mock-->
+<div class="te-mock"><div class="te-mock__hd"><span>eShopping Theme</span><span class="te-x">✕</span></div><div class="te-mock__row"><span class="te-lbl">PDP Warranty Text</span><span class="te-tx te-tx--ph">Enter text…</span></div></div>
+
+<hr />
+<h2 id="pdp-tabs">Tabs (Description · Videos · Specs · Warranty · FAQ · Reviews)<a class="headerlink" href="#pdp-tabs" title="Permanent link">&para;</a></h2>
+<!--te-lead:VGhlIHRhYnMgYXBwZWFyIGJlbG93IHRoZSBnYWxsZXJ5LiBNb3N0IHRvZ2dsZXMgbGl2ZSBpbiAqKlRoZW1lIEVkaXRvciDihpIgUHJvZHVjdHMg4oaSIERpc3BsYXkgc2V0dGluZ3MqKjoN-->
+
+<!--te-tbl:fCBTZXR0aW5nIHwgaWQgfCBFZmZlY3QgfCBEZWZhdWx0IHwNCnwgLS0tLS0tLSB8IC0tIHwgLS0tLS0tIHwgLS0tLS0tLSB8DQp8IFNob3cgcHJvZHVjdCBkZXNjcmlwdGlvbiB0YWJzIHwgYHNob3dfcHJvZHVjdF9kZXRhaWxzX3RhYnNgIHwgU2hvdyB0aGUgdGFiIHN0cmlwIGF0IGFsbCB8IGB0cnVlYCB8DQp8IFNob3cgcHJvZHVjdCByZXZpZXdzIHwgYHNob3dfcHJvZHVjdF9yZXZpZXdzYCB8IEFkZCB0aGUgKipSZXZpZXdzKiogdGFiIChvbmx5IHJlbmRlcnMgd2hlbiB0aGUgcHJvZHVjdCBoYXMgcmV2aWV3cykgfCBgdHJ1ZWAgfA0KfCBQcm9kdWN0IGN1c3RvbSBmaWVsZHMgaW4gdGFicyB8IGBzaG93X2N1c3RvbV9maWVsZHNfdGFic2AgfCBTaG93IGEgKipTcGVjaWZpY2F0aW9ucyoqIHRhYiB3aXRoIEFMTCBvZiB0aGUgcHJvZHVjdCdzIGN1c3RvbSBmaWVsZHMgcmVuZGVyZWQgYXMgYSAyLWNvbHVtbiB0YWJsZSB8IGB0cnVlYCB8DQ==-->
+
+<!--te-src:PiAqKkN1c3RvbWl6ZToqKiBUaGVtZSBFZGl0b3Ig4oaSICpQcm9kdWN0cyog4oaSICoqU2hvdyBwcm9kdWN0IGRlc2NyaXB0aW9uIHRhYnMqKiAvICoqU2hvdyBwcm9kdWN0IHJldmlld3MqKiAvICoqUHJvZHVjdCBjdXN0b20gZmllbGRzIGluIHRhYnMqKiAoY2hlY2tib3hlcywgdW5kZXIgKkRpc3BsYXkgc2V0dGluZ3MqKS4gRm9ybWF0OiBvbi9vZmYuDQ==-->
+<!--te-src:PiAqKkN1c3RvbWl6ZSAobnVtYmVyIG9mIHJldmlld3MpOioqIFRoZW1lIEVkaXRvciDihpIgKlByb2R1Y3RzKiDihpIgKipOdW1iZXIgb2YgcHJvZHVjdCByZXZpZXdzKiogKGRyb3Bkb3duIDHigJMxMjsgaWQgYHByb2R1Y3RwYWdlX3Jldmlld3NfY291bnRgOyBzaG93biBvbmx5IHdoZW4gKlNob3cgcHJvZHVjdCByZXZpZXdzKiBpcyBvbikuIERlZmF1bHQ6IGA5YC4N-->
+<!--te-mock-->
+<div class="te-mock"><div class="te-mock__hd"><span>Products</span><span class="te-x">✕</span></div><div class="te-mock__grp">Display settings</div><div class="te-mock__row"><span class="te-fld"><span class="te-lbl">Show product description tabs</span><span class="te-desc">Show the tab strip at all</span></span><span class="te-cb is-on"></span></div><div class="te-mock__row"><span class="te-fld"><span class="te-lbl">Show product reviews</span><span class="te-desc">Add the Reviews tab</span></span><span class="te-cb is-on"></span></div><div class="te-mock__row"><span class="te-fld"><span class="te-lbl">Product custom fields in tabs</span><span class="te-desc">Show a Specifications tab with ALL of the product's custom fields ren…</span></span><span class="te-cb is-on"></span></div></div>
+<!--te-mock-->
+<div class="te-mock"><div class="te-mock__hd"><span>Products</span><span class="te-x">✕</span></div><div class="te-mock__row"><span class="te-lbl">Number of product reviews</span><span class="te-tx">9</span></div></div>
+
+<p>The <strong>FAQ</strong> tab is toggled separately in the <strong>eShopping Theme</strong> section with the <strong>Show FAQ Tab</strong> setting (a built-in ask-a-question form — see <a href="product-faq.html">Product FAQ</a>).</p>
+<!--te-src:PiAqKkN1c3RvbWl6ZToqKiBUaGVtZSBFZGl0b3Ig4oaSICplU2hvcHBpbmcgVGhlbWUqIOKGkiAqKlNob3cgRkFRIFRhYioqIChjaGVja2JveCwgdW5kZXIgKlByb2R1Y3QgUGFnZSAoUERQKSo7IGlkIGBlc2hvcHBpbmctcGRwLXNob3ctZmFxLXRhYmApLiBGb3JtYXQ6IG9uL29mZi4gRGVmYXVsdDogYHRydWVgLg0=-->
+<!--te-mock-->
+<div class="te-mock"><div class="te-mock__hd"><span>eShopping Theme</span><span class="te-x">✕</span></div><div class="te-mock__row"><span class="te-lbl">Show FAQ Tab</span><span class="te-cb is-on"></span></div></div>
+
+<p>The <strong>Warranty</strong> tab is rendered automatically when the product has warranty text (Catalog → Products → edit → Warranty Information). Inside the warranty tab the theme shows a 4-card grid of warranty highlights (set the four title/description pairs in the <strong>PDP Warranty Text</strong> field — id <code>eshopping-pdp-warranty-text</code>, in the <em>eShopping Theme</em> section under <em>Product Page (PDP)</em>), plus an area below the cards where you can drop a widget — either on every product (region <code>product_below_warranty--global</code>) or on one specific product (region <code>product_below_warranty</code>).</p>
+<!--te-src:PiAqKkN1c3RvbWl6ZSAod2lkZ2V0IGJlbG93IHRoZSB3YXJyYW50eSBjYXJkcyk6KiogUGFnZSBCdWlsZGVyIOKGkiBvcGVuIGEgcHJvZHVjdCBwYWdlIOKGkiBkcm9wIGFuIEhUTUwgLyBBY2NvcmRpb24gLyBCYW5uZXIgd2lkZ2V0IGludG8gdGhlICoqQmVsb3cgd2FycmFudHkqKiByZWdpb24uIFVzZSB0aGUgZ2xvYmFsIHBsYWNlbWVudCBmb3IgYWxsIHByb2R1Y3RzIG9yIHRoZSBwYWdlLXNwZWNpZmljIHBsYWNlbWVudCBmb3Igb25lIHByb2R1Y3QuDQ==-->
+<!--te-mock-->
+<div class="te-mock te-mock--pb"><div class="te-mock__hd"><span>‹ AI HTML Generator | PapaThemes</span><span class="te-x">⋯</span></div><div class="te-mock__grp">▾ Content</div><div class="te-pbbox"><span class="k">&lt;style&gt;</span><br><span class="s">.papathemes-ai-widget-…</span> { … }<br>…your HTML…<br><span class="k">&lt;/style&gt;</span></div><div class="te-pbbtns"><span class="te-btn-ghost">Expand HTML Editor</span><span class="te-save te-save--full">Save HTML</span></div><div class="te-mock__row"><span class="te-cb"></span><span class="te-lbl">Show in container div</span></div></div>
+
+<p>The <strong>Videos</strong> tab is rendered automatically when the product has videos uploaded.</p>
+<h3 id="adding-shipping-returns-or-other-content-to-every-pdp">Adding "Shipping &amp; Returns" or other content to every PDP<a class="headerlink" href="#adding-shipping-returns-or-other-content-to-every-pdp" title="Permanent link">&para;</a></h3>
+<p>eShopping provides a widget area that renders BELOW the tabs (not inside them) on every PDP. Drop any HTML / Accordion / Banner widget there. There's also a matching area for content on a single product.</p>
+<h3 id="customizing-the-specifications-tab-label">Customizing the Specifications tab label<a class="headerlink" href="#customizing-the-specifications-tab-label" title="Permanent link">&para;</a></h3>
+<p>Use the <strong>Product custom fields tab label</strong> text setting (id <code>pdp-custom-fields-tab-label</code>) to override the tab title. Leave it empty to use the default ("Specifications").</p>
+<!--te-src:PiAqKkN1c3RvbWl6ZToqKiBUaGVtZSBFZGl0b3Ig4oaSICpQcm9kdWN0cyog4oaSICoqUHJvZHVjdCBjdXN0b20gZmllbGRzIHRhYiBsYWJlbCoqICh0ZXh0IGlucHV0LCB1bmRlciAqRGlzcGxheSBzZXR0aW5ncyo7IHNob3duIG9ubHkgd2hlbiAqUHJvZHVjdCBjdXN0b20gZmllbGRzIGluIHRhYnMqIGlzIG9uKS4gRm9ybWF0OiBwbGFpbiB0ZXh0LiBEZWZhdWx0OiBlbXB0eSAo4oaSICJTcGVjaWZpY2F0aW9ucyIpLiBUaGUgY3VzdG9tLWZpZWxkICp2YWx1ZXMqIGNvbWUgZnJvbSBCaWdDb21tZXJjZSBhZG1pbiDihpIgQ2F0YWxvZyDihpIgUHJvZHVjdHMg4oaSIChwcm9kdWN0KSDihpIgQ3VzdG9tIEZpZWxkcy4N-->
+<!--te-mock-->
+<div class="te-mock"><div class="te-mock__hd"><span>Products</span><span class="te-x">✕</span></div><div class="te-mock__row"><span class="te-lbl">Product custom fields tab label</span><span class="te-tx te-tx--ph">Enter text…</span></div></div>
+
+<hr />
+<h2 id="frequently-bought-together-fbt">Frequently Bought Together (FBT)<a class="headerlink" href="#frequently-bought-together-fbt" title="Permanent link">&para;</a></h2>
+<p><img alt="Frequently Bought Together bundle" loading="lazy" src="../img/pdp-fbt.png" /></p>
+<p>A bundle widget that appears above the tab strip (between the image/info section and the tabs), showing the current product + 1–3 frequently-paired products with an optional bundle discount. See full guide: <a href="product-fbt.html">Frequently Bought Together</a>.</p>
+<!--te-lead:UXVpY2sgdG9nZ2xlcyAoKipUaGVtZSBFZGl0b3Ig4oaSIGVTaG9wcGluZyBUaGVtZSoqLCB1bmRlciB0aGUgKkZyZXF1ZW50bHkgQm91Z2h0IFRvZ2V0aGVyKiBoZWFkaW5nKToN-->
+
+<!--te-tbl:fCBTZXR0aW5nIHwgaWQgfCBFZmZlY3QgfCBEZWZhdWx0IHwNCnwgLS0tLS0tLSB8IC0tIHwgLS0tLS0tIHwgLS0tLS0tLSB8DQp8IEZCVCBQcm9kdWN0cyBDb3VudCB8IGBlc2hvcHBpbmctZmJ0LWNvdW50YCB8IGRyb3Bkb3duIGBPZmYg4oCUIGRvbid0IHNob3dgICgwKSAvIGAxYCAvIGAyYCAvIGAzYCDigJQgbnVtYmVyIG9mIHBhaXJlZCBwcm9kdWN0cyB8IGAyYCB8DQp8IFZpc3VhbCBCdW5kbGUgRGlzY291bnQgJSB8IGBlc2hvcHBpbmctZmJ0LWRpc2NvdW50LXBlcmNlbnRgIHwgdGV4dCDigJQgZS5nLiBgMTBgIGZvciAxMCUgb2ZmIHRoZSBidW5kbGUgfCBgMGAgfA0=-->
+
+<!--te-src:PiAqKkN1c3RvbWl6ZToqKiBUaGVtZSBFZGl0b3Ig4oaSICplU2hvcHBpbmcgVGhlbWUqIOKGkiAqKkZCVCBQcm9kdWN0cyBDb3VudCoqIChkcm9wZG93bjsgYDBgIGhpZGVzIHRoZSB3aG9sZSBGQlQgYmxvY2spIGFuZCAqKlZpc3VhbCBCdW5kbGUgRGlzY291bnQgJSoqICh0ZXh0IGlucHV0OyBudW1iZXIgb25seSwgbm8gYCVgIHNpZ24pLiBEZWZhdWx0czogY291bnQgYDJgLCBkaXNjb3VudCBgMGAuIFRoZSBwYWlyZWQgcHJvZHVjdHMgY29tZSBmcm9tIEJpZ0NvbW1lcmNlIGFkbWluIOKGkiBDYXRhbG9nIOKGkiBQcm9kdWN0cyDihpIgKHByb2R1Y3QpIOKGkiBSZWxhdGVkIFByb2R1Y3RzLg0=-->
+<!--te-mock-->
+<div class="te-mock"><div class="te-mock__hd"><span>eShopping Theme</span><span class="te-x">✕</span></div><div class="te-mock__grp">Frequently Bought Toget…</div><div class="te-mock__row"><span class="te-fld"><span class="te-lbl">FBT Products Count</span><span class="te-desc">number of paired products</span></span><span class="te-dd"><span class="te-dd__v">2</span><span class="te-dd__b">▾</span></span></div><div class="te-mock__row"><span class="te-fld"><span class="te-lbl">Visual Bundle Discount %</span><span class="te-desc">e.g. 10 for 10% off the bundle</span></span><span class="te-tx">0</span></div></div>
+
+<hr />
+<h2 id="related-products">Related products<a class="headerlink" href="#related-products" title="Permanent link">&para;</a></h2>
+<p><img alt="Related products slider" loading="lazy" src="../img/pdp-related.png" /></p>
+<p>Below the tabs the PDP shows a single <strong>Related products</strong> slider. Related products come from the product's Related Products list in BigCommerce — automatic (by category) by default, or manually curated per product in <strong>Catalog → Products</strong>. The slider only renders when the product has related products.</p>
+<!--te-tbl:fCBTZXR0aW5nIHwgaWQgfCBFZmZlY3QgfCBEZWZhdWx0IHwNCnwgLS0tLS0tLSB8IC0tIHwgLS0tLS0tIHwgLS0tLS0tLSB8DQp8ICoqUHJvZHVjdCBwYWdlIChyZWxhdGVkIHByb2R1Y3RzKSoqIHwgYHByb2R1Y3RwYWdlX3JlbGF0ZWRfcHJvZHVjdHNfY291bnRgIHwgZHJvcGRvd24g4oCUIGhvdyBtYW55IHRvIHNob3cgKGBEaXNhYmxlYCAwIOKGkiBgMTJgKTsgYDBgIGhpZGVzIHRoZSBzbGlkZXIgfCBgMTBgIHwN-->
+
+<!--te-src:PiAqKkN1c3RvbWl6ZToqKiBUaGVtZSBFZGl0b3Ig4oaSICpQcm9kdWN0cyog4oaSICoqUHJvZHVjdCBwYWdlIChyZWxhdGVkIHByb2R1Y3RzKSoqIChkcm9wZG93biwgdW5kZXIgdGhlICpOdW1iZXIgb2YgcHJvZHVjdHMgZGlzcGxheWVkKiBoZWFkaW5nOyBpZCBgcHJvZHVjdHBhZ2VfcmVsYXRlZF9wcm9kdWN0c19jb3VudGApLiBGb3JtYXQ6IHNlbGVjdCDigJQgYERpc2FibGVgICgwKSB1cCB0byBgMTJgLiBEZWZhdWx0OiBgMTBgLiBUaGUgcHJvZHVjdCBsaXN0IGl0c2VsZiBjb21lcyBmcm9tIEJpZ0NvbW1lcmNlIGFkbWluIOKGkiBDYXRhbG9nIOKGkiBQcm9kdWN0cyDihpIgKHByb2R1Y3QpIOKGkiBSZWxhdGVkIFByb2R1Y3RzLg==-->
+<!--te-mock-->
+<div class="te-mock"><div class="te-mock__hd"><span>Products</span><span class="te-x">✕</span></div><div class="te-mock__row"><span class="te-fld"><span class="te-lbl">Product page (related products)</span><span class="te-desc">how many to show (Disable 0 → 12); 0 hides the slider</span></span><span class="te-dd"><span class="te-dd__v">10</span><span class="te-dd__b">▾</span></span></div></div>
+
+<h3 id="customers-also-viewed">Customers Also Viewed<a class="headerlink" href="#customers-also-viewed" title="Permanent link">&para;</a></h3>
+<p>The theme also has a <strong>Customers Also Viewed</strong> module, controlled by the <strong>Product page (customers also viewed products)</strong> count (id <code>productpage_similar_by_views_count</code>). When a product has <strong>no</strong> related products, the PDP falls back to the standard tab layout, where this module appears as a "Customers Also Viewed" carousel.</p>
+<!--te-src:PiAqKkN1c3RvbWl6ZToqKiBUaGVtZSBFZGl0b3Ig4oaSICpQcm9kdWN0cyog4oaSICoqUHJvZHVjdCBwYWdlIChjdXN0b21lcnMgYWxzbyB2aWV3ZWQgcHJvZHVjdHMpKiogKGRyb3Bkb3duLCB1bmRlciAqTnVtYmVyIG9mIHByb2R1Y3RzIGRpc3BsYXllZCo7IGlkIGBwcm9kdWN0cGFnZV9zaW1pbGFyX2J5X3ZpZXdzX2NvdW50YCkuIEZvcm1hdDogc2VsZWN0IOKAlCBgRGlzYWJsZWAgKDApIHVwIHRvIGAxMmAuIERlZmF1bHQ6IGAxMGAuIFRoaXMgbGlzdCBpcyBnZW5lcmF0ZWQgYnkgQmlnQ29tbWVyY2UgZnJvbSBzdG9yZS13aWRlIHZpZXcgYmVoYXZpb3VyIOKAlCB0aGVyZSBpcyBubyBtYW51YWwgcHJvZHVjdCBsaXN0IHRvIGVkaXQu-->
+<!--te-mock-->
+<div class="te-mock"><div class="te-mock__hd"><span>Products</span><span class="te-x">✕</span></div><div class="te-mock__row"><span class="te-lbl">Product page (customers also viewed products)</span><span class="te-dd"><span class="te-dd__v">10</span><span class="te-dd__b">▾</span></span></div></div>
+
+<div class="admonition note">
+<p class="admonition-title">Cross-sell is a cart feature</p>
+<p>Cross-sell products are shown in the <strong>cart / cart drawer</strong>, not on the PDP — controlled by the <strong>Cross-sell products (page,drawer — 0 = off)</strong> field (id <code>eshopping-crosssell-count</code>, default <code>6,4</code>) under <strong>Theme Editor → eShopping Theme → Cart Cross-sell</strong>. The value is two numbers <code>page,drawer</code> (count on the cart page, count in the cart drawer). There is <strong>no</strong> recently-viewed slider on the product page (Customers Also Viewed is based on view behaviour, not the visitor's own recent history).</p>
+</div>
+<hr />
+<h2 id="urgency-strips">Urgency strips<a class="headerlink" href="#urgency-strips" title="Permanent link">&para;</a></h2>
+<p><img alt="PDP urgency strips — viewing now + last order" loading="lazy" src="../img/pdp-urgency.png" /></p>
+<p>Two short message strips that build social proof. Configure them in the <strong>eShopping Theme</strong> section, under the <em>Urgency Signals (Social Proof)</em> heading:</p>
+<!--te-tbl:fCBTZXR0aW5nIHwgaWQgfCBFZmZlY3QgfCBEZWZhdWx0IHwNCnwgLS0tLS0tLSB8IC0tIHwgLS0tLS0tIHwgLS0tLS0tLSB8DQp8ICoqU2hvdyBsaXZlIHZpZXcgY291bnQqKiB8IGBlc2hvcHBpbmctdXJnZW5jeS12aWV3LWNvdW50YCB8IFNob3dzICJYIHZpZXdpbmcgbm93IiB1c2luZyBhIHJhbmRvbSBudW1iZXIgaW4gdGhlIHJhbmdlIGJlbG93ICh0aGUgZXhhY3Qgd29yZGluZyBpcyBlZGl0YWJsZSBpbiB0aGUgdGhlbWUncyBsYW5ndWFnZSBmaWxlKSB8IGB0cnVlYCB8DQp8ICoqRmFrZSB2aWV3IGNvdW50IHJhbmdlOiBtaW4sbWF4KiogfCBgZXNob3BwaW5nLXVyZ2VuY3ktdmlldy1yYW5nZWAgfCBgbWluLG1heGAg4oCUIHRoZSByYW5nZSBmb3IgdGhlIHZpZXdlciBjb3VudCB8IGAzLDI1YCB8DQp8ICoqU2hvdyBsYXN0IG9yZGVyIHRpbWUqKiB8IGBlc2hvcHBpbmctdXJnZW5jeS1sYXN0LW9yZGVyYCB8IFNob3dzIGEgImxhc3Qgb3JkZXIg4oCmIiBtZXNzYWdlIHVzaW5nIGEgcmFuZG9tIHRpbWUgaW4gdGhlIHJhbmdlIGJlbG93IHwgYHRydWVgIHwNCnwgKipMYXN0IG9yZGVyIHRpbWUgcmFuZ2U6IG1pbixtYXggaG91cnMgYWdvKiogfCBgZXNob3BwaW5nLXVyZ2VuY3ktb3JkZXItcmFuZ2VgIHwgYG1pbixtYXhgIGluICoqaG91cnMqKiBhZ28gfCBgMSw0OGAgfA0=-->
+
+<!--te-src:PiAqKkN1c3RvbWl6ZToqKiBUaGVtZSBFZGl0b3Ig4oaSICplU2hvcHBpbmcgVGhlbWUqIOKGkiAqKlNob3cgbGl2ZSB2aWV3IGNvdW50KiogLyAqKlNob3cgbGFzdCBvcmRlciB0aW1lKiogKGNoZWNrYm94ZXMpLCAqKkZha2UgdmlldyBjb3VudCByYW5nZSoqIC8gKipMYXN0IG9yZGVyIHRpbWUgcmFuZ2UqKiAodGV4dCBpbnB1dHMpLiBGb3JtYXQgZm9yIHRoZSByYW5nZXM6IHR3byBpbnRlZ2VycyBgbWluLG1heGAgKGNvbW1hLXNlcGFyYXRlZDsgdGhlIG9yZGVyIHJhbmdlIGlzIGluIGhvdXJzKS4gRGVmYXVsdHM6IHZpZXcgcmFuZ2UgYDMsMjVgLCBvcmRlciByYW5nZSBgMSw0OGAsIGJvdGggdG9nZ2xlcyBgdHJ1ZWAuDQ==-->
+<!--te-mock-->
+<div class="te-mock"><div class="te-mock__hd"><span>eShopping Theme</span><span class="te-x">✕</span></div><div class="te-mock__row"><span class="te-fld"><span class="te-lbl">Show live view count</span><span class="te-desc">Shows &quot;X viewing now&quot; using a random number in the range below (the e…</span></span><span class="te-cb is-on"></span></div><div class="te-mock__row"><span class="te-fld"><span class="te-lbl">Fake view count range: min,max</span><span class="te-desc">min,max — the range for the viewer count</span></span><span class="te-tx">3,25</span></div><div class="te-mock__row"><span class="te-fld"><span class="te-lbl">Show last order time</span><span class="te-desc">Shows a &quot;last order …&quot; message using a random time in the range below</span></span><span class="te-cb is-on"></span></div><div class="te-mock__row"><span class="te-fld"><span class="te-lbl">Last order time range: min,max hours ago</span><span class="te-desc">min,max in hours ago</span></span><span class="te-tx">1,48</span></div></div>
+
+<p>The last-order message adapts its units automatically — it can read as minutes, hours, or days ago depending on the random value.</p>
+<p>These are randomized client-side per session — they're not tracked analytics.</p>
+<hr />
+<h2 id="quick-view-button">Quick view button<a class="headerlink" href="#quick-view-button" title="Permanent link">&para;</a></h2>
+<p>The product card in sliders + category grids has a <strong>Quick View</strong> button. Clicking it opens a modal showing the PDP without leaving the page. Toggle it in <strong>Theme Editor → Products → Display settings</strong>:</p>
+<ul>
+<li><strong>Show quickview button on product cards</strong> (id <code>show_product_quick_view</code>)</li>
+</ul>
+<!--te-src:PiAqKkN1c3RvbWl6ZToqKiBUaGVtZSBFZGl0b3Ig4oaSICpQcm9kdWN0cyog4oaSICoqU2hvdyBxdWlja3ZpZXcgYnV0dG9uIG9uIHByb2R1Y3QgY2FyZHMqKiAoY2hlY2tib3gsIHVuZGVyICpEaXNwbGF5IHNldHRpbmdzKjsgaWQgYHNob3dfcHJvZHVjdF9xdWlja192aWV3YCkuIEZvcm1hdDogb24vb2ZmLg0=-->
+<!--te-mock-->
+<div class="te-mock"><div class="te-mock__hd"><span>Products</span><span class="te-x">✕</span></div><div class="te-mock__row"><span class="te-lbl">Show quickview button on product cards</span><span class="te-cb is-on"></span></div></div>
+
+<hr />
+<h2 id="stock-availability-rating-bars-automatic">Stock availability &amp; rating bars (automatic)<a class="headerlink" href="#stock-availability-rating-bars-automatic" title="Permanent link">&para;</a></h2>
+<p><img alt="PDP review rating bars" loading="lazy" src="../img/pdp-reviews.png" /></p>
+<ul>
+<li><strong>Stock badge / availability message</strong> comes straight from the product record — BigCommerce admin → Catalog → Products → (product) → Inventory (stock level, "Stock Level Display") and the availability text. (Not a theme setting; there is no Theme Editor toggle for the PDP availability line.)</li>
+<li><strong>Review rating bars</strong> (the 5-star breakdown in the Reviews tab) are rendered automatically from the product's approved reviews — no setting. Reviews are managed in BigCommerce admin → Products → Product Reviews. The Reviews tab and its count are gated by <strong>Show product reviews</strong> / <strong>Number of product reviews</strong> (see <a href="#pdp-tabs">Tabs</a>).</li>
+</ul>
+<hr />
+<h2 id="product-page-settings-in-the-demo-stores">Product page settings in the demo stores<a class="headerlink" href="#product-page-settings-in-the-demo-stores" title="Permanent link">&para;</a></h2>
+<p>All four demo stores (Industrial, Auto Parts, Electronics, Packaging) use the <strong>same</strong> PDP configuration. The only thing that differs between them is the copy in the shipping/warranty fields:</p>
+<!--te-tbl:fCBTZXR0aW5nIHwgaWQgfCBWYWx1ZSAoYWxsIGZvdXIgZGVtb3MpIHwNCnwgLS0tLS0tLSB8IC0tIHwgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSB8DQp8IEZCVCBQcm9kdWN0cyBDb3VudCB8IGBlc2hvcHBpbmctZmJ0LWNvdW50YCB8IGAyYCB8DQp8IFZpc3VhbCBCdW5kbGUgRGlzY291bnQgJSB8IGBlc2hvcHBpbmctZmJ0LWRpc2NvdW50LXBlcmNlbnRgIHwgYDBgIChubyBidW5kbGUgZGlzY291bnQpIHwNCnwgU2hvdyBsaXZlIHZpZXcgY291bnQgfCBgZXNob3BwaW5nLXVyZ2VuY3ktdmlldy1jb3VudGAgfCDinIUgKHJhbmdlIGAzLDI1YCkgfA0KfCBTaG93IGxhc3Qgb3JkZXIgdGltZSB8IGBlc2hvcHBpbmctdXJnZW5jeS1sYXN0LW9yZGVyYCB8IOKchSAocmFuZ2UgYDEsNDhgKSB8DQ==-->
+
+<p>Each store fills its own <strong>PDP Shipping Text</strong> (<code>eshopping-pdp-shipping-text</code>) and <strong>PDP Warranty Text</strong> (<code>eshopping-pdp-warranty-text</code>) with industry-appropriate copy (e.g. Auto Parts uses a "Fitment Guarantee", Packaging uses "Bulk Pricing" / "Same-Day Ship"), but the structural settings above are identical. See the per-block defaults in <a href="#shipping-text-warranty-text">How to customize each section</a> above.</p>
+<p><img alt="Packaging PDP example" loading="lazy" src="../img/packaging-pdp.png" /></p>
+<hr />
+<h2 id="next">Next<a class="headerlink" href="#next" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="product-card.html">Product card style</a></li>
+<li><a href="product-fbt.html">Frequently Bought Together</a></li>
+<li><a href="product-faq.html">Product FAQ</a></li>
+<li><a href="category.html">Category page →</a></li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Footer" >
+        
+          
+          <a href="home-packaging.html" class="md-footer__link md-footer__link--prev" aria-label="Previous: Home Page — Packaging Variant">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              <div class="md-ellipsis">
+                Home Page — Packaging Variant
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="product-card.html" class="md-footer__link md-footer__link--next" aria-label="Next: Product Card">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              <div class="md-ellipsis">
+                Product Card
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "..", "features": ["announce.dismiss", "content.action.edit", "content.action.view", "content.code.annotate", "content.code.copy", "content.tooltips", "navigation.footer", "navigation.indexes", "navigation.sections", "navigation.tabs", "navigation.top", "navigation.tracking", "search.highlight", "search.share", "search.suggest", "toc.follow", "toc.integrate"], "search": "../assets/javascripts/workers/search.f8cc74c7.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+  
+      <script src="../assets/javascripts/bundle.c8b220af.min.js"></script>
+      
+        <script src="../js/color-swatch.js"></script>
+      
+    
+  <script src="https://bc-tools.papathemes.com/embed/chatbot.js" async></script>
+
+  </body>
+</html>

@@ -1,0 +1,1152 @@
+{
+  "id": 217,
+  "name": "TitanDrill Pro 20V Cordless Drill",
+  "type": "physical",
+  "sku": "IND-DRL-001",
+  "description": "<p>The TitanDrill Pro 20V Cordless Drill delivers exceptional power and runtime for demanding drilling and driving applications. Featuring a brushless motor, this drill provides up to 50% more runtime than standard motors.</p><ul><li>20V MAX lithium ion battery with charge indicator</li><li>Brushless motor for extended runtime and durability</li><li>1/2-inch ratcheting chuck for secure bit grip</li><li>2-speed transmission (0-450/0-1700 RPM)</li><li>LED work light illuminates dark work areas</li></ul><p>Backed by TitanDrill's industry-leading 5-year warranty.</p>",
+  "weight": 3.2,
+  "width": 10,
+  "depth": 10,
+  "height": 10,
+  "price": 299,
+  "cost_price": 0,
+  "retail_price": 349,
+  "sale_price": 249,
+  "map_price": 0,
+  "tax_class_id": 0,
+  "product_tax_code": "",
+  "calculated_price": 249,
+  "categories": [
+    80,
+    79,
+    78,
+    77
+  ],
+  "brand_id": 0,
+  "option_set_id": 136,
+  "option_set_display": "right",
+  "inventory_level": 456,
+  "inventory_warning_level": 20,
+  "inventory_tracking": "variant",
+  "reviews_rating_sum": 9,
+  "reviews_count": 2,
+  "total_sold": 0,
+  "fixed_cost_shipping_price": 0,
+  "is_free_shipping": false,
+  "is_visible": true,
+  "is_featured": true,
+  "related_products": [
+    -1
+  ],
+  "warranty": "<p>This product is protected by a <strong>1-year limited warranty</strong> against defects in materials and workmanship under normal industrial use, from the date of purchase.</p><p>Within the warranty period we will repair or replace any item found to be defective at no charge. Keep your order confirmation as proof of purchase, and contact our support team with your order number and a description of the issue to start a claim.</p>",
+  "bin_picking_number": "",
+  "layout_file": "",
+  "upc": "",
+  "mpn": "",
+  "gtin": "",
+  "date_last_imported": null,
+  "search_keywords": "titan grip, drills, power tools, tools, 20V MAX, 1/2 inch, 400 in-lbs",
+  "availability": "available",
+  "availability_description": "",
+  "gift_wrapping_options_type": "any",
+  "gift_wrapping_options_list": [],
+  "sort_order": 2,
+  "condition": "New",
+  "is_condition_shown": false,
+  "order_quantity_minimum": 0,
+  "order_quantity_maximum": 0,
+  "page_title": "TitanDrill Pro 20V Cordless Drill",
+  "meta_keywords": [],
+  "meta_description": "The TitanDrill Pro 20V Cordless Drill delivers exceptional power and runtime for demanding drilling and driving applications.",
+  "date_created": "2026-04-02T11:28:53+00:00",
+  "date_modified": "2026-06-03T08:51:42+00:00",
+  "view_count": 0,
+  "preorder_release_date": null,
+  "preorder_message": "",
+  "is_preorder_only": false,
+  "is_price_hidden": false,
+  "price_hidden_label": "",
+  "custom_url": {
+    "url": "/IND-DRL-001/",
+    "is_customized": false
+  },
+  "base_variant_id": null,
+  "open_graph_type": "product",
+  "open_graph_title": "",
+  "open_graph_description": "",
+  "open_graph_use_meta_description": true,
+  "open_graph_use_product_name": true,
+  "open_graph_use_image": true,
+  "channels": [
+    1
+  ],
+  "images": [
+    {
+      "id": 1477,
+      "product_id": 217,
+      "is_thumbnail": false,
+      "sort_order": 1,
+      "description": "",
+      "image_file": "y/802/02__84697.png",
+      "url_zoom": "https://cdn11.bigcommerce.com/s-w0rowd2tbb/products/217/images/1477/02__84697.1775129343.1280.1280.png?c=1",
+      "url_standard": "https://cdn11.bigcommerce.com/s-w0rowd2tbb/products/217/images/1477/02__84697.1775129343.386.513.png?c=1",
+      "url_thumbnail": "https://cdn11.bigcommerce.com/s-w0rowd2tbb/products/217/images/1477/02__84697.1775129343.220.290.png?c=1",
+      "url_tiny": "https://cdn11.bigcommerce.com/s-w0rowd2tbb/products/217/images/1477/02__84697.1775129343.44.58.png?c=1",
+      "date_modified": "2026-04-02T11:29:03+00:00"
+    },
+    {
+      "id": 1478,
+      "product_id": 217,
+      "is_thumbnail": false,
+      "sort_order": 2,
+      "description": "",
+      "image_file": "l/784/03__90489.png",
+      "url_zoom": "https://cdn11.bigcommerce.com/s-w0rowd2tbb/products/217/images/1478/03__90489.1775129345.1280.1280.png?c=1",
+      "url_standard": "https://cdn11.bigcommerce.com/s-w0rowd2tbb/products/217/images/1478/03__90489.1775129345.386.513.png?c=1",
+      "url_thumbnail": "https://cdn11.bigcommerce.com/s-w0rowd2tbb/products/217/images/1478/03__90489.1775129345.220.290.png?c=1",
+      "url_tiny": "https://cdn11.bigcommerce.com/s-w0rowd2tbb/products/217/images/1478/03__90489.1775129345.44.58.png?c=1",
+      "date_modified": "2026-04-02T11:29:05+00:00"
+    },
+    {
+      "id": 1479,
+      "product_id": 217,
+      "is_thumbnail": false,
+      "sort_order": 3,
+      "description": "",
+      "image_file": "a/867/04__42947.png",
+      "url_zoom": "https://cdn11.bigcommerce.com/s-w0rowd2tbb/products/217/images/1479/04__42947.1775129347.1280.1280.png?c=1",
+      "url_standard": "https://cdn11.bigcommerce.com/s-w0rowd2tbb/products/217/images/1479/04__42947.1775129347.386.513.png?c=1",
+      "url_thumbnail": "https://cdn11.bigcommerce.com/s-w0rowd2tbb/products/217/images/1479/04__42947.1775129347.220.290.png?c=1",
+      "url_tiny": "https://cdn11.bigcommerce.com/s-w0rowd2tbb/products/217/images/1479/04__42947.1775129347.44.58.png?c=1",
+      "date_modified": "2026-04-02T11:29:07+00:00"
+    },
+    {
+      "id": 1480,
+      "product_id": 217,
+      "is_thumbnail": false,
+      "sort_order": 4,
+      "description": "",
+      "image_file": "y/070/05__89244.png",
+      "url_zoom": "https://cdn11.bigcommerce.com/s-w0rowd2tbb/products/217/images/1480/05__89244.1775129349.1280.1280.png?c=1",
+      "url_standard": "https://cdn11.bigcommerce.com/s-w0rowd2tbb/products/217/images/1480/05__89244.1775129349.386.513.png?c=1",
+      "url_thumbnail": "https://cdn11.bigcommerce.com/s-w0rowd2tbb/products/217/images/1480/05__89244.1775129349.220.290.png?c=1",
+      "url_tiny": "https://cdn11.bigcommerce.com/s-w0rowd2tbb/products/217/images/1480/05__89244.1775129349.44.58.png?c=1",
+      "date_modified": "2026-04-02T11:29:09+00:00"
+    },
+    {
+      "id": 1476,
+      "product_id": 217,
+      "is_thumbnail": true,
+      "sort_order": 0,
+      "description": "",
+      "image_file": "a/226/01__57866.png",
+      "url_zoom": "https://cdn11.bigcommerce.com/s-w0rowd2tbb/products/217/images/1476/01__57866.1775129341.1280.1280.png?c=1",
+      "url_standard": "https://cdn11.bigcommerce.com/s-w0rowd2tbb/products/217/images/1476/01__57866.1775129341.386.513.png?c=1",
+      "url_thumbnail": "https://cdn11.bigcommerce.com/s-w0rowd2tbb/products/217/images/1476/01__57866.1775129341.220.290.png?c=1",
+      "url_tiny": "https://cdn11.bigcommerce.com/s-w0rowd2tbb/products/217/images/1476/01__57866.1775129341.44.58.png?c=1",
+      "date_modified": "2026-04-02T11:29:01+00:00"
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "type": "youtube",
+      "video_id": "dQw4w9WgXcQ",
+      "product_id": 217,
+      "sort_order": 0,
+      "title": "Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster)",
+      "description": "The official video for “Never Gonna Give You Up” by Rick Astley. \n\nNever: The Autobiography 📚 OUT NOW! \nFollow this link to get your copy and listen to Rick’s ‘Never’ playlist ❤️ #RickAstleyNever\nhttps://linktr.ee/rickastleynever\n\n“Never Gonna Give You Up” was a global smash on its release in July 1987, topping the charts in 25 countries including Rick’s native UK and the US Billboard Hot 100.  It also won the Brit Award for Best single in 1988. Stock Aitken and Waterman wrote and produced the track which was the lead-off single and lead track from Rick’s debut LP “Whenever You Need Somebody”.  The album was itself a UK number one and would go on to sell over 15 million copies worldwide.\n\nThe legendary video was directed by Simon West – who later went on to make Hollywood blockbusters such as Con Air, Lara Croft – Tomb Raider and The Expendables 2.  The video passed the 1bn YouTube views milestone on 28 July 2021.\n\nSubscribe to the official Rick Astley YouTube channel: https://RickAstley.lnk.to/YTSubID\n\nFollow Rick Astley:\nFacebook: https://RickAstley.lnk.to/FBFollowID \nTwitter: https://RickAstley.lnk.to/TwitterID \nInstagram: https://RickAstley.lnk.to/InstagramID \nWebsite: https://RickAstley.lnk.to/storeID \nTikTok: https://RickAstley.lnk.to/TikTokID\n\nListen to Rick Astley:\nSpotify: https://RickAstley.lnk.to/SpotifyID \nApple Music: https://RickAstley.lnk.to/AppleMusicID \nAmazon Music: https://RickAstley.lnk.to/AmazonMusicID \nDeezer: https://RickAstley.lnk.to/DeezerID \n\nLyrics:\nWe’re no strangers to love\nYou know the rules and so do I\nA full commitment’s what I’m thinking of\nYou wouldn’t get this from any other guy\n\nI just wanna tell you how I’m feeling\nGotta make you understand\n\nNever gonna give you up\nNever gonna let you down\nNever gonna run around and desert you\nNever gonna make you cry\nNever gonna say goodbye\nNever gonna tell a lie and hurt you\n\nWe’ve known each other for so long\nYour heart’s been aching but you’re too shy to say it\nInside we both know what’s been going on\nWe know the game and we’re gonna play it\n\nAnd if you ask me how I’m feeling\nDon’t tell me you’re too blind to see\n\nNever gonna give you up\nNever gonna let you down\nNever gonna run around and desert you\nNever gonna make you cry\nNever gonna say goodbye\nNever gonna tell a lie and hurt you\n\n#RickAstley #NeverGonnaGiveYouUp #WheneverYouNeedSomebody #OfficialMusicVideo",
+      "length": "03:34"
+    }
+  ],
+  "custom_fields": [
+    {
+      "id": 4549,
+      "name": "Voltage",
+      "value": "20V MAX"
+    },
+    {
+      "id": 4550,
+      "name": "Chuck Size",
+      "value": "1/2 inch"
+    },
+    {
+      "id": 4551,
+      "name": "Max Torque",
+      "value": "400 in-lbs"
+    },
+    {
+      "id": 4552,
+      "name": "Standard",
+      "value": "UL Listed, OSHA Compliant"
+    }
+  ],
+  "bulk_pricing_rules": [
+    {
+      "id": 1937,
+      "quantity_min": 2,
+      "quantity_max": 3,
+      "type": "percent",
+      "amount": 3
+    },
+    {
+      "id": 1938,
+      "quantity_min": 4,
+      "quantity_max": 9,
+      "type": "percent",
+      "amount": 8
+    },
+    {
+      "id": 1939,
+      "quantity_min": 10,
+      "quantity_max": 0,
+      "type": "percent",
+      "amount": 15
+    }
+  ],
+  "reviews": [
+    {
+      "id": 2184,
+      "email": "",
+      "name": "Sarah K.",
+      "rating": 4,
+      "text": "Great power and feel. Wish it came with a second battery.",
+      "title": "Solid performer",
+      "status": "approved",
+      "date_created": "2026-04-03T05:09:35+00:00",
+      "date_modified": "2026-04-03T05:09:35+00:00",
+      "date_reviewed": "2026-01-20T00:00:00+00:00"
+    },
+    {
+      "id": 2183,
+      "email": "",
+      "name": "Mike T.",
+      "rating": 5,
+      "text": "This drill handles everything I throw at it. The battery life is impressive.",
+      "title": "Best drill I've owned",
+      "status": "approved",
+      "date_created": "2026-04-03T05:09:34+00:00",
+      "date_modified": "2026-04-03T05:09:34+00:00",
+      "date_reviewed": "2026-02-15T00:00:00+00:00"
+    }
+  ],
+  "options": [
+    {
+      "id": 245,
+      "product_id": 217,
+      "name": "Battery-Option1775192951-217",
+      "display_name": "Battery Option",
+      "type": "rectangles",
+      "sort_order": 0,
+      "option_values": [
+        {
+          "id": 584,
+          "label": "2.0Ah Battery",
+          "sort_order": 0,
+          "value_data": null,
+          "is_default": false
+        },
+        {
+          "id": 585,
+          "label": "4.0Ah Battery",
+          "sort_order": 1,
+          "value_data": null,
+          "is_default": false
+        }
+      ],
+      "config": []
+    }
+  ],
+  "modifiers": [
+    {
+      "id": 246,
+      "product_id": 217,
+      "name": "Extended-Warranty1775192953-217",
+      "display_name": "Extended Warranty",
+      "type": "checkbox",
+      "required": false,
+      "sort_order": 0,
+      "config": {
+        "checkbox_label": "Add 3-Year Extended Warranty (+$29.99)",
+        "checked_by_default": false
+      },
+      "option_values": [
+        {
+          "id": 586,
+          "option_id": 246,
+          "label": "Yes",
+          "sort_order": 0,
+          "value_data": {
+            "checked_value": true
+          },
+          "is_default": false,
+          "adjusters": {
+            "price": null,
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 587,
+          "option_id": 246,
+          "label": "No",
+          "sort_order": 1,
+          "value_data": {
+            "checked_value": false
+          },
+          "is_default": true,
+          "adjusters": {
+            "price": null,
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "parent_relations": [],
+  "variants": [
+    {
+      "id": 272,
+      "product_id": 217,
+      "sku": "IND-DRL-001-20AHBA",
+      "sku_id": 178,
+      "price": 299,
+      "calculated_price": 299,
+      "sale_price": null,
+      "retail_price": null,
+      "map_price": null,
+      "fixed_cost_shipping_price": null,
+      "cost_price": 0,
+      "weight": 3.7,
+      "width": null,
+      "height": null,
+      "depth": null,
+      "is_free_shipping": false,
+      "calculated_weight": 3.7,
+      "purchasing_disabled": false,
+      "purchasing_disabled_message": "",
+      "image_url": "",
+      "upc": "",
+      "mpn": "",
+      "gtin": "",
+      "inventory_level": 228,
+      "inventory_warning_level": 10,
+      "bin_picking_number": "",
+      "option_values": [
+        {
+          "id": 584,
+          "label": "2.0Ah Battery",
+          "option_id": 245,
+          "option_display_name": "Battery Option"
+        }
+      ]
+    },
+    {
+      "id": 273,
+      "product_id": 217,
+      "sku": "IND-DRL-001-40AHBA",
+      "sku_id": 179,
+      "price": 349,
+      "calculated_price": 349,
+      "sale_price": null,
+      "retail_price": null,
+      "map_price": null,
+      "fixed_cost_shipping_price": null,
+      "cost_price": 0,
+      "weight": 4,
+      "width": null,
+      "height": null,
+      "depth": null,
+      "is_free_shipping": false,
+      "calculated_weight": 4,
+      "purchasing_disabled": false,
+      "purchasing_disabled_message": "",
+      "image_url": "",
+      "upc": "",
+      "mpn": "",
+      "gtin": "",
+      "inventory_level": 228,
+      "inventory_warning_level": 10,
+      "bin_picking_number": "",
+      "option_values": [
+        {
+          "id": 585,
+          "label": "4.0Ah Battery",
+          "option_id": 245,
+          "option_display_name": "Battery Option"
+        }
+      ]
+    }
+  ],
+  "category_details": [
+    {
+      "id": 77,
+      "parent_id": 0,
+      "name": "Shop All",
+      "description": "Browse all products in this store",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/shop-all/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 78,
+      "parent_id": 0,
+      "name": "Tools",
+      "description": "<p>Professional-grade power tools and hand tools for industrial, construction, and maintenance applications. Built to last under demanding conditions.</p>",
+      "views": 0,
+      "sort_order": 2,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/tools/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 79,
+      "parent_id": 78,
+      "name": "Power Tools",
+      "description": "<p>High-performance power drills, grinders, saws, and impact drivers engineered for continuous industrial use. Corded and cordless options for every workshop.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/power-tools/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 80,
+      "parent_id": 79,
+      "name": "Drills",
+      "description": "<p>Industrial corded and cordless drills with high torque output, variable speed control, and keyless chuck systems for rapid bit changes on the job site.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/drills/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 81,
+      "parent_id": 79,
+      "name": "Grinders",
+      "description": "<p>Angle grinders and die grinders for cutting, grinding, and polishing metal, masonry, and composite materials. High-RPM motors with dust protection.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/grinders/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 82,
+      "parent_id": 79,
+      "name": "Saws",
+      "description": "<p>Circular saws, reciprocating saws, and band saws for precision cutting of metal, wood, and plastic. Variable speed and ergonomic handles for all-day use.</p>",
+      "views": 0,
+      "sort_order": 2,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/saws/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 83,
+      "parent_id": 79,
+      "name": "Impact Drivers",
+      "description": "<p>High-torque impact drivers and wrenches for driving fasteners into concrete, steel, and hardwood without cam-out or strip damage.</p>",
+      "views": 0,
+      "sort_order": 3,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/impact-drivers/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 84,
+      "parent_id": 78,
+      "name": "Hand Tools",
+      "description": "<p>Durable hand tools — wrenches, screwdrivers, pliers, and hammers — for assembly, disassembly, and precision fitting tasks in industrial environments.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/hand-tools/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 85,
+      "parent_id": 84,
+      "name": "Wrenches",
+      "description": "<p>Combination wrenches, adjustable wrenches, and socket sets in standard and metric sizes. Chrome vanadium steel with mirror polish finish for durability.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/wrenches/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 86,
+      "parent_id": 84,
+      "name": "Screwdrivers",
+      "description": "<p>Precision screwdriver sets with magnetic tips, cushion-grip handles, and insulated variants for electrical work. Slotted, Phillips, Torx, and hex drive options.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/screwdrivers/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 87,
+      "parent_id": 84,
+      "name": "Pliers",
+      "description": "<p>Lineman pliers, needle-nose pliers, locking pliers, and diagonal cutters. Drop-forged steel with induction-hardened cutting edges and comfort-grip handles.</p>",
+      "views": 0,
+      "sort_order": 2,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/pliers/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 88,
+      "parent_id": 78,
+      "name": "Measuring & Layout",
+      "description": "<p>Precision measuring instruments for layout, inspection, and quality control. Digital and analog options with NIST-traceable calibration.</p>",
+      "views": 0,
+      "sort_order": 2,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/measuring-tools/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 89,
+      "parent_id": 78,
+      "name": "Tool Storage",
+      "description": "<p>Heavy-duty tool chests, rolling cabinets, wall panels, and portable cases for organizing and protecting tools in the workshop and on-site.</p>",
+      "views": 0,
+      "sort_order": 3,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/tool-storage/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 90,
+      "parent_id": 0,
+      "name": "Safety & PPE",
+      "description": "<p>Personal protective equipment and safety gear compliant with OSHA and ANSI standards. Protect your workforce with certified, quality safety products.</p>",
+      "views": 0,
+      "sort_order": 3,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/safety-gear/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 91,
+      "parent_id": 90,
+      "name": "Head Protection",
+      "description": "<p>Hard hats, bump caps, and welding helmets rated for impact, electrical, and thermal hazards. Type I and Type II classifications for overhead and lateral protection.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/head-protection/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 92,
+      "parent_id": 90,
+      "name": "Eye Protection",
+      "description": "<p>Safety glasses, goggles, and face shields for impact, chemical splash, and optical radiation protection. ANSI Z87.1 certified for industrial and construction environments.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/eye-protection/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 93,
+      "parent_id": 90,
+      "name": "Hearing Protection",
+      "description": "<p>Disposable and reusable earplugs, over-ear muffs, and banded ear protectors with NRR ratings from 21 to 33 dB. Comfortable for extended wear in loud environments.</p>",
+      "views": 0,
+      "sort_order": 2,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/hearing-protection/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 94,
+      "parent_id": 90,
+      "name": "Respiratory Protection",
+      "description": "<p>N95, P100, and half/full-face respirators with appropriate cartridges for particulate, organic vapor, and multi-hazard environments. NIOSH approved.</p>",
+      "views": 0,
+      "sort_order": 3,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/respiratory/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 95,
+      "parent_id": 90,
+      "name": "Hand Protection",
+      "description": "<p>Cut-resistant, chemical-resistant, and thermal gloves for every industrial hazard. ANSI A4+ cut ratings, nitrile coating, and leather palm options.</p>",
+      "views": 0,
+      "sort_order": 4,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/gloves/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 96,
+      "parent_id": 90,
+      "name": "Workwear & Apparel",
+      "description": "<p>High-visibility vests, FR clothing, coveralls, and safety boots. ANSI/ISEA 107 rated hi-vis apparel and ASTM-rated footwear for every hazardous work environment.</p>",
+      "views": 0,
+      "sort_order": 5,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/workwear/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 97,
+      "parent_id": 0,
+      "name": "Welding Equipment",
+      "description": "<p>Professional welding machines, accessories, and consumables for MIG, TIG, and stick welding. From hobbyist to industrial-grade equipment for every application.</p>",
+      "views": 0,
+      "sort_order": 4,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/welding/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 98,
+      "parent_id": 97,
+      "name": "Welding Machines",
+      "description": "<p>MIG welders, TIG welders, stick welders, and multi-process machines. DC and AC output, inverter technology for portability and energy efficiency.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/welding-machines/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 99,
+      "parent_id": 97,
+      "name": "Consumables",
+      "description": "<p>Welding wire, electrodes, filler rods, and brazing alloys for steel, stainless, and aluminum applications. Bulk packs for high-volume workshops.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/welding-consumables/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 100,
+      "parent_id": 97,
+      "name": "Accessories",
+      "description": "<p>Welding helmets, gloves, regulators, ground clamps, and anti-spatter spray. Complete setup packages for every welding process and material.</p>",
+      "views": 0,
+      "sort_order": 2,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/welding-accessories/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 101,
+      "parent_id": 0,
+      "name": "Air Compressors",
+      "description": "<p>Industrial air compressors, pneumatic tools, and air distribution systems. From portable pancake compressors to stationary rotary screw systems for continuous operation.</p>",
+      "views": 0,
+      "sort_order": 5,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/compressors/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 102,
+      "parent_id": 101,
+      "name": "Compressors",
+      "description": "<p>Pancake, portable, and stationary reciprocating and rotary screw compressors. Oil-free and oil-flooded models rated for continuous-duty industrial applications.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/air-compressors/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 103,
+      "parent_id": 101,
+      "name": "Pneumatic Tools",
+      "description": "<p>Air ratchets, impact wrenches, grinders, sanders, and nail guns for high-torque and high-RPM industrial applications powered by compressed air.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/pneumatic-tools/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 104,
+      "parent_id": 101,
+      "name": "Air Accessories",
+      "description": "<p>Air hoses, fittings, regulators, filters, and lubricators for building complete compressed air systems. Quick-connect couplers and industrial-grade ball valves.</p>",
+      "views": 0,
+      "sort_order": 2,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/air-accessories/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 105,
+      "parent_id": 0,
+      "name": "Material Handling",
+      "description": "<p>Heavy-duty material handling equipment including pallet jacks, hand trucks, hoists, and rigging supplies for safe and efficient movement of industrial loads.</p>",
+      "views": 0,
+      "sort_order": 6,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/material-handling/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 106,
+      "parent_id": 105,
+      "name": "Hoists & Lifts",
+      "description": "<p>Chain hoists, lever hoists, come-alongs, and hydraulic lifts with capacities from 1 to 10 tons. Engineered for safe overhead lifting and load positioning.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/hoists-lifts/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 107,
+      "parent_id": 105,
+      "name": "Rigging",
+      "description": "<p>Wire rope, slings, shackles, turnbuckles, and load binders for industrial rigging applications. Rated and certified for overhead lifting operations.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/rigging/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 108,
+      "parent_id": 105,
+      "name": "Hand Trucks & Dollies",
+      "description": "<p>Standard hand trucks, appliance dollies, platform trucks, and pallet jacks. Heavy-duty construction for moving heavy equipment and materials with ease.</p>",
+      "views": 0,
+      "sort_order": 2,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/hand-trucks/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 109,
+      "parent_id": 80,
+      "name": "Cordless Drills",
+      "description": "<p>Battery-powered cordless drills for maximum portability and convenience on the job site. 12V, 18V, and 20V platforms available.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/cordless-drills/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 110,
+      "parent_id": 80,
+      "name": "Hammer Drills",
+      "description": "<p>Rotary hammer drills for concrete, masonry, and stone drilling. SDS-Plus and SDS-Max chuck systems for heavy-duty anchoring.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/hammer-drills/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 111,
+      "parent_id": 80,
+      "name": "Drill Presses",
+      "description": "<p>Bench-top and floor-standing drill presses for precision drilling with controlled depth and speed. Variable speed pulleys and digital readouts.</p>",
+      "views": 0,
+      "sort_order": 2,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/drill-presses/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 112,
+      "parent_id": 81,
+      "name": "Angle Grinders",
+      "description": "<p>Angle grinders for cutting, grinding, and polishing metal surfaces. 4.5-inch to 9-inch disc sizes for every application.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/angle-grinders/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 113,
+      "parent_id": 81,
+      "name": "Die Grinders",
+      "description": "<p>Pneumatic and electric die grinders for deburring, porting, and precision material removal in tight spaces.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/die-grinders/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 114,
+      "parent_id": 81,
+      "name": "Bench Grinders",
+      "description": "<p>Stationary bench grinders for sharpening, shaping, and cleaning tools and parts. Wire wheel and grinding wheel combinations.</p>",
+      "views": 0,
+      "sort_order": 2,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bench-grinders/",
+        "is_customized": true
+      },
+      "image_url": ""
+    }
+  ]
+}

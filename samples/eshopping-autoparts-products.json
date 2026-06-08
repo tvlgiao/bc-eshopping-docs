@@ -1,0 +1,1839 @@
+{
+  "id": 112,
+  "name": "High-Flow Engine Air Filter",
+  "type": "physical",
+  "sku": "AP-AIR-001",
+  "description": "<p>High-flow engine air filter for increased horsepower and throttle response. Oiled cotton gauze design allows more airflow than stock.</p><ul><li>Oiled cotton gauze media</li><li>Up to 50% more airflow</li><li>Washable and reusable</li><li>Lifetime warranty</li></ul><p>Universal fit with vehicle-specific adapter brackets included.</p>",
+  "weight": 0.55,
+  "width": 10,
+  "depth": 10,
+  "height": 10,
+  "price": 45,
+  "cost_price": 0,
+  "retail_price": 0,
+  "sale_price": 38,
+  "map_price": 0,
+  "tax_class_id": 0,
+  "product_tax_code": "",
+  "calculated_price": 38,
+  "categories": [
+    30,
+    24,
+    23
+  ],
+  "brand_id": 42,
+  "option_set_id": 17,
+  "option_set_display": "right",
+  "inventory_level": 100,
+  "inventory_warning_level": 10,
+  "inventory_tracking": "none",
+  "reviews_rating_sum": 5,
+  "reviews_count": 1,
+  "total_sold": 0,
+  "fixed_cost_shipping_price": 0,
+  "is_free_shipping": false,
+  "is_visible": true,
+  "is_featured": true,
+  "related_products": [
+    -1
+  ],
+  "warranty": "<p>This part carries a <strong>12-month / 12,000-mile limited warranty</strong> (whichever comes first) against manufacturing defects and premature wear under normal vehicle use.</p><p>Defective parts will be repaired or replaced free of charge; proof of professional installation may be required for certain components. Contact us with your order number and part details to begin a claim.</p>",
+  "bin_picking_number": "",
+  "layout_file": "",
+  "upc": "",
+  "mpn": "",
+  "gtin": "",
+  "date_last_imported": null,
+  "search_keywords": "",
+  "availability": "available",
+  "availability_description": "",
+  "gift_wrapping_options_type": "any",
+  "gift_wrapping_options_list": [],
+  "sort_order": 0,
+  "condition": "New",
+  "is_condition_shown": false,
+  "order_quantity_minimum": 0,
+  "order_quantity_maximum": 0,
+  "page_title": "High-Flow Engine Air Filter",
+  "meta_keywords": [],
+  "meta_description": "",
+  "date_created": "2026-05-18T06:30:59+00:00",
+  "date_modified": "2026-06-03T08:55:29+00:00",
+  "view_count": 0,
+  "preorder_release_date": null,
+  "preorder_message": "",
+  "is_preorder_only": false,
+  "is_price_hidden": false,
+  "price_hidden_label": "",
+  "custom_url": {
+    "url": "/AP-AIR-001/",
+    "is_customized": false
+  },
+  "base_variant_id": null,
+  "open_graph_type": "product",
+  "open_graph_title": "",
+  "open_graph_description": "",
+  "open_graph_use_meta_description": true,
+  "open_graph_use_product_name": true,
+  "open_graph_use_image": true,
+  "channels": [
+    1
+  ],
+  "images": [
+    {
+      "id": 377,
+      "product_id": 112,
+      "is_thumbnail": false,
+      "sort_order": 1,
+      "description": "",
+      "image_file": "j/574/02__12094.png",
+      "url_zoom": "https://cdn11.bigcommerce.com/s-u0mz3ww2uj/products/112/images/377/02__12094.1779085875.1280.1280.png?c=1",
+      "url_standard": "https://cdn11.bigcommerce.com/s-u0mz3ww2uj/products/112/images/377/02__12094.1779085875.386.513.png?c=1",
+      "url_thumbnail": "https://cdn11.bigcommerce.com/s-u0mz3ww2uj/products/112/images/377/02__12094.1779085875.220.290.png?c=1",
+      "url_tiny": "https://cdn11.bigcommerce.com/s-u0mz3ww2uj/products/112/images/377/02__12094.1779085875.44.58.png?c=1",
+      "date_modified": "2026-05-18T06:31:15+00:00"
+    },
+    {
+      "id": 378,
+      "product_id": 112,
+      "is_thumbnail": false,
+      "sort_order": 2,
+      "description": "",
+      "image_file": "l/020/03__67724.png",
+      "url_zoom": "https://cdn11.bigcommerce.com/s-u0mz3ww2uj/products/112/images/378/03__67724.1779085877.1280.1280.png?c=1",
+      "url_standard": "https://cdn11.bigcommerce.com/s-u0mz3ww2uj/products/112/images/378/03__67724.1779085877.386.513.png?c=1",
+      "url_thumbnail": "https://cdn11.bigcommerce.com/s-u0mz3ww2uj/products/112/images/378/03__67724.1779085877.220.290.png?c=1",
+      "url_tiny": "https://cdn11.bigcommerce.com/s-u0mz3ww2uj/products/112/images/378/03__67724.1779085877.44.58.png?c=1",
+      "date_modified": "2026-05-18T06:31:17+00:00"
+    },
+    {
+      "id": 379,
+      "product_id": 112,
+      "is_thumbnail": false,
+      "sort_order": 3,
+      "description": "",
+      "image_file": "w/163/04__54081.png",
+      "url_zoom": "https://cdn11.bigcommerce.com/s-u0mz3ww2uj/products/112/images/379/04__54081.1779085879.1280.1280.png?c=1",
+      "url_standard": "https://cdn11.bigcommerce.com/s-u0mz3ww2uj/products/112/images/379/04__54081.1779085879.386.513.png?c=1",
+      "url_thumbnail": "https://cdn11.bigcommerce.com/s-u0mz3ww2uj/products/112/images/379/04__54081.1779085879.220.290.png?c=1",
+      "url_tiny": "https://cdn11.bigcommerce.com/s-u0mz3ww2uj/products/112/images/379/04__54081.1779085879.44.58.png?c=1",
+      "date_modified": "2026-05-18T06:31:19+00:00"
+    },
+    {
+      "id": 380,
+      "product_id": 112,
+      "is_thumbnail": false,
+      "sort_order": 4,
+      "description": "",
+      "image_file": "z/971/05__12779.png",
+      "url_zoom": "https://cdn11.bigcommerce.com/s-u0mz3ww2uj/products/112/images/380/05__12779.1779085881.1280.1280.png?c=1",
+      "url_standard": "https://cdn11.bigcommerce.com/s-u0mz3ww2uj/products/112/images/380/05__12779.1779085881.386.513.png?c=1",
+      "url_thumbnail": "https://cdn11.bigcommerce.com/s-u0mz3ww2uj/products/112/images/380/05__12779.1779085881.220.290.png?c=1",
+      "url_tiny": "https://cdn11.bigcommerce.com/s-u0mz3ww2uj/products/112/images/380/05__12779.1779085881.44.58.png?c=1",
+      "date_modified": "2026-05-18T06:31:21+00:00"
+    },
+    {
+      "id": 381,
+      "product_id": 112,
+      "is_thumbnail": false,
+      "sort_order": 5,
+      "description": "",
+      "image_file": "t/296/06__39280.png",
+      "url_zoom": "https://cdn11.bigcommerce.com/s-u0mz3ww2uj/products/112/images/381/06__39280.1779085883.1280.1280.png?c=1",
+      "url_standard": "https://cdn11.bigcommerce.com/s-u0mz3ww2uj/products/112/images/381/06__39280.1779085883.386.513.png?c=1",
+      "url_thumbnail": "https://cdn11.bigcommerce.com/s-u0mz3ww2uj/products/112/images/381/06__39280.1779085883.220.290.png?c=1",
+      "url_tiny": "https://cdn11.bigcommerce.com/s-u0mz3ww2uj/products/112/images/381/06__39280.1779085883.44.58.png?c=1",
+      "date_modified": "2026-05-18T06:31:23+00:00"
+    },
+    {
+      "id": 382,
+      "product_id": 112,
+      "is_thumbnail": false,
+      "sort_order": 6,
+      "description": "",
+      "image_file": "t/556/07__14855.png",
+      "url_zoom": "https://cdn11.bigcommerce.com/s-u0mz3ww2uj/products/112/images/382/07__14855.1779085885.1280.1280.png?c=1",
+      "url_standard": "https://cdn11.bigcommerce.com/s-u0mz3ww2uj/products/112/images/382/07__14855.1779085885.386.513.png?c=1",
+      "url_thumbnail": "https://cdn11.bigcommerce.com/s-u0mz3ww2uj/products/112/images/382/07__14855.1779085885.220.290.png?c=1",
+      "url_tiny": "https://cdn11.bigcommerce.com/s-u0mz3ww2uj/products/112/images/382/07__14855.1779085885.44.58.png?c=1",
+      "date_modified": "2026-05-18T06:31:25+00:00"
+    },
+    {
+      "id": 383,
+      "product_id": 112,
+      "is_thumbnail": false,
+      "sort_order": 7,
+      "description": "",
+      "image_file": "h/606/08__59508.png",
+      "url_zoom": "https://cdn11.bigcommerce.com/s-u0mz3ww2uj/products/112/images/383/08__59508.1779085887.1280.1280.png?c=1",
+      "url_standard": "https://cdn11.bigcommerce.com/s-u0mz3ww2uj/products/112/images/383/08__59508.1779085887.386.513.png?c=1",
+      "url_thumbnail": "https://cdn11.bigcommerce.com/s-u0mz3ww2uj/products/112/images/383/08__59508.1779085887.220.290.png?c=1",
+      "url_tiny": "https://cdn11.bigcommerce.com/s-u0mz3ww2uj/products/112/images/383/08__59508.1779085887.44.58.png?c=1",
+      "date_modified": "2026-05-18T06:31:27+00:00"
+    },
+    {
+      "id": 384,
+      "product_id": 112,
+      "is_thumbnail": false,
+      "sort_order": 8,
+      "description": "",
+      "image_file": "n/351/09__53762.png",
+      "url_zoom": "https://cdn11.bigcommerce.com/s-u0mz3ww2uj/products/112/images/384/09__53762.1779085889.1280.1280.png?c=1",
+      "url_standard": "https://cdn11.bigcommerce.com/s-u0mz3ww2uj/products/112/images/384/09__53762.1779085889.386.513.png?c=1",
+      "url_thumbnail": "https://cdn11.bigcommerce.com/s-u0mz3ww2uj/products/112/images/384/09__53762.1779085889.220.290.png?c=1",
+      "url_tiny": "https://cdn11.bigcommerce.com/s-u0mz3ww2uj/products/112/images/384/09__53762.1779085889.44.58.png?c=1",
+      "date_modified": "2026-05-18T06:31:29+00:00"
+    },
+    {
+      "id": 385,
+      "product_id": 112,
+      "is_thumbnail": false,
+      "sort_order": 9,
+      "description": "",
+      "image_file": "w/088/10__98232.png",
+      "url_zoom": "https://cdn11.bigcommerce.com/s-u0mz3ww2uj/products/112/images/385/10__98232.1779085891.1280.1280.png?c=1",
+      "url_standard": "https://cdn11.bigcommerce.com/s-u0mz3ww2uj/products/112/images/385/10__98232.1779085891.386.513.png?c=1",
+      "url_thumbnail": "https://cdn11.bigcommerce.com/s-u0mz3ww2uj/products/112/images/385/10__98232.1779085891.220.290.png?c=1",
+      "url_tiny": "https://cdn11.bigcommerce.com/s-u0mz3ww2uj/products/112/images/385/10__98232.1779085891.44.58.png?c=1",
+      "date_modified": "2026-05-18T06:31:31+00:00"
+    },
+    {
+      "id": 376,
+      "product_id": 112,
+      "is_thumbnail": true,
+      "sort_order": 0,
+      "description": "",
+      "image_file": "k/088/01__01548.png",
+      "url_zoom": "https://cdn11.bigcommerce.com/s-u0mz3ww2uj/products/112/images/376/01__01548.1779085873.1280.1280.png?c=1",
+      "url_standard": "https://cdn11.bigcommerce.com/s-u0mz3ww2uj/products/112/images/376/01__01548.1779085873.386.513.png?c=1",
+      "url_thumbnail": "https://cdn11.bigcommerce.com/s-u0mz3ww2uj/products/112/images/376/01__01548.1779085873.220.290.png?c=1",
+      "url_tiny": "https://cdn11.bigcommerce.com/s-u0mz3ww2uj/products/112/images/376/01__01548.1779085873.44.58.png?c=1",
+      "date_modified": "2026-05-18T06:31:13+00:00"
+    }
+  ],
+  "videos": [],
+  "custom_fields": [
+    {
+      "id": 1,
+      "name": "Filter Type",
+      "value": "Oiled Cotton Washable"
+    },
+    {
+      "id": 2,
+      "name": "Replacement Interval",
+      "value": "50,000 Miles"
+    }
+  ],
+  "bulk_pricing_rules": [
+    {
+      "id": 1,
+      "quantity_min": 3,
+      "quantity_max": 9,
+      "type": "percent",
+      "amount": 5
+    },
+    {
+      "id": 2,
+      "quantity_min": 10,
+      "quantity_max": 24,
+      "type": "percent",
+      "amount": 10
+    },
+    {
+      "id": 3,
+      "quantity_min": 25,
+      "quantity_max": 99,
+      "type": "percent",
+      "amount": 15
+    },
+    {
+      "id": 4,
+      "quantity_min": 100,
+      "quantity_max": 0,
+      "type": "percent",
+      "amount": 20
+    }
+  ],
+  "reviews": [
+    {
+      "id": 3,
+      "email": "",
+      "name": "HP Seeker",
+      "rating": 5,
+      "text": "Throttle response improved noticeably. Worth every dollar.",
+      "title": "Noticeable difference",
+      "status": "approved",
+      "date_created": "2026-05-18T06:31:33+00:00",
+      "date_modified": "2026-05-18T06:31:33+00:00",
+      "date_reviewed": "2026-01-18T00:00:00+00:00"
+    }
+  ],
+  "options": [
+    {
+      "id": 113,
+      "product_id": 112,
+      "name": "Size1779085861-112",
+      "display_name": "Size",
+      "type": "dropdown",
+      "sort_order": 0,
+      "option_values": [
+        {
+          "id": 98,
+          "label": "Standard",
+          "sort_order": 0,
+          "value_data": null,
+          "is_default": false
+        },
+        {
+          "id": 99,
+          "label": "Large",
+          "sort_order": 1,
+          "value_data": null,
+          "is_default": false
+        },
+        {
+          "id": 100,
+          "label": "XL",
+          "sort_order": 2,
+          "value_data": null,
+          "is_default": false
+        }
+      ],
+      "config": []
+    }
+  ],
+  "modifiers": [],
+  "parent_relations": [],
+  "variants": [
+    {
+      "id": 78,
+      "product_id": 112,
+      "sku": "AP-AIR-001-STAND",
+      "sku_id": 127,
+      "price": 45,
+      "calculated_price": 45,
+      "sale_price": null,
+      "retail_price": null,
+      "map_price": null,
+      "fixed_cost_shipping_price": null,
+      "cost_price": 0,
+      "weight": 0.55,
+      "width": null,
+      "height": null,
+      "depth": null,
+      "is_free_shipping": false,
+      "calculated_weight": 0.55,
+      "purchasing_disabled": false,
+      "purchasing_disabled_message": "",
+      "image_url": "",
+      "upc": "",
+      "mpn": "",
+      "gtin": "",
+      "inventory_level": 33,
+      "inventory_warning_level": 0,
+      "bin_picking_number": "",
+      "option_values": [
+        {
+          "id": 98,
+          "label": "Standard",
+          "option_id": 113,
+          "option_display_name": "Size"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "product_id": 112,
+      "sku": "AP-AIR-001-LARGE",
+      "sku_id": 128,
+      "price": 45,
+      "calculated_price": 45,
+      "sale_price": null,
+      "retail_price": null,
+      "map_price": null,
+      "fixed_cost_shipping_price": null,
+      "cost_price": 0,
+      "weight": 0.55,
+      "width": null,
+      "height": null,
+      "depth": null,
+      "is_free_shipping": false,
+      "calculated_weight": 0.55,
+      "purchasing_disabled": false,
+      "purchasing_disabled_message": "",
+      "image_url": "",
+      "upc": "",
+      "mpn": "",
+      "gtin": "",
+      "inventory_level": 33,
+      "inventory_warning_level": 0,
+      "bin_picking_number": "",
+      "option_values": [
+        {
+          "id": 99,
+          "label": "Large",
+          "option_id": 113,
+          "option_display_name": "Size"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "product_id": 112,
+      "sku": "AP-AIR-001-XL",
+      "sku_id": 129,
+      "price": 45,
+      "calculated_price": 45,
+      "sale_price": null,
+      "retail_price": null,
+      "map_price": null,
+      "fixed_cost_shipping_price": null,
+      "cost_price": 0,
+      "weight": 0.55,
+      "width": null,
+      "height": null,
+      "depth": null,
+      "is_free_shipping": false,
+      "calculated_weight": 0.55,
+      "purchasing_disabled": false,
+      "purchasing_disabled_message": "",
+      "image_url": "",
+      "upc": "",
+      "mpn": "",
+      "gtin": "",
+      "inventory_level": 33,
+      "inventory_warning_level": 0,
+      "bin_picking_number": "",
+      "option_values": [
+        {
+          "id": 100,
+          "label": "XL",
+          "option_id": 113,
+          "option_display_name": "Size"
+        }
+      ]
+    }
+  ],
+  "category_details": [
+    {
+      "id": 23,
+      "parent_id": 0,
+      "name": "Shop All",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "category_with_facets.html",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/shop-all/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 24,
+      "parent_id": 0,
+      "name": "Engine Parts",
+      "description": "<p>OEM and aftermarket engine components for all makes and models. From filters and spark plugs to gaskets and sensors — keep your engine running clean and strong.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/engine-parts/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 25,
+      "parent_id": 24,
+      "name": "Oil Filters",
+      "description": "<p>High-capacity oil filters that trap contaminants and protect your engine. OEM-fit and performance upgrade options for every vehicle.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/oil-filters/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 26,
+      "parent_id": 25,
+      "name": "Filters by Type",
+      "description": "<p>Choose the right oil filter housing style for your engine — spin-on canister filters for most vehicles, cartridge filters for European engines, and extended-life options for high-mileage vehicles.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/oil-filters-by-type/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 27,
+      "parent_id": 26,
+      "name": "Spin-On Oil Filters",
+      "description": "<p>Traditional canister-style spin-on oil filters for most domestic and Asian vehicles. Easy installation with built-in anti-drainback valve and bypass valve.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/spin-on-oil-filters/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 28,
+      "parent_id": 26,
+      "name": "Cartridge Oil Filters",
+      "description": "<p>Replaceable cartridge filter elements used in most European vehicles. Eco-friendly design reduces metal waste compared to spin-on filters.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/cartridge-oil-filters/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 29,
+      "parent_id": 26,
+      "name": "High-Mileage Oil Filters",
+      "description": "<p>Extended-capacity oil filters engineered for high-mileage engines (75,000+ miles). Enhanced media traps smaller contaminants for longer engine life.</p>",
+      "views": 0,
+      "sort_order": 2,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/high-mileage-oil-filters/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 30,
+      "parent_id": 24,
+      "name": "Air Filters",
+      "description": "<p>Engine air filters and cabin air filters for optimal airflow and clean air inside the vehicle. Washable and replaceable options available.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/air-filters/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 31,
+      "parent_id": 30,
+      "name": "Filters by Application",
+      "description": "<p>Engine intake air filters for combustion, cabin air filters for HVAC system, and performance cold-air intake systems for added horsepower.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/air-filters-by-application/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 32,
+      "parent_id": 31,
+      "name": "Engine Air Filters",
+      "description": "<p>Paper, cotton, and synthetic engine air filters that protect your engine from dust and debris. OEM-fit replacements for every vehicle.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/engine-air-filters/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 33,
+      "parent_id": 31,
+      "name": "Cabin Air Filters",
+      "description": "<p>HEPA and activated-carbon cabin air filters that clean the air inside your vehicle. Removes pollen, dust, smoke, and odors.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/cabin-air-filters/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 34,
+      "parent_id": 31,
+      "name": "Performance Cold-Air Intakes",
+      "description": "<p>High-flow cold-air intake systems with washable filters for added horsepower and improved throttle response.</p>",
+      "views": 0,
+      "sort_order": 2,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/cold-air-intakes/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 35,
+      "parent_id": 24,
+      "name": "Spark Plugs",
+      "description": "<p>Copper, platinum, and iridium spark plugs for reliable ignition. Cold-start performance in all weather conditions.</p>",
+      "views": 0,
+      "sort_order": 2,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/spark-plugs/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 36,
+      "parent_id": 35,
+      "name": "Plugs by Electrode Material",
+      "description": "<p>Match electrode material to your driving needs — copper for budget OEM replacement, platinum for long life, iridium for high-performance applications.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/spark-plugs-by-electrode/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 37,
+      "parent_id": 36,
+      "name": "Copper Spark Plugs",
+      "description": "<p>Standard copper-core spark plugs for OEM replacement. Affordable and reliable for everyday driving up to 30,000 miles.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/copper-spark-plugs/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 38,
+      "parent_id": 36,
+      "name": "Platinum Spark Plugs",
+      "description": "<p>Single and double platinum spark plugs for extended service life up to 60,000 miles. Improved cold-start performance.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/platinum-spark-plugs/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 39,
+      "parent_id": 36,
+      "name": "Iridium Spark Plugs",
+      "description": "<p>Premium iridium spark plugs with fine-wire center electrode. 100,000+ mile service life and optimal ignition for high-compression engines.</p>",
+      "views": 0,
+      "sort_order": 2,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/iridium-spark-plugs/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 40,
+      "parent_id": 24,
+      "name": "Fuel Filters",
+      "description": "<p>In-line and in-tank fuel filters that protect your fuel system from water and debris. Essential for diesel and high-performance engines.</p>",
+      "views": 0,
+      "sort_order": 3,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/fuel-filters/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 41,
+      "parent_id": 40,
+      "name": "Filters by Fuel Type",
+      "description": "<p>Gasoline fuel filters for standard combustion engines and diesel fuel filters with water-separation technology for compression-ignition engines.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/fuel-filters-by-fuel-type/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 42,
+      "parent_id": 41,
+      "name": "Gasoline Fuel Filters",
+      "description": "<p>In-line and in-tank gasoline fuel filters with micron ratings from 10 to 40 microns. OEM-fit for cars, trucks, and SUVs.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/gasoline-fuel-filters/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 43,
+      "parent_id": 41,
+      "name": "Diesel Fuel Filters",
+      "description": "<p>Heavy-duty diesel fuel filters with built-in water separators. Essential for protecting injection pumps and common-rail injectors.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/diesel-fuel-filters/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 44,
+      "parent_id": 0,
+      "name": "Brakes",
+      "description": "<p>Complete brake system components — pads, rotors, calipers, and brake lines. Safety-rated for daily driving and performance applications.</p>",
+      "views": 0,
+      "sort_order": 2,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/brakes/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 45,
+      "parent_id": 44,
+      "name": "Brake Pads",
+      "description": "<p>Ceramic, semi-metallic, and organic brake pads for quiet, dust-free stopping power. OEM replacement and performance upgrade options.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/brake-pads/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 46,
+      "parent_id": 45,
+      "name": "Pads by Compound",
+      "description": "<p>Choose the right friction compound for your driving style — ceramic for quiet daily driving, semi-metallic for towing and heavy use, organic for budget OEM replacement.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/brake-pads-by-compound/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 47,
+      "parent_id": 46,
+      "name": "Ceramic Brake Pads",
+      "description": "<p>Premium ceramic brake pads for quiet, dust-free stopping. Ideal for daily driving and luxury vehicles. Extended rotor life.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/ceramic-brake-pads/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 48,
+      "parent_id": 46,
+      "name": "Semi-Metallic Brake Pads",
+      "description": "<p>Heavy-duty semi-metallic brake pads for trucks, SUVs, and towing applications. Excellent stopping power under high heat.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/semi-metallic-brake-pads/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 49,
+      "parent_id": 46,
+      "name": "Organic Brake Pads",
+      "description": "<p>Non-asbestos organic (NAO) brake pads for budget-friendly OEM replacement. Quiet operation and gentle on rotors.</p>",
+      "views": 0,
+      "sort_order": 2,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/organic-brake-pads/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 50,
+      "parent_id": 44,
+      "name": "Brake Rotors",
+      "description": "<p>Drilled, slotted, and standard brake rotors for heat dissipation and consistent braking. Vented and cross-drilled designs for performance.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/brake-rotors/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 51,
+      "parent_id": 50,
+      "name": "Rotors by Style",
+      "description": "<p>Smooth-face vented rotors for daily driving, drilled-and-slotted rotors for improved cooling, and cross-drilled performance rotors for track and racing.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/brake-rotors-by-style/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 52,
+      "parent_id": 51,
+      "name": "Standard Vented Rotors",
+      "description": "<p>OEM-style vented brake rotors with smooth friction surface. Direct-fit replacement for daily driving.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/standard-vented-rotors/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 53,
+      "parent_id": 51,
+      "name": "Drilled & Slotted Rotors",
+      "description": "<p>Cross-drilled and slotted brake rotors for improved heat dissipation and wet-weather performance. Reduce brake fade under heavy use.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/drilled-slotted-rotors/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 54,
+      "parent_id": 51,
+      "name": "Performance Cross-Drilled Rotors",
+      "description": "<p>Premium cross-drilled performance rotors with zinc-coated finish. Ideal for track days, autocross, and high-performance street use.</p>",
+      "views": 0,
+      "sort_order": 2,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/performance-rotors/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 55,
+      "parent_id": 44,
+      "name": "Brake Calipers",
+      "description": "<p>Remanufactured and new brake calipers with compatible mounting hardware. Powder-coated finishes for corrosion resistance.</p>",
+      "views": 0,
+      "sort_order": 2,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/brake-calipers/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 56,
+      "parent_id": 55,
+      "name": "Calipers by Type",
+      "description": "<p>OEM-replacement calipers for direct-fit installation and high-performance big-brake calipers for upgraded stopping power.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/brake-calipers-by-type/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 57,
+      "parent_id": 56,
+      "name": "OE Replacement Calipers",
+      "description": "<p>Remanufactured OEM-fit brake calipers with new seals, pistons, and bleeder screws. Includes mounting hardware kit.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/oe-replacement-calipers/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 58,
+      "parent_id": 56,
+      "name": "Performance Big-Brake Calipers",
+      "description": "<p>4-piston and 6-piston performance brake calipers with anodized finish. Compatible with upgraded big-brake kits.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/performance-big-brake-calipers/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 59,
+      "parent_id": 0,
+      "name": "Suspension",
+      "description": "<p>Shocks, struts, springs, and suspension links for a smooth, controlled ride. Restore factory handling and eliminate bouncing or swaying.</p>",
+      "views": 0,
+      "sort_order": 3,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/suspension/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 60,
+      "parent_id": 59,
+      "name": "Shocks & Struts",
+      "description": "<p>Gas-charged shock absorbers and complete strut assemblies for precise handling and comfort. Direct-fit for easy installation.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/shocks-struts/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 61,
+      "parent_id": 60,
+      "name": "Shocks by Application",
+      "description": "<p>Match shock absorbers to driving conditions — daily driving for comfort, performance for sport handling, off-road for lifted trucks and SUVs.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/shocks-by-application/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 62,
+      "parent_id": 61,
+      "name": "Daily Driving Shocks",
+      "description": "<p>OEM-replacement gas-charged shocks tuned for comfort and quiet daily driving. Twin-tube design for plush ride quality.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/daily-driving-shocks/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 63,
+      "parent_id": 61,
+      "name": "Performance Shocks",
+      "description": "<p>Monotube performance shocks with adjustable damping. Sport-tuned for improved handling and reduced body roll.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/performance-shocks/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 64,
+      "parent_id": 61,
+      "name": "Off-Road & Lifted Shocks",
+      "description": "<p>Heavy-duty shocks with extended travel for lifted trucks, Jeeps, and off-road applications. Reservoir designs for extreme conditions.</p>",
+      "views": 0,
+      "sort_order": 2,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/off-road-shocks/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 65,
+      "parent_id": 59,
+      "name": "Control Arms & Links",
+      "description": "<p>Upper and lower control arms, ball joints, tie rod ends, and sway bar links. Heavy-duty bushings and greaseable joints for long service life.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/suspension-links/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 66,
+      "parent_id": 65,
+      "name": "Components by Function",
+      "description": "<p>Steering and suspension components organized by function — control arms for wheel positioning, tie rod ends for steering, sway bar links for body control, ball joints for pivot points.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/suspension-components-by-function/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 67,
+      "parent_id": 66,
+      "name": "Control Arms",
+      "description": "<p>Upper and lower control arms with pressed-in bushings and ball joints. Direct-fit OEM-quality replacement.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/control-arms/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 68,
+      "parent_id": 66,
+      "name": "Tie Rod Ends",
+      "description": "<p>Inner and outer tie rod ends for precise steering response. Greaseable designs for extended service life.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/tie-rod-ends/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 69,
+      "parent_id": 66,
+      "name": "Sway Bar Links",
+      "description": "<p>Front and rear sway bar end links with polyurethane or rubber bushings. Reduce body roll in cornering.</p>",
+      "views": 0,
+      "sort_order": 2,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/sway-bar-links/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 70,
+      "parent_id": 66,
+      "name": "Ball Joints",
+      "description": "<p>Upper and lower ball joints with sealed or greaseable designs. Heat-treated studs for high load capacity.</p>",
+      "views": 0,
+      "sort_order": 3,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/ball-joints/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 71,
+      "parent_id": 0,
+      "name": "Electrical & Sensors",
+      "description": "<p>Batteries, alternators, starters, sensors, and wiring for reliable vehicle electrical systems. OE-spec and upgraded components.</p>",
+      "views": 0,
+      "sort_order": 4,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/electrical/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 72,
+      "parent_id": 71,
+      "name": "Batteries",
+      "description": "<p>Automotive batteries in all group sizes with CCA ratings from 500 to 1000+. AGM and flooded lead-acid options. Maintenance-free design.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/batteries/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 73,
+      "parent_id": 72,
+      "name": "Batteries by Chemistry",
+      "description": "<p>Match battery chemistry to vehicle needs — AGM for modern start-stop and luxury vehicles, flooded lead-acid for traditional applications, EFB for entry-level start-stop systems.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/batteries-by-chemistry/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 74,
+      "parent_id": 73,
+      "name": "AGM Batteries",
+      "description": "<p>Absorbed Glass Mat (AGM) batteries for modern vehicles with start-stop technology. Spill-proof, vibration-resistant, and longer service life.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/agm-batteries/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 75,
+      "parent_id": 73,
+      "name": "Flooded Lead-Acid Batteries",
+      "description": "<p>Traditional flooded lead-acid automotive batteries. Cost-effective replacement for older vehicles without start-stop technology.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/flooded-lead-acid-batteries/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 76,
+      "parent_id": 73,
+      "name": "EFB Start-Stop Batteries",
+      "description": "<p>Enhanced Flooded Battery (EFB) for entry-level start-stop vehicles. Improved cycle life over standard flooded batteries.</p>",
+      "views": 0,
+      "sort_order": 2,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/efb-start-stop-batteries/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 77,
+      "parent_id": 71,
+      "name": "Sensors",
+      "description": "<p>Oxygen sensors, MAF sensors, crankshaft position sensors, MAP sensors, and more. OE-fit sensors for every major automotive system.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/sensors/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 78,
+      "parent_id": 77,
+      "name": "Sensors by System",
+      "description": "<p>Sensors grouped by vehicle system — engine management for ignition and fuel, emissions for catalytic converter health, ABS and wheel speed for traction control.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/sensors-by-system/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 79,
+      "parent_id": 78,
+      "name": "Engine Management Sensors",
+      "description": "<p>MAF, MAP, crankshaft position, camshaft position, and throttle position sensors for engine control module (ECM).</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/engine-management-sensors/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 80,
+      "parent_id": 78,
+      "name": "Emissions Sensors",
+      "description": "<p>Oxygen sensors, EGR sensors, and catalytic converter temperature sensors. OEM-fit for OBD-II diagnostic compliance.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/emissions-sensors/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 81,
+      "parent_id": 78,
+      "name": "ABS & Wheel Speed Sensors",
+      "description": "<p>ABS wheel speed sensors and ride height sensors for anti-lock braking and stability control systems. Direct-fit OEM replacements.</p>",
+      "views": 0,
+      "sort_order": 2,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/abs-wheel-speed-sensors/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 82,
+      "parent_id": 0,
+      "name": "Fluids & Chemicals",
+      "description": "<p>Motor oils, transmission fluids, brake fluids, coolants, and automotive chemicals. Trusted brands for every maintenance interval.</p>",
+      "views": 0,
+      "sort_order": 5,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/fluids-chemicals/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 83,
+      "parent_id": 82,
+      "name": "Motor Oil",
+      "description": "<p>Conventional, synthetic blend, and full synthetic motor oils in all viscosities. 5W-30, 0W-20, 10W-40 and specialty grades for diesel and high-mileage engines.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/motor-oil/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 84,
+      "parent_id": 83,
+      "name": "Oils by Formulation",
+      "description": "<p>Select motor oil by formulation — full synthetic for modern engines and extreme conditions, synthetic blend for balanced performance, conventional for older engines, high-mileage for vehicles with 75,000+ miles.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/motor-oil-by-formulation/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 85,
+      "parent_id": 84,
+      "name": "Full Synthetic Motor Oil",
+      "description": "<p>Premium full-synthetic motor oil engineered for modern engines. Superior protection in extreme heat and cold. Extended drain intervals up to 15,000 miles.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/full-synthetic-motor-oil/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 86,
+      "parent_id": 84,
+      "name": "Synthetic Blend Motor Oil",
+      "description": "<p>Synthetic-blend motor oil combining conventional and synthetic base stocks. Better wear protection than conventional at a moderate price.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/synthetic-blend-motor-oil/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 87,
+      "parent_id": 84,
+      "name": "Conventional Motor Oil",
+      "description": "<p>Standard conventional motor oil for older engines and budget maintenance. Meets API SP and ILSAC GF-6 specifications.</p>",
+      "views": 0,
+      "sort_order": 2,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/conventional-motor-oil/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 88,
+      "parent_id": 84,
+      "name": "High-Mileage Motor Oil",
+      "description": "<p>Specially formulated motor oil with seal conditioners for vehicles with 75,000+ miles. Reduces oil leaks and burn-off.</p>",
+      "views": 0,
+      "sort_order": 3,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/high-mileage-motor-oil/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 89,
+      "parent_id": 82,
+      "name": "Coolants & Antifreeze",
+      "description": "<p>Pre-mixed and concentrate coolants in universal and vehicle-specific formulas. Extended-life antifreeze up to 5 years / 150,000 miles.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/coolants/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 90,
+      "parent_id": 89,
+      "name": "Coolants by Formula",
+      "description": "<p>Choose coolant formula by vehicle compatibility — universal pre-mixed for fast top-off, OEM-specific for warranty-compliant service, extended-life concentrate for custom mix ratios.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/coolants-by-formula/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 91,
+      "parent_id": 90,
+      "name": "Universal Pre-Mixed Coolants",
+      "description": "<p>50/50 pre-mixed universal coolants compatible with all major vehicle manufacturers. Ready to pour, no dilution required.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/universal-coolants/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 92,
+      "parent_id": 90,
+      "name": "OEM-Specific Coolants",
+      "description": "<p>Vehicle-specific coolants meeting OEM specifications (Dex-Cool, G12++, Asian Long-Life, etc.). Warranty-compliant replacement.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/oem-specific-coolants/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 93,
+      "parent_id": 90,
+      "name": "Extended-Life Concentrate Coolants",
+      "description": "<p>Concentrated extended-life coolants for custom mix ratios. Up to 5 years / 150,000 miles service life when mixed properly.</p>",
+      "views": 0,
+      "sort_order": 2,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/extended-life-coolants/",
+        "is_customized": true
+      },
+      "image_url": ""
+    }
+  ]
+}

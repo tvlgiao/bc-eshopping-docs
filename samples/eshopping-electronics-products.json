@@ -1,0 +1,1633 @@
+{
+  "id": 149,
+  "name": "TwistGold Necklace",
+  "type": "physical",
+  "sku": "FASH-JWL-001",
+  "description": "<p>TwistGold Necklace is the statement piece your collection is missing. Hand-twisted cable chain with a solid weight that drapes beautifully, precious metal options that suit every skin tone, and a clasp that's secure without being fiddly.</p><ul><li>14K solid gold or sterling silver</li><li>Hand-twisted cable chain</li><li>Adjustable length: 16-20 inches</li><li>Solid lobster claw clasp</li><li>Engraving available</li></ul><p>Worn alone or layered — unmistakably elegant.</p>",
+  "weight": 0.05,
+  "width": 10,
+  "depth": 10,
+  "height": 10,
+  "price": 249,
+  "cost_price": 0,
+  "retail_price": 349,
+  "sale_price": 0,
+  "map_price": 0,
+  "tax_class_id": 0,
+  "product_tax_code": "",
+  "calculated_price": 249,
+  "categories": [
+    57,
+    56,
+    54,
+    58,
+    23
+  ],
+  "brand_id": 47,
+  "option_set_id": 45,
+  "option_set_display": "right",
+  "inventory_level": 100,
+  "inventory_warning_level": 10,
+  "inventory_tracking": "none",
+  "reviews_rating_sum": 24,
+  "reviews_count": 5,
+  "total_sold": 0,
+  "fixed_cost_shipping_price": 0,
+  "is_free_shipping": false,
+  "is_visible": true,
+  "is_featured": true,
+  "related_products": [
+    -1
+  ],
+  "warranty": "<p>This product includes a <strong>1-year limited manufacturer warranty</strong> covering hardware defects and component failures under normal use, from the date of purchase.</p><p>We will repair or replace defective units at no cost during the warranty period. Retain your order confirmation as proof of purchase, and contact support with your order number to start a claim.</p>",
+  "bin_picking_number": "",
+  "layout_file": "",
+  "upc": "",
+  "mpn": "",
+  "gtin": "",
+  "date_last_imported": null,
+  "search_keywords": "",
+  "availability": "available",
+  "availability_description": "",
+  "gift_wrapping_options_type": "any",
+  "gift_wrapping_options_list": [],
+  "sort_order": 37,
+  "condition": "New",
+  "is_condition_shown": false,
+  "order_quantity_minimum": 0,
+  "order_quantity_maximum": 0,
+  "page_title": "TwistGold Necklace",
+  "meta_keywords": [],
+  "meta_description": "",
+  "date_created": "2026-05-26T07:31:11+00:00",
+  "date_modified": "2026-06-03T08:56:42+00:00",
+  "view_count": 0,
+  "preorder_release_date": null,
+  "preorder_message": "",
+  "is_preorder_only": false,
+  "is_price_hidden": false,
+  "price_hidden_label": "",
+  "custom_url": {
+    "url": "/FASH-JWL-001/",
+    "is_customized": false
+  },
+  "base_variant_id": null,
+  "open_graph_type": "product",
+  "open_graph_title": "",
+  "open_graph_description": "",
+  "open_graph_use_meta_description": true,
+  "open_graph_use_product_name": true,
+  "open_graph_use_image": true,
+  "channels": [
+    1
+  ],
+  "images": [
+    {
+      "id": 470,
+      "product_id": 149,
+      "is_thumbnail": true,
+      "sort_order": 0,
+      "description": "",
+      "image_file": "s/570/01__50452.png",
+      "url_zoom": "https://cdn11.bigcommerce.com/s-v0uhwv1yxm/products/149/images/470/01__50452.1779780686.1280.1280.png?c=1",
+      "url_standard": "https://cdn11.bigcommerce.com/s-v0uhwv1yxm/products/149/images/470/01__50452.1779780686.386.513.png?c=1",
+      "url_thumbnail": "https://cdn11.bigcommerce.com/s-v0uhwv1yxm/products/149/images/470/01__50452.1779780686.220.290.png?c=1",
+      "url_tiny": "https://cdn11.bigcommerce.com/s-v0uhwv1yxm/products/149/images/470/01__50452.1779780686.44.58.png?c=1",
+      "date_modified": "2026-05-26T07:31:26+00:00"
+    }
+  ],
+  "videos": [],
+  "custom_fields": [
+    {
+      "id": 111,
+      "name": "Metal",
+      "value": "14K Solid Gold or Sterling Silver"
+    },
+    {
+      "id": 112,
+      "name": "Clasp",
+      "value": "Lobster Claw"
+    },
+    {
+      "id": 113,
+      "name": "Certificate",
+      "value": "Included with purchase"
+    }
+  ],
+  "bulk_pricing_rules": [
+    {
+      "id": 96,
+      "quantity_min": 5,
+      "quantity_max": 15,
+      "type": "percent",
+      "amount": 12
+    },
+    {
+      "id": 97,
+      "quantity_min": 16,
+      "quantity_max": 0,
+      "type": "percent",
+      "amount": 18
+    }
+  ],
+  "reviews": [
+    {
+      "id": 143,
+      "email": "",
+      "name": "Sofia R.",
+      "rating": 5,
+      "text": "Added a special message. The engraving is small and elegant. Feels personal without being overdone.",
+      "title": "Engraving service is seamless",
+      "status": "approved",
+      "date_created": "2026-05-26T07:31:30+00:00",
+      "date_modified": "2026-05-26T07:31:30+00:00",
+      "date_reviewed": "2026-01-18T00:00:00+00:00"
+    },
+    {
+      "id": 142,
+      "email": "",
+      "name": "Evelyn M.",
+      "rating": 4,
+      "text": "At this price point, I was skeptical. Certificate of authenticity confirms it's solid 14K. Happy with the purchase.",
+      "title": "Good value solid gold",
+      "status": "approved",
+      "date_created": "2026-05-26T07:31:30+00:00",
+      "date_modified": "2026-05-26T07:31:30+00:00",
+      "date_reviewed": "2026-01-30T00:00:00+00:00"
+    },
+    {
+      "id": 141,
+      "email": "",
+      "name": "Natalie P.",
+      "rating": 5,
+      "text": "Rose gold flatters my skin tone perfectly. Chain is exactly the right weight — not too delicate, not too chunky.",
+      "title": "Rose gold is stunning",
+      "status": "approved",
+      "date_created": "2026-05-26T07:31:29+00:00",
+      "date_modified": "2026-05-26T07:31:29+00:00",
+      "date_reviewed": "2026-02-10T00:00:00+00:00"
+    },
+    {
+      "id": 140,
+      "email": "",
+      "name": "Grace T.",
+      "rating": 5,
+      "text": "Added engraving with our anniversary date. She cried when she opened it. Quality is impeccable. Worth every cent.",
+      "title": "Purchased as an anniversary gift",
+      "status": "approved",
+      "date_created": "2026-05-26T07:31:28+00:00",
+      "date_modified": "2026-05-26T07:31:28+00:00",
+      "date_reviewed": "2026-02-22T00:00:00+00:00"
+    },
+    {
+      "id": 139,
+      "email": "",
+      "name": "Vivian K.",
+      "rating": 5,
+      "text": "Dainty enough to wear every day, substantial enough to feel like real jewelry. The twist pattern catches light beautifully.",
+      "title": "The perfect everyday necklace",
+      "status": "approved",
+      "date_created": "2026-05-26T07:31:28+00:00",
+      "date_modified": "2026-05-26T07:31:28+00:00",
+      "date_reviewed": "2026-03-05T00:00:00+00:00"
+    }
+  ],
+  "options": [
+    {
+      "id": 156,
+      "product_id": 149,
+      "name": "Chain-Length1779780672-149",
+      "display_name": "Chain Length",
+      "type": "dropdown",
+      "sort_order": 0,
+      "option_values": [
+        {
+          "id": 226,
+          "label": "16 inches",
+          "sort_order": 0,
+          "value_data": null,
+          "is_default": false
+        },
+        {
+          "id": 227,
+          "label": "18 inches",
+          "sort_order": 1,
+          "value_data": null,
+          "is_default": false
+        },
+        {
+          "id": 228,
+          "label": "20 inches",
+          "sort_order": 2,
+          "value_data": null,
+          "is_default": false
+        }
+      ],
+      "config": []
+    }
+  ],
+  "modifiers": [
+    {
+      "id": 158,
+      "product_id": 149,
+      "name": "Engraving1779780678-149",
+      "display_name": "Engraving",
+      "type": "text",
+      "required": false,
+      "sort_order": 0,
+      "config": {
+        "default_value": "",
+        "text_characters_limited": false,
+        "text_min_length": 0,
+        "text_max_length": 0
+      },
+      "option_values": []
+    },
+    {
+      "id": 159,
+      "product_id": 149,
+      "name": "Gift-Box1779780679-149",
+      "display_name": "Gift Box",
+      "type": "checkbox",
+      "required": false,
+      "sort_order": 0,
+      "config": {
+        "checkbox_label": "Add luxury gift box (+10)",
+        "checked_by_default": false
+      },
+      "option_values": [
+        {
+          "id": 230,
+          "option_id": 159,
+          "label": "Yes",
+          "sort_order": 0,
+          "value_data": {
+            "checked_value": true
+          },
+          "is_default": false,
+          "adjusters": {
+            "price": null,
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 231,
+          "option_id": 159,
+          "label": "No",
+          "sort_order": 1,
+          "value_data": {
+            "checked_value": false
+          },
+          "is_default": true,
+          "adjusters": {
+            "price": null,
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "parent_relations": [],
+  "variants": [
+    {
+      "id": 256,
+      "product_id": 149,
+      "sku": "FASH-JWL-001-16INC",
+      "sku_id": 268,
+      "price": 249,
+      "calculated_price": 249,
+      "sale_price": null,
+      "retail_price": null,
+      "map_price": null,
+      "fixed_cost_shipping_price": null,
+      "cost_price": 0,
+      "weight": 0.05,
+      "width": null,
+      "height": null,
+      "depth": null,
+      "is_free_shipping": false,
+      "calculated_weight": 0.05,
+      "purchasing_disabled": false,
+      "purchasing_disabled_message": "",
+      "image_url": "",
+      "upc": "",
+      "mpn": "",
+      "gtin": "",
+      "inventory_level": 33,
+      "inventory_warning_level": 0,
+      "bin_picking_number": "",
+      "option_values": [
+        {
+          "id": 226,
+          "label": "16 inches",
+          "option_id": 156,
+          "option_display_name": "Chain Length"
+        }
+      ]
+    },
+    {
+      "id": 257,
+      "product_id": 149,
+      "sku": "FASH-JWL-001-18INC",
+      "sku_id": 269,
+      "price": 249,
+      "calculated_price": 249,
+      "sale_price": null,
+      "retail_price": null,
+      "map_price": null,
+      "fixed_cost_shipping_price": null,
+      "cost_price": 0,
+      "weight": 0.05,
+      "width": null,
+      "height": null,
+      "depth": null,
+      "is_free_shipping": false,
+      "calculated_weight": 0.05,
+      "purchasing_disabled": false,
+      "purchasing_disabled_message": "",
+      "image_url": "",
+      "upc": "",
+      "mpn": "",
+      "gtin": "",
+      "inventory_level": 33,
+      "inventory_warning_level": 0,
+      "bin_picking_number": "",
+      "option_values": [
+        {
+          "id": 227,
+          "label": "18 inches",
+          "option_id": 156,
+          "option_display_name": "Chain Length"
+        }
+      ]
+    },
+    {
+      "id": 258,
+      "product_id": 149,
+      "sku": "FASH-JWL-001-20INC",
+      "sku_id": 270,
+      "price": 249,
+      "calculated_price": 249,
+      "sale_price": null,
+      "retail_price": null,
+      "map_price": null,
+      "fixed_cost_shipping_price": null,
+      "cost_price": 0,
+      "weight": 0.05,
+      "width": null,
+      "height": null,
+      "depth": null,
+      "is_free_shipping": false,
+      "calculated_weight": 0.05,
+      "purchasing_disabled": false,
+      "purchasing_disabled_message": "",
+      "image_url": "",
+      "upc": "",
+      "mpn": "",
+      "gtin": "",
+      "inventory_level": 33,
+      "inventory_warning_level": 0,
+      "bin_picking_number": "",
+      "option_values": [
+        {
+          "id": 228,
+          "label": "20 inches",
+          "option_id": 156,
+          "option_display_name": "Chain Length"
+        }
+      ]
+    }
+  ],
+  "category_details": [
+    {
+      "id": 23,
+      "parent_id": 0,
+      "name": "Shop All",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "category_with_facets.html",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/shop-all/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 24,
+      "parent_id": 0,
+      "name": "Electronics",
+      "description": "<p>Explore our wide range of cutting-edge electronics, from the latest smartphones to powerful computing devices. Stay connected, entertained, and productive with top-rated tech products.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/electronics/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 25,
+      "parent_id": 24,
+      "name": "Computers & Laptops",
+      "description": "<p>Find the perfect computing solution for work, study, or creative projects. Our collection spans ultrabooks, gaming laptops, all-in-one desktops, and high-performance workstations.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/computers-laptops/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 26,
+      "parent_id": 25,
+      "name": "Laptops",
+      "description": "<p>Browse our extensive laptop lineup featuring the latest processors, vibrant displays, and long-lasting batteries. Whether you need a slim travel companion or a powerhouse workstation, we have you covered.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/laptops/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 27,
+      "parent_id": 25,
+      "name": "Desktops",
+      "description": "<p>Discover powerful desktop computers built for performance, from compact mini-PCs to full tower gaming rigs. Upgrade your workspace with reliable, expandable desktop solutions.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/desktops/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 28,
+      "parent_id": 25,
+      "name": "Tablets",
+      "description": "<p>Shop our selection of tablets ideal for reading, streaming, drawing, and light productivity. Find the right balance of portability and performance for your lifestyle.</p>",
+      "views": 0,
+      "sort_order": 2,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/tablets/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 29,
+      "parent_id": 24,
+      "name": "Mobile & Phones",
+      "description": "<p>Stay connected with our latest smartphones and mobile accessories. Discover feature-rich devices across all price ranges, from flagship models to budget-friendly options.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mobile-phones/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 30,
+      "parent_id": 29,
+      "name": "Smartphones",
+      "description": "<p>Explore our curated selection of the newest smartphones with advanced cameras, fast processors, and stunning displays. Find your perfect device from leading brands worldwide.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/smartphones/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 31,
+      "parent_id": 29,
+      "name": "Cases & Accessories",
+      "description": "<p>Protect and enhance your mobile device with our range of cases, screen protectors, chargers, and more. Find accessories designed for every phone model and personal style.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/cases-accessories/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 32,
+      "parent_id": 24,
+      "name": "Audio",
+      "description": "<p>Immerse yourself in superior sound with our premium audio products. From noise-cancelling headphones to room-filling speakers, experience music the way it was meant to be heard.</p>",
+      "views": 0,
+      "sort_order": 2,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/audio/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 33,
+      "parent_id": 32,
+      "name": "Headphones & Earbuds",
+      "description": "<p>Find your ideal listening companion with our selection of over-ear headphones, in-ear buds, and wireless earphones. Enjoy rich, detailed audio whether at home or on the go.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/headphones-earbuds/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 34,
+      "parent_id": 32,
+      "name": "Speakers",
+      "description": "<p>Fill any room with high-fidelity sound using our range of Bluetooth, smart, and bookshelf speakers. From compact portable units to full home audio systems, we have something for every space.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/speakers/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 35,
+      "parent_id": 24,
+      "name": "Cameras",
+      "description": "<p>Capture life's most memorable moments with our professional and consumer camera range. From entry-level point-and-shoots to full-frame mirrorless systems, find your perfect camera.</p>",
+      "views": 0,
+      "sort_order": 3,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/cameras/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 36,
+      "parent_id": 35,
+      "name": "Digital Cameras",
+      "description": "<p>Shop our collection of DSLR, mirrorless, and compact digital cameras from top manufacturers. Whether you're a hobbyist or a professional photographer, we have the right camera for you.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/digital-cameras/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 37,
+      "parent_id": 35,
+      "name": "Camera Accessories",
+      "description": "<p>Enhance your photography with our wide range of lenses, tripods, memory cards, camera bags, and lighting equipment. Get everything you need to take your shots to the next level.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/camera-accessories/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 38,
+      "parent_id": 24,
+      "name": "Gaming",
+      "description": "<p>Level up your gaming experience with the latest consoles, peripherals, and accessories. Whether you're a casual player or a dedicated enthusiast, find everything you need to play at your best.</p>",
+      "views": 0,
+      "sort_order": 4,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/gaming/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 39,
+      "parent_id": 38,
+      "name": "Consoles",
+      "description": "<p>Shop the latest gaming consoles and bundles from the world's leading gaming brands. Find the perfect platform to enjoy thousands of titles, from action-packed adventures to family-friendly fun.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/consoles/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 40,
+      "parent_id": 38,
+      "name": "Gaming Accessories",
+      "description": "<p>Optimize your setup with gaming controllers, headsets, keyboards, mice, and capture cards. Discover accessories that give you a competitive edge and enhance your overall gaming experience.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/gaming-accessories/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 41,
+      "parent_id": 24,
+      "name": "Smart Home",
+      "description": "<p>Transform your living space into an intelligent, connected home with our smart devices. Control lighting, security, climate, and entertainment all from your smartphone or voice assistant.</p>",
+      "views": 0,
+      "sort_order": 5,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/smart-home/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 42,
+      "parent_id": 24,
+      "name": "Networking",
+      "description": "<p>Build a fast, reliable home or office network with our routers, mesh systems, switches, and network storage solutions. Stay connected with seamless coverage across every room.</p>",
+      "views": 0,
+      "sort_order": 6,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/networking/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 43,
+      "parent_id": 0,
+      "name": "Fashion",
+      "description": "<p>Refresh your wardrobe with our stylish fashion collections for men, women, and accessories. Discover on-trend pieces and timeless classics that suit every occasion and personal style.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/fashion/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 44,
+      "parent_id": 43,
+      "name": "Men's Clothing",
+      "description": "<p>Shop our men's clothing range featuring everything from smart office wear to casual weekend styles. Find well-crafted pieces that blend comfort, quality, and contemporary design.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mens-clothing/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 45,
+      "parent_id": 44,
+      "name": "Shirts & Tops",
+      "description": "<p>Explore our collection of men's shirts, t-shirts, polos, and tops for every occasion. From crisp dress shirts to relaxed-fit tees, find your go-to everyday staples.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/shirts-tops/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 46,
+      "parent_id": 44,
+      "name": "Pants & Jeans",
+      "description": "<p>Discover a wide range of men's trousers, chinos, and denim jeans in classic and modern cuts. Find the perfect fit from slim to relaxed, casual to smart-casual.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/pants-jeans/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 47,
+      "parent_id": 44,
+      "name": "Outerwear",
+      "description": "<p>Stay warm and stylish with our men's jackets, coats, and outerwear for every season. From lightweight windbreakers to heavyweight winter coats, we have the right layer for any weather.</p>",
+      "views": 0,
+      "sort_order": 2,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mens-outerwear/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 48,
+      "parent_id": 44,
+      "name": "Men's Shoes",
+      "description": "<p>Step out in style with our collection of men's footwear, including sneakers, boots, loafers, and dress shoes. Find the perfect pair for every outfit and every occasion.</p>",
+      "views": 0,
+      "sort_order": 3,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mens-shoes/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 49,
+      "parent_id": 43,
+      "name": "Women's Clothing",
+      "description": "<p>Discover our women's clothing collection with stylish options for every season and style. From elegant evening wear to comfortable everyday pieces, express your unique personality.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/womens-clothing/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 50,
+      "parent_id": 49,
+      "name": "Tops & Blouses",
+      "description": "<p>Browse our range of women's tops, blouses, and shirts in a variety of fabrics, prints, and styles. Find versatile pieces that pair perfectly with any bottoms in your wardrobe.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/tops-blouses/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 51,
+      "parent_id": 49,
+      "name": "Dresses",
+      "description": "<p>Shop our beautiful collection of women's dresses for every occasion, from casual day dresses to formal evening gowns. Find the perfect silhouette to flatter and celebrate your style.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/dresses/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 52,
+      "parent_id": 49,
+      "name": "Outerwear",
+      "description": "<p>Stay chic and comfortable through every season with our women's jackets, coats, and blazers. From elegant wool coats to sporty parkas, find your perfect outer layer.</p>",
+      "views": 0,
+      "sort_order": 2,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/womens-outerwear/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 53,
+      "parent_id": 49,
+      "name": "Women's Shoes",
+      "description": "<p>Complete any look with our curated selection of women's shoes, including heels, flats, boots, and sneakers. Discover fashionable and comfortable footwear for every occasion.</p>",
+      "views": 0,
+      "sort_order": 3,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/womens-shoes/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 54,
+      "parent_id": 43,
+      "name": "Accessories",
+      "description": "<p>Elevate any outfit with our carefully curated accessories collection. From statement jewelry to functional bags and elegant watches, find the perfect finishing touches for your look.</p>",
+      "views": 0,
+      "sort_order": 2,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/accessories/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 55,
+      "parent_id": 54,
+      "name": "Bags & Purses",
+      "description": "<p>Shop our stylish range of handbags, totes, clutches, and backpacks crafted from quality materials. Find the perfect bag that combines practicality with fashion-forward design.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bags-purses/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 56,
+      "parent_id": 54,
+      "name": "Jewelry",
+      "description": "<p>Discover our stunning jewelry collection featuring necklaces, earrings, bracelets, and rings for every budget and occasion. From everyday wear to special gifts, find something truly special.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/jewelry/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 57,
+      "parent_id": 56,
+      "name": "Fine Jewelry",
+      "description": "<p>Explore our collection of exquisite fine jewelry crafted from precious metals and genuine gemstones. Each piece is a timeless investment that can be treasured for generations.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/fine-jewelry/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 58,
+      "parent_id": 56,
+      "name": "Fashion Jewelry",
+      "description": "<p>Express your personality with our on-trend fashion jewelry at accessible price points. Mix and match our bold pieces to create unique, eye-catching looks for any occasion.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/fashion-jewelry/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 59,
+      "parent_id": 54,
+      "name": "Watches",
+      "description": "<p>Browse our selection of men's and women's watches spanning classic dress styles to modern smartwatches. Find the perfect timepiece to complement your wrist and complete your look.</p>",
+      "views": 0,
+      "sort_order": 2,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/watches/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 60,
+      "parent_id": 0,
+      "name": "Home & Living",
+      "description": "<p>Create the home of your dreams with our extensive collection of furniture, kitchen essentials, and décor. Discover quality pieces that combine functionality and style to transform every room.</p>",
+      "views": 0,
+      "sort_order": 2,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/home-living/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 61,
+      "parent_id": 60,
+      "name": "Furniture",
+      "description": "<p>Find beautifully crafted furniture pieces to furnish every room of your home. From comfortable sofas to elegant dining sets, our collection balances style, durability, and value.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/furniture/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 62,
+      "parent_id": 61,
+      "name": "Living Room",
+      "description": "<p>Design your ideal living space with our range of sofas, armchairs, coffee tables, and entertainment units. Create a welcoming, functional room that reflects your personal style.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/living-room/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 63,
+      "parent_id": 62,
+      "name": "Sofas & Couches",
+      "description": "<p>Sink into comfort with our extensive range of sofas and couches in various sizes, styles, and fabrics. Whether you prefer a classic chesterfield or a modern sectional, find your perfect centrepiece.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/sofas-couches/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 64,
+      "parent_id": 62,
+      "name": "Coffee Tables",
+      "description": "<p>Complete your seating area with a stylish coffee table from our diverse collection. Explore options in wood, glass, metal, and more, designed to suit any interior aesthetic.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/coffee-tables/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 65,
+      "parent_id": 61,
+      "name": "Bedroom",
+      "description": "<p>Create your perfect sleep sanctuary with our bedroom furniture collection. Find beds, wardrobes, dressers, and bedside tables that bring comfort and style to your most personal space.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bedroom/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 66,
+      "parent_id": 61,
+      "name": "Office Furniture",
+      "description": "<p>Build a productive home office or professional workspace with our ergonomic desks, chairs, and storage solutions. Designed to support your work style while keeping your space organized.</p>",
+      "views": 0,
+      "sort_order": 2,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/office-furniture/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 70,
+      "parent_id": 60,
+      "name": "Decor",
+      "description": "<p>Add personality and warmth to your home with our curated décor collection. From striking wall art to atmospheric lighting and luxurious textiles, find the finishing touches that make a house a home.</p>",
+      "views": 0,
+      "sort_order": 2,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/decor/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 71,
+      "parent_id": 70,
+      "name": "Wall Art",
+      "description": "<p>Transform your walls with our collection of prints, canvases, framed artwork, and wall sculptures. Find pieces that reflect your personality and bring life and color to any room.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/wall-art/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 72,
+      "parent_id": 70,
+      "name": "Lighting",
+      "description": "<p>Set the perfect mood in every room with our extensive lighting collection. From elegant pendant lights to functional floor lamps and smart bulbs, find the right light for every space and occasion.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/lighting/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 73,
+      "parent_id": 70,
+      "name": "Bedding & Textiles",
+      "description": "<p>Wrap yourself in comfort with our soft, high-quality bedding, cushions, throws, and curtains. Discover beautiful textiles that add warmth, texture, and colour to your living spaces.</p>",
+      "views": 0,
+      "sort_order": 2,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bedding-textiles/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 74,
+      "parent_id": 0,
+      "name": "Sports & Outdoors",
+      "description": "<p>Pursue your active lifestyle with our comprehensive sports and outdoor equipment range. Whether you're hitting the gym, the trail, or the water, find the gear that helps you perform at your best.</p>",
+      "views": 0,
+      "sort_order": 3,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/sports-outdoors/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 75,
+      "parent_id": 74,
+      "name": "Fitness",
+      "description": "<p>Achieve your fitness goals with our professional-grade gym equipment, workout accessories, and activewear. Build your ideal home gym or complement your existing routine with top-quality fitness products.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/fitness/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 76,
+      "parent_id": 75,
+      "name": "Gym Equipment",
+      "description": "<p>Build your home gym with our selection of weights, barbells, benches, resistance bands, and cardio machines. Find durable, space-efficient equipment designed for effective workouts at every fitness level.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/gym-equipment/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 77,
+      "parent_id": 75,
+      "name": "Yoga & Pilates",
+      "description": "<p>Deepen your practice with our premium yoga mats, blocks, straps, reformers, and accessories. Find everything you need to support your mind-body workout, whether at home or in the studio.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/yoga-pilates/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 78,
+      "parent_id": 74,
+      "name": "Outdoor Recreation",
+      "description": "<p>Explore the great outdoors with confidence using our rugged, reliable outdoor gear. From backcountry camping to coastal water sports, find equipment that keeps pace with your adventures.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/outdoor-recreation/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 79,
+      "parent_id": 78,
+      "name": "Camping & Hiking",
+      "description": "<p>Gear up for your next outdoor adventure with our tents, sleeping bags, backpacks, and hiking essentials. Built to withstand the elements so you can focus on exploring and enjoying nature.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/camping-hiking/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 80,
+      "parent_id": 78,
+      "name": "Cycling",
+      "description": "<p>Hit the road or trail with our cycling equipment, including bikes, helmets, clothing, and accessories. Whether you're a commuter or a competitive cyclist, find everything you need to ride confidently.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/cycling/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 81,
+      "parent_id": 78,
+      "name": "Water Sports",
+      "description": "<p>Make the most of your time on the water with our surfboards, paddleboards, kayaks, wetsuits, and water sports accessories. Discover equipment that lets you ride, glide, and dive with confidence.</p>",
+      "views": 0,
+      "sort_order": 2,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/water-sports/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 82,
+      "parent_id": 0,
+      "name": "Beauty & Health",
+      "description": "<p>Look and feel your best with our comprehensive beauty and health collection. From nourishing skincare to effective supplements, discover products that support your wellbeing inside and out.</p>",
+      "views": 0,
+      "sort_order": 4,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/beauty-health/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 83,
+      "parent_id": 82,
+      "name": "Skincare",
+      "description": "<p>Achieve your best skin with our scientifically formulated skincare range, featuring cleansers, moisturizers, serums, and SPF protection. Discover products for every skin type and concern, crafted with quality ingredients.</p>",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/skincare/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 84,
+      "parent_id": 82,
+      "name": "Hair Care",
+      "description": "<p>Transform your hair with our premium shampoos, conditioners, treatments, and styling products. Whether your hair is curly, straight, colour-treated, or fine, find the perfect routine to keep it healthy and vibrant.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/hair-care/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 85,
+      "parent_id": 82,
+      "name": "Vitamins & Supplements",
+      "description": "<p>Support your health goals with our extensive range of vitamins, minerals, protein powders, and wellness supplements. Sourced from trusted suppliers and formulated for maximum efficacy and absorption.</p>",
+      "views": 0,
+      "sort_order": 2,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/vitamins-supplements/",
+        "is_customized": true
+      },
+      "image_url": ""
+    },
+    {
+      "id": 86,
+      "parent_id": 82,
+      "name": "Personal Care",
+      "description": "<p>Maintain your daily hygiene and grooming routine with our quality personal care products. From electric toothbrushes and razors to bath essentials and deodorants, find everything for a confident start to your day.</p>",
+      "views": 0,
+      "sort_order": 3,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/personal-care/",
+        "is_customized": true
+      },
+      "image_url": ""
+    }
+  ]
+}
