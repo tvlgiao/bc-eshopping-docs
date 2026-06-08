@@ -188,22 +188,6 @@
       "schema_translations": {}
     },
     {
-      "uuid": "8bf37b8d-ff53-45b4-b946-0200fb717c81",
-      "name": "eShopping FAQ Accordion docs test",
-      "schema": [],
-      "template": "<style>.esfaq{border:1px solid var(--eshopping-bark-200);border-radius:var(--eshopping-r-md);overflow:hidden;margin:var(--eshopping-sp-5) 0;background:var(--eshopping-white)}.esfaq__hd{padding:var(--eshopping-sp-3) var(--eshopping-sp-4);font-weight:700;font-size:0.93rem;color:var(--eshopping-bark-800);background:var(--eshopping-bark-50);border-bottom:2px solid var(--eshopping-terra)}.esfaq__item{border-top:1px solid var(--eshopping-bark-100)}.esfaq__q{display:flex;justify-content:space-between;align-items:center;gap:var(--eshopping-sp-3);padding:var(--eshopping-sp-3) var(--eshopping-sp-4);font-weight:600;font-size:0.9rem;color:var(--eshopping-bark-800);cursor:pointer;list-style:none}.esfaq__q::-webkit-details-marker{display:none}.esfaq__q::after{content:\"+\";color:var(--eshopping-terra);font-size:1.15rem;line-height:1;flex-shrink:0}.esfaq__item[open] .esfaq__q::after{content:\"\\2212\"}.esfaq__a{padding:0 var(--eshopping-sp-4) var(--eshopping-sp-3);font-size:0.86rem;line-height:1.55;color:var(--eshopping-bark-600)}</style><div class=\"esfaq\" itemscope itemtype=\"https://schema.org/FAQPage\"><div class=\"esfaq__hd\">Frequently Asked Questions</div><details class=\"esfaq__item\" itemscope itemprop=\"mainEntity\" itemtype=\"https://schema.org/Question\"><summary class=\"esfaq__q\" itemprop=\"name\">Does this ship internationally?</summary><div class=\"esfaq__a\" itemprop=\"acceptedAnswer\" itemscope itemtype=\"https://schema.org/Answer\"><span itemprop=\"text\">Yes, we ship worldwide. Shipping is calculated at checkout based on destination.</span></div></details><details class=\"esfaq__item\" itemscope itemprop=\"mainEntity\" itemtype=\"https://schema.org/Question\"><summary class=\"esfaq__q\" itemprop=\"name\">What is the return policy?</summary><div class=\"esfaq__a\" itemprop=\"acceptedAnswer\" itemscope itemtype=\"https://schema.org/Answer\"><span itemprop=\"text\">30-day returns on unused items in their original packaging.</span></div></details><details class=\"esfaq__item\" itemscope itemprop=\"mainEntity\" itemtype=\"https://schema.org/Question\"><summary class=\"esfaq__q\" itemprop=\"name\">How do I track my order?</summary><div class=\"esfaq__a\" itemprop=\"acceptedAnswer\" itemscope itemtype=\"https://schema.org/Answer\"><span itemprop=\"text\">You will get a tracking link by email as soon as your order ships.</span></div></details></div>",
-      "date_created": "2026-06-03T09:35:39.861Z",
-      "date_modified": "2026-06-03T09:35:39.861Z",
-      "kind": "custom",
-      "storefront_api_query": "",
-      "icon_name": "default",
-      "template_engine": "handlebars_v3",
-      "client_rerender": false,
-      "current_version_uuid": "1b430252-d713-47e1-82ce-e0a4c1503f0c",
-      "channel_id": 1,
-      "schema_translations": {}
-    },
-    {
       "uuid": "85eecfa5-4272-4a0e-a2de-9c05cbac0d7e",
       "name": "PayPal Credit Banner - Cart Page (728x90)",
       "schema": [],
@@ -3985,7 +3969,7 @@
   "summary": {
     "totalTemplates": 2,
     "totalWidgets": 0,
-    "totalWidgetTemplates": 40,
+    "totalWidgetTemplates": 39,
     "uniqueWidgetTemplates": 0,
     "widgetTemplates": []
   }
